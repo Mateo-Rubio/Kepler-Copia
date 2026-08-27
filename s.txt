@@ -1,0 +1,497 @@
+@Mateo-Rubio ➜ /workspaces/Kepler-Copia (main) $ python3 compare_yaml.py --data-root data --full
+  [!] No se encontró config.yaml en data/constellation_dataset_qwen2_7b_v2
+Modelos encontrados (4): gemma2_27b_v2, llama3_1_8b_v2, phi3_5_3_8b_v2, phi4_14b_v2
+
+==============================================================================
+Comparando campo: Plantilla de instrucción del sistema (prompt base)  ('task_generation.prompt_generation.system_instruction_template')
+==============================================================================
+  [OK] IDENTICO en los 4 modelo(s): gemma2_27b_v2, llama3_1_8b_v2, phi3_5_3_8b_v2, phi4_14b_v2
+
+==============================================================================
+Comparando campo: Categorías de sensores  ('task_generation.prompt_generation.sensor_categories')
+==============================================================================
+  [OK] IDENTICO en los 4 modelo(s): gemma2_27b_v2, llama3_1_8b_v2, phi3_5_3_8b_v2, phi4_14b_v2
+
+==============================================================================
+Comparando campo: Pesos de prioridad  ('task_generation.priority_weights')
+==============================================================================
+  [OK] IDENTICO en los 4 modelo(s): gemma2_27b_v2, llama3_1_8b_v2, phi3_5_3_8b_v2, phi4_14b_v2
+
+==============================================================================
+Comparando campo: Temperatura del modelo  ('simulation.ollama_temperature')
+==============================================================================
+  [OK] IDENTICO en los 4 modelo(s): gemma2_27b_v2, llama3_1_8b_v2, phi3_5_3_8b_v2, phi4_14b_v2
+@Mateo-Rubio ➜ /workspaces/Kepler-Copia (main) $ python3 sample_and_label.py --data-root data --samples-per-model 10
+Modelos encontrados (5): gemma2_27b_v2, llama3_1_8b_v2, phi3_5_3_8b_v2, phi4_14b_v2, qwen2_7b_v2
+Escaneando escenarios y calculando tareas pendientes de revisión...
+Tareas con hour_match=false aún sin revisar: 1765
+
+Se muestrearon 50 tareas para esta sesión (hasta 10 por modelo).
+
+
+==============================================================================
+[1/50]  Modelo: llama3_1_8b_v2   Escenario: 9   Task ID: TASK_GEN_002
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : evening  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We require a low priority importance task for opportunistic capture with a flexible schedule. We need to capture a high-resolution optical snapshot for daylight photography and clear optical imagery in the region of Norte, which is located in a country not specified. The goal is to obtain true-color visual documentation. This task has a non-essential background filler status and can be dropped or rescheduled at convenience. We would like to complete this task with a strict delivery deadline set for in four days in the evening.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[2/50]  Modelo: qwen2_7b_v2   Escenario: 6   Task ID: TASK_GEN_006
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Good day, automated satellite constellation planner. We're looking to capture thermal mapping data for a critical payload in Indonesia, specifically focusing on the area of Rokan Hulu. Our primary sensor requirement is near-infrared (NIR) technology for this task, which will enable us to assess soil moisture and water body boundaries accurately.
+
+Given that this is a standard operational tasking with normal parameters, we're treating it as part of our baseline pipeline tracking setup. We aim to deliver the thermal mapping data products by tomorrow's overnight block at the latest, ensuring they are ingested into our system before the deadline set for [target_day] [target_diurnal_period]. This is a standard workflow update that aligns with our routine monitoring activities.
+
+Please ensure this request is given priority level 2 in your scheduling and allocation process. We appreciate your cooperation in meeting these requirements promptly, as they are part of our regular operational status but also carry some importance for our ongoing projects.
+
+Thank you for your attention to detail and timely execution of this task.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[3/50]  Modelo: gemma2_27b_v2   Escenario: 24   Task ID: TASK_GEN_009
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : mid-day  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is a standard operational tasking for an active radar scan using microwave surface imaging over Beringin Jaya, Indonesia. We need this data captured and processed, with a strict delivery deadline set for tomorrow around mid-day at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[4/50]  Modelo: gemma2_27b_v2   Escenario: 11   Task ID: TASK_GEN_011
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is a standard operational tasking for multispectral vegetation analysis over Tagliole, Italia. We need a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please ensure the products are ingested into the pipeline before in three days during the afternoon at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[5/50]  Modelo: phi4_14b_v2   Escenario: 3   Task ID: TASK_GEN_014
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : evening  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We have an absolute institutional priority task requiring a critical payload capture over Borgo Valsugana, Italy. This mission involves obtaining a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. It is imperative that this high-resolution optical snapshot be captured using VNIR technology for precise surface reflectance data. This is a binding contract requirement with an urgent operational execution, ensuring no preemption of this mission lock. Please ensure the data products are ingested into the pipeline before the day after tomorrow in the evening at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[6/50]  Modelo: llama3_1_8b_v2   Escenario: 15   Task ID: TASK_GEN_001
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We need to conduct a low priority importance task with a flexible schedule for opportunistic capture. We're looking for a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of the region of Remedios in Colombia. The data should be ready by the day after tomorrow overnight at the latest. Please consider this non-essential background filler task and feel free to drop or reschedule at convenience.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[7/50]  Modelo: gemma2_27b_v2   Escenario: 10   Task ID: TASK_GEN_005
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is a standard operational tasking for near-infrared reflection capture over the city of Norte. We need this data ingested into the pipeline before the day after tomorrow overnight at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[8/50]  Modelo: phi3_5_3_8b_v2   Escenario: 8   Task ID: TASK_GEN_011
+------------------------------------------------------------------------------
+  Ground truth (hour) : mid-day
+  Clasificado como    : evening  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Ensure a multispectral vegetation analysis is scheduled for Arsiero, Italy in four days during the evening hours. This standard operational tasking will assess chlorophyll absorption levels and calculate surface reflectance indices to monitor plant health as part of our routine pipeline tracking. The data products are expected to be ingested into the system by tomorrow's overnight timeframe at the latest, maintaining alignment with our established baseline workflow updates.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: c
+
+==============================================================================
+[9/50]  Modelo: llama3_1_8b_v2   Escenario: 1   Task ID: TASK_GEN_010
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Please task the satellite with conducting a low-priority importance, opportunistic capture of a high-resolution optical snapshot for daylight photography in the region of El Castillo, Colombia. This flexible schedule allows for a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. The data is needed by in three days overnight at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[10/50]  Modelo: qwen2_7b_v2   Escenario: 18   Task ID: TASK_GEN_004
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Good day to our automated satellite constellation planner, we're looking to capture a highly detailed near-infrared reflection dataset from San José del Guaviare, Colombia. Our mission is of high importance and involves gathering critical information on water body boundaries and soil moisture assessment for the region. We aim to conduct this active radar scan, piercing through heavy weather conditions if needed, during the afternoon period on the day after tomorrow. This data must be ready by then, ensuring it's ingested into our pipeline before the deadline is met. This task is considered an absolute institutional priority and involves a mandatory directive for our operational workflow update. We appreciate your swift attention to this urgent matter, and any inconvenience caused due to the strict deadline will be handled accordingly. Thank you.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[11/50]  Modelo: phi4_14b_v2   Escenario: 24   Task ID: TASK_GEN_012
+------------------------------------------------------------------------------
+  Ground truth (hour) : afternoon
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We have an absolute institutional priority task for you. This is a binding contract requirement to conduct a critical payload capture over Ecuatorial, Indonesia. We need a multispectral vegetation analysis using near-infrared reflection to assess the chlorophyll absorption levels and calculate the NDVI index, crucial for our baseline environmental monitoring.
+
+This mission is of high importance and must be executed with urgency. It's an un-preemptable mission lock, so please ensure that the task is prioritized accordingly.
+
+The data products are needed by tomorrow's overnight period at the latest to meet our strict delivery deadline. We rely on your prompt attention to this matter to ensure successful ingestion into our pipeline before then.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[12/50]  Modelo: llama3_1_8b_v2   Escenario: 2   Task ID: TASK_GEN_015
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Please execute a routine monitoring tasking for commercial purposes, involving a standard operational tasking with fixed parameters representing normal operational status, as part of our baseline pipeline tracking setup. We require a multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance over Indonesia, specifically the city of Bangka Selatan. This task should be completed with a strict delivery deadline set for in three days during the afternoon at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[13/50]  Modelo: phi4_14b_v2   Escenario: 8   Task ID: TASK_GEN_012
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    I have a low-priority task that I'd like to schedule with some flexibility. We're looking for a high-resolution optical snapshot of Ecuatorial, Indonesia, focusing on capturing clear optical imagery and true-color visual documentation. This is more of a background survey or testbed tracking task, so please feel free to drop or reschedule it at your convenience. However, if possible, we'd appreciate having the data available by the afternoon in three days. Thank you!
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[14/50]  Modelo: phi3_5_3_8b_v2   Escenario: 25   Task ID: TASK_GEN_002
+------------------------------------------------------------------------------
+  Ground truth (hour) : afternoon
+  Clasificado como    : mid-day  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We're looking to gather a thermal mapping of Norte, focusing on capturing heat signatures and surface temperature profiles. This is considered non-essential background work with the aim for true-color visual documentation during mid-day over the next three days. The data products are expected by then, so please ensure they are ready in time to be ingested into our standard pipeline tracking setup before that deadline.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[15/50]  Modelo: qwen2_7b_v2   Escenario: 2   Task ID: TASK_GEN_015
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : evening  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Good day to you, automated satellite constellation planner. I'm reaching out with a request for a standard operational tasking involving near-infrared (NIR) sensor data collection for a specific location in Indonesia. The region we're focusing on is Bangka Selatan, which is part of the vast Indonesian archipelago.
+
+Our primary objective here is to gather detailed information about water body boundaries and soil moisture levels using this advanced sensor technology. This will help us in understanding the environmental conditions and making informed decisions based on the data collected.
+
+The operational urgency here is paramount as we need the data by the target day, which is three days from now, with a strict delivery deadline set for the evening of that day. The products must be ingested into our pipeline before this deadline to ensure timely processing and analysis.
+
+Bangka Selatan offers a unique opportunity for us to conduct this survey given its diverse landscape and ecological significance. We're looking forward to receiving your confirmation on this task, which aligns with our baseline pipeline tracking setup, featuring fixed parameters that represent normal operational status.
+
+Thank you for your attention to this matter, and we appreciate your cooperation in meeting this request within the specified timeframe. Looking forward to the valuable insights that will come from this mission.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[16/50]  Modelo: phi3_5_3_8b_v2   Escenario: 5   Task ID: TASK_GEN_005
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We're looking to conduct a low priority importance, flexible schedule opportunistic capture task for multispectral vegetation analysis in Borgo San Lorenzo, Italy. We aim to assess the chlorophyll absorption level and calculate the NDVI index during tomorrow afternoon's sunlit hours at the latest. This background survey will provide us with valuable insights into local agricultural practices without urgency but within a reasonable timeframe for review.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[17/50]  Modelo: qwen2_7b_v2   Escenario: 10   Task ID: TASK_GEN_012
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Good day, automated satellite constellation planner. I'm reaching out with a task for you to consider. Our mission involves capturing thermal data using near-infrared sensors from a location in Indonesia, specifically in the city of Rawak Hulu. This is a low priority importance request, so please treat it as a flexible schedule background survey or testbed tracking task.
+
+The data collection should take place tomorrow, ensuring that the products are ingested into our pipeline by the time the overnight period begins. Given the nature of this task being non-essential and having a more relaxed deadline, you may drop or reschedule it at your convenience if other priorities demand attention.
+
+Thank you for your understanding and cooperation in managing this request efficiently. We appreciate your support in fulfilling our Earth observation mission objectives.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[18/50]  Modelo: qwen2_7b_v2   Escenario: 22   Task ID: TASK_GEN_004
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to capture high-resolution optical imagery of a critical area in Colombia, specifically focusing on the city of Uribe. This request is of absolute institutional priority due to its high importance and contractual requirements involving a mandatory directive.
+
+The primary sensor for this mission will be the near-infrared (NIR) band, which will help us assess soil moisture levels and discriminate gradients within the region. The imagery captured must be ready by the target day three days from now, with a strict delivery deadline set for overnight at the latest. This means that the products need to be ingested into our pipeline before the end of the night on the target day.
+
+The data collected will serve as a baseline pipeline tracking setup, representing normal operational status and standard workflow updates. It's a binding contract requirement that involves a critical payload capture, emphasizing an urgent operational execution and an un-preemptable mission lock.
+
+With this request, we aim to provide essential information for decision-making processes related to agricultural management and environmental monitoring in the region. The data will be used to assess soil moisture levels, which is crucial for optimizing water usage and crop health. 
+
+Please ensure that the satellite constellation prioritizes this mission to meet the deadline and deliver the data products as required. Thank you for your attention to this matter.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[19/50]  Modelo: gemma2_27b_v2   Escenario: 3   Task ID: TASK_GEN_014
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : evening  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is an absolute institutional priority tasking. We require a critical payload capture over Borgo Valsugana, Italia using multispectral vegetation analysis.  We need this data ingested into the pipeline before the day after tomorrow in the evening at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[20/50]  Modelo: gemma2_27b_v2   Escenario: 8   Task ID: TASK_GEN_013
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is a low priority importance request for a high-resolution optical snapshot of Toledo, Colombia.  We'd like to capture a clear optical image of the area with a flexible schedule and opportunistic capture. Please drop or reschedule at your convenience, treating this as a background survey task. We need the products ingested into the pipeline by in four days during the afternoon at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[21/50]  Modelo: phi4_14b_v2   Escenario: 6   Task ID: TASK_GEN_012
+------------------------------------------------------------------------------
+  Ground truth (hour) : afternoon
+  Clasificado como    : morning  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    I'd like to submit a low-priority tasking for an Earth-observation mission over the Ecuatorial region. The objective is to capture a high-resolution optical snapshot for clear daylight photography. This is a non-essential background filler task, so please feel free to drop or reschedule it at your convenience. We need the data ingested into the pipeline before the day after tomorrow in the morning.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[22/50]  Modelo: phi3_5_3_8b_v2   Escenario: 6   Task ID: TASK_GEN_008
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : mid-day  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We're scheduling a flexible SAR task for Petreto-Bicchisano, France, aiming to capture an active radar scan with microwave surface imaging around mid-day tomorrow. This is part of our background survey and can be adjusted or rescheduled at your convenience. The data will be ready by the deadline set for tomorrow's midday block.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[23/50]  Modelo: gemma2_27b_v2   Escenario: 3   Task ID: TASK_GEN_008
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is a low priority importance request for a VNIR multispectral vegetation analysis over Gazzola, Italia. We'd like to capture a snapshot of the region for vegetation analysis, including chlorophyll absorption levels and NDVI index calculation.  Ideally, this would be an opportunistic capture with a flexible schedule, but please drop or reschedule at your convenience. The data products are needed by three days from now during the afternoon at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[24/50]  Modelo: llama3_1_8b_v2   Escenario: 25   Task ID: TASK_GEN_007
+------------------------------------------------------------------------------
+  Ground truth (hour) : mid-day
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We need to conduct a low priority importance task with a flexible schedule for opportunistic capture. We're looking for a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation in the region of Colombia, specifically around the city of Oiba. This is a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. We need the data products to be ingested into the pipeline before today overnight.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[25/50]  Modelo: phi3_5_3_8b_v2   Escenario: 16   Task ID: TASK_GEN_007
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : evening  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We're looking to capture a high-resolution optical snapshot of Páez, Colombia, for daylight photography purposes. This task is set as a non-essential background filler with a flexible schedule and needs to be completed by the evening four days from now at the latest. Please ensure this can be slotted into our current operations without disrupting any urgent tasks.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[26/50]  Modelo: phi4_14b_v2   Escenario: 6   Task ID: TASK_GEN_002
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : mid-day  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    I'd like to schedule a low-priority, opportunistic task for today around mid-day. The focus is on capturing multispectral vegetation analysis over the northern region of Italy, specifically in the city of Norte. This task involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index. Please treat this as a flexible background survey, where you can drop or reschedule at your convenience. We need the data ingested into the pipeline before today around mid-day at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[27/50]  Modelo: llama3_1_8b_v2   Escenario: 14   Task ID: TASK_GEN_008
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : mid-day  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We need to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, specifically targeting the city of Norte. This is a low priority importance request with a flexible schedule for opportunistic capture, and we're treating it as a background survey task. The data must be ready by tomorrow around mid-day at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[28/50]  Modelo: qwen2_7b_v2   Escenario: 7   Task ID: TASK_GEN_003
+------------------------------------------------------------------------------
+  Ground truth (hour) : morning
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Good day to our satellite constellation planning team,
+
+I'm reaching out with a high-priority mission allocation request, which is an absolute institutional priority. We're tasked with capturing a critical payload that involves a binding contract requirement and must be treated as a mandatory directive.
+
+Our objective is to gather high-resolution imagery of Malaysia's Bukit Mabong region using our active radar scanning capabilities. This task aims to provide us with detailed ground geometry information, even piercing through heavy weather conditions, ensuring we capture the essence of this location under various environmental challenges.
+
+We're strictly adhering to a deadline that needs to be met by tomorrow's overnight period at the latest. This means our data products must be ingested into the pipeline before the sun rises on the next day. We're looking for a detailed and comprehensive radar scan, which will serve as an essential input for our baseline pipeline tracking setup.
+
+Please note that this request carries a high level of importance and urgency. We understand the need to maintain normal operational status but are also aware of the flexibility required in scheduling this task. However, given its high priority, we request that you prioritize this mission and ensure it's executed as per our requirements without any delays.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting this deadline and providing us with the critical data we need.
+
+Best regards,
+[Your Name]
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[29/50]  Modelo: gemma2_27b_v2   Escenario: 19   Task ID: TASK_GEN_010
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : morning  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is a low priority importance request for a thermal mapping survey over Puerto Wilches, Colombia. We'd like to capture a heat signature and surface temperature profile of the area.  Please schedule this as a non-essential background filler task and drop or reschedule at convenience. The goal is to have the products ingested into the pipeline before tomorrow in the morning at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[30/50]  Modelo: phi4_14b_v2   Escenario: 18   Task ID: TASK_GEN_010
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : morning  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    I would like to submit a low-priority importance task for thermal mapping over Concepción, Colombia. This task involves capturing a heat signature or surface temperature profile using thermal imaging. Given its non-essential nature, the schedule is flexible and can be adjusted as needed. Please treat this as a background survey or testbed tracking task that can be dropped or rescheduled at convenience. The data products should be ingested into the pipeline before tomorrow morning at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[31/50]  Modelo: qwen2_7b_v2   Escenario: 2   Task ID: TASK_GEN_011
+------------------------------------------------------------------------------
+  Ground truth (hour) : mid-day
+  Clasificado como    : overnight  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Good day, automated satellite constellation planner. I'm reaching out with an urgent operational tasking from our institution for a critical payload capture involving our high-resolution optical snapshot mission. We're focusing on capturing daylight photography of the beautiful city of Fobello in Italia, which is of paramount importance to us.
+
+Our baseline pipeline tracking setup requires this standard operational tasking to be executed with fixed parameters representing normal operational status. The priority level here is high, emphasizing that this is a binding contract requirement involving a mandatory directive for our team. We need the data products ingested into the pipeline before our strict delivery deadline set for three days from now, specifically during the overnight block.
+
+Our primary sensor, VNIR, will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for the area. This task is part of our routine monitoring efforts aimed at understanding environmental changes in the region. We're looking forward to receiving this data by tomorrow's overnight period at the latest.
+
+Please ensure that this non-essential background filler task doesn't interfere with any higher priority missions. If necessary, we can drop or reschedule it for convenience without affecting our critical operations. Thank you for your prompt attention and cooperation in meeting this deadline. We appreciate your support in maintaining our operational status quo.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[32/50]  Modelo: llama3_1_8b_v2   Escenario: 23   Task ID: TASK_GEN_003
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : morning  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We need to conduct a thermal mapping task over Indonesia, specifically in the city of Kapuas, using the thermal infrared sensor. This is a low priority importance request with a flexible schedule for opportunistic capture, so please drop or reschedule at convenience if necessary. We're treating this as a background survey to gather thermal anomaly detection data and map heat emissions. The products are needed by today in the morning at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[33/50]  Modelo: qwen2_7b_v2   Escenario: 4   Task ID: TASK_GEN_002
+------------------------------------------------------------------------------
+  Ground truth (hour) : overnight
+  Clasificado como    : evening  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    Good day to all satellite planners and mission operators. We're looking at a high-priority task that's been flagged as an absolute institutional requirement. This involves capturing a critical payload using our VNIR sensor, which is essential for assessing the chlorophyll absorption level in the region.
+
+Our target location is Norte City, but since we don't have specifics on the country, we'll focus on providing the most accurate data possible based on the information available. The urgency here is paramount; we need this data by three days from now, specifically in the evening. This task is part of a baseline pipeline tracking setup with fixed parameters that represent our normal operational status.
+
+This request is for a low priority importance and can be treated as a non-essential background filler task, which means it can be dropped or rescheduled at your convenience. However, we're looking to capture this data as an opportunistic survey or testbed tracking task.
+
+Please ensure that the products are ingested into the pipeline before our strict delivery deadline set for three days from now in the evening. We appreciate your attention to this matter and look forward to receiving the data promptly. Thank you.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[34/50]  Modelo: phi3_5_3_8b_v2   Escenario: 5   Task ID: TASK_GEN_009
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : morning  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We're looking to conduct a low priority importance thermal mapping over Berau, Indonesia, aiming for true-color visual documentation. We need this high-resolution optical snapshot by the day after tomorrow in the morning at the latest. Please consider dropping or rescheduling at your convenience as it serves as non-essential background filler task with a flexible schedule.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[35/50]  Modelo: llama3_1_8b_v2   Escenario: 9   Task ID: TASK_GEN_012
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : mid-day  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    We need to conduct a low priority importance, opportunistic capture task with a flexible schedule for near-infrared reflection to assess soil moisture and discriminate gradients in the region of Malinau, Indonesia. This is a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. We need the data products by tomorrow around mid-day.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: g
+
+==============================================================================
+[36/50]  Modelo: gemma2_27b_v2   Escenario: 15   Task ID: TASK_GEN_013
+------------------------------------------------------------------------------
+  Ground truth (hour) : evening
+  Clasificado como    : afternoon  (similitud coseno = 1.0000)
+------------------------------------------------------------------------------
+  Texto generado (generated_output):
+    This is a standard operational tasking for a high-resolution optical snapshot of Facatativá, Colombia. We need clear optical imagery of the area with a strict delivery deadline set for the day after tomorrow during the afternoon at the latest.
+==============================================================================
+  ¿Causa del error? [g]eneración / [c]lasificación / [s]kip / [q]uit: q
+
+Guardando progreso y saliendo...
+
+##############################################################################
+RESUMEN DE ETIQUETADO ACUMULADO
+##############################################################################
+  gemma2_27b_v2         generación=   7  clasificación=   0  skip=   0
+  llama3_1_8b_v2        generación=   8  clasificación=   0  skip=   0
+  phi3_5_3_8b_v2        generación=   5  clasificación=   1  skip=   0
+  phi4_14b_v2           generación=   6  clasificación=   0  skip=   0
+  qwen2_7b_v2           generación=   8  clasificación=   0  skip=   0
+------------------------------------------------------------------------------
+  TOTAL                 generación=  34  clasificación=   1  skip=   0
+
+  Escenarios con fallas en 'Hour' completamente revisados: 0/125
+##############################################################################
