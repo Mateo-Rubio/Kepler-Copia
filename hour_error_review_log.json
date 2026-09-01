@@ -209,6 +209,1056 @@
       "expected_hour": "evening",
       "predicted_hour": "mid-day",
       "reviewed_at": "2026-08-27T16:00:06.692444+00:00"
+    },
+    "phi4_14b_v2|4|TASK_GEN_005": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:40:00.461660+00:00"
+    },
+    "phi4_14b_v2|21|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:40:07.822626+00:00"
+    },
+    "llama3_1_8b_v2|8|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T01:40:20.888836+00:00"
+    },
+    "llama3_1_8b_v2|23|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:40:52.918773+00:00"
+    },
+    "phi4_14b_v2|25|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:42:17.646897+00:00"
+    },
+    "llama3_1_8b_v2|6|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T01:42:24.084131+00:00"
+    },
+    "qwen2_7b_v2|8|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T01:43:16.122854+00:00"
+    },
+    "phi4_14b_v2|17|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-08-28T01:43:54.175111+00:00"
+    },
+    "gemma2_27b_v2|14|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:44:13.342649+00:00"
+    },
+    "phi4_14b_v2|10|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:45:00.106221+00:00"
+    },
+    "phi4_14b_v2|25|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T01:45:08.873279+00:00"
+    },
+    "llama3_1_8b_v2|10|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T01:46:09.750087+00:00"
+    },
+    "llama3_1_8b_v2|13|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:46:35.156133+00:00"
+    },
+    "phi3_5_3_8b_v2|25|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:46:57.838961+00:00"
+    },
+    "gemma2_27b_v2|8|TASK_GEN_010": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:47:28.149080+00:00"
+    },
+    "gemma2_27b_v2|3|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-08-28T01:47:42.568714+00:00"
+    },
+    "llama3_1_8b_v2|24|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:48:11.379457+00:00"
+    },
+    "gemma2_27b_v2|21|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T01:48:22.813147+00:00"
+    },
+    "phi3_5_3_8b_v2|10|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:51:39.353164+00:00"
+    },
+    "qwen2_7b_v2|21|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T01:52:41.978332+00:00"
+    },
+    "llama3_1_8b_v2|8|TASK_GEN_005": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:52:58.614313+00:00"
+    },
+    "phi3_5_3_8b_v2|17|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T01:53:06.458082+00:00"
+    },
+    "gemma2_27b_v2|17|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T01:53:20.303125+00:00"
+    },
+    "llama3_1_8b_v2|12|TASK_GEN_005": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:53:26.938753+00:00"
+    },
+    "qwen2_7b_v2|4|TASK_GEN_014": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T01:53:44.438459+00:00"
+    },
+    "phi3_5_3_8b_v2|20|TASK_GEN_004": {
+      "label": "classification_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T01:54:22.389728+00:00"
+    },
+    "qwen2_7b_v2|12|TASK_GEN_009": {
+      "label": "classification_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-08-28T01:55:52.580136+00:00"
+    },
+    "qwen2_7b_v2|8|TASK_GEN_006": {
+      "label": "classification_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:55:56.095125+00:00"
+    },
+    "llama3_1_8b_v2|20|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T01:56:22.768408+00:00"
+    },
+    "gemma2_27b_v2|21|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:56:34.701014+00:00"
+    },
+    "qwen2_7b_v2|24|TASK_GEN_015": {
+      "label": "classification_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-08-28T01:57:46.562392+00:00"
+    },
+    "qwen2_7b_v2|19|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T01:58:05.683296+00:00"
+    },
+    "llama3_1_8b_v2|11|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T01:58:37.044768+00:00"
+    },
+    "qwen2_7b_v2|18|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T01:58:48.107974+00:00"
+    },
+    "phi4_14b_v2|20|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T01:58:58.537780+00:00"
+    },
+    "phi3_5_3_8b_v2|18|TASK_GEN_003": {
+      "label": "classification_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-08-28T01:59:25.749935+00:00"
+    },
+    "gemma2_27b_v2|23|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-08-28T01:59:41.888949+00:00"
+    },
+    "gemma2_27b_v2|1|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T02:00:00.463003+00:00"
+    },
+    "phi3_5_3_8b_v2|2|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T02:00:46.518331+00:00"
+    },
+    "phi4_14b_v2|25|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T02:01:10.857223+00:00"
+    },
+    "gemma2_27b_v2|22|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T02:01:25.168501+00:00"
+    },
+    "phi3_5_3_8b_v2|9|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T02:04:19.464322+00:00"
+    },
+    "phi4_14b_v2|19|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T02:04:43.127196+00:00"
+    },
+    "phi3_5_3_8b_v2|11|TASK_GEN_004": {
+      "label": "classification_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T02:05:04.308292+00:00"
+    },
+    "qwen2_7b_v2|16|TASK_GEN_010": {
+      "label": "classification_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-08-28T02:08:53.505670+00:00"
+    },
+    "phi3_5_3_8b_v2|20|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-08-28T02:09:16.463202+00:00"
+    },
+    "qwen2_7b_v2|23|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-08-28T02:09:37.738755+00:00"
+    },
+    "phi3_5_3_8b_v2|8|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-08-28T02:09:50.155344+00:00"
+    },
+    "gemma2_27b_v2|19|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T02:10:54.912643+00:00"
+    },
+    "phi4_14b_v2|20|TASK_GEN_014": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-08-28T02:11:20.813480+00:00"
+    },
+    "llama3_1_8b_v2|18|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:40:44.745039+00:00"
+    },
+    "qwen2_7b_v2|15|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:41:30.681774+00:00"
+    },
+    "gemma2_27b_v2|5|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:41:36.906336+00:00"
+    },
+    "qwen2_7b_v2|19|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T00:41:45.020066+00:00"
+    },
+    "llama3_1_8b_v2|2|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T00:41:51.674559+00:00"
+    },
+    "phi3_5_3_8b_v2|10|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:44:30.413771+00:00"
+    },
+    "qwen2_7b_v2|23|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:45:10.289018+00:00"
+    },
+    "phi4_14b_v2|13|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T00:45:42.639346+00:00"
+    },
+    "phi3_5_3_8b_v2|6|TASK_GEN_005": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T00:46:15.968548+00:00"
+    },
+    "llama3_1_8b_v2|25|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T00:46:27.919458+00:00"
+    },
+    "qwen2_7b_v2|23|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:46:47.841709+00:00"
+    },
+    "phi3_5_3_8b_v2|12|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:46:57.652240+00:00"
+    },
+    "phi4_14b_v2|2|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T00:47:11.137018+00:00"
+    },
+    "gemma2_27b_v2|23|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:47:30.850697+00:00"
+    },
+    "phi3_5_3_8b_v2|15|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T00:48:08.628803+00:00"
+    },
+    "llama3_1_8b_v2|19|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T00:48:24.180800+00:00"
+    },
+    "phi4_14b_v2|12|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T00:48:47.588661+00:00"
+    },
+    "phi4_14b_v2|7|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T00:48:55.988845+00:00"
+    },
+    "gemma2_27b_v2|13|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:49:18.069842+00:00"
+    },
+    "phi4_14b_v2|15|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:49:28.358869+00:00"
+    },
+    "gemma2_27b_v2|20|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:49:49.559469+00:00"
+    },
+    "qwen2_7b_v2|2|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:50:05.990902+00:00"
+    },
+    "phi3_5_3_8b_v2|19|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T00:50:31.559515+00:00"
+    },
+    "gemma2_27b_v2|9|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:50:47.944276+00:00"
+    },
+    "llama3_1_8b_v2|17|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:50:55.974732+00:00"
+    },
+    "phi3_5_3_8b_v2|18|TASK_GEN_014": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:52:31.004060+00:00"
+    },
+    "phi4_14b_v2|13|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T00:52:43.867388+00:00"
+    },
+    "llama3_1_8b_v2|23|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T00:53:27.562142+00:00"
+    },
+    "llama3_1_8b_v2|20|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:53:36.973679+00:00"
+    },
+    "gemma2_27b_v2|6|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:53:43.051615+00:00"
+    },
+    "phi3_5_3_8b_v2|5|TASK_GEN_010": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:55:39.585564+00:00"
+    },
+    "phi4_14b_v2|12|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T00:55:57.792026+00:00"
+    },
+    "phi3_5_3_8b_v2|17|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:56:03.344471+00:00"
+    },
+    "qwen2_7b_v2|23|TASK_GEN_014": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:56:09.133844+00:00"
+    },
+    "qwen2_7b_v2|8|TASK_GEN_005": {
+      "label": "classification_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T00:56:39.025921+00:00"
+    },
+    "qwen2_7b_v2|19|TASK_GEN_005": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T00:58:13.920461+00:00"
+    },
+    "qwen2_7b_v2|12|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:58:27.250469+00:00"
+    },
+    "qwen2_7b_v2|21|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:58:43.602244+00:00"
+    },
+    "gemma2_27b_v2|8|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T00:59:04.916692+00:00"
+    },
+    "qwen2_7b_v2|17|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T00:59:59.268799+00:00"
+    },
+    "llama3_1_8b_v2|9|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:00:09.994230+00:00"
+    },
+    "qwen2_7b_v2|5|TASK_GEN_014": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:01:32.535824+00:00"
+    },
+    "phi4_14b_v2|8|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:01:47.287946+00:00"
+    },
+    "llama3_1_8b_v2|5|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:01:50.263645+00:00"
+    },
+    "phi4_14b_v2|11|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:02:07.545627+00:00"
+    },
+    "gemma2_27b_v2|23|TASK_GEN_005": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:02:13.273553+00:00"
+    },
+    "phi4_14b_v2|3|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:02:22.280412+00:00"
+    },
+    "phi4_14b_v2|19|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:02:26.616882+00:00"
+    },
+    "qwen2_7b_v2|18|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:02:59.736957+00:00"
+    },
+    "llama3_1_8b_v2|11|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:03:07.992973+00:00"
+    },
+    "qwen2_7b_v2|19|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:03:30.056491+00:00"
+    },
+    "phi4_14b_v2|21|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:03:37.625729+00:00"
+    },
+    "phi3_5_3_8b_v2|3|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:04:53.260967+00:00"
+    },
+    "llama3_1_8b_v2|9|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:05:01.387406+00:00"
+    },
+    "gemma2_27b_v2|22|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:05:07.852609+00:00"
+    },
+    "llama3_1_8b_v2|20|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:05:13.069401+00:00"
+    },
+    "llama3_1_8b_v2|14|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:05:58.748951+00:00"
+    },
+    "qwen2_7b_v2|24|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:06:07.038053+00:00"
+    },
+    "gemma2_27b_v2|12|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:06:13.020706+00:00"
+    },
+    "phi3_5_3_8b_v2|11|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:06:20.029393+00:00"
+    },
+    "qwen2_7b_v2|20|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:06:29.488688+00:00"
+    },
+    "gemma2_27b_v2|18|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:07:03.630294+00:00"
+    },
+    "qwen2_7b_v2|7|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:07:29.764390+00:00"
+    },
+    "phi3_5_3_8b_v2|23|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:07:54.046818+00:00"
+    },
+    "phi4_14b_v2|21|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:08:27.954123+00:00"
+    },
+    "llama3_1_8b_v2|19|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:08:31.006336+00:00"
+    },
+    "phi3_5_3_8b_v2|7|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:08:55.402969+00:00"
+    },
+    "llama3_1_8b_v2|8|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:09:26.628430+00:00"
+    },
+    "qwen2_7b_v2|22|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:10:04.323257+00:00"
+    },
+    "llama3_1_8b_v2|2|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:10:26.435224+00:00"
+    },
+    "gemma2_27b_v2|14|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:11:02.531762+00:00"
+    },
+    "phi4_14b_v2|3|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:11:23.796668+00:00"
+    },
+    "llama3_1_8b_v2|1|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:11:50.182247+00:00"
+    },
+    "gemma2_27b_v2|9|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:12:01.846624+00:00"
+    },
+    "phi4_14b_v2|18|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:12:08.808185+00:00"
+    },
+    "qwen2_7b_v2|2|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:12:21.829655+00:00"
+    },
+    "qwen2_7b_v2|12|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:12:29.781825+00:00"
+    },
+    "gemma2_27b_v2|6|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:12:38.999575+00:00"
+    },
+    "gemma2_27b_v2|20|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:12:43.240028+00:00"
+    },
+    "gemma2_27b_v2|5|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:12:47.191296+00:00"
+    },
+    "phi4_14b_v2|7|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:12:54.328647+00:00"
+    },
+    "phi3_5_3_8b_v2|4|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:13:07.641466+00:00"
+    },
+    "phi3_5_3_8b_v2|5|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:13:17.126409+00:00"
+    },
+    "qwen2_7b_v2|6|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:13:34.511787+00:00"
+    },
+    "llama3_1_8b_v2|3|TASK_GEN_010": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:13:53.825464+00:00"
+    },
+    "llama3_1_8b_v2|21|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:14:03.370855+00:00"
+    },
+    "phi3_5_3_8b_v2|4|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:14:17.656684+00:00"
+    },
+    "qwen2_7b_v2|5|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:14:38.315181+00:00"
+    },
+    "phi3_5_3_8b_v2|18|TASK_GEN_009": {
+      "label": "classification_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:16:18.525291+00:00"
+    },
+    "qwen2_7b_v2|12|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:16:41.757824+00:00"
+    },
+    "llama3_1_8b_v2|18|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:16:49.888489+00:00"
+    },
+    "phi3_5_3_8b_v2|19|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:16:59.994446+00:00"
+    },
+    "gemma2_27b_v2|19|TASK_GEN_004": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:17:14.069424+00:00"
+    },
+    "phi3_5_3_8b_v2|3|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:17:25.311151+00:00"
+    },
+    "llama3_1_8b_v2|14|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:17:46.702867+00:00"
+    },
+    "phi4_14b_v2|3|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:18:38.236749+00:00"
+    },
+    "qwen2_7b_v2|6|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:19:00.031470+00:00"
+    },
+    "gemma2_27b_v2|15|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:19:04.894803+00:00"
+    },
+    "gemma2_27b_v2|12|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:19:14.063732+00:00"
+    },
+    "phi4_14b_v2|17|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:19:31.566394+00:00"
+    },
+    "qwen2_7b_v2|20|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:20:05.566844+00:00"
+    },
+    "phi3_5_3_8b_v2|7|TASK_GEN_008": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:20:11.118953+00:00"
+    },
+    "phi3_5_3_8b_v2|2|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:20:32.756231+00:00"
+    },
+    "llama3_1_8b_v2|19|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:20:49.970246+00:00"
+    },
+    "qwen2_7b_v2|22|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:21:18.755886+00:00"
+    },
+    "qwen2_7b_v2|21|TASK_GEN_010": {
+      "label": "classification_error",
+      "expected_hour": "morning",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:21:59.924876+00:00"
+    },
+    "llama3_1_8b_v2|18|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "mid-day",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:22:06.960962+00:00"
+    },
+    "phi4_14b_v2|12|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:23:15.979453+00:00"
+    },
+    "llama3_1_8b_v2|16|TASK_GEN_013": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "mid-day",
+      "reviewed_at": "2026-09-01T01:23:18.661801+00:00"
+    },
+    "phi4_14b_v2|16|TASK_GEN_011": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:23:23.027986+00:00"
+    },
+    "phi3_5_3_8b_v2|22|TASK_GEN_014": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:23:27.688252+00:00"
+    },
+    "qwen2_7b_v2|19|TASK_GEN_007": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:23:35.783527+00:00"
+    },
+    "gemma2_27b_v2|3|TASK_GEN_006": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:23:43.860195+00:00"
+    },
+    "qwen2_7b_v2|9|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:24:15.671059+00:00"
+    },
+    "gemma2_27b_v2|10|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:24:33.351816+00:00"
+    },
+    "phi3_5_3_8b_v2|25|TASK_GEN_014": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:24:46.331666+00:00"
+    },
+    "llama3_1_8b_v2|14|TASK_GEN_001": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:24:52.519517+00:00"
+    },
+    "phi4_14b_v2|5|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:25:03.753289+00:00"
+    },
+    "phi4_14b_v2|8|TASK_GEN_002": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:25:07.142415+00:00"
+    },
+    "phi3_5_3_8b_v2|23|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "morning",
+      "predicted_hour": "evening",
+      "reviewed_at": "2026-09-01T01:25:12.982021+00:00"
+    },
+    "gemma2_27b_v2|20|TASK_GEN_005": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:25:15.800062+00:00"
+    },
+    "gemma2_27b_v2|24|TASK_GEN_012": {
+      "label": "generation_error",
+      "expected_hour": "afternoon",
+      "predicted_hour": "overnight",
+      "reviewed_at": "2026-09-01T01:25:22.840488+00:00"
+    },
+    "llama3_1_8b_v2|2|TASK_GEN_003": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:25:31.241389+00:00"
+    },
+    "llama3_1_8b_v2|10|TASK_GEN_015": {
+      "label": "generation_error",
+      "expected_hour": "overnight",
+      "predicted_hour": "afternoon",
+      "reviewed_at": "2026-09-01T01:25:49.919357+00:00"
+    },
+    "phi3_5_3_8b_v2|12|TASK_GEN_009": {
+      "label": "generation_error",
+      "expected_hour": "evening",
+      "predicted_hour": "morning",
+      "reviewed_at": "2026-09-01T01:25:53.718484+00:00"
     }
   }
 }
