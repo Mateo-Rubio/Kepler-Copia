@@ -1,0 +1,1 @@
+Please conduct a near-infrared reflection task over Malinau, Indonesia, as part of our standard operational tasking and baseline pipeline tracking setup with fixed parameters representing normal operational status. This commercial tasking is needed by the day after tomorrow during the afternoon at the latest, ensuring the products are ingested into the pipeline before then.

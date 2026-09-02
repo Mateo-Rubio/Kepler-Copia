@@ -1,0 +1,1 @@
+We have an absolute institutional priority to conduct a high-resolution thermal mapping of Calvi, France. This critical payload capture is essential for detecting heat signatures and understanding surface temperature profiles tonight. The results are needed by tomorrow night at the latest to ensure they are ingested into our data pipeline without delay.

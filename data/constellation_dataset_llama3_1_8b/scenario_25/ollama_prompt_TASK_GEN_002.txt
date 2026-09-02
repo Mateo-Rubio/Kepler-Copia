@@ -1,0 +1,1 @@
+Please conduct a thermal mapping task using TIR to capture a heat signature and surface temperature profile over Norte, with a flexible schedule for opportunistic capture. This is a low-priority importance request with a flexible schedule, and we can drop or reschedule at convenience if needed. The data products are needed by in three days overnight at the latest.

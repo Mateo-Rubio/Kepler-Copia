@@ -1,0 +1,41 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the provided JSON format metadata into a natural user request. The objective is to create a conversational and realistic request that meets the operational guidelines.
+
+Here's the translation of the provided metadata:
+
+**Geographic Context:**
+The location is in Colombia, specifically in the city of Cubarral. There are no other specific details provided, so we will use the region name as the primary description.
+
+**Mission Allocation Priority:**
+The priority level is 3, indicating an absolute institutional priority or a binding contract requirement. This means that the mission allocation authority and asset contractual value are high, and the language should reflect this with an urgent operational execution and an un-preemptable mission lock.
+
+**Sensors and Physical Objectives:**
+The primary sensor is TIR (Thermal Infrared), which involves thermal mapping to capture a heat signature or surface temperature profile. The goal is to detect thermal anomalies and map heat emissions.
+
+**Relative Timeframes:**
+The target day is the day after tomorrow, and the target diurnal period is around mid-day. This means that the data must be ready by the next day's mid-day at the latest.
+
+Here's the final natural user request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the provided JSON format metadata into a natural user request. The objective is to create a conversational and realistic request that meets the operational guidelines.
+
+Here's the translation of the provided metadata:
+
+**Geographic Context:**
+The location is in Colombia, specifically in the city of Cubarral. There are no other specific details provided, so we will use the region name as the primary description.
+
+**Mission Allocation Priority:**
+The priority level is 3, indicating an absolute institutional priority or a binding contract requirement. This means that the mission allocation authority and asset contractual value are high, and the language should reflect this with an urgent operational execution and an un-preemptable mission lock.
+
+**Sensors and Physical Objectives:**
+The primary sensor is TIR (Thermal Infrared), which involves thermal mapping to capture a heat signature or surface temperature profile. The goal is to detect thermal anomalies and map heat emissions.
+
+**Relative Timeframes:**
+The target day is the day after tomorrow, and the target diurnal period is around mid-day. This means that the data must be ready by the next day's mid-day at the latest.
+
+Here's the final natural user request:
+
+"Obtain a high-resolution thermal snapshot of the region in Colombia, specifically Cubarral, using the Thermal Infrared sensor by the next day's mid-day at the latest. This is an absolute institutional priority and a binding contract requirement for critical payload capture and mandatory directive execution."

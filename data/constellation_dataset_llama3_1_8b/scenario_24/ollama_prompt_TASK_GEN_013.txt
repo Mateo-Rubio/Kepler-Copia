@@ -1,0 +1,66 @@
+```prompt
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+Given the following JSON parameters, craft a request that meets the operational guidelines:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Melgar"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Interpret the metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Describe this request as a "standard operational tasking" for Priority 2 (Medium Importance) and "low priority importance" for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Naturally weave the operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+Based on the provided JSON parameters, craft a natural user request that meets these operational guidelines.
+
+Here is the final request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+Given the following JSON parameters, craft a request that meets the operational guidelines:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Melgar"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Interpret the metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Describe this request as a "standard operational tasking" for Priority 2 (Medium Importance) and "low priority importance" for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Naturally weave the operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability

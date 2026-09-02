@@ -1,0 +1,1 @@
+We're initiating a non-essential background filler task for today's overnight period, aiming to assess soil moisture through near-infrared reflection in Cimitarra, Colombia. This request can be dropped or rescheduled at your convenience as it holds low priority importance. Please ensure the data products are ingested into our monitoring pipeline before tonight's deadline arrives.
