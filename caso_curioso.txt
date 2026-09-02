@@ -1,8 +1,0 @@
-==============================================================================
-[64/250]  Modelo: phi3_5_3_8b_v2   Escenario: 18   Task ID: TASK_GEN_009
-------------------------------------------------------------------------------
-  Ground truth (hour) : overnight
-  Clasificado como    : morning  (similitud coseno = 1.0000)
-------------------------------------------------------------------------------
-  Texto generado (generated_output):
-    I need a low priority importance task for opportunistic capture tomorrow around midday in Pura Sajau, Indonesia. Please ensure that we can drop or reschedule at our convenience and treat this as a background survey to fill any gaps in our data collection. The goal is to obtain high-resolution optical snapshots suitable for daylight photography, capturing clear visual documentation of the area's natural beauty without urgency beyond tomorrow around midday.
