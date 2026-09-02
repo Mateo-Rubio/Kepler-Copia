@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection capture over Kabupaten Padang Lawas Utara, Indonesia. We need near-infrared data for water body boundary mapping and soil moisture assessment in this region. Please ensure the products are ingested into the pipeline before tomorrow during the afternoon at the latest.

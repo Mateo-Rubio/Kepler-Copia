@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need multispectral vegetation analysis over the city of Norte.  The data must be ingested into the pipeline before in three days around mid-day at the latest.

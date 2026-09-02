@@ -89,11 +89,14 @@ def prompt_factory_main(
         embedding_model="mxbai-embed-large"
     )
 
+    fixed_now_utc = simulation_t0 if simulation_t0 is not None else datetime.now(timezone.utc)
+
     prompts_map = generate_ollama_semantic_prompt(
         targets=targets,
         system_instruction_template=system_instruction,
         model_name=model_name,
-        temperature=temperature
+        temperature=temperature,
+        now_utc=fixed_now_utc
     )
 
     dir_path = pathlib.Path(output_dir)
@@ -101,8 +104,6 @@ def prompt_factory_main(
 
     task_lookup = {task.task_id: task for task in targets}
     
-    fixed_now_utc = simulation_t0 if simulation_t0 is not None else datetime.now(timezone.utc)
-
     processed_tasks_list = []
     successful_sensor_matches = 0
     successful_priority_matches = 0

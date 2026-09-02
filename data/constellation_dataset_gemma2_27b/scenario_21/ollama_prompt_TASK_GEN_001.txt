@@ -1,0 +1,1 @@
+This is a standard operational tasking for a high-resolution optical snapshot of Alvarado, Colombia.  We need this imagery ingested into the pipeline before tomorrow during the afternoon at the latest.

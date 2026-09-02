@@ -1,0 +1,3 @@
+Translate this physical simulation metadata into a realistic, conversational English request for the satellite constellation planner:
+
+We require an absolute institutional priority tasking for thermal mapping to capture a heat signature and surface temperature profile over the Indonesian region, specifically focusing on the city of Ecuatorial. This mission is a critical payload capture and binding contract requirement with an urgent operational execution and un-preemptable mission lock. The tasking must be completed by in three days morning at the latest, ensuring the products are ingested into the pipeline before this deadline.

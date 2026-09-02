@@ -1,0 +1,1 @@
+We require a thermal mapping task to capture the heat signature and surface temperature profile over the region of Kapuas in Indonesia. This is a low priority importance request with a flexible schedule for opportunistic capture, and we can drop or reschedule at convenience if needed. We need the data products to be ready by today overnight at the latest.

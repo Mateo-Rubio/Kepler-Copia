@@ -1,0 +1,5 @@
+Translate this raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission.
+
+The task requires a high-resolution optical snapshot using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index, capturing surface reflectance in the region of Norte, specifically focusing on the city. This is an absolute institutional priority, as it involves a critical payload capture and mandatory directive for urgent operational execution and un-preemptable mission lock.
+
+The data must be ready by in three days around mid-day at the latest, ensuring the products are ingested into the pipeline before this deadline.

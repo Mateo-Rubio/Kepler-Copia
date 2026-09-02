@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for near-infrared reflection capture over the city of Norte in Italia. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We need the data products ingested into the pipeline before tomorrow around mid-day at the latest.

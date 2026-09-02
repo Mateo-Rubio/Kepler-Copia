@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Ecuatorial, Indonesia. We need an active radar scan using microwave surface imaging to pierce any potential cloud cover and capture detailed ground geometry.  Ensure the products are ingested into the pipeline before tomorrow during the afternoon at the latest.

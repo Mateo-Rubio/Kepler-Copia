@@ -1,0 +1,1 @@
+We need a low priority background task for thermal mapping over Paya, Colombia. This is a non-essential filler task and can be dropped or rescheduled at your convenience.  The goal is to capture a heat signature of the area. Please ensure the products are ingested into the pipeline before tomorrow in the evening at the latest.

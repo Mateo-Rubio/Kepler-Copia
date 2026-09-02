@@ -1,0 +1,1 @@
+This is a low priority importance request for a multispectral vegetation analysis snapshot over Norte. We need this captured as a non-essential background filler task, with flexible scheduling for opportunistic capture. Please drop or reschedule at your convenience.  Ensuring the products are ingested into the pipeline before three days in the evening at the latest.

@@ -1,0 +1,7 @@
+Tasking Request: High-Resolution Optical Snapshot for Daylight Photography in Valle Castellana, Italy
+
+We require a standard operational tasking to capture high-resolution optical imagery of the region around Valle Castellana, Italy. The primary objective is to obtain clear optical images for true-color visual documentation.
+
+This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status and workflow update. It is a commercial tasking with a standard operational priority level.
+
+The data must be ready by in three days in the evening at the latest, ensuring the products are ingested into the pipeline before this deadline.

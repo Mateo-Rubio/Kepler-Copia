@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection capture over Ketapang, Indonesia. We need this data to map water body boundaries and assess soil moisture gradients in the region. Please ensure the products are ingested into the pipeline before tomorrow morning at the latest.

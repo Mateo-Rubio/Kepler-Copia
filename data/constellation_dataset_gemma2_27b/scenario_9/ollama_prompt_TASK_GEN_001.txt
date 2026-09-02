@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over San José del Guaviare, Colombia. We need near-infrared reflection data for water body boundary mapping and soil moisture assessment in the region.  Ensure the products are ingested into the pipeline before tomorrow morning at the latest.

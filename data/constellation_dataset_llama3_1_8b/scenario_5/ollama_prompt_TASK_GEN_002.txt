@@ -1,0 +1,5 @@
+Task Request: Opportunistic SAR Scan of Poggi del Sasso, Italia
+
+We require an active radar scan using microwave surface imaging to capture a cloud-penetrating view of the region around Poggi del Sasso in Italia. This is a low priority importance request with a flexible schedule for opportunistic capture, and we're treating it as a non-essential background filler task where we can drop or reschedule at convenience.
+
+The goal is to conduct a background survey using this radar scan, and we'd like the data to be ready by the day after tomorrow during the afternoon at the latest. This will allow us to ingest the products into our pipeline before the deadline and ensure timely delivery.

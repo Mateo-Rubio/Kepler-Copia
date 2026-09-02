@@ -1,0 +1,1 @@
+This is a low priority importance request for a thermal mapping survey over Apartadó, Colombia. We're looking for an opportunistic capture of the heat signature and surface temperature profile there.  The data products should be ingested into the pipeline before the day after tomorrow in the morning at the latest. Please drop or reschedule this task at your convenience if needed.

@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Barrancabermeja, Colombia. We need a high-resolution optical snapshot of the city needed by tomorrow overnight at the latest.  Ensure the products are ingested into the pipeline before then.

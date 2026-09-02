@@ -1,0 +1,1 @@
+We require a low priority importance task for opportunistic capture with a flexible schedule. We'd like to conduct a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index in Gazzola, Italia. The data should be ready by in three days in the morning at the latest.

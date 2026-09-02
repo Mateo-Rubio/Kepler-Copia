@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Spoleto, Italia. We need a cloud-penetrating capture using microwave surface imaging for routine monitoring purposes. Please ensure the products are ingested into the pipeline before tomorrow evening at the latest.

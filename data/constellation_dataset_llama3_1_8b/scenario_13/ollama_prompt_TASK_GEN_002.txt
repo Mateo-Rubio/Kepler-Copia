@@ -1,0 +1,1 @@
+We need a low-priority importance request for an opportunistic capture with a flexible schedule. We're looking for a high-resolution optical snapshot using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance over Moncalieri, Italia, preferably around mid-day in four days.

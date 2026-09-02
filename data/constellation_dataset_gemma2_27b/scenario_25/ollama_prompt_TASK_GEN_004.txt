@@ -1,0 +1,1 @@
+This is a low priority importance request for a multispectral vegetation analysis task. We need a VNIR snapshot of La Macarena, Colombia. Please capture this as a background survey with a flexible schedule. The products should be ingested into the pipeline before the day after tomorrow in the morning at the latest. You can drop or reschedule this task at your convenience.

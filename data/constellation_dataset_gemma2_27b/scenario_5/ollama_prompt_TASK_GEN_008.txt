@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging of Norte. We need this data captured and ingested into the pipeline before the day after tomorrow in the morning at the latest.

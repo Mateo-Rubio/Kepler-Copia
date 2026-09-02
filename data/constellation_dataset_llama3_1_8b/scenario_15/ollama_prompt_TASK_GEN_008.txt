@@ -1,0 +1,1 @@
+Please task the satellite to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in Piacenza, Italy, by ensuring the products are ingested into the pipeline around mid-day in three days.

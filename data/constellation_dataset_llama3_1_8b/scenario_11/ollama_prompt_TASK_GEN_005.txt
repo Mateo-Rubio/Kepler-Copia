@@ -1,0 +1,3 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner:
+
+We require an absolute institutional priority for a thermal mapping mission over Latina, Italia. This critical payload capture must be executed as a binding contract requirement to capture a heat signature and surface temperature profile using microwave surface imaging. The tasking is needed by tomorrow overnight at the latest, with a strict delivery deadline set for tomorrow's nighttime block. This is a high-importance request that must be treated as an urgent operational execution with an un-preemptable mission lock.

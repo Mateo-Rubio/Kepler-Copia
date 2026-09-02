@@ -1,0 +1,3 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for satellite tasking:
+
+We require an absolute institutional priority for a thermal mapping task using a high-resolution thermal snapshot to capture a heat signature and surface temperature profile over the region of Povici di sotto / i Stâi Disot in Italia. This critical payload capture is a binding contract requirement involving a mandatory directive for urgent operational execution and un-preemptable mission lock. The data must be ready by in four days during the afternoon at the latest to ensure timely ingestion into the pipeline.

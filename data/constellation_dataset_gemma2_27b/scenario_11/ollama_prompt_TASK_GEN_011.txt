@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Tagliole, Italia. We need a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index in that region. Please ensure the products are ingested into the pipeline before in three days in the morning at the latest.

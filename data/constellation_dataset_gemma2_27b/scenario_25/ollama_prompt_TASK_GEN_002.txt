@@ -1,0 +1,1 @@
+This is a low priority importance request for a thermal mapping scan of Norte. We need the heat signature data ingested into the pipeline before three days overnight at the latest. This is a non-essential background filler task and can be dropped or rescheduled at convenience.

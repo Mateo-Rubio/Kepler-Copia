@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Simabur, Indonesia. We need a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please ensure the products are ingested into the pipeline before in three days during the afternoon at the latest.

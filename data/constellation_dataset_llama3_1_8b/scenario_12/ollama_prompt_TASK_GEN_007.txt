@@ -1,0 +1,13 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+Objective: Conduct a thermal mapping mission to capture a heat signature and surface temperature profile over the region of Otanche in Colombia. This is an absolute institutional priority, representing a critical payload capture and mandatory directive with an urgent operational execution and un-preemptable mission lock.
+
+Geographic Context: The location is situated in the country of Colombia, specifically within the city of Otanche. This region requires high-resolution thermal imaging to assess heat emissions and surface temperature profiles.
+
+Mission Allocation Priority: Given the high importance of this task, it is essential to allocate sufficient resources and assets to ensure a successful mission execution. The data products must be ready by in three days overnight at the latest.
+
+Sensor and Physical Objectives: The primary sensor employed for this mission is thermal infrared (TIR), which will enable the capture of a heat signature and surface temperature profile. This will facilitate thermal anomaly detection and mapping of heat emissions, providing valuable insights into the region's thermal dynamics.
+
+Relative Timeframes: It is crucial to adhere to the strict delivery deadline set for in three days overnight. The data products must be ingested into the pipeline before this timeframe to ensure timely analysis and decision-making.
+
+This request outlines the necessary parameters for a successful thermal mapping mission, emphasizing the importance of meeting the deadline and allocating sufficient resources to achieve the desired outcomes.

@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Trujillo, Colombia. I need a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please ensure the products are ingested into the pipeline before the day after tomorrow in the morning at the latest.

@@ -1,0 +1,7 @@
+Tasking Request: 
+
+We require an active radar scan using microwave surface imaging for cloud-penetrating capture, piercing heavy weather or capturing ground geometry over the region of Campania in Italy. Specifically, we are interested in Giugliano in Campania and surrounding areas.
+
+This is a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need the data products to be ingested into the pipeline before in three days in the evening at the latest.
+
+Please ensure that the task is completed with a strict delivery deadline set for in three days in the evening.

@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Sabana de Torres, Colombia. We need to acquire near-infrared reflection data for chlorophyll absorption level assessment and calculating the vegetation NDVI index. Please ensure the products are ingested into the pipeline before in three days overnight at the latest.

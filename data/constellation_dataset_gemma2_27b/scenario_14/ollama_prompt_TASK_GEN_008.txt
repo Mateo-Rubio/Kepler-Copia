@@ -1,0 +1,1 @@
+This is a low priority importance request for an opportunistic capture of the city of Norte using active radar scan.  We need this data ingested into the pipeline before tomorrow's overnight block at the latest.  Feel free to drop or reschedule at your convenience, as this is a non-essential background filler task.

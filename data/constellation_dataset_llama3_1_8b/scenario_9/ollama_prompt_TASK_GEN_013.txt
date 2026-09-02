@@ -1,0 +1,7 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner.
+
+The mission objective is to capture a high-resolution optical snapshot of the region using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. The location is in Cumaral, Colombia, a city in the country of Colombia.
+
+This task is an absolute institutional priority, involving a critical payload capture, and is a binding contract requirement. It is essential to execute this mission with an urgent operational execution and un-preemptable mission lock.
+
+The data products must be delivered by in four days overnight at the latest. This ensures that the products are ingested into the pipeline before the deadline.

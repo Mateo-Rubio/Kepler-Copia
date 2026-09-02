@@ -1,0 +1,1 @@
+This is a low priority importance request for a multispectral vegetation analysis snapshot over Puerto Wilches, Colombia. I need this captured as an opportunistic background filler task, and the data can be dropped or rescheduled at your convenience. Please ensure the products are ingested into the pipeline before the day after tomorrow during the afternoon at the latest.

@@ -1,0 +1,1 @@
+This is a low priority importance task for opportunistic capture. We need thermal mapping of Concepción, Colombia. Please ensure the products are ingested into the pipeline before tomorrow in the evening at the latest.

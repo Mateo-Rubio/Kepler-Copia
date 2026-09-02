@@ -1,0 +1,9 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+We require an absolute institutional priority for a thermal mapping task over the Italian region of Norte. This mission involves capturing a high-resolution heat signature and surface temperature profile using active thermal imaging technology. We need to deliver the data products by in three days morning at the latest, ensuring the products are ingested into the pipeline before this deadline.
+
+This request is a critical payload capture and mandatory directive involving a binding contract requirement. It is an urgent operational execution and un-preemptable mission lock with a strict delivery deadline set for in three days morning.
+
+Please execute this task as a standard operational tasking with fixed parameters representing normal operational status, part of a baseline pipeline tracking setup. This is a routine monitoring and commercial tasking with a commercial contractual value.
+
+We will treat this as a background survey or testbed tracking task with a flexible schedule for opportunistic capture. Please drop or reschedule at convenience if needed.

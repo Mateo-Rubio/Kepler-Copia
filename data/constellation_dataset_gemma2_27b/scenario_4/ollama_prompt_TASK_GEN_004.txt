@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection capture over San Carlos de Guaroa, Colombia. We need this data for water body boundary mapping and soil moisture assessment, ensuring the products are ingested into the pipeline before in four days in the morning at the latest.

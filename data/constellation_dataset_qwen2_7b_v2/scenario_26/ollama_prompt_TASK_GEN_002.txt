@@ -1,1 +1,13 @@
-Capture a high-resolution thermal mapping of the Calvi region in France by tomorrow morning, using active microwave surface imaging to detect and map heat signatures and surface temperature profiles. This is an absolute institutional priority, representing a critical payload capture and mandatory directive for our baseline pipeline tracking setup with fixed parameters. The data must be ready by tomorrow morning at the latest.
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+The mission objective is to capture a high-resolution thermal map of the Calvi region in France using the TIR sensor. This data will be used for thermal anomaly detection and heat signature analysis. The task is an absolute institutional priority, as it involves a critical payload capture that must be executed with utmost urgency.
+
+The location details indicate that the region is situated in France, specifically in the city of Calvi. Given the high priority level, the task must be completed with an un-preemptable mission lock and an urgent operational execution.
+
+The data products must be delivered to the user by tomorrow afternoon at the latest. This ensures that the thermal mapping data can be ingested into the pipeline before the deadline, allowing for timely analysis and decision-making.
+
+The task is a standard operational tasking, representing a commercial tasking part of a baseline pipeline tracking setup with fixed parameters, indicating normal operational status. The mission allocation authority and asset contractual value are reflected in the high priority level, emphasizing the importance of this task.
+
+Therefore, the final request is:
+
+"Capture a high-resolution thermal map of the Calvi region in France using the TIR sensor by tomorrow afternoon at the latest. This is an absolute institutional priority, involving a critical payload capture that must be executed with utmost urgency."

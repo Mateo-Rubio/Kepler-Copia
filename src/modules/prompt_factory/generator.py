@@ -160,19 +160,22 @@ def build_single_task_string(task: TargetTask, now_utc: datetime) -> str:
 def generate_ollama_semantic_prompt(
     targets: List[TargetTask],
     system_instruction_template: str,
+    now_utc: Optional[datetime] = None,
     model_name: str = "llama3.1:8b",
     temperature: float = 0.4,
     num_predict: int = 700,
-    repeat_penalty: float = 1.05
+    repeat_penalty: float = 1.05,
 ) -> Dict[str, str]:
     raw_url = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434")
     clean_url = raw_url.replace("[", "").replace("]", "").split("(")[0].strip()
     target_endpoint = f"{clean_url}/api/generate"
     
     generated_prompts_map = {}
-    
-    for task in targets:
+
+    if now_utc is None:
         now_utc = datetime.now(timezone.utc)
+
+    for task in targets:
         task_string = build_single_task_string(task, now_utc)
         full_prompt = system_instruction_template.format(tasks_dataset=task_string)
         

@@ -1,0 +1,1 @@
+This is a low priority importance request for a multispectral vegetation analysis snapshot over Ecuatorial, Indonesia. I need this captured as a non-essential background filler task and the data ingested into the pipeline before the day after tomorrow in the morning at the latest. Drop or reschedule at convenience if needed.

@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Pelompek, Indonesia. We need a high-resolution VNIR scan to assess chlorophyll absorption levels and calculate the NDVI index.  Please ensure the products are ingested into the pipeline before tomorrow overnight at the latest.

@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Campagnatico, Italia. We need near-infrared reflection data to assess soil moisture and map water body boundaries in that region.  Ensure the products are ingested into the pipeline before the day after tomorrow in the morning at the latest.

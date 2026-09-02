@@ -1,0 +1,3 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner:
+
+We require an absolute institutional priority for a thermal mapping mission over Indonesia, specifically targeting the city of Ecuatorial. This critical payload capture must be executed with a strict delivery deadline set for tomorrow in the morning. The objective is to capture a heat signature and surface temperature profile using high-resolution thermal imaging to assess the region's thermal anomaly detection and mapping needs.

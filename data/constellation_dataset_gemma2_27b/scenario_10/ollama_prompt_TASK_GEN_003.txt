@@ -1,0 +1,1 @@
+This is a low priority importance request for an opportunistic capture. Please schedule a SAR active radar scan over Ecuatorial, Indonesia, for near-infrared reflection and cloud-penetrating capture.  The data products should be ingested into the pipeline before tomorrow in the evening at the latest.  Feel free to drop or reschedule this task at your convenience.

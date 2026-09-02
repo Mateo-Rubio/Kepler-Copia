@@ -1,0 +1,27 @@
+```prompt
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+To maximize the naturalness and validation accuracy of the dataset, interpret the metadata organically according to these operational guidelines:
+
+1. GEOGRAPHIC CONTEXT (Interpret keys 'region_name' and nested 'location_details'):
+   - Do NOT use raw technical system tags, underscores, or coordinate arrays in your final output.
+   - Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY (Interpret key 'priority_level'):
+   - Do NOT mention raw priority numbers or technical priority levels.
+   - Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is. You must integrate specific operational phrases to reflect this structural hierarchy:
+     * Priority 3 (High Importance): Use an authoritative, explicit, and commanding tone. Frame this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+     * Priority 2 (Medium Importance): Use a professional, direct, and standard operational tone. Describe this request as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+     * Priority 1 (Low Importance): Use a casual, highly flexible, or opportunistic tone. Explicitly frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". Label it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES (Interpret key 'primary_sensor'):
+   - Do NOT output technical abbreviations or acronyms (e.g., do NOT write VIS, SAR, TIR, VNIR, NIR).
+   - Naturally weave the following operational objectives and descriptors into your request to explain the physical phenomenon to be observed:
+     * VIS -> Explain the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+     * SAR -> Explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+     * TIR -> Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+     * VNIR -> Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+     * NIR -> Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+4. RELATIVE TIMEFRAMES (Interpret keys 'target_day

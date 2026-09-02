@@ -1,0 +1,1 @@
+This is a low priority importance request for a thermal mapping survey over Bugalagrande, Colombia. I need this captured as a non-essential background filler task, and can be dropped or rescheduled at convenience.  Ensuring the products are ingested into the pipeline before tomorrow's overnight/nighttime block at the latest.

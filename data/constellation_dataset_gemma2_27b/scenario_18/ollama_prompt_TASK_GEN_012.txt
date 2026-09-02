@@ -1,0 +1,1 @@
+We need a low priority, opportunistic capture of Tanjung Jabung Timur in Indonesia using active radar scanning. This will be a standard background survey for microwave surface imaging and cloud-penetrating capture. Please drop or reschedule this task at your convenience. The data products need to be ingested into the pipeline before tomorrow around mid-day at the latest.

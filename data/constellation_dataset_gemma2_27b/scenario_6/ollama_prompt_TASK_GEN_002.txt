@@ -1,0 +1,1 @@
+This is a low priority importance request for a VNIR multispectral vegetation analysis scan over the region near Norte, Italia.  I'd like to capture this as a non-essential background filler task with a flexible schedule and drop or reschedule at convenience. Please aim to have the products ingested into the pipeline before tonight's overnight/nighttime block.

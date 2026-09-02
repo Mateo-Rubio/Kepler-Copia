@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection capture over the city of Norte.  We need a high-resolution scan to map water body boundaries and assess soil moisture gradients. Please ensure the products are ingested into the pipeline before tomorrow night at the latest.

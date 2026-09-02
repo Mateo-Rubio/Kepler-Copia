@@ -1,0 +1,1 @@
+We need a low priority background thermal mapping task for the city of Norte. This is a non-essential background filler task and can be dropped or rescheduled at convenience. The goal is to capture a heat signature and surface temperature profile of the area.  Ensuring the products are ingested into the pipeline before the day after tomorrow overnight at the latest.

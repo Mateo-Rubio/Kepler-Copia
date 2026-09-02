@@ -1,0 +1,1 @@
+We need to conduct a multispectral vegetation analysis using VNIR for assessing chlorophyll absorption levels and calculating a vegetation NDVI index in Norte, with a flexible schedule for opportunistic capture as this is a low priority importance request. The data must be ready by in three days in the evening at the latest.

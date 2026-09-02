@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Belaga, Malaysia. We need a cloud-penetrating capture using microwave surface imaging to assess ground geometry. Please ensure the products are ingested into the pipeline before the day after tomorrow in the morning at the latest.

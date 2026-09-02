@@ -1,0 +1,1 @@
+We need a standard operational tasking for a high-resolution optical snapshot over Ecuatorial, Indonesia. This is part of a routine monitoring workflow update with fixed parameters. Please ensure the products are ingested into the pipeline before the day after tomorrow in the evening at the latest.

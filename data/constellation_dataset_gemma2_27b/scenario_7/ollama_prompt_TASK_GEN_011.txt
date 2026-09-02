@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need near-infrared reflection imagery of Valle-di-Rostino, France. This data is needed by the day after tomorrow in the evening at the latest, ensuring the products are ingested into the pipeline before that time.

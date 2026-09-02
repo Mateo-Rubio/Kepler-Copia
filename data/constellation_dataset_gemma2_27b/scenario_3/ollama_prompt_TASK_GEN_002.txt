@@ -1,0 +1,1 @@
+This is a critical payload capture for multispectral vegetation analysis over Ghedi, Italia. We need a high-resolution VNIR scan to assess chlorophyll absorption levels and calculate an NDVI index for the area.  Ensure the products are ingested into the pipeline before three days in the morning at the latest. This is a binding contract requirement.

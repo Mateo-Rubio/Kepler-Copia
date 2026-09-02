@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over San Carlos de Guaroa, Colombia. We need a high-resolution VNIR scan to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please ensure the products are ingested into the pipeline before in three days in the morning at the latest.

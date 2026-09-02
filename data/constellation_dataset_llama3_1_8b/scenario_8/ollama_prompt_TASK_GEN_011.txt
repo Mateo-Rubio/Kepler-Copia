@@ -1,0 +1,1 @@
+Please conduct a standard operational tasking for a commercial tasking using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance over the region of Italia, specifically the city of Arsiero. Ensure the products are ingested into the pipeline before in four days during the afternoon at the latest.

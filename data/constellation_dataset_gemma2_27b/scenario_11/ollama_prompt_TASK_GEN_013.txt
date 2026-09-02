@@ -1,0 +1,1 @@
+This is a low priority importance request for an opportunistic capture of Restrepo, Colombia using active radar scan. We need this data ingested into the pipeline before tomorrow around mid-day at the latest.  Feel free to drop or reschedule at your convenience.

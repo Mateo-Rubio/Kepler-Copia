@@ -156,12 +156,14 @@ def main():
             
             t0 = context.tle_epoch_utc if getattr(context, "tle_epoch_utc", None) else datetime.now(timezone.utc)
             tf = t0 + timedelta(seconds=total_required_duration_s)
+            generation_now_utc = datetime.now(timezone.utc)
             
             print(f"Phase 1 SUCCESSFUL. Generated {len(context.targets)} Targets for current iteration.")
             print(f"[TIME] Dynamic SGP4 Alignment: SUCCESS (t0 anchored to TLE Epoch)")
             print(f"[TIME] Simulation Start (t0): {t0.strftime('%Y-%m-%d %H:%M:%S %Z')}")
             print(f"[TIME] Calculated Simulation End (tf): {tf.strftime('%Y-%m-%d %H:%M:%S %Z')}")
             print(f"[TIME] Active Planning Horizon Window: {total_required_duration_s / 3600:.2f} hours")
+            print(f"[TIME] Request Generation Reference (wall-clock): " + f"{generation_now_utc.strftime('%Y-%m-%d %H:%M:%S %Z')}")
             
             if semantic_enabled:
                 print("\nExecuting Semantic Prompt Generation Phase (Ollama Inferences & Semantic Embedding Validation)...")
@@ -180,7 +182,7 @@ def main():
                     priority_categories=sem_categories.get("priority_categories"),
                     days_categories=sem_categories.get("days_categories"),
                     hours_categories=sem_categories.get("hours_categories"),
-                    simulation_t0=t0
+                    simulation_t0=generation_now_utc
                 )
             else:
                 print("\n[SKIP] Semantic Prompt Generation Phase disabled via configuration.")

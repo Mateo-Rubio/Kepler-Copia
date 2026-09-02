@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Northern Italy. I need a high-resolution VNIR scan to assess chlorophyll absorption levels and calculate the NDVI index for the region around Norte. Please ensure the products are ingested into the pipeline before three days in the evening at the latest.

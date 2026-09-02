@@ -1,0 +1,5 @@
+Translate this raw physical simulation metadata into a highly realistic and conversational English request for a satellite constellation planner.
+
+The objective is to capture a high-resolution optical snapshot of the region using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. This is an absolute institutional priority, binding contract requirement involving a critical payload capture with an urgent operational execution and un-preemptable mission lock.
+
+The location is in Borgo Valsugana, Italy, which is a region known for its rich agricultural land and scenic beauty. The data must be ready by the day after tomorrow in the morning at the latest, ensuring that the products are ingested into the pipeline before the deadline.

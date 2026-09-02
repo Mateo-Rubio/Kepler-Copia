@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of La Cumbre, Colombia. We need a microwave surface imaging capture for cloud-penetrating observation of the ground geometry in that region.  Please ensure the products are ingested into the pipeline before in four days during the afternoon at the latest.

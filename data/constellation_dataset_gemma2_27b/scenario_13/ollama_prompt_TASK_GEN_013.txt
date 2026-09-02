@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Campo Capote, Colombia. I need a high-resolution VNIR scan to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please ensure the products are ingested into the pipeline before tomorrow during the afternoon at the latest.

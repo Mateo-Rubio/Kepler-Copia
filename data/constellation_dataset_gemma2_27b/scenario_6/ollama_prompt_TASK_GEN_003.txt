@@ -1,0 +1,1 @@
+We need a low priority importance thermal mapping task of Malinau, Indonesia. This is a non-essential background filler task and can be dropped or rescheduled at convenience.  The goal is to capture a heat signature and surface temperature profile of the region. Please ensure the products are ingested into the pipeline before the day after tomorrow in the morning at the latest.

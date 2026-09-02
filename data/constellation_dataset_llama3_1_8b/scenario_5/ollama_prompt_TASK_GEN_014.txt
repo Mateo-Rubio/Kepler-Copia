@@ -1,0 +1,15 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+Request:
+"Capture a high-resolution thermal map of Norte, with a strict delivery deadline set for tomorrow overnight, as this is an absolute institutional priority and a critical payload capture to fulfill a binding contract requirement involving mandatory thermal anomaly detection and mapping heat emissions."

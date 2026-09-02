@@ -1,0 +1,1 @@
+This is an absolute institutional priority tasking. We require a critical payload capture of Borgo Valsugana, Italia using multispectral vegetation analysis for a standard NDVI index calculation.  We need the data products ingested into the pipeline before the day after tomorrow in the morning at the latest.

@@ -1,0 +1,1 @@
+Please conduct a standard operational tasking for high-resolution optical snapshot photography of the region of Tre Fasci in Italia, using daylight photography to capture clear optical imagery. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The products are needed by in three days in the morning at the latest.
