@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out to request a low priority importance task for capturing a thermal mapping of the region in "Italia Norte". Our objective is to assess the heat signature and surface temperature profile of the area using VNIR sensors for a "multispectral vegetation analysis" to calculate the vegetation NDVI index and surface reflectance. This is part of a background survey aimed at understanding local conditions.
+
+The deadline for this task is set for today, with a strict delivery deadline of overnight, ensuring that the products are ingested into our pipeline before tomorrow's overnight block. Since this is a low priority importance request, we understand that it can be dropped or rescheduled at your convenience if other tasks have higher priority.
+
+Thank you for your attention to this task. We appreciate your flexibility with scheduling and look forward to receiving the data products as soon as possible. If you have any questions or need further clarification, please feel free to reach out.

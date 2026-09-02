@@ -1,0 +1,13 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a critical operational task for an upcoming mission involving the capture of near-infrared (NIR) data from Colombia, specifically in the region around Canelos. Our objective is to conduct a thorough assessment of soil moisture levels and water body boundaries using this technology.
+
+With a priority level marked as 'Medium Importance', we understand that this request falls within our standard operational tasking framework but acknowledges its significance in the broader context of our baseline pipeline tracking activities. We aim for fixed parameters and normal operational status, ensuring that this task is part of our routine monitoring efforts.
+
+The deadline for this mission allocation is set for the day after tomorrow during the afternoon hours. We are committed to meeting this strict delivery deadline to ensure the products are ingested into our pipeline before the specified time. This request is a standard operational task with no immediate rush beyond the outlined timeframe, allowing for flexibility in scheduling should other higher priority tasks arise.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring that our mission requirements are met with the utmost professionalism and efficiency.
+
+Best regards,
+
+[Your Name]

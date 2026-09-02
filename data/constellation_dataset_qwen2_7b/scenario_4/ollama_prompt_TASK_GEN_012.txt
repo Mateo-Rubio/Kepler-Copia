@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners, 
+
+We're looking to capture a high-resolution optical snapshot of Suka Maju, Indonesia, using our VIS sensor for daylight photography purposes. This is a low priority importance task for us, so we're treating it as a flexible schedule opportunity to drop or reschedule at convenience if needed. We're aiming to conduct this routine monitoring activity as part of our background survey tasks.
+
+We require these images by the target day, which is in three days, during the afternoon. It's crucial that we receive the data products before the deadline to ensure they are ingested into our pipeline efficiently. This task doesn't involve any critical payload capture or mandatory directives; it falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention and cooperation in fulfilling this request. 
+
+Best regards,
+[Your Name]

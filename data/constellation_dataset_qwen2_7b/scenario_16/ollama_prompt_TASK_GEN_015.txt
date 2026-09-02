@@ -1,0 +1,10 @@
+```prompt
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a task for tomorrow's overnight period, specifically targeting Malaysia, particularly Kuning Selatan. Our priority is medium importance, which means this is part of our standard operational tasking.
+
+Our primary sensor requirement is a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation. We aim to capture the essence of Kuning Selatan's landscape during these hours, ensuring that our imagery is as accurate and detailed as possible.
+
+With this request, we're looking forward to receiving thermal mapping data, which will help us detect heat signatures and surface temperature profiles across various locations within Malaysia. This includes identifying thermal anomalies and mapping heat emissions for a comprehensive analysis of the region's thermal dynamics.
+
+We understand the urgency of our request, knowing that the deadline is set for tomorrow's overnight period, and we need to ensure that all data products are ingested into our pipeline before this time. We're committed to adhering to this strict deadline without any extensions or alterations.
+
+Thank you for your attention to this matter. We appreciate your expertise in delivering these critical assets on time. Please confirm receipt of this request and let us know if there are any questions or concerns regarding the details provided.

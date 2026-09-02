@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking at a mission allocation with a medium importance level, which involves utilizing an active radar scan using microwave surface imaging technology for cloud-penetrating capture and ground geometry mapping. Our geographic context is centered around Norte, although we're aware that the country details are not available.
+
+The operational objective here is to gather data on specific areas of interest in Norte, which will be used for commercial tasking or routine monitoring as part of our baseline pipeline tracking setup. The mission's parameters are set with fixed parameters representing normal operational status and a standard workflow update.
+
+Our priority is to ensure that this task is executed efficiently and effectively without any delays. We're targeting the day after tomorrow in the morning, with a strict delivery deadline set for this date and time. Our request is for a high-quality data product that meets our operational standards and adheres to our contractual obligations.
+
+Please note that this mission is part of our baseline pipeline tracking setup, which requires adherence to standard operational procedures. We appreciate your attention to detail and the importance of meeting deadlines in this context. We're looking forward to receiving the data products ingested into our pipeline before the deadline set for the day after tomorrow in the morning.
+
+Thank you for your cooperation and timely execution of this task. We're confident that your expertise will ensure we receive the necessary information to support our ongoing projects and operations.

@@ -1,0 +1,17 @@
+Good day, satellite constellation planner. I'm reaching out with a high-priority task for an absolute institutional requirement. Our mission involves capturing a critical payload, which necessitates an urgent operational execution and an un-preemptable mission lock. We're focusing on Norte, a region in the heart of our operations, where we need a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation.
+
+Our operational guidelines emphasize natural language integration, so let's avoid raw technical system tags or coordinate arrays. Instead, we'll describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'country' is marked as 'N/A', we'll proceed with Norte directly.
+
+The priority level for this task is set to 'High Importance', which means we're dealing with a binding contract requirement involving a critical payload capture. This is not about the proximity to a deadline but rather an urgent need for data that must be met under strict operational constraints.
+
+We're targeting the area in three days, specifically during the evening timeframe. The temporal parameters represent a strict operational deadline to deliver the data products to our users, ensuring they are ingested into the pipeline before the set time. This deadline is not meant to extend or alter the timeframe; it's a clear marker for when we need the data.
+
+Let's proceed with the task request:
+
+- **Sensor**: Our primary sensor will be a VIS (visual imaging system) to capture high-resolution optical data that will serve as daylight photography, clear optical imagery, and true-color visual documentation.
+- **Geographic Context**: We're focusing on Norte, a key region in our operations. There's no specific country or city mentioned, so we'll describe Norte as the primary location.
+- **Timeframe**: The deadline for this task is set for three days ahead, specifically during the evening period. This means we need the data products by that time to ensure they are ready for integration into our baseline pipeline tracking setup.
+
+I trust you understand the importance of adhering to these guidelines and the strict deadline for this high-priority task. Let's collaborate to ensure the successful execution of this mission, focusing on delivering accurate, high-quality data products that meet our operational standards and deadlines.
+
+Thank you for your attention to detail and commitment to excellence in satellite operations.

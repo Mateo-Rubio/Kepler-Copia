@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking request for our client's commercial monitoring needs. Our priority is set at medium importance, indicating that this mission involves critical payload capture and contractual obligations.
+
+Our target region is in the beautiful country of Italia, specifically within the charming city of Claut. We aim to capture thermal mapping data during the afternoon of the day after tomorrow to ensure the products are ingested into our pipeline before then.
+
+The primary sensor for this mission will be our TIR sensor, which we'll use for thermal mapping purposes. This involves capturing a heat signature and surface temperature profile to identify thermal anomalies and map heat emissions accurately.
+
+We're looking for high-quality data that can provide insights into the thermal conditions of the region without any delays. Given the nature of this task, we understand the urgency and will be flexible with scheduling adjustments as needed for our baseline pipeline tracking setup.
+
+Please ensure that the parameters are set with fixed values representing normal operational status and a routine monitoring requirement. We appreciate your attention to detail and adherence to operational guidelines.
+
+Thank you for your cooperation and prompt action in fulfilling this request.
+
+Best regards,
+[Your Name]

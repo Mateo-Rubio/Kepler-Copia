@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that needs to be handled with flexibility and opportunism, as it's classified as a low priority importance request. Our objective is to capture high-resolution optical imagery of Mesetas, Colombia, which is situated in the heart of South America. This daylight photography will serve as a true-color visual documentation, providing us with clear optical imagery that can help us understand the landscape and urban development.
+
+The specific operational parameters for this task are set for the day after tomorrow, with a strict delivery deadline to be met by the evening. Our team needs these data products ingested into our pipeline before our target day's evening timeframe, ensuring we have enough time to analyze them without compromising our workflow efficiency.
+
+Please note that this request is considered a non-essential background filler task and can be dropped or rescheduled at your convenience if it doesn't align with your current operational priorities. We appreciate your understanding and flexibility in managing this task within your baseline pipeline tracking setup, maintaining normal operational status for our routine monitoring activities. Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]

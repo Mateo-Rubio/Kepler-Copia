@@ -1,0 +1,7 @@
+Good day, satellite constellation planners. I'm reaching out with a task request for an Earth observation mission that needs to be completed by tomorrow in the morning. The geographical context involves Norte City, although the country information is not available, let's focus on capturing high-resolution optical imagery of this area for daylight photography purposes.
+
+Our objective here is to assess the landscape and gather clear optical imagery of Norte City. We're looking for a "true-color visual documentation" that can provide us with detailed information about the urban environment and surroundings. This task falls under the category of a low priority importance request, meaning we appreciate your flexibility in scheduling this capture.
+
+We understand the deadline is strict and set for tomorrow morning, meaning the data products must be ready by then at the latest. We're not looking to extend this deadline; hence, please ensure that our requirements are met within the specified timeframe.
+
+Thank you for your attention to this task. We appreciate your efforts in contributing to our baseline pipeline tracking setup with normal operational status. If there are any questions or if you need further clarification, please feel free to reach out. We're looking forward to receiving your feedback and results soon.

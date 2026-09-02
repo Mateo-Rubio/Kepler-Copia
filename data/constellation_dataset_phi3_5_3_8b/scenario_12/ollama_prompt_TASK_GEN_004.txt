@@ -1,0 +1,1 @@
+We have a binding contract requirement for an urgent thermal mapping mission over La Paz, Colombia. It's crucial to capture surface temperature profiles and detect any thermal anomalies tonight as part of our standard operational tasking. The data must be ingested into the pipeline before tomorrow evening at the latest to ensure timely analysis and reporting.

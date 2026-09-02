@@ -1,0 +1,14 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out with a task request that requires your immediate attention. Our mission involves gathering information on Indonesia's Ecuatorial region using the VNIR sensor for a low priority importance task. The goal is to conduct a multispectral vegetation analysis, focusing on assessing chlorophyll absorption levels and calculating the NDVI index along with surface reflectance.
+
+We aim to capture this high-resolution optical snapshot during daylight photography or true-color visual documentation. This is crucial for our ongoing environmental monitoring project, which falls under the category of a flexible schedule for opportunistic capture. We're treating this as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The deadline for delivering the data products is set for three days from now, with a strict delivery deadline by the evening of that day. This ensures the products are ingested into our pipeline before the deadline.
+
+Please note that this request does not alter or extend the deadline and adheres to the operational constraints provided in the JSON format.
+
+Thank you for your understanding and swift action on this matter.
+
+Best regards,
+[Your Name]

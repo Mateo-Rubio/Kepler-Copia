@@ -1,0 +1,3 @@
+I'd like to submit a task request for an Earth-observation mission over Ecuatorial, Indonesia. The focus is on capturing near-infrared reflection data, which will be used for assessing soil moisture levels and mapping water body boundaries. This is a low-priority importance request with a flexible schedule, so please consider it as a non-essential background filler task that can be dropped or rescheduled at your convenience.
+
+The objective here is to gather some opportunistic capture data that could serve as a testbed tracking task. Please ensure the data products are ingested into the pipeline before four days from now, in the morning. Thank you for accommodating this request.

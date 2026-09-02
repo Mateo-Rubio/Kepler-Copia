@@ -1,0 +1,16 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out with a task request for an Earth observation mission that requires your expertise and attention. The context of this request is centered around Indonesia, specifically the region of Kapuas Hulu, which is a vital area for environmental monitoring and resource management.
+
+Our primary sensor requirement is Thermal Infrared (TIR), which will be utilized to capture thermal mapping data. This involves observing heat signatures and surface temperature profiles to identify any thermal anomalies or emission patterns that could provide valuable insights into local conditions and activities.
+
+The operational importance of this task is considered low priority, meaning it can be scheduled flexibly within your existing workflows. We understand the need for a non-essential background filler task that doesn't interfere with more critical missions. Given this request's nature, we're treating it as a background survey or testbed tracking task that can be accommodated according to your team's convenience.
+
+The deadline for delivering the data products is set firmly on the day after tomorrow, with a strict requirement that they must be ready by the morning of that day. This deadline represents our commitment to ensuring timely data availability for further processing and analysis.
+
+We appreciate your understanding and flexibility in scheduling this mission to meet these requirements while maintaining operational efficiency within your team's workflow. Please let us know if you need any additional information or clarification to proceed with this task.
+
+Thank you for your attention and cooperation in fulfilling this request.
+
+Best regards,
+[Your Name]

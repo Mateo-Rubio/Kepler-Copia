@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out to request a standard operational tasking for a routine monitoring mission involving a VNIR sensor. Our focus is on Indonesia, specifically in the city of Setiris, where we aim to capture high-resolution optical snapshots for daylight photography and true-color visual documentation. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're looking to conduct this mission today, with a strict delivery deadline set for today in the morning. The data must be ready by tomorrow's overnight block at the latest, ensuring the products are ingested into the pipeline before then. This task is categorized under medium importance and is part of our standard workflow update.
+
+Please note that this request has a 'priority_level' marked as 2, indicating it's a standard operational tasking without any urgent operational execution or un-preemptable mission lock implications. We appreciate your attention to this matter and look forward to receiving the data products in accordance with the outlined specifications.
+
+Thank you for your cooperation and timely response.

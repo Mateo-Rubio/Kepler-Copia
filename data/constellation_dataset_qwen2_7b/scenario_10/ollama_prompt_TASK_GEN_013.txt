@@ -1,0 +1,8 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a mission that involves capturing an active radar scan of Colombia's Baraya region using our SAR sensor. The goal is to obtain high-resolution microwave surface images for cloud-penetrating capture and ground geometry mapping. We aim to deliver these data products no later than the target day, which is four days from now, during the afternoon period. This task falls under a low priority importance category, allowing for a flexible schedule where we can drop or reschedule it at our convenience if needed.
+
+Thank you for your attention and assistance in executing this background survey task. We appreciate your cooperation in ensuring that these data products are ingested into the pipeline before the deadline is met.
+
+Best regards,
+[Your Name]

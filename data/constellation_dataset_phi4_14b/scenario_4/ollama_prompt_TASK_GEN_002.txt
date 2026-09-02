@@ -1,0 +1,3 @@
+We have an absolute institutional priority mission to conduct a multispectral vegetation analysis over the region near Norte. This task involves assessing the chlorophyll absorption levels and calculating the NDVI index using our VNIR capabilities. It's a critical payload capture that falls under a binding contract requirement, necessitating urgent operational execution with an un-preemptable mission lock.
+
+The objective is to obtain clear multispectral imagery for vegetation health monitoring, ensuring no delay in operational workflow. The data products must be ingested into the pipeline before the mid-day of three days from now. This is non-negotiable and requires immediate attention to meet our strict delivery deadline.

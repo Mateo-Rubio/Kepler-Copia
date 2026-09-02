@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a low-priority importance task for our Earth observation mission. This task involves capturing near-infrared reflection data from an area in Indonesia, specifically around the equatorial city of Ecuatorial. Our goal is to assess soil moisture levels and delineate water body boundaries using this data.
+
+The primary objective here is to conduct a "background survey" that will serve as a testbed tracking task for our team. The request is not time-sensitive, so we can drop or reschedule it at your convenience. However, we do need the data by the day after tomorrow in the morning, ensuring the products are ingested into our pipeline before then.
+
+Thank you for your understanding and cooperation. If you have any questions or require further information, please don't hesitate to reach out.
+
+Best regards,
+[Your Name]

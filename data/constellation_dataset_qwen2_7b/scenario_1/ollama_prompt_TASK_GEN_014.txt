@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner, we're looking at a standard operational tasking requiring your support. Our mission involves capturing an active radar scan of the region named Norte in the country of origin, using microwave surface imaging technology for cloud-penetrating capture and ground geometry mapping. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're aiming to deliver this data by tomorrow evening at the latest, ensuring the products are ingested into the pipeline before that time frame. Our priority level is set to medium importance, which means it's a standard operational task that falls within our commercial tasking or routine monitoring activities.
+
+Thank you for your attention and assistance in fulfilling this request.

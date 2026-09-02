@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking request for a routine monitoring mission involving the capture of near-infrared (NIR) data from the region around Vigonza, Italy. This is a critical payload for our baseline pipeline tracking setup, which involves assessing soil moisture levels and water body boundaries.
+
+Our request is high-priority, as it's part of our regular workflow updates to ensure accurate monitoring of environmental conditions. The deadline for delivering this data is set for the day after tomorrow, with a strict delivery deadline for overnight hours. We're aiming to have the products ingested into our pipeline before that timeframe to maintain our operational standards.
+
+Thank you for your attention and swift action in fulfilling this request. We appreciate your cooperation in meeting these requirements.
+
+Best regards,
+[Your Name]

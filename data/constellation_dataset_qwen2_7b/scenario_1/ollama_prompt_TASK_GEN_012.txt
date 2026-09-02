@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that holds significant importance for our ongoing Earth observation operations. Our focus is on a specific region in Indonesia, specifically Bengkalis city, where we aim to capture thermal mapping data using our TIR sensor. The goal is to assess heat signatures and surface temperature profiles across the area, which will be crucial for detecting potential thermal anomalies and understanding heat emissions.
+
+Given the nature of the task, it's classified as a low priority importance request with flexible scheduling requirements. We understand that this might not be an urgent operation but still require attention within our operational pipeline. Therefore, we kindly ask that you schedule this task to be completed by the target day within the afternoon timeframe at the latest. This ensures that the data products are ready for ingestion into our pipeline before the deadline.
+
+We appreciate your understanding and cooperation in this matter. If there are any questions or adjustments needed, please feel free to reach out. Thank you for your continuous support in fulfilling our Earth observation mission requirements.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture high-resolution optical imagery of Santander de Quilichao, Colombia, using a multispectral vegetation analysis sensor. This task falls under medium importance and adheres to standard operational procedures.
+
+The primary goal is to assess the chlorophyll absorption levels in the region for environmental monitoring purposes. We require this data by tomorrow's overnight block at the latest, ensuring that the products are ingested into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+This request is a part of our routine monitoring efforts and is considered standard operational tasking. The deadline is strictly set for the target day and diurnal period mentioned, emphasizing that this is a binding contract requirement involving a critical payload capture with no preemption allowed.
+
+Please note that this task has a flexible schedule for opportunistic capture, serving as a non-essential background filler task. Our operator has explicitly noted to drop or reschedule it at convenience, treating it as a background survey or testbed tracking task. We appreciate your attention to this matter and look forward to receiving the data products on time.
+
+Thank you for your cooperation in ensuring our mission's operational integrity.

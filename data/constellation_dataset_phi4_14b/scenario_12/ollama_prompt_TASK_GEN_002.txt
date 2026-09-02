@@ -1,0 +1,5 @@
+We have an absolute institutional priority task requiring a critical payload capture over Napoli, Italy. This mission involves a thermal mapping operation to detect surface temperature profiles and any potential thermal anomalies in the region. Utilizing our TIR sensor capabilities, we need a comprehensive heat signature assessment that can provide detailed insights into the area's thermal characteristics.
+
+Given the high importance of this task, it is classified as a binding contract requirement with an urgent operational execution mandate. As such, there will be no preemption or rescheduling; this mission lock is in place to ensure immediate attention and resources are allocated accordingly.
+
+The data products from this operation must be delivered by the day after tomorrow during the overnight period at the latest. This strict delivery deadline is crucial for maintaining our operational commitments and ensuring timely analysis and response based on the thermal mapping results.

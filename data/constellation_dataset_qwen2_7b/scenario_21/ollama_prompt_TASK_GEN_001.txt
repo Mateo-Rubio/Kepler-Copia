@@ -1,0 +1,3 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Alvarado, Colombia, with our VIS sensor in daylight photography mode by tomorrow evening at the latest. This is a standard operational tasking request under our baseline pipeline tracking setup. We aim for clear optical imagery and true-color visual documentation to support our ongoing monitoring efforts. Please ensure the products are ingested into our data pipeline before our strict delivery deadline set for tomorrow evening.
+
+Thank you for your attention to this matter, and we appreciate your cooperation in meeting these requirements.

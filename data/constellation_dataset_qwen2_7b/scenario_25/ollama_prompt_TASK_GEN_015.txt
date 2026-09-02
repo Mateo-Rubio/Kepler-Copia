@@ -1,0 +1,12 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out with a task request for an Earth observation mission that needs to be executed promptly. Our focus is on capturing high-resolution optical imagery of a region in Indonesia, specifically around the Ecuatorial city. This location requires detailed daylight photography to ensure clear visual documentation and true-color representation of the area.
+
+Given the nature of this request, it's categorized under low priority importance, which means that while it's essential, we understand that it can be accommodated within a flexible schedule. We're looking for an opportunistic capture that doesn't interfere with more critical tasks but still fulfills our operational needs.
+
+Our primary sensor requirement is VIS, which will provide us with the necessary daylight photography to assess the region accurately. This imagery should ideally be gathered during the afternoon of tomorrow's day, adhering strictly to the deadline set for data availability. We're aiming for a seamless integration into our baseline pipeline tracking setup without causing any disruptions.
+
+With this in mind, we appreciate your cooperation and prompt attention to this background survey task. If there are any scheduling conflicts or if it needs to be rescheduled at convenience, please do inform us accordingly. Thank you very much for your understanding and support.
+
+Best regards,
+[Your Name]

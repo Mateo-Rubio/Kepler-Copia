@@ -1,0 +1,9 @@
+Good day to you! I hope this message finds you well. I'm reaching out as an Earth-observation mission operator, requesting a task from your automated satellite constellation planner for tomorrow evening. Our objective is to capture thermal mapping data of the region surrounding Paya, Colombia, using our TIR sensor. The goal is to gather a heat signature and surface temperature profile to aid in thermal anomaly detection and mapping heat emissions.
+
+As this request carries low priority importance, we understand that it might be scheduled as a flexible background survey or testbed tracking task. However, should there be any issues with the capture window or if other tasks take precedence, please feel free to drop or reschedule this task at your convenience. We appreciate your understanding and flexibility in accommodating our request.
+
+Thank you for your attention to this matter. We look forward to receiving the data products by tomorrow evening, ensuring they are ingested into our pipeline before then. If there are any questions or adjustments needed, please do not hesitate to reach out. Your assistance in making this capture a reality is greatly appreciated.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,3 @@
+Request for Standard Operational Tasking:
+
+We require a high-resolution optical snapshot of Suárez, Colombia during the afternoon three days from now. This is part of our routine monitoring and baseline pipeline tracking setup. Please ensure that this tasked imagery is ready by the afternoon of the target day as it forms an essential component of our ongoing analysis efforts. The data will be integrated into our workflow to maintain our standard operational status, with strict delivery deadlines set for ingestion before the specified date and time.

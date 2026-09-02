@@ -1,0 +1,5 @@
+Good morning! I'm reaching out to request a routine monitoring task for our satellite constellation. Our priority is to capture high-resolution optical imagery of Curití, Colombia, with a focus on assessing the chlorophyll absorption levels in the region's vegetation. This is part of our baseline pipeline tracking setup and represents normal operational status.
+
+We aim to gather this data by conducting a multispectral vegetation analysis that will provide us with valuable insights into the health and productivity of the local flora. Our target day for this task is the day after tomorrow, with a strict delivery deadline set for overnight at the latest. Ensuring the products are ingested into our pipeline before then, we're looking forward to receiving your data by the deadline.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting our operational guidelines and delivering high-quality data products that will support our ongoing environmental monitoring efforts.

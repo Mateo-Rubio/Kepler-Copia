@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners! I'm reaching out with a standard operational tasking for an upcoming commercial monitoring project. We're focusing on Indonesia, specifically in the city of Sarolangun, where we require a near-infrared reflection assessment by the target day, which is three days from now, in the evening at the latest.
+
+The primary objective here involves mapping water body boundaries and assessing soil moisture levels using our satellite's near-infrared sensor. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're aiming to capture these critical data points without any preemption or deviation from the set schedule.
+
+As you can see, this request carries medium importance based on our priority level guidelines. We understand that while it's not an absolute institutional priority or a binding contract requirement, it's still crucial for our ongoing monitoring activities. The deadline is strictly set for delivery by the target day and evening, ensuring timely data availability for our internal processes.
+
+Please proceed with scheduling this task as per your operational protocols. If there are any questions or adjustments needed, feel free to reach out. Thank you for your attention to this request.
+
+Best regards,
+[Your Name]

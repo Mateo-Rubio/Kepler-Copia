@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're looking to capture a thermal mapping of the region in France, specifically focusing on the city of Corte. Given the importance level set at medium (Priority 2), this task is part of our baseline pipeline tracking and requires fixed parameters for normal operational status.
+
+Our primary sensor requirement is Thermal Infrared Radiometer (TIR) for capturing heat signatures across the area. This is crucial for identifying surface temperature profiles and thermal anomalies, which are essential for monitoring environmental changes or detecting hotspots that might indicate issues such as forest fires or urban heat islands.
+
+We need this high-resolution optical snapshot by tomorrow's overnight period at the latest, ensuring that the data products are ingested into our pipeline before then. This request adheres to our standard operational tasking and contractual obligations without compromising on quality.
+
+Thank you for your attention to this matter; we appreciate your team's expertise in delivering such critical payloads under the agreed terms and conditions.

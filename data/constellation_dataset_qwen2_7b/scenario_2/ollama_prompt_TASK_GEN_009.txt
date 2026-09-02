@@ -1,0 +1,10 @@
+Good day, mission planner. I'm reaching out with a task request for an Earth observation mission that's quite important to us. We're looking at Indonesia, specifically in the city of Sintang. Our primary sensor requirement is Near-Infrared (NIR), which will be used for mapping water bodies and assessing soil moisture levels.
+
+The urgency here is significant, as this task is classified under low priority importance with a flexible schedule. However, we do emphasize that while it's not essential, it should be treated as a non-essential background filler task. We'd appreciate if you could drop or reschedule it at your convenience but ideally, we're looking to capture this data soon.
+
+The deadline for delivering the data products is set for "in three days in the morning". This means that by then, we need to have the required data ingested into our pipeline and ready for use. We understand the importance of adhering to this deadline, as it's crucial for our operational workflow updates.
+
+Thank you for your attention to this matter. We're looking forward to receiving the data that will help us in our ongoing monitoring efforts. If there are any questions or if you need additional information, please feel free to reach out. 
+
+Best regards,
+[Your Name]

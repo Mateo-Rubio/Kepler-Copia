@@ -1,0 +1,11 @@
+Hello satellite constellation planner,
+
+I'm requesting your assistance with a low priority importance task that's essential for our ongoing Earth observation project. We aim to capture thermal mapping data using our TIR sensor, focusing on the region of Indonesia, specifically the city of Murung Raya. Our objective is to assess heat signatures and surface temperature profiles in this area.
+
+We need this high-resolution optical snapshot by the day after tomorrow, with a strict delivery deadline set for the overnight period at the latest. This task is treated as a non-essential background filler task where we explicitly note that it can be dropped or rescheduled at our convenience. We're looking to use this data for background survey purposes or as a testbed tracking task.
+
+Thank you for your understanding and cooperation in ensuring the products are ingested into our pipeline before the deadline set for the day after tomorrow, overnight. Your timely response will greatly contribute to our project's success and help us maintain our baseline pipeline tracking with fixed parameters representing normal operational status.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner, we're looking at an urgent task for today which involves capturing thermal data from Indonesia's Kapuas region. We're utilizing the TIR sensor for this mission, aiming to gather detailed thermal mapping information that will help us detect heat signatures and surface temperature profiles across the area.
+
+This request is marked as having a low priority importance, so while we appreciate your effort in delivering it, please note that it can be scheduled flexibly or dropped at your convenience. We're not in a rush for this data, considering it's classified as a non-essential background filler task. However, we do require that the thermal data products are ready for ingestion into our pipeline before the day ends tonight.
+
+Thank you for your understanding and cooperation in handling this request efficiently. We appreciate your support in maintaining our baseline pipeline tracking and contributing to our operational status.

@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Ponte-Novo, France, in the morning tomorrow. This is an absolute institutional priority involving a critical payload capture that must be executed urgently and cannot be preempted. Our request is for a daylight photography dataset that will serve as true-color visual documentation of the region. We require this data by tomorrow morning at the latest to meet our binding contract requirement.
+
+As this is a high-priority task, we're asking for an active radar scan using microwave surface imaging capabilities to pierce through heavy weather and capture ground geometry. This cloud-penetrating capture will provide us with essential data for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The thermal mapping aspect of our request involves capturing a heat signature or surface temperature profile, which is crucial for thermal anomaly detection and mapping heat emissions. We're also interested in assessing chlorophyll absorption levels through multispectral vegetation analysis to calculate the NDVI index and surface reflectance.
+
+Please ensure that all data products are ingested into our pipeline before tomorrow morning, adhering to the strict deadline we've set. This task is a non-essential background filler, but we appreciate your prompt attention to this critical operational need. Thank you for your cooperation.

@@ -1,0 +1,5 @@
+Good day to you! We're looking to capture high-resolution near-infrared (NIR) reflection data over Bukit Mabong, Malaysia. The goal is to map water body boundaries and assess soil moisture levels for our commercial tasking needs. This request falls under our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+We aim to acquire this data by the day after tomorrow in the evening at the latest, ensuring that the products are ingested into our pipeline before the deadline is met. This task is part of our baseline workflow update and doesn't require any urgent operational execution or contractual binding.
+
+Thank you for your attention to this matter.

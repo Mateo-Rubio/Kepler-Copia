@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. We're requesting your immediate attention for a high-priority task involving the capture of near-infrared (NIR) data from the Tame region in Colombia. This is an absolute institutional priority, as it involves a critical payload that needs to be observed by tomorrow morning at the latest. The data must be ready for ingestion into our pipeline before the deadline set for tomorrow's overnight block.
+
+The objective here is to gather high-resolution optical snapshots for daylight photography, which will provide us with clear optical imagery and true-color visual documentation of the area. We're particularly interested in mapping water body boundaries and assessing soil moisture levels to discriminate gradients accurately.
+
+Please note that this task carries a binding contract requirement and represents a mandatory directive involving normal operational status or routine monitoring. It's part of our baseline pipeline tracking setup, with fixed parameters representing standard workflow updates. However, due to its high importance, we must emphasize that this is an urgent operational execution and an un-preemptable mission lock.
+
+Thank you for your attention to this matter. We appreciate your swift action in ensuring the timely delivery of data products to meet our deadline. Any delays could impact our critical operations, so please prioritize this request accordingly.

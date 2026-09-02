@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm requesting a high-resolution optical snapshot of the region named Italia, specifically focusing on the city of Quincinetto. This is a low priority importance task, which means it can be dropped or rescheduled at your convenience, acting as a non-essential background filler task.
+
+Our goal here is to capture clear daylight photography, providing true-color visual documentation that will help us assess the area's landscape and features. I'm looking for thermal mapping capabilities as well, so we can detect any heat anomalies or surface temperature profiles that might be of interest.
+
+The deadline for this task is set for three days from today, with a strict delivery deadline for the data set falling into the overnight period. We need to ensure that the products are ingested into our pipeline before that time frame ends. This task doesn't require any urgent operational execution or an un-preemptable mission lock.
+
+Thank you for your attention and cooperation in fulfilling this request.

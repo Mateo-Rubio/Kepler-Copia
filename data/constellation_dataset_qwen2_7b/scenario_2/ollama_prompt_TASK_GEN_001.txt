@@ -1,0 +1,7 @@
+We're tasked with capturing a detailed radar scan of the city of Génova, located in the vibrant country of Colombia. Given its strategic importance and the need for immediate data availability, this mission is classified as having low priority importance. We'll be focusing on an active radar scan using microwave surface imaging technology to pierce through any heavy weather conditions or to capture ground geometry specifics.
+
+The primary objective is to assess the urban landscape with precision, ensuring that our data products are ready and available for ingestion into the pipeline by tomorrow's overnight block at the latest. This task falls under the category of a non-essential background filler task, where we can drop or reschedule as per convenience without compromising the overall operational status.
+
+Our deadline is strict, meaning that all efforts will be directed towards delivering the required data products before the set target day and diurnal period. We're aiming for a clear, cloud-penetrating capture of Génova's urban features to support our baseline pipeline tracking setup with fixed parameters representing normal operational status or workflow updates.
+
+We appreciate your understanding and cooperation in adhering to this deadline as part of our ongoing commitment to providing high-quality Earth observation data that meets the needs of our users while maintaining operational flexibility.

@@ -1,0 +1,12 @@
+Hello there,
+
+I'm reaching out from the beautiful region of Italia, specifically from the charming city of Porto Recanati. I'm in need of a low priority importance task that will help us gather valuable data about this area. The objective is to conduct a multispectral vegetation analysis focusing on understanding the chlorophyll absorption levels and calculating the NDVI index for our environmental studies.
+
+We're looking at capturing this information through a "flexible schedule" as part of our background survey tasks, which involves assessing surface reflectance patterns that might shed light on the health of local flora. This task is not an urgent mission but rather a "non-essential background filler task" that we can drop or reschedule at your convenience.
+
+The deadline for this data collection is set for three days from now, with a strict delivery deadline by mid-day. We aim to ensure that the products are ingested into our pipeline before that time frame ends. This dataset will serve as a crucial testbed tracking task for our ongoing research efforts.
+
+Thank you for your attention and understanding on this matter.
+
+Best regards,
+Your Earth-observation Mission Operator

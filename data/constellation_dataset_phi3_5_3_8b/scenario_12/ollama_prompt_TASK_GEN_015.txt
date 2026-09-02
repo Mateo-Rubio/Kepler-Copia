@@ -1,0 +1,3 @@
+Request Task for Non-Infrared Reflection Analysis in Kutai Kartanegara, Indonesia
+
+As part of our routine monitoring and baseline pipeline tracking setup, we require a multispectral vegetation analysis using near-infrared reflection to assess the chlorophyll absorption level and surface reflectance. This task is assigned with standard operational priority and must be executed as a commercial tasking within tomorrow's mid-day timeframe. Ensure that the data products are ingested into our system before tomorrow'searly afternoon, adhering to our fixed parameters for normal operational status.

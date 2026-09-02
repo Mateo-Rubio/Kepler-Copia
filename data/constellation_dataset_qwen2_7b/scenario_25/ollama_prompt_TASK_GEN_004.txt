@@ -1,0 +1,5 @@
+Good morning! I'm reaching out to request a low priority importance task for an Earth observation mission. Our objective is to capture a multispectral vegetation analysis, which will help us assess the chlorophyll absorption level and calculate the NDVI index in La Macarena, Colombia. The task involves observing the region with our VNIR sensor to gather detailed information about the vegetation health and land cover.
+
+We aim to achieve this by conducting an opportunistic capture on the day after tomorrow, ensuring that the products are ingested into our pipeline before the morning timeframe. This task is a background survey for our ongoing research project and can be dropped or rescheduled at your convenience if it doesn't align with your operational schedule. We appreciate your understanding and flexibility in accommodating this request.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products that will contribute to our scientific endeavors. If you have any questions or need further clarification, please don't hesitate to reach out.

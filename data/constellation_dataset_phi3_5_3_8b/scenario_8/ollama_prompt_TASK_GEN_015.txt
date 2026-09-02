@@ -1,0 +1,1 @@
+We have a standard operational tasking for tomorrow morning that requires us to conduct near-infrared reflection analysis in Ketapang, Indonesia. This multispectral vegetation assessment is crucial for calculating the NDVI index and understanding surface reflectance. Please ensure this data is ingested into our pipeline before tomorrow's overnight period concludes.

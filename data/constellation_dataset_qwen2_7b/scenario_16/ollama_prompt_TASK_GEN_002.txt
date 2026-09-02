@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture highly realistic and conversational English requests based on the provided JSON metadata.
+
+The geographic context involves capturing imagery of Silea, located in the beautiful country of Italia. We aim for a high-resolution optical snapshot that will provide clear daylight photography, essential for detailed visual documentation of the region's landscape. This task is marked as an "absolute institutional priority," reflecting its critical importance and requiring urgent operational execution.
+
+Our primary sensor for this mission is the Near-Infrared (NIR) camera, which will capture near-infrared reflection data to map water body boundaries accurately and assess soil moisture levels. The goal is to gather these essential data products by the latest deadline of "in three days overnight," ensuring they are ingested into our pipeline before that critical time frame.
+
+This request aligns with a "high priority level" (Priority 3), indicating a binding contract requirement for capturing this critical payload. Our mission allocation process ensures that this task receives immediate attention, with an un-preemptable mission lock to guarantee its successful execution within the specified timeframe.
+
+With these operational guidelines in mind, our request is tailored to maximize naturalness and validation accuracy while adhering to the provided JSON metadata's structure and meaning. The final request encapsulates the essence of our mission, emphasizing urgency, priority, and the specific physical objectives we aim to achieve.

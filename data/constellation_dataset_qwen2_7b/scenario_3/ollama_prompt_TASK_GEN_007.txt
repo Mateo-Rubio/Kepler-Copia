@@ -1,0 +1,12 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out to request a high-resolution optical snapshot of Colombia's Istmina region for daylight photography purposes. This task is classified as a low priority importance request, allowing for flexible scheduling and treating it as a background survey or testbed tracking task.
+
+The primary sensor required is the VIS (visual imaging system), which will capture clear optical imagery and true-color visual documentation to assess the landscape and environment of Istmina comprehensively. The data collection must be completed and ready by the target day, which is four days from now, with a strict delivery deadline set for the morning hours.
+
+Please note that this request does not require an urgent operational execution or an un-preemptable mission lock; it's merely part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your understanding and cooperation in ensuring the products are ingested into the pipeline before the specified deadline.
+
+Thank you for your attention to this matter, and we look forward to receiving the data as per our requirements.
+
+Best regards,
+[Your Name]

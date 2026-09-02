@@ -1,0 +1,1 @@
+I need a standard operational tasking for a high-resolution optical snapshot of Prado, Colombia. This is part of our baseline pipeline tracking and involves capturing clear optical imagery during the afternoon. Please ensure the products are ingested into the pipeline before the day after tomorrow's afternoon at the latest.

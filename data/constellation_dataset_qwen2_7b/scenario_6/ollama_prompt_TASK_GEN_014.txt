@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution. We're looking to capture a critical payload using our Near-Infrared (NIR) sensor for an important tasking involving the Val Masino region in Italia. This is an absolute institutional priority due to its high importance and contractual obligations.
+
+Our primary objective is to obtain thermal mapping data that will help us assess surface temperature profiles and detect any potential heat anomalies or emissions. This information is crucial for our ongoing research project, which requires highly accurate thermal data for analysis.
+
+The location we're focusing on is Val Masino, a beautiful area nestled in the mountains of Italia. We need this data to be ready by tomorrow evening at the latest, ensuring that we can integrate it into our pipeline before the deadline. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that this tasking involves a mandatory directive and an urgent operational execution due to its high priority level. We're aware of the importance of adhering to deadlines, and thus we emphasize that these data products must be available by tomorrow evening as specified.
+
+Thank you for your attention to this matter. We appreciate your cooperation and look forward to receiving the data promptly so we can proceed with our analysis without delay.
+
+Best regards,
+[Your Name]

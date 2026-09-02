@@ -1,0 +1,13 @@
+Hello satellite constellation planner,
+
+I'm reaching out to request a critical payload capture for a low priority importance task. This mission involves thermal mapping of Malaysia's Banting region, which is essential for assessing heat signatures and surface temperature profiles. Our goal is to gather detailed thermal data with minimal cloud cover interference.
+
+As this request falls under the category of a 'low priority importance' task, it carries a flexible schedule for opportunistic capture. We understand that this might be a background survey or testbed tracking task, not requiring immediate attention but should be considered for scheduling convenience.
+
+Our deadline for this thermal mapping is set by the day after tomorrow, with a strict delivery deadline of overnight. This means we need the data products ingested into our pipeline before the end of the night on the day after tomorrow to ensure timely processing and analysis.
+
+Thank you for your understanding and cooperation in fulfilling this request.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,12 @@
+Good day to all satellite planners,
+
+I'm reaching out with a background survey task for our automated satellite constellation planner. This request involves capturing a multispectral vegetation analysis using the VNIR sensor, which we aim to use for chlorophyll absorption level assessment and NDVI index calculation.
+
+The context is centered around Montaquila, Italy, where the goal is to document the landscape's vegetation health with high-resolution optical imagery for daylight photography and true-color visual documentation. We're looking to capture this data in the morning of tomorrow, ensuring that the products are ingested into the pipeline before the deadline set for that day.
+
+This task carries a low priority importance, allowing for flexibility in scheduling. However, it's important to note that we should drop or reschedule this task at convenience if other priorities demand attention. It's purely a non-essential background filler task that doesn't impact our core operational status but helps us gather valuable data for our ongoing projects.
+
+Thank you for your understanding and prompt attention to this request.
+
+Best regards,
+[Your Name]

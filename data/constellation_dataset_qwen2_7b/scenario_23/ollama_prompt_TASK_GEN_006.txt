@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out with a request for an operational task that's rather critical in nature, as it pertains to our high-priority payload capture requirement. We're looking at Indonesia, specifically the Ecuatorial city, where we need to conduct an active radar scan using microwave surface imaging technology. Our objective here is to penetrate through heavy weather conditions and capture ground geometry with precision.
+
+The mission is to be carried out under the umbrella of our baseline pipeline tracking setup, which involves fixed parameters that represent our standard operational status. This task aligns with our normal workflow update process, ensuring that it's part of the routine monitoring activities we undertake.
+
+We're targeting a delivery deadline set for three days from now, with a strict overnight period at the latest. We need to ensure that the data products are ingested into our pipeline before this timeframe expires. This is an urgent operational execution, and it must be handled with utmost care as it involves critical payload capture.
+
+Please note that this task is marked as a low priority importance request with a flexible schedule for opportunistic capture. We explicitly state that it can be dropped or rescheduled at your convenience, treating it as a background survey or testbed tracking task. 
+
+Thank you for your attention and swift action in fulfilling this request.

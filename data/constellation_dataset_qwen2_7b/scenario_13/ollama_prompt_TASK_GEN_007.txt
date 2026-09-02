@@ -1,0 +1,10 @@
+Good day! I'm reaching out with a standard operational tasking request for our satellite constellation planner. We're looking to capture near-infrared reflection data from Puerto López, Colombia, which is a picturesque coastal city in the country. The goal here is to map water body boundaries and assess soil moisture levels for environmental monitoring purposes.
+
+Given the nature of our work, this request carries medium importance and requires us to adhere to fixed parameters for normal operational status. We aim to ensure that the data products are ingested into our pipeline before tomorrow's overnight block, adhering to the strict deadline set for this task.
+
+Our satellite constellation will be conducting an active radar scan using microwave surface imaging techniques to penetrate heavy weather conditions or capture ground geometry, providing us with a comprehensive view of the area. This will allow us to perform cloud-penetrating captures and deliver valuable insights into the environmental conditions of Puerto López.
+
+Thank you for your attention to this matter. We appreciate your support in making sure our tasks are completed efficiently and on time. If you need any additional information or have questions about the specifics of this request, please feel free to reach out. 
+
+Best regards,
+[Your Name]

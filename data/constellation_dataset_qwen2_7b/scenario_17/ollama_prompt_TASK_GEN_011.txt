@@ -1,0 +1,8 @@
+Good day, satellite constellation planner. I'm reaching out with a task request that falls under our low priority importance category, which means we're looking for a flexible schedule to accommodate this "background survey" or "testbed tracking task". Our objective involves capturing data using the near-infrared (NIR) sensor, which is essential for mapping water body boundaries and assessing soil moisture levels.
+
+The geographical context of our request is centered around Grumino, a city located in the beautiful country of Italia. We aim to gather this information overnight, ensuring that the products are ingested into the pipeline before tomorrow's overnight block. This task doesn't require an urgent operational execution but should be prioritized as part of our normal operational status or baseline pipeline tracking setup.
+
+Thank you for your understanding and cooperation in managing this task within our current workflow updates. If there are any questions or adjustments needed, please feel free to reach out. Have a great day!
+
+Best regards,
+[Your Name]

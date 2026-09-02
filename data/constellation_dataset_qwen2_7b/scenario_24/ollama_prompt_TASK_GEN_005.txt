@@ -1,0 +1,16 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission that's crucial for our ongoing research project. Our objective is to capture detailed data on soil moisture levels in Norte, which is essential for understanding regional agricultural conditions and water management.
+
+Given the importance of this task, I classify it as Priority 1 (low importance), indicating that while it's not a high priority, we still need it completed within our flexible schedule. This 'background survey' should be treated as a non-essential background filler task, where we're looking to drop or reschedule at convenience.
+
+The primary sensor for this mission will be the Near-Infrared (NIR), which will help us map soil moisture assessment. We aim to gather this data by capturing near-infrared reflection patterns across water bodies and soil surfaces, providing valuable insights into moisture gradients.
+
+Our geographic context focuses on Norte, a location where detailed information is lacking. We don't have specific details for the country or city, but our primary interest lies in capturing comprehensive data that can inform our ongoing research without requiring the specificity of a landmark.
+
+The deadline for this task is set for three days from now, with a strict delivery deadline by the time of overnight. This means we need the data products ingested into our pipeline before that timeframe to ensure timely analysis and decision-making.
+
+Please let me know if you require any further details or have questions about this request. I appreciate your attention to this matter and look forward to receiving confirmation on its successful execution.
+
+Thank you,
+[Your Name]

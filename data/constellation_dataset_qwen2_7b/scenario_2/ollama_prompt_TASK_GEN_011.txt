@@ -1,0 +1,7 @@
+We're looking to capture a high-resolution optical snapshot of Fobello, Italia during the afternoon on the third day from now. This is an absolute institutional priority involving a critical payload capture, requiring an urgent operational execution with an un-preemptable mission lock. The task is framed as an authoritative request for a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor involved will be the VNIR (Vegetation Normalized Reflectance Index) to assess chlorophyll absorption levels and calculate the NDVI index for vegetation analysis. We aim to capture detailed information on the surface reflectance and vegetation health, providing clear optical imagery for our commercial tasking needs.
+
+With a strict delivery deadline set for the data products by the third day during the afternoon, we ensure these will be ingested into our pipeline before the said time frame. This is a non-essential background filler task with a flexible schedule that can be dropped or rescheduled at convenience if necessary. However, we're confident in meeting this deadline as it aligns with our standard workflow update and operational status.
+
+Let's proceed with this request to capture the thermal mapping of Fobello, ensuring heat signatures are accurately detected and mapped for our client's needs. We're looking forward to receiving the data products by the specified deadline, ready for immediate analysis and integration into our system.

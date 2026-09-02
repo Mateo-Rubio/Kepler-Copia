@@ -1,0 +1,14 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out with a standard operational tasking for your consideration. Our mission involves capturing essential data using near-infrared (NIR) sensors, focusing on water body boundaries and soil moisture assessment in the region of interest.
+
+Our geographical context lies within the beautiful country of Italia, specifically in the area around the city of Norte. This location is crucial for our analysis due to its unique environmental conditions that are key to our study objectives.
+
+The priority level for this task is medium importance. We understand that this request falls under normal operational status and represents a part of our baseline pipeline tracking setup with fixed parameters. However, we're keenly aware of the urgency involved in delivering the data products by tomorrow, specifically around mid-day.
+
+We aim to ensure that the products are ingested into the pipeline before the deadline set for tomorrow's mid-day period, adhering strictly to our operational guidelines and avoiding any preemption or alteration of this deadline.
+
+Thank you for your attention to this task. We look forward to your confirmation on this request.
+
+Best regards,
+[Your Mission Operator]

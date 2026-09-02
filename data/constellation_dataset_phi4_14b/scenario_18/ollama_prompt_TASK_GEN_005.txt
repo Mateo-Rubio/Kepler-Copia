@@ -1,0 +1,3 @@
+I'd like to submit a low-priority task for an Earth-observation mission over the region of Norte, Italy. This is a flexible schedule request for opportunistic capture, so feel free to drop or reschedule at your convenience. The objective is to obtain a high-resolution optical snapshot using visible light imaging for clear optical imagery and true-color visual documentation during daylight photography.
+
+Please ensure that the data products are ingested into the pipeline before the day after tomorrow's overnight block. This task is considered a non-essential background filler, so it can be adjusted as needed within your workflow.

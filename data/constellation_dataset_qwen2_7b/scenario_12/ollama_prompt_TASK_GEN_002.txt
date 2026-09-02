@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Napoli, Italy—a bustling city in the beautiful country of Italia. We're focusing on thermal mapping using our TIR sensor for capturing heat signatures and surface temperature profiles. This task is of high importance, implying an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed with urgency.
+
+We're aiming to deliver these data products by the day after tomorrow, ensuring they are ingested into the pipeline before the deadline set for the overnight block. Our request is framed as an "urgent operational execution" and an "un-preemptable mission lock," reflecting this structural hierarchy.
+
+Our request is a standard operational tasking that involves assessing the chlorophyll absorption levels and calculating the NDVI index using our VNIR sensor for multispectral vegetation analysis. We're also utilizing our NIR sensor to map water body boundaries and assess soil moisture, which are essential tasks for background surveying and testbed tracking.
+
+In summary, we're looking to capture high-resolution optical snapshots of Napoli, Italy, with a focus on thermal mapping and vegetation analysis using our TIR and VNIR sensors respectively. The deadline is set for the day after tomorrow, with a strict delivery time of overnight, adhering to the operational guidelines provided.

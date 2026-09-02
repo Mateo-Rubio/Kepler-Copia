@@ -1,0 +1,1 @@
+We have a standard operational tasking for a high-resolution optical snapshot over Follo, Italy. This is part of our baseline pipeline tracking with fixed parameters, ensuring normal operational status. We need this clear optical imagery captured and delivered by tomorrow afternoon at the latest.

@@ -1,0 +1,5 @@
+Good morning! I'm reaching out with a standard operational tasking request for our satellite constellation planner. Our team in Indonesia, specifically at the location of Pelompek city, requires a multispectral vegetation analysis using our VNIR sensor. This is crucial for assessing chlorophyll absorption levels and calculating the NDVI index to understand surface reflectance.
+
+The primary objective is to gather high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation that will provide valuable insights into the local ecosystem. As this request carries medium importance, it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're aiming for a delivery deadline set for tomorrow morning, ensuring the products are ingested into the pipeline before then. This is a standard operational tasking that doesn't require any special attention or adjustments to our usual workflow. Thank you for your prompt attention and cooperation in meeting this requirement.

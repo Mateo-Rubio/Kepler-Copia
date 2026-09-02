@@ -1,0 +1,14 @@
+Good day to our automated satellite constellation planner,
+
+We are urgently requesting a high-priority mission allocation for a critical payload capture involving an active radar scan using microwave surface imaging. Our objective is to pierce through heavy weather conditions and capture ground geometry with precision, ensuring the data is as accurate as possible for our operational needs.
+
+The geographical context we're focusing on is Tomačevica, located in Slovenia. The task requires a high-resolution optical snapshot, which will serve as true-color visual documentation of the area under consideration. We are particularly interested in capturing detailed information about vegetation health and water body boundaries.
+
+Given the importance of this mission, we have set a strict deadline for data delivery by tomorrow's overnight period at the latest. This deadline is critical to ensure our products are ingested into the pipeline before the specified time, adhering to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We appreciate your immediate attention and cooperation in executing this "binding contract requirement" involving a "critical payload capture". Your timely response will greatly contribute to our mission's success. 
+
+Thank you for your understanding and support.
+
+Best regards,
+[Your Name]

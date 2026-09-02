@@ -1,0 +1,5 @@
+Good day! I'm reaching out to request a critical SAR task for an active radar scan over the region of Indonesia, specifically focusing on the city known as Ecuatorial. Our objective is to perform microwave surface imaging that will help us capture ground geometry and penetrate through heavy weather conditions. This is essential for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're aiming for a high-resolution dataset that will deliver us true insights into the area's landscape and infrastructure, ensuring the products are ingested into our pipeline before tomorrow's overnight block at the latest. This task is part of our standard workflow update, carrying a non-essential background filler nature, allowing for flexible scheduling to drop or reschedule as per convenience.
+
+Please note that this request falls under the category of low priority importance with a deadline set for delivery by [target_day] [target_diurnal_period]. Kindly ensure that the data is ready well before this timeframe to avoid any potential issues. Thank you for your attention and cooperation in this matter.

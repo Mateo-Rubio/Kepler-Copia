@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+I'm reaching out with an important task for your team, one that requires your full attention and expertise. Our objective is to capture a multispectral vegetation analysis using VNIR sensors over the region of Caparrapí, Colombia. This high-resolution optical snapshot aims to assess chlorophyll absorption levels and calculate the NDVI index, providing us with crucial insights into the local vegetation health.
+
+The request is of low priority importance, allowing for flexibility in scheduling, but still demands our best efforts. We're looking to capture this data as a background survey task without any immediate urgency; however, we would appreciate it if you could drop or reschedule it at your convenience should there be more pressing tasks at hand.
+
+Our deadline for receiving the data products is set for the day after tomorrow, with a strict delivery deadline by overnight. We're aiming to ensure that these products are ingested into our pipeline before then, allowing us to process and analyze them efficiently.
+
+We appreciate your understanding of this operational context and look forward to your successful completion of this task. Thank you very much for your attention to detail and adherence to our guidelines.
+
+Best regards,
+[Your Name]

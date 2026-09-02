@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission with a focus on capturing high-resolution optical imagery of Norte, Brazil. Given that we're dealing with a low priority importance request, this task can be scheduled flexibly and treated as a background survey or testbed tracking task.
+
+Our objective is to obtain a true-color visual documentation of the region using daylight photography, which will provide us with clear optical imagery. This request doesn't necessitate any strict deadlines for execution; we're looking at a non-essential background filler task that can be accommodated within our operational schedule.
+
+We aim to have this data ready by the target day, which is in three days, and specifically, we need it by the morning of that day. This ensures that the products are ingested into our pipeline before the deadline set for the target day.
+
+Thank you for your attention and flexibility in scheduling this task. We appreciate your support in fulfilling our Earth observation needs.
+
+Best regards,
+[Your Name]

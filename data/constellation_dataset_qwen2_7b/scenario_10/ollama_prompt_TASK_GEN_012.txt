@@ -1,0 +1,7 @@
+Good day! I'm reaching out with a task request for an Earth observation mission that needs to be executed with flexibility and convenience. Our objective involves capturing a near-infrared reflection for water body boundary mapping and soil moisture assessment, which will serve as a background survey or testbed tracking task.
+
+We're looking at the Indonesian region, specifically focusing on Sekadau city. This request is classified as low priority importance, implying that it's a non-essential background filler task with a flexible schedule. It's important to note that this task might be dropped or rescheduled at your convenience.
+
+The deadline for delivering the data products is set for tomorrow during the afternoon, ensuring the products are ingested into our pipeline before then. This deadline represents the strict operational limit for data availability.
+
+Thank you for considering our request. We appreciate your cooperation in accommodating this task within your operational workflow.

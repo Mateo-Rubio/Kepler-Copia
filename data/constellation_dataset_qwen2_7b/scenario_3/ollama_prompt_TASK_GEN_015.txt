@@ -1,0 +1,5 @@
+As an Earth-observation mission operator, I'm submitting a task request to your automated satellite constellation planner. The objective is to capture high-resolution optical imagery of Ecuatorial City in Indonesia during the afternoon on the day after tomorrow. This request is of absolute institutional priority as it involves a critical payload capture that requires immediate attention and must be executed without any preemption. The imagery should serve as a daylight photography snapshot, providing clear optical data for our baseline pipeline tracking setup.
+
+Given the importance of this task, we need the data products by the specified deadline, ensuring they are ingested into our pipeline before the afternoon on the day after tomorrow. This is a standard operational tasking that falls under our contractual obligations and represents a binding requirement with our client.
+
+Please note that this request carries a high level of urgency and must be handled with the utmost care to ensure compliance with our operational guidelines and contractual commitments. We appreciate your prompt attention and cooperation in fulfilling this critical mission.

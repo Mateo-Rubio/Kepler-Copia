@@ -1,0 +1,13 @@
+Good day to our automated satellite constellation planners,
+
+I'm reaching out with an urgent operational request for a critical payload capture involving our high-resolution active radar scan system (SAR) in the region of Italia, specifically focusing on the city of Poggi del Sasso. This task is marked as an "absolute institutional priority", emphasizing its importance in our baseline pipeline tracking setup.
+
+Our goal is to obtain cloud-penetrating imagery that captures ground geometry during the afternoon of the day after tomorrow, ensuring the products are ingested into the pipeline before the deadline set for that day's overnight block. We aim for a comprehensive, high-resolution optical snapshot that will provide us with detailed surface information essential for our operational planning.
+
+This request is classified as a "low priority importance" task, allowing for a flexible schedule where we can drop or reschedule at convenience if necessary. However, given its nature as a "non-essential background filler task", it's crucial to maintain the integrity of our data collection process without compromising the primary objectives.
+
+Thank you for your attention and swift action in fulfilling this request. We appreciate your cooperation in ensuring timely delivery of the data products required for our ongoing projects.
+
+Best regards,
+
+[Your Name]

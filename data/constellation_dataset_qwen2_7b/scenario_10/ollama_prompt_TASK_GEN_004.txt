@@ -1,0 +1,15 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out with a task request for an Earth observation mission that involves capturing high-resolution optical imagery over San Vicente del Caguán, Colombia. The country's vibrant landscape and the city's unique features will provide rich data for our analysis.
+
+Given its importance, this task is marked as Priority 1, which means it's a low priority importance request with a flexible schedule for opportunistic capture. We understand that this might be a background survey or testbed tracking task that can be dropped or rescheduled at convenience.
+
+Our primary sensor requirement is VIS (visible light), which will enable us to obtain clear optical imagery during daylight hours, providing true-color visual documentation of the region's environment and infrastructure. The data must be ready by the day after tomorrow during the afternoon, ensuring it's ingested into our pipeline before that time frame.
+
+Please note that this deadline is critical for data availability and does not represent an orbital capture window; it's a strict operational deadline to deliver the data products to our team.
+
+Thank you for your attention to this matter. We appreciate your support in fulfilling this request.
+
+Best regards,
+
+[Your Name]

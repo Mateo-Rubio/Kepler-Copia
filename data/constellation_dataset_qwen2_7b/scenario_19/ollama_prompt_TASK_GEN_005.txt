@@ -1,0 +1,9 @@
+We are requesting a standard operational tasking for an active radar scan using microwave surface imaging, aimed at cloud-penetrating capture and ground geometry observation. This mission is to be executed with the highest level of professionalism and standard operational procedures, fitting into our baseline pipeline tracking setup.
+
+The region of interest is Norte, located in the geographical context of our request. Although we have no specific country or city details for this location, we are focusing on capturing essential data that will provide comprehensive information about the area's surface characteristics.
+
+Our priority level is set at medium importance, which means that while this task is not an absolute institutional priority or a binding contract requirement involving a critical payload capture, it is still considered a standard operational task with fixed parameters representing our normal operational status. We aim to complete this mission within the constraints of our baseline pipeline tracking setup.
+
+The deadline for delivering the data products is set for the day after tomorrow, with a strict delivery deadline of overnight. This means that we need the data ready by the time the sun sets on that particular day, ensuring that our products are ingested into the pipeline before the deadline.
+
+This request is part of our routine monitoring activities and will contribute to our standard workflow updates, providing valuable insights for commercial tasking and routine surveillance purposes.

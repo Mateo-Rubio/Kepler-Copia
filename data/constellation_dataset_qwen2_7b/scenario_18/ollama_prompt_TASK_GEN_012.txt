@@ -1,0 +1,11 @@
+Good day, satellite constellation planner. I'm reaching out regarding a specific task that requires your attention. Our mission involves capturing an active radar scan using microwave surface imaging technology to penetrate heavy weather conditions and capture ground geometry for a location in Indonesia, specifically the city of Tanjung Jabung Timur.
+
+Given the importance of this task, we're treating it as a low priority importance request with a flexible schedule for opportunistic capture. This is not an essential background filler task but rather a non-essential background survey that can be dropped or rescheduled at your convenience.
+
+The operational objective here is to gather data for thermal mapping purposes, which involves capturing a heat signature, surface temperature profile, and conducting thermal anomaly detection to map heat emissions accurately. This task falls under the category of baseline pipeline tracking with fixed parameters representing normal operational status.
+
+We're looking for a high-resolution optical snapshot during daylight photography, clear optical imagery, or true-color visual documentation to complement our data collection efforts. The primary sensor we're utilizing is SAR technology, which will provide us with the necessary insights into ground conditions and surface features.
+
+The deadline for this task is set for tomorrow's afternoon period, with a strict delivery deadline of "tomorrow during the afternoon". We need to ensure that the products are ingested into our pipeline before this time frame. This deadline represents the operational limit for data availability, not an orbital capture window.
+
+Thank you for your understanding and cooperation in ensuring we meet our mission objectives. Please let us know if there's any additional information or clarification needed on this task.

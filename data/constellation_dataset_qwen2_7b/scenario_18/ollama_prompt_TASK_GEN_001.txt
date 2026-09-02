@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at a high-importance task for tomorrow, specifically during the afternoon timeframe. Our mission involves a critical payload capture using the VNIR sensor in Colombia, focusing on Aguazul. The objective is to conduct a detailed multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for that area. This is part of an absolute institutional priority or a binding contract requirement involving a mandatory directive.
+
+The data must be ready by tomorrow's afternoon block at the latest, with a strict delivery deadline set for that day during that time frame. This ensures the products are ingested into our pipeline before the target day's afternoon period. We're treating this as an urgent operational execution and an un-preemptable mission lock. Please ensure we receive the data promptly to meet these requirements.
+
+Thank you for your attention to this matter, and we appreciate your swift action in fulfilling this task.

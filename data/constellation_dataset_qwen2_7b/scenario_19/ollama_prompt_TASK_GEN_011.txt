@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission that aims to capture high-resolution near-infrared reflection data. The objective is to map water body boundaries and assess soil moisture in Norte, a region located in the northern part of our country. Due to the critical nature of this task, it's classified as a low priority importance request with a flexible schedule for opportunistic capture.
+
+The data needed by tomorrow's afternoon at the latest is essential for our background survey purposes. We are looking for thermal anomaly detection and mapping heat emissions, which will help us in understanding environmental conditions and making informed decisions based on the collected data.
+
+Please note that this task is considered a non-essential background filler task and can be dropped or rescheduled as per your convenience. However, we would appreciate your timely response to ensure the products are ingested into our pipeline before the deadline set for tomorrow's afternoon.
+
+Thank you for your understanding and cooperation in this matter.
+
+Best regards,
+[Your Name]

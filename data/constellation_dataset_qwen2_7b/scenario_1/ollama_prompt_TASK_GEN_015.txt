@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a task for an upcoming mission involving thermal mapping in Indonesia's equatorial region, specifically focusing on Ecuatorial city. Our primary sensor is equipped with TIR capabilities, aiming to capture heat signatures and surface temperature profiles for critical analysis.
+
+Given the high importance of this task, it's classified as an absolute institutional priority, implying that this request involves a mandatory directive requiring immediate attention. The deadline for delivering the data products is set for tomorrow, with a strict delivery deadline by overnight at the latest. This task is considered a low priority importance request and can be scheduled with a flexible schedule, treating it as a background survey or testbed tracking task.
+
+Please ensure that the data products are ingested into our pipeline before the specified deadline to avoid any delays in processing. If you have any questions or need further clarification, please don't hesitate to reach out. Thank you for your attention and cooperation.

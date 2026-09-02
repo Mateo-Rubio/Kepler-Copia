@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out to request a low priority importance task for an opportunistic capture of the region in Indonesia, specifically focusing on the city of Ecuatorial. The primary sensor required is the VNIR, which will be used for multispectral vegetation analysis, aiming to assess the chlorophyll absorption level and calculate the NDVI index for surface reflectance.
+
+The objective is to gather high-quality data that provides a detailed view of the vegetation health and land cover conditions. This task falls under the category of a non-essential background filler task with a flexible schedule for opportunistic capture. We aim to treat this as a background survey or testbed tracking task to support our ongoing monitoring efforts.
+
+Given the urgency of this request, we need the data by tomorrow's overnight block at the latest. This means ensuring that the products are ingested into the pipeline before the deadline set for tomorrow night. Kindly prioritize this task based on its importance level and ensure it aligns with your operational guidelines and deadlines.
+
+Thank you for your attention to this matter.

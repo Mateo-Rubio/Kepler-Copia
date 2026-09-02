@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're on an Earth-observation mission and need your assistance with a task that's quite important to us. We're focusing on capturing data using our Near-Infrared sensor for water body boundaries mapping and soil moisture assessment in Norte, a region in our coverage area. Given its importance, we classify this request as of low priority importance, which means it can be accommodated within our flexible schedule.
+
+Our operational guidelines require us to frame this task in a casual yet professional manner, treating it as a non-essential background filler task that we can drop or reschedule at convenience. The goal is straightforward: we're looking for a near-infrared reflection to help us map water bodies and assess soil moisture levels. 
+
+We're aiming to get the data products by the target day, which is four days from now, with a strict delivery deadline set for around mid-day. This means ensuring that all the data is ingested into our pipeline before the nightfall on that day. We appreciate your support in helping us meet this deadline and completing this task efficiently.
+
+Thank you for your attention to detail and understanding of our operational needs. We're looking forward to receiving the data that will assist us in our ongoing efforts to monitor and analyze our region's environmental conditions.

@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a request for an Earth observation mission that involves a low priority importance task, which is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our objective is to capture a multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index. This will help us understand the surface reflectance in the area of interest located in Colombia, specifically near the city of Foraquira. The goal is to obtain high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation.
+
+The mission's deadline is set with strict urgency; we need the data products ingested into our pipeline by the target day, which is three days from now, at the latest in the morning. This task doesn't require an immediate operational execution or an urgent operational execution as it falls under our non-essential background filler tasks.
+
+Thank you for your attention to this request. We appreciate your flexibility and are looking forward to receiving the data as per the outlined specifications.

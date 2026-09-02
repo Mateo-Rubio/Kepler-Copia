@@ -1,0 +1,3 @@
+I have a low-priority task that I'd like to submit for an opportunistic capture. We're looking at Sizzano, Italy, and would appreciate it if you could schedule this as a non-essential background filler task. The goal is to perform an active radar scan using microwave surface imaging, which will provide cloud-penetrating capture of the area's ground geometry.
+
+Please note that this request can be dropped or rescheduled at your convenience. However, I would like the data products to be ingested into the pipeline before the evening in three days at the latest. Thank you!

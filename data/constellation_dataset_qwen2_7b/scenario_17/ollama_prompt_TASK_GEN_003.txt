@@ -1,0 +1,5 @@
+Good day! I'm reaching out on behalf of our Earth-observation mission, requesting a task be assigned to our automated satellite constellation planner. We're looking for a low priority importance task that involves capturing near-infrared reflection data from Indonesia, specifically in the city of Berau. This request is framed as a 'non-essential background filler task' with a flexible schedule, treating it as a 'background survey' or 'testbed tracking task'. Our objective is to assess soil moisture and map water body boundaries using near-infrared reflection.
+
+The deadline for delivering this data product is set for tomorrow in the morning, ensuring the products are ingested into our pipeline before that time. This task doesn't carry an urgency akin to a critical payload capture or mandatory directive; instead, it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your understanding and cooperation in managing this request efficiently. We appreciate your team's expertise in handling such tasks within the specified timeframe and ensuring they meet our operational guidelines.

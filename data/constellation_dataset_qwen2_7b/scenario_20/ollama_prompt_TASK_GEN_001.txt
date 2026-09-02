@@ -1,0 +1,14 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a standard operational tasking involving the VNIR sensor for a high-resolution optical snapshot of the region around San Carlos de Guaroa, Colombia. This daylight photography aims to provide clear optical imagery for detailed analysis and true-color visual documentation of the area.
+
+The primary objective is to assess the chlorophyll absorption level through multispectral vegetation analysis, which will help us calculate the NDVI index and surface reflectance. This task is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters that ensure standard quality control standards are met.
+
+We're targeting delivery by the day after tomorrow, specifically around mid-day, to ensure the products are ingested into the pipeline before then. Our request carries a medium importance level and aligns with our standard workflow updates.
+
+Please note that this task is subject to normal scheduling and may be adjusted as necessary to accommodate other priorities or operational constraints. Your timely response and data delivery will be greatly appreciated.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

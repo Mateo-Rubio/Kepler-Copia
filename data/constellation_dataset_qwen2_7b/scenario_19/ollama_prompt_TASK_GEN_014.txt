@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our commercial monitoring pipeline. Our focus is on assessing vegetation health across the beautiful region of Italia Norte using our VNIR sensor. The goal is to capture a detailed multispectral image that will help us understand the chlorophyll absorption levels and surface reflectance in this area.
+
+This request carries medium importance as it's part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. We're aiming for a high-resolution optical snapshot, akin to daylight photography, which will provide us with clear optical imagery and true-color visual documentation to assess the health of the vegetation.
+
+Given the nature of our operations, we have a strict deadline for delivering these data products to ensure they are ingested into our pipeline before the target day arrives. Our deadline is set for three days from now, with a strict delivery deadline for overnight on that day. This means we need the data ready by tomorrow's night time block.
+
+We appreciate your attention to this task and look forward to receiving the VNIR imagery that will contribute to our ongoing monitoring efforts in Italia Norte. Please note that this task is part of our standard operational workflow, and any delays should be communicated to us for scheduling adjustments if needed. Thank you for your cooperation.
+
+Best regards,
+[Your Name]

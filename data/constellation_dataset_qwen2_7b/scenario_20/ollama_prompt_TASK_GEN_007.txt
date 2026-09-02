@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a request for a highly important task, which falls under priority level 3. This mission involves capturing a critical payload using an active radar scan (SAR) on Colombia's beautiful coast, specifically in Puerto Libertador. Our objective is to gather detailed microwave surface imaging data that will help us understand the ground geometry and possibly penetrate through heavy weather conditions.
+
+The region we're focusing on is nestled within the vibrant landscape of Colombia, near the shores where the Caribbean Sea meets the lush greenery of the country's northern coast. We're aiming for a daylight snapshot that will provide us with clear optical imagery and true-color visual documentation to enhance our understanding of this unique location.
+
+Given the nature of this request, we require your immediate attention and expertise to ensure that we meet our deadline. The deadline for delivering the data products is set for four days from now, during the afternoon period. We're looking to have the products ingested into our pipeline before the sun sets on that day, adhering strictly to our operational guidelines.
+
+We appreciate your understanding and cooperation in this matter. Your expertise in satellite operations will be invaluable as we strive to capture this essential data for our ongoing research and monitoring efforts.
+
+Thank you very much for your attention to this matter.
+
+Best regards,
+[Your Name]

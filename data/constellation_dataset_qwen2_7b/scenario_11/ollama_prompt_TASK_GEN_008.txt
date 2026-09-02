@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners! We're looking to capture an active radar scan using microwave surface imaging technology for a cloud-penetrating perspective on ground geometry. Our target area is in the beautiful city of Rome, located in the vibrant country of Italia. This request carries medium importance due to its standard operational status and baseline pipeline tracking setup with fixed parameters.
+
+We aim to deliver this data by tomorrow's overnight block at the latest, ensuring that our products are ingested into the pipeline before the deadline set for [target_day] [target_diurnal_period]. Kindly prepare a "standard operational tasking" that involves capturing this essential information without any interruptions or delays. Your expertise will greatly contribute to our understanding of ground geometry under various weather conditions.
+
+Thank you for your attention and cooperation in meeting this requirement. We appreciate your professionalism and adherence to our operational guidelines.

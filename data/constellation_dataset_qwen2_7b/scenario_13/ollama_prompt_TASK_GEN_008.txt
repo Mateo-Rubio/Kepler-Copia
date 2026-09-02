@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a task that's of low priority importance, but still requires our attention. The mission involves capturing near-infrared reflection data for water body boundary mapping and soil moisture assessment in Norte, France. This task is part of a background survey, serving as an opportunistic capture to gather information on the region's water bodies and soil conditions.
+
+We're looking to perform this task by the day after tomorrow, ensuring the products are ingested into our pipeline before it gets to the evening. We understand that this deadline is strict and cannot be extended or altered in any way. Please treat this as a flexible schedule item, allowing us to drop or reschedule at your convenience if necessary.
+
+Thank you for your understanding and cooperation. We appreciate your support in fulfilling this non-essential background filler task.

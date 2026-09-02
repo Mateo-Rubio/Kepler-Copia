@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out with an absolute institutional priority request for a standard operational tasking that needs to be executed with urgency. Our team is tasked with capturing a critical payload involving a mandatory directive related to the region of Colombia, specifically focusing on the city of San Martín.
+
+Our primary sensor requirement is for VNIR technology, which we'll use to conduct a multispectral vegetation analysis. This involves assessing chlorophyll absorption levels and calculating the NDVI index to understand surface reflectance. We're aiming for high-resolution optical snapshots that will serve as true-color visual documentation for daylight photography and clear optical imagery.
+
+The deadline for this mission is set for tomorrow, with a strict delivery deadline of around mid-day. We're seeking to ensure that the products are ingested into our pipeline before then, ensuring they're ready for immediate analysis. Given the nature of this task, we understand that it may require an "urgent operational execution" and an "un-preemptable mission lock".
+
+Please note that this request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status and a standard workflow update. However, due to its critical importance, we are treating this as a "critical payload capture" that must be completed by tomorrow's mid-day deadline.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring that our team receives the data products on time so that they can be effectively utilized for decision-making processes.
+
+Best regards,
+[Your Name]

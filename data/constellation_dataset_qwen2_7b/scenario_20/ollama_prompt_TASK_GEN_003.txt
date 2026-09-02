@@ -1,0 +1,12 @@
+Hello Automated Satellite Constellation Planner,
+
+I'm reaching out with a request to capture highly detailed data on the city of Lumpatan II in Indonesia for an urgent operational task. The primary sensor needed is the near-infrared (NIR) system, which will be used to map water body boundaries and assess soil moisture levels for critical environmental monitoring.
+
+Given the high importance of this mission, please consider it as an absolute institutional priority that involves a mandatory directive for capturing this critical payload. We require these data products by the day after tomorrow, around mid-day, at the latest. This deadline is strictly non-negotiable and should not be extended under any circumstances.
+
+Please ensure that the satellite constellation delivers the thermal mapping, vegetation analysis, and water body boundary mapping in a timely manner to support our baseline pipeline tracking setup with fixed parameters representing normal operational status. We understand this tasking involves standard workflow updates for routine monitoring but appreciate your commitment to meeting this deadline.
+
+Thank you for your immediate attention and cooperation in fulfilling this binding contract requirement. We look forward to receiving the data products that will contribute significantly to our ongoing environmental studies and decision-making processes.
+
+Best regards,
+[Your Name]

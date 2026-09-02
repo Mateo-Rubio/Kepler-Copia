@@ -1,0 +1,10 @@
+Good day to you, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that needs to be handled as a low priority importance request. This is a non-essential background filler task that can be dropped or rescheduled at your convenience. However, it's important to note that this request falls under the operational guidelines of our background survey and testbed tracking tasks.
+
+The objective here involves capturing data using a near-infrared sensor for water body boundary mapping and soil moisture assessment. Imagine we're looking at the beautiful yet challenging landscape of Indonesia, specifically focusing on the city of Ecuatorial. Our goal is to assess gradients in soil moisture levels across this region.
+
+We're targeting the day after tomorrow with a strict delivery deadline set for that evening. This means ensuring the products are ingested into our pipeline before the day after tomorrow's overnight block. We understand that this deadline represents the upper limit for data availability, not an orbital capture window.
+
+Thank you for your attention to this task. It's appreciated that you'll handle it with the flexibility and opportunism it requires. If there are any questions or concerns about this request, please feel free to reach out. Your expertise in managing our satellite constellation is invaluable to us. Have a great day!
+
+Best regards,
+[Your Name]

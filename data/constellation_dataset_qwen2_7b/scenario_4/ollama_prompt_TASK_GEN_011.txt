@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out to request a critical payload capture for an essential background survey task. Our mission involves thermal mapping of the region known as Hrvatska, specifically focusing on Primorsko-goranska županija. This is a low priority importance request with flexible scheduling requirements, designed as a non-essential background filler task.
+
+Our primary sensor for this operation is the TIR, which will be used to capture thermal anomalies and map heat emissions across the region. The goal is to gather data that will help us assess surface temperature profiles and detect any heat signatures that might indicate potential issues or areas of interest.
+
+The deadline for delivering these data products is set for three days from now, with a strict delivery deadline by the evening at the latest. This means we need the data ingested into our pipeline before the target day's overnight period starts. We're looking to ensure that our team has access to this information before the deadline to incorporate it into our baseline pipeline tracking setup.
+
+Thank you for your attention and assistance in making this critical task a reality. We appreciate your cooperation in meeting this deadline and ensuring that our operational status remains within normal parameters. 
+
+Best regards,
+[Your Name]

@@ -1,0 +1,5 @@
+We're tasked with capturing a thermal mapping of the area around Basa Ampek Balai Tapan, located in Indonesia. Our primary sensor for this mission is the Thermal Infrared (TIR) instrument, which will help us assess heat signatures and surface temperature profiles to identify any thermal anomalies or emission patterns.
+
+Given the importance of this task, we're treating it as a low priority request with flexible scheduling. We aim to complete this "background survey" by the day after tomorrow, ensuring that the products are ingested into our pipeline before mid-day. This non-essential background filler task doesn't require an urgent operational execution but should be scheduled accordingly to meet our internal guidelines.
+
+Please note that we're strictly adhering to the deadline set for data availability; any delay beyond our target day and time could impact our operational workflow. Let's ensure we capture this information before the specified time frame to avoid any potential disruptions in our baseline pipeline tracking setup.

@@ -1,0 +1,3 @@
+I would like to submit a standard operational tasking for a near-infrared reflection mission over Norte. The objective is to conduct water body boundary mapping or soil moisture assessment, which aligns with our baseline pipeline tracking setup and fixed parameters for normal operational status. This request is part of our routine monitoring activities and should be scheduled as a standard workflow update.
+
+Please ensure that the data products are ingested into the pipeline before tomorrow's overnight period. Thank you for coordinating this task within the set parameters.

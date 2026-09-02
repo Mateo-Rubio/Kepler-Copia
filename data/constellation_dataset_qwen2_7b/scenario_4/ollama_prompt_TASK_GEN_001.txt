@@ -1,0 +1,12 @@
+Hello there,
+
+I'm reaching out to request a low priority importance task for an Earth observation mission. We are looking to conduct a flexible schedule, opportunistic capture of a low-priority background survey in Colombia, specifically in the area around Calamar. Our objective is to gather data using a VNIR sensor, which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index.
+
+This task involves capturing high-resolution optical snapshots during daylight photography for clear optical imagery and true-color visual documentation. The goal is to provide us with essential information about the vegetation health and land use in the region. 
+
+We need this data by the target day, which is in three days, specifically overnight. This means that the products must be ingested into our pipeline before then to ensure timely processing and analysis.
+
+Thank you for your attention to this task. We appreciate your cooperation in managing this request according to its importance level and delivering it within the specified timeframe.
+
+Best regards,
+[Your Name]

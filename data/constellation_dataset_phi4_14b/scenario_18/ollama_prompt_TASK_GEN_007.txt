@@ -1,0 +1,1 @@
+I would like to submit a standard operational tasking for a high-resolution optical snapshot over Planadas, Colombia. This request is part of our baseline pipeline tracking and involves capturing clear optical imagery during daylight hours. Please ensure the data products are ingested into the pipeline before tomorrow's overnight block. Thank you.

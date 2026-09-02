@@ -1,0 +1,8 @@
+Good day to all satellite operators and mission planners. I'm reaching out with a task that's been tagged as a low priority importance request, which means it's flexible in scheduling but requires attention nonetheless. Our objective is to capture the heat signature of a specific area in Colombia, focusing on the city of Puerto Lleras using near-infrared (NIR) sensors. The goal here is to assess soil moisture and water body boundaries for potential future agricultural planning.
+
+The operational deadline for this task is set for tomorrow during the afternoon period. We're looking for high-resolution optical snapshots as well to ensure we cover all aspects of the area's conditions. This request falls under a background survey or testbed tracking task category, meaning it's not an urgent requirement but should be handled efficiently to avoid any inconvenience.
+
+Please ensure that the data products related to this task are ingested into our pipeline before tomorrow afternoon. This will allow us to process and analyze the information promptly without disrupting our regular workflow. Thank you for your understanding and cooperation in meeting these requirements. Let's work together to make sure this task is completed smoothly and within the set timeframe.
+
+Best regards,
+[Your Name]

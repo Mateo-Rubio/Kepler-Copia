@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're reaching out with a standard operational tasking from our baseline pipeline tracking setup. The mission involves capturing imagery of a specific location in Italy, Corteno Golgi, which requires the use of our SAR sensor for an active radar scan. This is to ensure we can penetrate through heavy weather conditions and capture ground geometry accurately.
+
+Our priority level for this task is set at medium importance, which means it's part of our normal operational status but with certain parameters that are fixed and represent our standard workflow update. We understand the urgency behind this request due to its priority level and will ensure that the data products are ready for ingestion into our pipeline by tomorrow's overnight block.
+
+The primary objective here is to gather detailed information about the area using microwave surface imaging, which will allow us to capture thermal mapping and detect any heat anomalies or temperature profiles. This task is not a critical payload capture or a mandatory directive but part of our routine monitoring activities.
+
+We appreciate your cooperation in meeting this deadline and ensuring that we deliver the required data products by tomorrow's overnight block at the latest. If there are any issues with meeting this deadline, please inform us so we can adjust our plans accordingly. Thank you for your attention to this matter.

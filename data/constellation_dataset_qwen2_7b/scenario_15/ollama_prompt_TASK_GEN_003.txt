@@ -1,0 +1,7 @@
+Hello there! I'm reaching out to request a mission allocation for an essential task that involves our satellite constellation. The objective is to capture an active radar scan using microwave surface imaging technology, which will serve as cloud-penetrating capture of ground geometry. This task falls under the category of standard operational tasks and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're focusing on a location described by "Ecuatorial", which unfortunately lacks specific details about the country and city. However, we can assume it's located in an equatorial region that might be experiencing heavy weather conditions, making this radar scan particularly crucial for capturing ground geometry without interference from clouds.
+
+The priority level for this task is medium importance, which means we aim to complete this mission promptly but without compromising on quality or operational standards. We're looking to deliver the data products by the day after tomorrow, in the evening at the latest. This deadline is strictly necessary to ensure that the information is available for immediate processing and integration into our workflow updates.
+
+Thank you for your attention to this request. We appreciate your support in making sure this task is executed efficiently and in accordance with our operational guidelines. Let's work together to make this happen!

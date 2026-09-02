@@ -1,0 +1,12 @@
+Good day to our satellite constellation team,
+
+We're looking forward to capturing a high-resolution optical snapshot of Toledo, Colombia, in four days at the latest, specifically before the morning hours. This task is a low priority importance request, with flexibility in scheduling and no rush for delivery.
+
+The primary sensor will be a VIS (visible light) camera to provide us with daylight photography, clear optical imagery, and true-color visual documentation of Toledo's urban and natural landscapes. We're keen on capturing every detail that the day has to offer.
+
+We understand the deadline set for the data products to be ingested into our pipeline before the morning hours on the target day. Our team will be ready to receive these images promptly upon delivery, ensuring they are seamlessly integrated into our baseline pipeline tracking setup.
+
+Thank you for your attention to this background survey task. We appreciate your cooperation in delivering the necessary data within the specified timeframe.
+
+Best regards,
+[Your Name]

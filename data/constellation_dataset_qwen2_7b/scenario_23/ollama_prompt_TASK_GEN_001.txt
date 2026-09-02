@@ -1,0 +1,16 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a specific Earth observation task that requires your immediate attention. Our mission involves capturing critical data using a Near-Infrared (NIR) sensor for a commercial tasking operation, focusing on a region in Colombia.
+
+The geographical context of our interest lies in the charming coastal town of Simití, nestled within the vibrant country of Colombia. Our objective is to gather detailed information about water bodies and soil moisture levels, which will be crucial for environmental monitoring and agricultural assessments.
+
+Given the importance of this task, we assign it a medium priority level, indicating that it should be handled with professional diligence as part of our baseline pipeline tracking setup. We request that you ensure fixed parameters are maintained to represent normal operational status.
+
+The deadline for delivering the data products is set for four days from now, around mid-day. This means that the data must be ready by the next day's overnight block, adhering strictly to the deadline without any extensions.
+
+We appreciate your swift action in addressing this request and look forward to receiving the highly realistic and conversational English output that will encapsulate our operational guidelines effectively.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

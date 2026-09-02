@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a standard operational tasking involving multispectral vegetation analysis using VNIR sensors. The mission is focused on capturing the chlorophyll absorption levels and calculating the NDVI index for a region located near Norte, Brazil. Given its importance, this task holds medium priority in our baseline pipeline tracking setup.
+
+Our objective is to obtain high-resolution optical snapshots of the area during daylight photography or true-color visual documentation. This will help us assess vegetation health and land use changes effectively. The mission's deadline is set for three days from now, with a strict delivery deadline scheduled for the afternoon of that day. We're looking to ensure that the products are ingested into our pipeline before the specified time.
+
+Please note that this request holds normal operational status, representing fixed parameters within our standard workflow update process. Thank you for your attention and cooperation in meeting this requirement promptly.

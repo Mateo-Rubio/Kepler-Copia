@@ -1,0 +1,5 @@
+We're tasked with capturing a high-resolution multispectral vegetation analysis for Cumaral, Colombia, using a VNIR sensor. This is an absolute institutional priority involving a critical payload capture of chlorophyll absorption levels and surface reflectance data. We aim to deliver this information with a strict deadline set for four days from now, with the products needing to be ingested into the pipeline by the morning. The urgency here is paramount as it involves a mandatory directive for our baseline pipeline tracking setup.
+
+This request represents a standard operational tasking that's part of our normal workflow update, with fixed parameters that reflect our normal operational status. However, given its high importance, we must emphasize that this is an un-preemptable mission lock, requiring immediate attention and prioritization over other background survey tasks.
+
+Please ensure the data is ready for analysis by the morning on the target day to meet our contractual obligations and maintain our commitment to providing accurate and timely information for decision-making.

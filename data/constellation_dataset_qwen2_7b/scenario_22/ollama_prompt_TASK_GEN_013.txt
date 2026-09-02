@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that needs to be handled with flexibility and opportunism due to its low priority importance. The objective is to capture a high-resolution optical snapshot of Ráquira, Colombia, which is a picturesque town known for its vibrant culture and traditional pottery. This "true-color visual documentation" will serve as a background survey to assess the local landscape and urban development.
+
+The primary sensor required for this mission is VIS (visible light), which will provide us with clear optical imagery perfect for daylight photography. This task is tagged under low priority importance, meaning it can be scheduled on a flexible timeline without compromising our core operations. We aim to complete this "background survey" by ensuring the products are ingested into our pipeline before the deadline set for the target day, which falls in three days from now, specifically in the evening.
+
+Please note that the operational deadline is strict and cannot be extended. We appreciate your understanding and cooperation in meeting this requirement. Thank you for your attention to detail and for prioritizing tasks based on their importance levels. If there are any questions or if you need further clarification, please feel free to reach out. 
+
+Looking forward to your confirmation and the successful execution of this mission. 
+
+Best regards,
+[Your Name]

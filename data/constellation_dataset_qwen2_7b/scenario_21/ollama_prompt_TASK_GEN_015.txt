@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a standard operational tasking involving the VNIR sensor for an optical snapshot of the region named 'Indonesia'. Specifically, we're targeting Solok city as the focal point for this mission. The purpose is to capture high-resolution images during daylight hours for true-color visual documentation.
+
+The importance level for this task is set at medium, which means it's part of our baseline pipeline tracking with fixed parameters representing normal operational status. We understand the need to adhere to the deadline; hence, we're requesting that the data products be ready by the target day, four days from now, during the afternoon timeframe at the latest.
+
+This request aligns with our standard workflow update and contractual obligations. Kindly ensure the products are ingested into the pipeline before the deadline set for the target day. We appreciate your attention to this matter and look forward to receiving the data in due course.
+
+Best regards,
+[Your Name]

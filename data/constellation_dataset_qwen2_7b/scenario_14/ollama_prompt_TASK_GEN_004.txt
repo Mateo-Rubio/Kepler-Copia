@@ -1,0 +1,15 @@
+```prompt
+Good day to all mission planners,
+
+I'm reaching out with an operational tasking request for a high-resolution optical snapshot over Suárez, Colombia. Given its location in South America, we're aiming to capture clear daylight photography and true-color visual documentation of the area before it's covered by the overnight darkness.
+
+This is a standard operational tasking that aligns with our baseline pipeline tracking setup. The mission involves utilizing our VIS sensor for an active radar scan using microwave surface imaging capabilities. Our goal is to penetrate heavy weather conditions or capture ground geometry, ensuring we gather comprehensive data that serves as a cloud-penetrating capture.
+
+The priority level for this request is set at medium importance, which means we're looking to capture this data with fixed parameters representing normal operational status. We aim to have the data products ready by the target day, in three days, in the evening at the latest. This ensures they are ingested into our pipeline before the deadline.
+
+Please note that there's a strict delivery deadline set for this tasking, which we're adhering to without any extensions or alterations. We're confident in our capabilities and look forward to receiving your confirmation on this request.
+
+Thank you for your attention to this matter.
+
+Best regards,
+The Earth-observation Mission Operator

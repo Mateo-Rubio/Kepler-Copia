@@ -1,0 +1,10 @@
+Good day to our automated satellite constellation planner! We're reaching out with a standard operational tasking request for a thermal mapping mission, focusing on the city of Tuluá in Colombia. Our primary sensor requirement is the TIR (Thermal Infrared) system, aimed at capturing heat signatures and surface temperature profiles across the region.
+
+This is a critical payload capture, as it's part of our baseline pipeline tracking setup that ensures normal operational status. We're looking to assess thermal anomalies and map heat emissions with high precision. The mission's priority level indicates its importance within our contractual obligations.
+
+The deadline for this tasking is set for today, with a strict delivery deadline of overnight at the latest. We aim to ensure the products are ingested into our pipeline before tomorrow's overnight block. This is not just any background survey or testbed tracking task; it's an essential part of our operational workflow that requires attention and accuracy.
+
+Thank you for your immediate attention and assistance in scheduling this mission. We appreciate your commitment to delivering high-quality data products on time. Let us know if there are any adjustments needed to accommodate this request within your system's capabilities.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request your assistance with a medium importance task. We're focusing on a location in Colombia, specifically in the city of Otanche, for an active radar scan using microwave surface imaging technology. Our goal is to capture cloud-penetrating imagery that will help us understand ground geometry and topography under various weather conditions.
+
+This task is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. The request is for a SAR scan that needs to be completed around mid-day tomorrow. We're setting a strict delivery deadline for the data products by the latest time of "tomorrow's mid-day" at our end.
+
+Your role will involve executing this scan and ensuring that the data is ready for us to ingest into our pipeline before the set deadline. This task aligns with our standard operational tasks, contributing to commercial tasking or routine monitoring activities. We appreciate your attention to detail and adherence to deadlines in providing us with high-quality data products.
+
+Thank you for your cooperation and please let us know if you need any additional information or have questions about this request. We look forward to receiving the SAR scan data as scheduled.
+
+Best regards,
+[Your Mission Operator]

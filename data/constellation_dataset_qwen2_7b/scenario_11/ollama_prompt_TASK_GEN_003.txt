@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for an urgent operational execution. The objective is to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment over a highly significant geographic context in Indonesia.
+
+Our mission allocation priority is categorized as "High Importance" (Priority 3), which involves an "absolute institutional priority" or a "binding contract requirement". This critical payload capture necessitates an "urgent operational execution" and an "un-preemptable mission lock", ensuring that the data products are ingested into the pipeline before the strict delivery deadline set for three days from now, around mid-day.
+
+The location of interest is in Murung Raya, Indonesia. The region's natural beauty and ecological importance make it a prime area for this type of survey. Our goal is to assess soil moisture levels and delineate water body boundaries using the satellite's near-infrared sensor capabilities.
+
+Given the nature of the task, we request that the data be ready by tomorrow's overnight block at the latest. This deadline is non-negotiable, and any delay could impact our ability to provide accurate and timely information for decision-making processes related to environmental management and agricultural planning in the region.
+
+Please ensure that all necessary resources are allocated to prioritize this mission, and we appreciate your cooperation in meeting these stringent requirements. We look forward to receiving the data products within the specified timeframe so that they can be integrated into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention to this critical task.

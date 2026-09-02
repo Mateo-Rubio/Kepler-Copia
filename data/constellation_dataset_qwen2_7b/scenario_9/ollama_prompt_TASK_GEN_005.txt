@@ -1,0 +1,9 @@
+Good day, mission planners. We're looking to capture a critical payload for an absolute institutional priority involving thermal mapping of a specific location in Italia, specifically in the city of Norte. This task is part of a mandatory directive with high importance and urgency attached to it. We aim to achieve this by conducting a thermal scan during an active radar scan using microwave surface imaging technology.
+
+Our objective is to capture heat signatures and surface temperature profiles for this area, which will be essential for detecting thermal anomalies and mapping heat emissions accurately. This request falls under priority level 3, highlighting its high importance and the need for an urgent operational execution without any preemption.
+
+The deadline for delivering these data products is set for four days from now during the afternoon period, ensuring that they are ingested into our pipeline before then. We understand this deadline represents a strict requirement for data availability, not an orbital capture window.
+
+Please note that this task is considered a binding contract requirement involving a critical payload capture. We appreciate your attention to detail and adherence to these operational guidelines as we strive for the highest naturalness and validation accuracy in our dataset.
+
+Thank you for your cooperation in making this mission a success.

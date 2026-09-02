@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that needs to be executed with utmost flexibility and opportunism. This request carries a low priority importance, as it's part of our background survey activities designed to capture the thermal signature of the Indonesian region, specifically focusing on the city of Ecuatorial.
+
+Our primary sensor for this operation is a TIR (Thermal Infrared) instrument, which will be used to gather thermal mapping data. The goal here is to assess surface temperature profiles and detect any thermal anomalies that might indicate heat emissions or other significant thermal phenomena occurring in the area. This information is crucial for our ongoing research on climate change impacts on Indonesian ecosystems.
+
+We aim to have this data ready by the day after tomorrow, with a strict delivery deadline set for the evening of that day. Our objective is to ensure the products are ingested into our pipeline before we conclude our work for the night, adhering to our operational guidelines and respecting the deadline constraints.
+
+Thank you for your attention and cooperation in facilitating this task. We appreciate your support in helping us complete this background survey task efficiently and within the specified parameters.

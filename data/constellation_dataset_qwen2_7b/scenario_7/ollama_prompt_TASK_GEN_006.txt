@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Ecuatorial City in Indonesia for daylight photography purposes. This image is essential for clear optical imagery and true-color visual documentation that will provide us with valuable insights into the region's landscape and environment.
+
+As this request carries a high level of importance, we consider it an absolute institutional priority and a binding contract requirement involving a critical payload capture. We must ensure that this mission is executed with urgency and cannot be preempted or rescheduled; it's an un-preemptable task with a strict deadline.
+
+Our priority indicates that this is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. However, we understand the need for flexibility in scheduling due to its low priority importance. We may drop or reschedule this task as necessary without compromising the integrity of our workflow updates.
+
+Please note that this request must be completed by tomorrow's overnight block, ensuring the products are ingested into our pipeline before the deadline set for target day and target diurnal period. We appreciate your immediate attention to this matter.
+
+Thank you for your cooperation and understanding in this matter.

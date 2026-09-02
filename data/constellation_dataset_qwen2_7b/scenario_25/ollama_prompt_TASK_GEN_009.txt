@@ -1,0 +1,7 @@
+Good day to you! I'm reaching out as an Earth-observation mission operator, tasked with a low priority importance request that involves the use of our SAR sensor. Our objective is to capture a detailed active radar scan using microwave surface imaging technology for cloud-penetrating capture and ground geometry assessment.
+
+We're focusing on Indonesia, specifically in Malinau city, aiming to gather critical data during an overnight period on the day after tomorrow, with a strict delivery deadline set for that morning. This task is classified as a non-essential background filler task, where we can drop or reschedule at convenience if necessary.
+
+Our goal is to provide you with a comprehensive thermal mapping of the area, which will help us capture heat signatures and surface temperature profiles, aiming to detect any thermal anomalies and map heat emissions accurately. We're committed to delivering this data product before the deadline set for the day after tomorrow in the morning, ensuring it's ingested into your pipeline promptly.
+
+Thank you for considering our request. If you have any questions or need further clarification, please let me know. Have a great day!

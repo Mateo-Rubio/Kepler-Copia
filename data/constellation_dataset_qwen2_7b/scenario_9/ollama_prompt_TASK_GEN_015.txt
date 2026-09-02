@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners, we're looking at an interesting task that requires your expertise and swift action. Our main objective is to gather detailed information about the Indonesian region, specifically focusing on a location known as "Ecuatorial". The primary sensor involved will be VNIR, which we'll use for multispectral vegetation analysis. This task aims to assess the chlorophyll absorption level within the area, helping us calculate the NDVI index and understand surface reflectance patterns.
+
+This request is marked with a low priority importance, indicating that it's a flexible schedule task meant for opportunistic capture. We're not in a rush, but we do want to ensure that this task doesn't interfere with our more urgent priorities. So, please note this as a background survey or testbed tracking task that can be dropped or rescheduled at your convenience.
+
+The deadline for delivering the data products is set for tomorrow, specifically in the morning. We need these results by then to ensure they're ingested into our pipeline before the day's end. Please prioritize this request accordingly and let us know if you have any questions or need further details to execute this task successfully.
+
+Thank you for your attention and cooperation in fulfilling this mission.

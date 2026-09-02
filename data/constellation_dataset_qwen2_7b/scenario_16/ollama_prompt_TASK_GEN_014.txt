@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planners, we're looking to capture a high-resolution optical snapshot of Norte city, which is part of an ongoing background survey mission. We aim to document clear daylight photography and true-color visual documentation for the area. This task is marked as a low priority importance request with a flexible schedule for opportunistic capture. We explicitly note that it's a non-essential background filler task, treating it as a routine background survey or testbed tracking task.
+
+Our operational deadline is set for today's overnight block, meaning we need the data products ingested into the pipeline before tomorrow's nightfall. With this request, we're looking to assess the current state of Norte city using our VIS sensor, capturing the essence of its landscape and urban environment through high-quality optical imagery.
+
+Thank you for your attention and cooperation in ensuring that this task is completed within the specified timeframe. We appreciate your prompt response and look forward to receiving the data products as per our request.

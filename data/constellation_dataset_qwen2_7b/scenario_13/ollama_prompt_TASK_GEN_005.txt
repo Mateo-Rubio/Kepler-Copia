@@ -1,0 +1,5 @@
+Good day to you, automated satellite constellation planner. I'm reaching out with a task request that's quite important for our operations. We're looking to capture high-resolution data using an active radar scan (SAR) over Norte, a region in Brazil. The objective is to perform microwave surface imaging to penetrate heavy weather conditions and provide us with essential ground geometry data.
+
+We're considering this a low priority importance task, which means we're treating it as a flexible schedule background survey or testbed tracking task. We understand that our deadline for delivering the data products is set by tomorrow around mid-day, ensuring they are ingested into our pipeline before that time.
+
+I appreciate your attention to detail and prompt action in fulfilling this request. If you have any questions or need clarification, please feel free to reach out. Thank you very much for your cooperation and support in this matter.

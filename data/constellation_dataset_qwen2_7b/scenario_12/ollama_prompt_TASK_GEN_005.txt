@@ -1,0 +1,10 @@
+Good day! I'm reaching out to request an urgent task for our satellite constellation. Our mission involves capturing thermal mapping data using a TIR sensor, focusing on a specific location in Norte, which is part of our broader region without a detailed country or city designation. This task is of low priority importance and carries with it the flexibility to be scheduled at convenience.
+
+The primary objective here is to assess surface temperatures and detect any thermal anomalies through this heat signature mapping. We're aiming for high-quality data that can provide insights into temperature profiles across the area, which will be crucial for our ongoing research projects.
+
+Given the operational guidelines, I'm requesting this task to be completed during the afternoon of tomorrow, ensuring that all products are ingested into our pipeline before then. This deadline is critical as it aligns with our operational constraints and allows us to proceed with the next steps in our workflow without delay.
+
+Thank you for your attention to this matter, and I look forward to receiving confirmation on the task's allocation and expected delivery time. If there are any questions or adjustments needed, please let me know, and we'll work together to ensure a smooth process.
+
+Best regards,
+[Your Name]

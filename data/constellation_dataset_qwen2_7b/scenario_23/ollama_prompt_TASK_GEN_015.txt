@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our commercial tracking pipeline. Our focus is on Indonesia's Kepulauan Meranti region. We're utilizing the VNIR sensor to conduct multispectral vegetation analysis, aiming to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+Our primary objective is to capture a high-resolution optical snapshot of daylight photography, ensuring clear optical imagery that serves as true-color visual documentation for our clients. This task is crucial for understanding the health and productivity of the vegetation in this area.
+
+We're setting a strict deadline for data availability, which we need by four days from now at the latest, with our morning target diurnal period being the final limit. We're looking to deliver thermal mapping products that capture heat signatures and surface temperature profiles, as well as perform thermal anomaly detection and map heat emissions.
+
+As this request carries medium importance, we understand it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. However, we're flexible about scheduling adjustments if necessary, treating this as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+Thank you for your attention to this matter and please let us know if there are any further details required from our end. We appreciate your cooperation in ensuring the data products are ingested into our pipeline before our deadline.
+
+Best regards,
+[Your Name]

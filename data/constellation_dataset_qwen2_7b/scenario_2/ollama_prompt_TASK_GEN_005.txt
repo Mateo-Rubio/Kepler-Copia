@@ -1,0 +1,10 @@
+Good day to you! I hope this message finds you well. I'm reaching out on behalf of an Earth-observation mission operator, seeking your assistance in fulfilling a task that's been assigned to us. Our objective is to capture a high-resolution optical snapshot of the beautiful region in France, specifically focusing on the city of Sotta. We're aiming for a true-color visual documentation that will provide us with clear imagery for our purposes.
+
+As this request carries low priority importance, we understand that it may need to be accommodated within your flexible schedule. We're treating this as a background survey task, where we can reschedule or drop the mission at your convenience without compromising the overall workflow.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline set for the morning of that day. We're aware of the urgency and understand that our request must be fulfilled within these parameters to ensure the products are ingested into the pipeline before the specified time.
+
+Thank you for considering our request. If there are any questions or concerns, please feel free to reach out. We appreciate your cooperation and look forward to a successful collaboration!
+
+Best regards,
+[Your Name]

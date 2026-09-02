@@ -1,0 +1,5 @@
+We have an absolute institutional priority task for the region around Norte, focusing on thermal mapping objectives. This mission is a critical payload capture with an un-preemptable mission lock, requiring urgent operational execution to obtain a surface temperature profile and detect any thermal anomalies in the area.
+
+The primary sensor for this task will be used for thermal mapping, aiming to capture heat signatures and map heat emissions effectively. This operation is vital for our current project needs.
+
+Please ensure that the data products are ingested into the pipeline before the day after tomorrow morning at the latest. This strict delivery deadline is essential for maintaining our operational schedule.

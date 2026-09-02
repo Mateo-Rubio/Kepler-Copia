@@ -1,0 +1,7 @@
+Good day to all Earth observation mission planners. I'm reaching out with a high-priority request on behalf of our team concerning an urgent operational task involving thermal mapping in Colombia. Our objective is to capture the heat signature and surface temperature profiles of specific areas within San Martín, Colombia. This task is critical for detecting thermal anomalies and mapping heat emissions accurately.
+
+We're utilizing our TIR sensor for this mission, which will provide us with high-resolution thermal imagery essential for our analysis. The data collection must be executed with utmost precision as we aim to deliver the results no later than the day after tomorrow, in the evening. This deadline is not negotiable and represents an absolute institutional priority.
+
+Our team is committed to ensuring that the products are ingested into our pipeline before the set deadline. We're aware of the importance of this data for our ongoing projects and understand the need for a thorough thermal mapping process without compromising the quality or timeliness of our findings.
+
+Please prioritize this request as it involves a binding contract requirement and a critical payload capture. We appreciate your understanding and prompt attention to this high-importance task. Thank you for your cooperation in ensuring that we meet our operational deadlines with excellence.

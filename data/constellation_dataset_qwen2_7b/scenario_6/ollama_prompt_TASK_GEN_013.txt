@@ -1,0 +1,18 @@
+Good day to our satellite constellation planning team,
+
+I'm reaching out with a high-priority task that truly embodies the essence of our institutional commitment to excellence and operational dedication. We're looking to capture a comprehensive view of the region encompassing Colombia, specifically focusing on the city of Tocaima, using our VNIR sensor for an in-depth multispectral vegetation analysis.
+
+Our objective is to assess the chlorophyll absorption levels and calculate the NDVI index across the landscape, providing invaluable insights into the health and productivity of the local flora. This task is a critical payload capture, essential for our ongoing environmental monitoring program, ensuring that we're able to track changes and support sustainable development initiatives in this vibrant part of Colombia.
+
+Given the urgency of this request, we need the data by tomorrow's overnight block at the latest. Our deadline is strictly set for today's target day, with a strict delivery deadline to ensure the products are ingested into our pipeline before the night falls. We're aiming for high-resolution optical imagery that will serve as a true-color visual documentation of the region, offering a detailed snapshot of the landscape under daylight conditions.
+
+As this task carries significant importance and contractual value, we're requesting an authoritative approach in its execution. We're committed to adhering to our baseline pipeline tracking setup with fixed parameters, representing a standard operational status for our team. This is not just another task; it's a part of our ongoing workflow update that reinforces our dedication to providing accurate and timely data to support decision-making processes.
+
+Please note that this request is a non-essential background filler task, which we're treating as a flexible schedule opportunity. We understand the importance of maintaining operational efficiency and are prepared to drop or reschedule this task at our convenience, treating it as an opportunistic survey or testbed tracking task where necessary.
+
+Thank you for your attention to this matter. We appreciate your swift action and look forward to collaborating with you on this important mission.
+
+Best regards,
+
+[Your Name]
+[Your Position]

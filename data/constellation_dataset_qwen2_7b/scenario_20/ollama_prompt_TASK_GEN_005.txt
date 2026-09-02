@@ -1,0 +1,15 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a high-resolution optical snapshot of Pavullo nel Frignano, located in beautiful Italia. Our objective is to obtain clear daylight photography that captures the essence of this charming city. The mission is classified as medium importance, meaning it's part of our standard operational tasking but with a twist of urgency.
+
+We aim to execute this tasking by capturing an active radar scan using an advanced microwave surface imaging system. This will allow us to pierce through any heavy weather conditions and capture ground geometry in detail. The primary goal is to gather data on water body boundaries and assess soil moisture levels, which are crucial for environmental monitoring.
+
+The deadline for delivering the data products is set by the target day, which is three days from now, with a strict delivery deadline set for the evening block. We understand this deadline represents a strict operational limit for data availability and we're committed to meeting it.
+
+Your mission is to ensure that the products are ingested into our pipeline before the specified evening timeframe. This is not just any background survey or testbed tracking task; it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your professional approach and timely delivery in fulfilling this request.
+
+Thank you for your attention to detail and commitment to meeting our operational needs. We look forward to receiving the data products on time, allowing us to proceed with our analysis and decision-making processes accordingly.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,12 @@
+Good day to all mission planners,
+
+I'm reaching out with a standard operational tasking request for a high-resolution optical snapshot of Indonesia, specifically focusing on Bukit Anda, which is currently experiencing significant environmental changes due to ongoing development projects. This task aims to capture clear optical imagery and true-color visual documentation that will provide critical insights into the landscape and urban developments.
+
+The primary sensor involved will be our VIS sensor, which will yield detailed images suitable for daylight photography and provide us with an accurate representation of the region's geography and environmental conditions. We are looking to perform this tasking during the afternoon on a date four days from now, ensuring that the data products are ready by then at the latest.
+
+This request is part of our baseline pipeline tracking setup and represents normal operational status. It involves fixed parameters that align with our standard workflow updates and contractual obligations. We appreciate your attention to this task's importance and aim to deliver it in a manner that supports our baseline monitoring activities without causing any disruptions to other missions.
+
+Thank you for your cooperation and understanding. Please let us know if there are any questions or adjustments needed for this request.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,7 @@
+Your urgent operational tasking requires an absolute institutional priority, as it involves a critical payload capture for our satellite constellation planner. We aim to acquire a high-resolution optical snapshot of the region named "Città di Castello", located in the beautiful country of Italia. This daylight photography will serve as a true-color visual documentation essential for our baseline pipeline tracking setup.
+
+The primary sensor requirement is VIS, which will provide us with clear optical imagery that captures the essence of this stunning location during the day. We are looking to penetrate heavy weather conditions and capture ground geometry using this active radar scan technique, which utilizes microwave surface imaging capabilities.
+
+The deadline for delivering these data products is set with strict urgency; we need them by "in four days in the morning" at the latest. This means that our products must be ingested into the pipeline before the morning of the target day to ensure timely processing and analysis.
+
+This tasking request represents a binding contract requirement involving normal operational status and contractual value, emphasizing an urgent operational execution and an un-preemptable mission lock for this "critical payload capture". We appreciate your attention to this high-priority importance request and look forward to your cooperation in meeting our deadline.

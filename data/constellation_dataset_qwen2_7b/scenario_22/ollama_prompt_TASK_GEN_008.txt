@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. 
+
+I'm reaching out with a standard operational tasking for your team. Our mission involves capturing high-resolution optical snapshots of a specific area in Tre Fasci, Italia. We're looking to obtain clear daylight photography and true-color visual documentation to document the region's landscape and urban structures. Given its importance, we consider this request as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for delivering these data products is set for three days from now, in the morning. We aim to ensure that the products are ingested into the pipeline before then, meeting our standard workflow update requirements. This task falls under our commercial tasking and must be handled with due care and attention to detail.
+
+Thank you for your prompt attention to this request. We appreciate your team's professionalism and efficiency in managing such tasks.
+
+Best regards,
+[Your Name]

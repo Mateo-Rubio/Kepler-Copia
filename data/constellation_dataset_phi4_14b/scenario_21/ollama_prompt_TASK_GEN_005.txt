@@ -1,0 +1,3 @@
+We have an absolute institutional priority mission that requires a non-negotiable, critical payload capture over the region known as Norte. This task involves obtaining near-infrared reflection data for water body boundary mapping and soil moisture assessment, which is crucial for our operations. Given its high importance, this is a binding contract requirement with an urgent operational execution mandate, ensuring no rescheduling or preemption is possible.
+
+The mission must be completed with a strict delivery deadline set for in three days during the afternoon. This is essential to maintain our workflow and meet our contractual obligations. Please ensure that the data products are ingested into the pipeline before this time frame to avoid any operational disruptions.

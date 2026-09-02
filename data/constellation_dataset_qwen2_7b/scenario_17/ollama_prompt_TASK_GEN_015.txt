@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a task for an operational priority that falls under medium importance. Our mission involves capturing data using a near-infrared sensor to map water bodies and assess soil moisture levels in the region of Kepulauan Meranti, Indonesia. This is a standard operational tasking that needs to be carried out with fixed parameters representing normal operational status.
+
+Our objective is to obtain high-quality data products by utilizing the near-infrared sensor for water body boundary mapping and soil moisture assessment. The data must be ready by the target day, which is in four days, with a strict delivery deadline set for around mid-day. This mission is part of our baseline pipeline tracking setup, where we aim to ensure that the products are ingested into the pipeline before the specified time.
+
+Please note that this request carries a medium priority level and adheres to the guidelines provided for mission allocation priorities. We appreciate your attention to the operational context and the deadline constraints. Thank you for your cooperation in this matter.

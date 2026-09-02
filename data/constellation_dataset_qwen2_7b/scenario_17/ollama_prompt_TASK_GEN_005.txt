@@ -1,0 +1,15 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an absolutely critical payload capture request that demands your utmost attention. Our institutional priority is high as we require a thermal mapping operation for Norte, a location in the region where detailed heat signatures and surface temperature profiles are essential. This task is part of a binding contract requirement that involves capturing thermal anomalies and mapping heat emissions with precision.
+
+The primary sensor for this mission will be our TIR (Thermal Infrared) instrument, which will provide us with invaluable data for understanding the thermal dynamics of the area. This operation needs to be executed with utmost care as it involves assessing the heat signatures across the region, ensuring that we can identify any anomalies or patterns that might be crucial for our ongoing research.
+
+We're targeting the day after tomorrow, with a strict delivery deadline set for the morning. The data must be ready by then, as per our operational deadlines. This is not just a routine monitoring task; it's a baseline pipeline tracking setup with fixed parameters that represent our normal operational status. However, given its critical importance, we're treating this request as an urgent operational execution.
+
+Please ensure that the products are ingested into our pipeline before the deadline to avoid any potential delays in processing and analysis. We appreciate your quick response and the dedication of your team in meeting this demanding schedule.
+
+Thank you for your understanding and cooperation in this matter.
+
+Best regards,
+[Your Name]
+[Your Position]

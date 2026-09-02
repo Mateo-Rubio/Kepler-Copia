@@ -1,0 +1,10 @@
+Good day, satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Barrancabermeja, Colombia, in the morning of tomorrow. This is an absolute institutional priority involving a critical payload capture that requires our utmost attention. The imagery needs to be ready by tomorrow's overnight block at the latest. We're dealing with daylight photography, clear optical imagery, and true-color visual documentation for this task. This request carries significant weight and must not be overlooked; it involves a binding contract requirement and mandatory directive for our team.
+
+Our primary sensor is set to VIS mode, which means we're aiming for a detailed view of the area using high-resolution optical data. We're looking forward to receiving thermal mapping data with a heat signature, surface temperature profile, or thermal anomaly detection capabilities provided by the satellite constellation. This task has been allocated a priority level of 3 due to its high importance.
+
+The deadline for delivering the data products is set for tomorrow morning, ensuring they are ingested into our pipeline before that time. We're treating this as an urgent operational execution and an un-preemptable mission lock. Our request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status, but it's important to note that we have the flexibility to drop or reschedule this task based on our convenience.
+
+Thank you for your attention to this matter. We appreciate your prompt response and look forward to receiving the data products by tomorrow morning as per our deadline.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a task for an important commercial monitoring operation involving the use of Near-Infrared (NIR) sensors. Our focus is on capturing detailed information about water body boundaries and soil moisture levels in Ketapang, Indonesia, which is located in the country's rich tropical landscape.
+
+Given the medium importance level of this task, I'm framing it as a standard operational tasking that will be part of our baseline pipeline tracking setup. We're looking for fixed parameters representing normal operational status and a workflow update that aligns with our current monitoring activities.
+
+Our priority is to ensure that the data products are ready by tomorrow morning at the latest. The deadline is set for delivery by tomorrow, ensuring that the information we gather will be ingested into our pipeline before that time. This is critical for our ongoing environmental studies and agricultural assessments in the region.
+
+Please note that this task carries a medium level of importance and should be treated as a standard operational request with a flexible schedule for opportunistic capture if necessary. We appreciate your attention to this matter and look forward to receiving the data products promptly.
+
+Thank you for your cooperation and please let us know if you need any further information or adjustments to this request.

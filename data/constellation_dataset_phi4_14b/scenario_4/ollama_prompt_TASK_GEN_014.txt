@@ -1,0 +1,3 @@
+We have an absolute institutional priority to capture a thermal mapping of the Norte region in Italia. This mission is a critical payload capture, involving a binding contract requirement for a heat signature analysis and surface temperature profile. The task demands an urgent operational execution with an un-preemptable mission lock on the satellite assets.
+
+The objective is to obtain high-quality thermal anomaly detection data, crucial for mapping heat emissions across this area. This request is non-negotiable and must be completed with a strict delivery deadline set for in three days in the morning. The data products are needed by then at the latest to ensure they are ingested into the pipeline before that time.

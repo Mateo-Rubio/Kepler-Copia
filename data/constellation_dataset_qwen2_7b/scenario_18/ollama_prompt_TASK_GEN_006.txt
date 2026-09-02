@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with an operational request on behalf of our Earth observation mission team. We're tasked with capturing a multispectral vegetation analysis using the VNIR sensor for Indonesia, specifically focusing on the city of Ecuatorial. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index, providing us with surface reflectance data that will be invaluable for our ongoing research.
+
+Given the importance of this task, I'm marking it as a low priority request, acknowledging that it can be accommodated within our flexible schedule. We understand that this is not an urgent mission, but we would appreciate your assistance in scheduling this task as a background survey or testbed tracking task. 
+
+We're requesting that you ensure the data products are ingested into our pipeline before tomorrow's afternoon period, adhering to the strict deadline set for us. This will allow us to analyze and utilize the data effectively without compromising the quality of our research outcomes.
+
+Thank you for your attention to this matter and we look forward to your confirmation of receipt and scheduling details. 
+
+Best regards,
+[Your Name]

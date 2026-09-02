@@ -1,0 +1,11 @@
+Given the operational guidelines, let's formulate a request for the Earth-observation mission:
+
+---
+
+[Operator's Name] here requests the automated satellite constellation planner to capture a high-resolution optical snapshot of the region known as "Ecuatorial". This daylight photography aims to provide clear optical imagery and true-color visual documentation that will serve as essential data for our ongoing projects. The mission is categorized under Priority Level 1, making it a low priority importance task with a flexible schedule for opportunistic capture. We explicitly note that this request can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor to be utilized in this mission is VIS (visual imagery). The goal is to assess the health of vegetation by capturing the chlorophyll absorption level and calculate the NDVI index for surface reflectance. This multispectral analysis will provide valuable insights into the environmental conditions and help us make informed decisions regarding our projects.
+
+The deadline for delivering the data products is set for the day after tomorrow, with a strict delivery deadline marked for "overnight". This means that the products must be ingested into our pipeline before the day after tomorrow's overnight block. We understand the urgency of this task and are committed to ensuring that the captured data meets our requirements.
+
+---

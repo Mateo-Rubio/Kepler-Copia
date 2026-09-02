@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner,
+
+I'm reaching out with a task request for an Earth observation mission that involves capturing a multispectral vegetation analysis using the VNIR sensor. Our objective is to assess the chlorophyll absorption levels and calculate the NDVI index in the region of El Paujil, Colombia. This is a low priority importance request, which means we're treating it as a flexible schedule background survey task.
+
+To provide you with the most accurate data possible, I'm targeting tomorrow's mid-day period for this mission. Our deadline is strict, ensuring that the products are ingested into our pipeline before the data capture concludes at around mid-day. Please note that this deadline might be challenging to extend, so we're looking for an opportunistically scheduled capture with a slight flexibility in scheduling.
+
+Thank you for your attention and cooperation. We appreciate your support in delivering the best possible data products for our needs.

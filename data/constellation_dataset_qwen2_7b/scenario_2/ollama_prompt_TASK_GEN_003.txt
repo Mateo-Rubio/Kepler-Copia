@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out from an Earth-observation mission operator here on Earth, looking to leverage your advanced satellite constellation capabilities. Our objective is to capture a detailed radar scan of the Ecuatorial region in Indonesia using an active SAR system. We're interested in obtaining high-resolution microwave surface imagery that can penetrate heavy weather conditions and provide us with a clear view of ground geometry.
+
+This request falls under our low priority importance category, implying that while it's not an absolute institutional priority or a binding contract requirement, we do have a need for this data to be part of our baseline pipeline tracking setup. We're looking at standard operational parameters and are treating this as a "non-essential background filler task" with a flexible schedule.
+
+The urgency here is in the delivery timeframe; we require the data products by tomorrow's overnight period at the latest, ensuring that they are ingested into our pipeline before the deadline is met. This means we're aiming for data availability by the end of tonight, considering "overnight" as the critical time frame for delivery.
+
+Thank you for your attention to this request. We appreciate your expertise in satellite operations and look forward to your assistance in fulfilling this task.

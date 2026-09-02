@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out to request a critical payload capture for an observational mission involving thermal mapping in Colombia. Our target region is Apartadó, focusing on capturing the heat signature of the area around mid-day on the day after tomorrow. This task is considered a low priority importance request, with a flexible schedule and treated as a non-essential background filler task. We understand that the deadline for delivering the data products is strict and needs to be met by the specified target day and diurnal period.
+
+The primary sensor involved in this mission will be the TIR sensor, which will capture thermal anomalies and map heat emissions across the area of interest. Our objective is to gather a comprehensive surface temperature profile that can help us identify any significant thermal variations or anomalies that might indicate unique phenomena or conditions.
+
+Given the nature of this request, we kindly ask for your understanding that this task may be dropped or rescheduled at convenience if it impacts the operational workflow or pipeline tracking setup. We appreciate your cooperation in ensuring that the products are ingested into our system before the specified target day and diurnal period.
+
+Thank you for your attention to this matter. We look forward to receiving confirmation of the mission allocation and the expected data delivery timeline. Should there be any questions or further details required, please feel free to reach out. 
+
+Best regards,
+[Your Name]

@@ -1,0 +1,5 @@
+Good day to you! I'm reaching out on behalf of our Earth-observation mission, looking to capture a near-infrared reflection snapshot for water body boundary mapping and soil moisture assessment in the region surrounding Calderara di Reno, Italia. This task is of low priority importance and can be scheduled as a flexible background survey or testbed tracking task.
+
+The goal is to obtain high-resolution optical imagery that captures the essence of our surroundings using daylight photography techniques, ensuring clarity and true-color visual documentation for our purposes. Our request comes with a deadline for data availability set by three days from now, around mid-day, with a strict delivery deadline in mind. This means we need the data products ingested into our pipeline before the night falls on that particular day.
+
+Thank you for considering our request. We appreciate your understanding and cooperation in meeting this operational guideline. Kind regards!

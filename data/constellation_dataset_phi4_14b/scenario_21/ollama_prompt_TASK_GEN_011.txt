@@ -1,0 +1,1 @@
+I need to schedule a standard operational tasking for a multispectral vegetation analysis over Bagno a Ripoli, Italy. This is part of our baseline pipeline tracking with fixed parameters, focusing on assessing chlorophyll absorption levels and calculating the NDVI index. Please ensure that the data products are ingested into the pipeline before tomorrow around mid-day.

@@ -1,0 +1,10 @@
+Hello there, satellite constellation planner! I'm reaching out with a task request that's quite important to our Earth observation mission. We're looking to capture high-resolution optical imagery of San Martín, Colombia using a VNIR sensor. This is akin to taking a detailed snapshot of the region during daylight hours, ensuring we get clear and true-color visual documentation.
+
+The mission carries a low priority importance, but we'd appreciate it if you could schedule this task as a flexible background survey or testbed tracking task. Our operational guidelines suggest treating this as a non-essential background filler task where we can drop or reschedule at our convenience. 
+
+We're aiming to have the data products ingested into our pipeline before the target day, which is in three days and specifically by the morning. This deadline is crucial for us to meet our internal workflow update requirements without impacting our baseline pipeline tracking setup.
+
+Thank you for your attention to this request. We're eager to see the results of this VNIR sensor's capabilities over San Martín, Colombia. Looking forward to your confirmation on this task allocation. 
+
+Best regards,
+[Your Name]

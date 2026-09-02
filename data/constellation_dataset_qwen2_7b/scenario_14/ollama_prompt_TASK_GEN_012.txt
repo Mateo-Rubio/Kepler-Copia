@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners. We're looking to capture a thermal mapping of an area known as Ecuatorial City, which is in a region we'll call "Ecuatorial" for simplicity. This task falls under medium importance and involves using the Thermal Infrared (TIR) sensor for an active radar scan. The goal is to obtain a heat signature or surface temperature profile that will help us detect thermal anomalies and map heat emissions accurately.
+
+We're aiming for a high-resolution optical snapshot as well, which will provide us with true-color visual documentation of the region during daytime hours. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We require this data by the day after tomorrow, in the evening, at the latest. This deadline is crucial for ensuring the products are ingested into our pipeline before that time.
+
+Please note that we're treating this as a standard operational tasking and will consider it part of our routine monitoring activities. The priority level reflects the importance of this mission allocation authority and asset contractual value, indicating that while it's not an urgent operational execution or an un-preemptable mission lock, it does carry a sense of importance for our workflow update.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting these requirements.

@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of El Retorno, Colombia, for daylight photography purposes. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. It's essential that we assess the clear optical imagery and true-color visual documentation of this location. 
+
+We aim to deliver these data products by the day after tomorrow, around mid-day, ensuring they are ingested into our pipeline before then. This task is treated as a non-essential background filler task where we can drop or reschedule at convenience if needed. Please note that this deadline is strict and cannot be extended.
+
+Thank you for your attention to this matter.

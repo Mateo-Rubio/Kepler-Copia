@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a multispectral vegetation analysis for the region of Rokan Hilir, Indonesia. This involves assessing chlorophyll absorption levels and calculating the NDVI index for surface reflectance. Given that it's a low priority importance request, we understand that this task can be scheduled flexibly and treated as a background survey or testbed tracking task.
+
+Our objective is to gather high-resolution optical snapshots of daylight photography, clear optical imagery, and true-color visual documentation to support our ongoing monitoring efforts. We aim to ensure the products are ingested into the pipeline before tomorrow's evening block at the latest. This data will be crucial for our background analysis, providing insights into vegetation health and land use.
+
+Please note that this is a non-essential background filler task, and we appreciate your understanding in scheduling it according to your operational capacity. Thank you for your attention to this matter.

@@ -1,0 +1,12 @@
+Good day to our satellite constellation team,
+
+I'm reaching out with a standard operational tasking request for a near-infrared (NIR) scan of an area in Colombia, specifically focusing on San Carlos de Guaroa. This mission is of medium importance and involves capturing detailed information about water bodies and soil moisture levels.
+
+Our objective is to gather high-resolution data that will help us assess water boundaries and soil moisture conditions accurately. The imagery should be as clear as possible, with a focus on near-infrared reflections for optimal differentiation between various land types.
+
+We're looking to have this data in our hands by the target day, which is four days from now, around mid-day. This deadline is critical for our baseline pipeline tracking setup, and it's important that we adhere to fixed parameters for normal operational status.
+
+Please ensure that the products are ingested into our pipeline before the set deadline to maintain our standard workflow update without any delays. We appreciate your cooperation in making this mission a success.
+
+Thank you,
+Your Earth-observation mission operator

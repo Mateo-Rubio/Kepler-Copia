@@ -1,0 +1,12 @@
+Hello there,
+
+I'm reaching out to request a low-priority importance task for our Earth observation mission. This is a background survey that doesn't require immediate attention but will be beneficial for our ongoing research projects. The mission involves capturing data using the VNIR sensor, which aims to perform multispectral vegetation analysis on the region of Borgo San Lorenzo, located in the beautiful country of Italia.
+
+Our objective is to gather information about chlorophyll absorption levels and calculate the NDVI index along with surface reflectance data for this area. We're looking for high-resolution optical snapshots that will provide us with clear optical imagery and true-color visual documentation to better understand the vegetation dynamics in this region.
+
+We're requesting that this task be executed on the day after tomorrow, ensuring that the products are ingested into our pipeline before morning. This timeframe aligns with our operational guidelines and respects the deadline for data delivery.
+
+Thank you for your attention to this matter. We appreciate your flexibility and understanding regarding this low-priority importance request.
+
+Best regards,
+The Earth Observation Mission Operator

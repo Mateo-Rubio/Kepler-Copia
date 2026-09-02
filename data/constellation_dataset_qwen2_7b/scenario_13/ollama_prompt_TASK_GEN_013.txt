@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're looking to capture high-resolution optical imagery of the city of Campo Capote, located in Colombia. The primary sensor required for this task is the VNIR system, which will provide us with a detailed view of vegetation health and land cover using its multispectral capabilities.
+
+This task falls under medium importance as per our priority level guidelines, meaning it's part of our standard operational pipeline tracking with fixed parameters. We're aiming to capture this data during the afternoon hours of tomorrow, ensuring that all products are ingested into our pipeline before then. 
+
+Please note that this request adheres strictly to our deadline without any extensions or alterations. We appreciate your team's attention to detail and adherence to our operational guidelines for timely and accurate data delivery.
+
+Thank you for your cooperation and we look forward to receiving the data promptly.

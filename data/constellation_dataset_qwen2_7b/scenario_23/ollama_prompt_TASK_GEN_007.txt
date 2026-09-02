@@ -1,0 +1,5 @@
+We're looking to capture a detailed radar scan of La Cumbre, Colombia, using our advanced SAR technology. Our mission aims to provide you with cloud-penetrating imagery that captures ground geometry and terrain details, essential for your project's requirements. This is a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The data must be ready by the specified deadline, which is in four days during the evening timeframe. We're setting a strict delivery deadline for this request to ensure the products are ingested into your pipeline before the target day's evening block. This task is a routine monitoring activity that contributes to our standard workflow updates.
+
+Please note that while we strive to accommodate all requests, this specific task falls under medium importance and might have flexible scheduling implications. We understand that there may be opportunities to adjust or reschedule this task based on your operational needs. However, we'll ensure it's completed by the deadline you've set for us.

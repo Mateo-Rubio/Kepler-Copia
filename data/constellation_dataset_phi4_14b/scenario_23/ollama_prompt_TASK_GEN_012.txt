@@ -1,0 +1,3 @@
+I would like to submit a standard operational tasking for a near-infrared reflection mission over Malinau, Indonesia. The objective is to perform water body boundary mapping and soil moisture assessment in this region as part of our baseline pipeline tracking. This task falls under routine monitoring with fixed parameters representing normal operational status.
+
+The data products from this mission are required by the afternoon the day after tomorrow at the latest. Please ensure the products are ingested into the pipeline before this deadline.

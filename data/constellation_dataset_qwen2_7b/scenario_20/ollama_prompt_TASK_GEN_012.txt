@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a multispectral vegetation analysis for an area of interest located in Malaysia, specifically in the city of Tatau. Our objective is to assess the chlorophyll absorption levels and calculate the NDVI index to understand the health and density of vegetation across this region. This task is part of our ongoing environmental monitoring program.
+
+We're requesting a "low priority importance" mission allocation with flexible scheduling options to fit into our background survey requirements. The data collection should ideally take place around mid-day tomorrow, ensuring that the products are ingested into our pipeline before the deadline set for that day.
+
+Thank you for your attention and cooperation in this matter.
+
+Best regards,
+[Your Name]

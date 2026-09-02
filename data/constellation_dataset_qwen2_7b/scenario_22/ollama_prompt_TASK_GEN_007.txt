@@ -1,0 +1,14 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a mission allocation for an important task involving our SAR sensor. We're focusing on a specific area in Colombia, particularly in Sesquilé, which requires detailed radar scanning for critical infrastructure monitoring.
+
+Our priority is set to 'low importance', meaning this task is more of a background survey or testbed tracking task. However, we understand the urgency and have explicitly noted that this request has a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task where we can drop or reschedule at our convenience.
+
+The operational objective here is to perform an active radar scan using microwave surface imaging technology. Our goal is to capture cloud-penetrating imagery that will help us understand ground geometry and gather essential data for decision-making processes.
+
+With the deadline set for 'in three days' by 'overnight', we're ensuring that the products are ingested into our pipeline before this time frame. This task is crucial for maintaining baseline pipeline tracking and contributing to our standard workflow updates.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting these requirements promptly and efficiently.
+
+Best regards,
+[Your Name]

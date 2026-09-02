@@ -1,0 +1,12 @@
+Hello,
+
+I'm reaching out to request a task for an Earth observation mission focusing on the region of Colombia, with a specific emphasis on the city of Sácama. The primary sensor required for this task is the Near-Infrared (NIR), which will enable us to capture essential data for water body boundary mapping and soil moisture assessment.
+
+This request holds low priority importance and should be treated as a non-essential background filler task, with a flexible schedule for opportunistic capture. I would like to emphasize that this task is subject to a strict deadline; we need the data products by the target day, which is in three days, at the latest in the morning.
+
+I understand that the deadline represents an operational limit for delivering the data products to the user and not an orbital capture window. We aim to ensure that these products are ingested into our pipeline before the specified time frame.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

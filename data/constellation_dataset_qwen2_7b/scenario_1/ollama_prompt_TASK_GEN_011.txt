@@ -1,0 +1,13 @@
+Good day to our satellite constellation team,
+
+I'm reaching out with a request for an operational tasking to capture a detailed view of Grottaferrata, Italy, using our SAR sensor. Our mission's priority level is set at 'low importance', which means we're looking for a flexible schedule that allows us to capture this information without any strict urgency.
+
+The goal here is to perform an active radar scan over the region using microwave surface imaging technology. This will allow us to obtain a comprehensive understanding of the ground geometry, penetrating through any heavy weather conditions that might be present. We're particularly interested in capturing data that can help us identify features on the ground that might not be visible under normal daylight conditions.
+
+We need this data by tomorrow evening at the latest. This deadline is crucial for our baseline pipeline tracking setup and represents a fixed parameter that we must adhere to. It's important to note that this tasking falls under our 'non-essential background filler task' category, meaning it can be dropped or rescheduled as per your convenience.
+
+Thank you for your attention to this request. We appreciate your cooperation in ensuring the products are ingested into our pipeline before tomorrow evening.
+
+Best regards,
+
+[Your Name]

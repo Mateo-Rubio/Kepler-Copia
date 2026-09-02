@@ -1,0 +1,12 @@
+Greetings to our automated satellite constellation planner,
+
+Our mission at hand requires your immediate attention for an operational task of medium importance. We aim to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia, focusing on daylight photography and clear optical imagery. This is not merely a routine monitoring task but a standard operational assignment that falls within our baseline pipeline tracking setup.
+
+The data must be acquired using our primary sensor, which in this case is a VIS sensor, ensuring detailed and accurate true-color visual documentation of the area. We are looking to capture these images during the afternoon period on the target day, which is three days from now. This deadline is strict; we need the imagery by that time at the latest.
+
+Please be aware that this request carries normal operational status and represents a fixed parameter within our workflow update process. However, should unforeseen circumstances arise, please consider this task as flexible and treat it with the importance of a background survey or testbed tracking task.
+
+Thank you for your attention to detail and adherence to our operational guidelines. We trust in your capability to deliver the required data products within the set parameters.
+
+Best regards,
+[Your Name]

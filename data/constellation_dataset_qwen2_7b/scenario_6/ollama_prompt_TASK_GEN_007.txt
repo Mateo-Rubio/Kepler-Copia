@@ -1,0 +1,8 @@
+Good day, satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Zipaquirá, Colombia, specifically from the country's capital city, using our visible light sensor (VIS). This is a standard operational tasking that requires us to obtain clear daylight photography and true-color visual documentation of the area.
+
+Considering the importance of this mission, we're setting a strict deadline for delivery. We need these data products by the target day, which is four days from now, around mid-day at the latest. This is part of our baseline pipeline tracking setup with fixed parameters that represent our normal operational status and workflow update.
+
+Thank you for your attention to this request. We appreciate your cooperation in ensuring the products are ingested into the pipeline before the set deadline. If there are any issues or delays, please note that this task has a medium priority level and can be dropped or rescheduled at convenience as it's a non-essential background filler task.
+
+Best regards,
+[Your Name]

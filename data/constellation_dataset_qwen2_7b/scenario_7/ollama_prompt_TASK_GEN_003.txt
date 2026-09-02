@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out to request an urgent task for an operational mission involving Malaysia's Bukit Mabong region. This is a high-importance task, so please treat it with the utmost priority and importance.
+
+Our primary sensor requirement is an active radar scan using microwave surface imaging to capture cloud-penetrating data. We're seeking clear and detailed imagery that will help us understand ground geometry and terrain specifics under any weather conditions. This is absolutely essential for our operations, as we need to ensure safety and efficiency in the area.
+
+The deadline for this task is set for tomorrow during the afternoon. We require your team to deliver the data products by then at the latest, as it's a binding contract requirement involving a critical payload capture. This mission lock is non-negotiable and must be executed with the highest level of urgency and professionalism.
+
+Please ensure that the data is ready for our pipeline ingestion before tomorrow's afternoon timeframe. We're counting on your team to meet this deadline and deliver the data products as specified. Thank you in advance for your attention to this matter.
+
+Best regards,
+[Your Name]

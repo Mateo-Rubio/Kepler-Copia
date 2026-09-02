@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a mission allocation for an urgent operational tasking involving the Petreto-Bicchisano region in France. As per our contractual agreement, this is a binding requirement with a high priority level, indicating that it's an absolute institutional priority and involves a critical payload capture.
+
+Our primary sensor of interest is the SAR (Synthetic Aperture Radar), which will be conducting an active radar scan using microwave surface imaging techniques. The goal here is to penetrate heavy weather conditions and capture ground geometry for our purposes. This task requires us to obtain high-resolution imagery that can help us understand the terrain and structures beneath the clouds.
+
+We're looking at tomorrow's morning period, with a strict delivery deadline set for the data products by tomorrow night. It's crucial that these thermal mapping capabilities are utilized to capture heat signatures and surface temperature profiles, which will aid in thermal anomaly detection and mapping heat emissions.
+
+This request is classified as a low priority importance task with flexible scheduling, meaning we can drop or reschedule this at our convenience. We're treating it as a background survey or testbed tracking task that doesn't affect the core operations of our mission.
+
+Please ensure that all data products are ingested into our pipeline before tomorrow night to meet our operational needs. Thank you for your attention to this matter, and we look forward to your prompt response.

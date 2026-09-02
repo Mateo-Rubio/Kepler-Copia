@@ -1,0 +1,14 @@
+Good day to all satellite planners and mission operators,
+
+I'm reaching out with a standard operational tasking for our automated satellite constellation planner. Our priority is set at medium importance, implying that this request involves normal operational status and fits into the baseline pipeline tracking setup.
+
+Our focus area is in Indonesia, specifically within the city of Banyuasin. We aim to conduct thermal mapping using TIR sensors for capturing heat signatures and surface temperature profiles. The goal is to identify thermal anomalies and map heat emissions across the region.
+
+The deadline for this tasking is set for the day after tomorrow, with a strict delivery deadline scheduled for the morning hours. This means that we need the data products ingested into the pipeline before the morning of the day after tomorrow to ensure timely processing and analysis.
+
+This request is part of our routine monitoring efforts to gather essential information that will contribute to our ongoing projects without compromising the operational schedule. We appreciate your attention to this matter and look forward to receiving the data products as per the outlined specifications.
+
+Thank you for your cooperation and prompt action in fulfilling this tasking.
+
+Best regards,
+[Your Name]

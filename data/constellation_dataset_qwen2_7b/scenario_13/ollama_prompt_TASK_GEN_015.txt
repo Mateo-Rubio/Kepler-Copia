@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task for your team that involves capturing high-resolution optical imagery of Bulungan, Indonesia, which is located in the country of Indonesia and notably recognized for its lush landscapes and diverse flora. We're aiming to obtain clear daylight photography to document the region's beauty and natural resources.
+
+This request is classified as a low priority importance task, meaning it can be accommodated within your flexible schedule without disrupting any critical operations. We're looking for an opportunistic capture that doesn't have strict deadlines attached to it, allowing us to drop or reschedule if needed at our convenience. 
+
+The deadline for this data set is set for the target day, which is four days from now, with a strict delivery deadline in the morning. Our goal is to ensure that the products are ingested into the pipeline before this time frame ends.
+
+Please note that we're utilizing a primary sensor of VIS (visual imagery), which will provide us with true-color visual documentation of the area. This data will be crucial for background survey tasks and can serve as a testbed tracking task to assess environmental conditions and natural resources in Bulungan, Indonesia.
+
+Thank you for your attention to this matter and I look forward to receiving confirmation on this task's status. 
+
+Best regards,
+[Your Name]

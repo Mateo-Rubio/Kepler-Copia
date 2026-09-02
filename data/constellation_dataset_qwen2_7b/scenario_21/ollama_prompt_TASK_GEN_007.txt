@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner for a highly important mission allocation. The primary sensor involved is VNIR, which will be used for a detailed multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index across the region of interest in Colombia, specifically the city of Aguadas. This mission is considered an "absolute institutional priority" due to its critical payload capture requirements.
+
+The operational guidelines dictate that we must adhere to specific language structures for each element of the task request:
+
+Geographic Context: "In Colombia, within the vibrant city of Aguadas, we aim to capture high-resolution optical snapshots during daylight hours for clear photographic documentation and true-color visual records."
+
+Mission Allocation Priority: This request embodies an "urgent operational execution" and an "un-preemptable mission lock," reflecting the "critical payload capture" aspect required by our contractual obligations.
+
+Sensors and Physical Objectives: The VNIR sensor will be utilized to perform multispectral vegetation analysis, providing insights into the health of the flora and the overall vegetation cover in the region.
+
+Relative Timeframes: We are strictly bound by a deadline that requires the data products to be ingested into the pipeline before tomorrow's morning hours. This deadline is crucial for meeting our operational commitments without any extensions or alterations.
+
+In summary, we are requesting that this task be executed with the utmost priority, ensuring that the VNIR sensor captures detailed images of the vegetation in Aguadas, Colombia, during daylight hours tomorrow morning. The data must be ready by this deadline to fulfill our contractual obligations and maintain our institutional priorities.

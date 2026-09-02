@@ -1,0 +1,12 @@
+Good day to all mission planners and satellite operators,
+
+I'm reaching out with a task request for an Earth observation mission, focusing on a specific location in Italy, particularly in the charming town of Gazzola. Our primary sensor requirement is a VNIR (Visible Near-Infrared) camera for detailed multispectral vegetation analysis, aiming to assess chlorophyll absorption levels and calculate the NDVI index for environmental monitoring purposes.
+
+The urgency of this task cannot be overstated, as it's classified under low priority importance but with a flexible schedule. We're looking to capture high-resolution optical snapshots as daylight photography or true-color visual documentation to provide clear imagery that can help us understand the local ecosystem dynamics.
+
+Our deadline is set for the target day, which is in three days, with the strict delivery deadline being in the morning. This means we need to ensure the products are ingested into our pipeline before then, adhering to the operational guidelines and ensuring that we capture the necessary data without exceeding the deadline.
+
+Thank you for your attention to this request, and I look forward to your prompt action to fulfill these requirements.
+
+Best regards,
+[Your Name]

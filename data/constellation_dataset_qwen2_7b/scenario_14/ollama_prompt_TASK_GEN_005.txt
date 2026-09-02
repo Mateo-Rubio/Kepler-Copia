@@ -1,0 +1,12 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out with a request for a high-resolution optical snapshot of the region named "Blera", located in the beautiful country of Italia. The imagery we're aiming to capture should be clear, true-color visual documentation that will help us understand the landscape and urban environment during daylight hours.
+
+This task is classified as a low priority importance request, which means that while it's not an urgent operational execution, it still requires our attention. We're flexible with scheduling and can drop or reschedule this at our convenience, treating it as a background survey or testbed tracking task.
+
+Our deadline for the data products to be ingested into the pipeline is set for "in four days" during the afternoon. This means that we need the imagery by then, ensuring that the products are available before this specific time frame.
+
+Thank you for your cooperation and understanding in handling this request.
+
+Best regards,
+[Your Name]

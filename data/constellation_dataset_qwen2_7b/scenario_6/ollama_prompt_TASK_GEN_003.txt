@@ -1,0 +1,5 @@
+Good day to you! I'm reaching out on behalf of an Earth-observation mission operator seeking your assistance in scheduling a critical task for the satellite constellation. The mission involves capturing thermal mapping data using our TIR sensor, focusing on the region of Indonesia with the city of Malinau as our primary point of interest. We're looking to gather detailed information about heat signatures and surface temperature profiles in this area.
+
+As this is a low priority importance request, we're treating it as a flexible schedule task, allowing us to drop or reschedule at your convenience. Our target day for delivering these data products is the day after tomorrow, with a strict delivery deadline set for that day's morning block. We aim to ensure the products are ingested into our pipeline before the deadline.
+
+Thank you for considering our request. We appreciate your understanding and flexibility in accommodating this task within your operational schedule.

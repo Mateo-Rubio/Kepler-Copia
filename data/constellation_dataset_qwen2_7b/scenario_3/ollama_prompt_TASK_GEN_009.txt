@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking to capture a highly detailed and accurate image of Kapuas Hulu, Indonesia, using an active radar scan for microwave surface imaging purposes. This task is of utmost importance as it involves cloud-penetrating capture and ground geometry assessment which are critical for our ongoing project. We require this data by the day after tomorrow in the morning at the latest to ensure timely delivery and integration into our baseline pipeline tracking setup.
+
+This request carries a high level of priority, signifying an absolute institutional requirement that must be met without any compromise. It's not just about capturing the data but ensuring it meets our fixed parameters representing normal operational status with no room for deviation. This is a binding contract requirement involving a mandatory directive and an urgent operational execution which cannot be pre-empted or delayed.
+
+We're looking to capture this thermal mapping, aiming to detect heat signatures and surface temperature profiles as well as mapping heat emissions. This task involves assessing the chlorophyll absorption level through multispectral vegetation analysis or calculating a vegetation NDVI index and surface reflectance, all of which are essential for our project's success.
+
+Please ensure that the data products are ingested into our pipeline before the day after tomorrow in the morning to meet our strict deadline. We appreciate your immediate attention to this request as it is a non-essential background filler task with a flexible schedule that can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+Thank you for your cooperation and understanding. We look forward to receiving the data promptly and ensuring its seamless integration into our operational workflow.

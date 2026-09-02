@@ -1,0 +1,10 @@
+Hello there! I'm reaching out with a task request that involves capturing thermal data from a specific location in Colombia. The region of interest is Riofrío, nestled within the beautiful landscapes of this country. Our primary sensor for this mission will be the Near-Infrared (NIR) camera, which will provide us with essential information about water body boundaries and soil moisture levels.
+
+Our operational guidelines suggest that we should frame this request as a "low priority importance" task with a flexible schedule for "opportunistic capture". This means we aim to conduct this survey at our convenience but understand that it's not an absolute institutional priority or a binding contract requirement. We're looking to gather this data by the evening on the day three days from now, ensuring the products are ingested into our pipeline before that time.
+
+The goal here is to assess water body boundaries and soil moisture levels using near-infrared reflection data. This will help us understand the current state of water resources and soil conditions in Riofrío. We'll be focusing on capturing thermal anomalies and mapping heat emissions, which could provide valuable insights into environmental changes and agricultural health.
+
+Thank you for your attention to this request. If you have any questions or need further clarification, please feel free to reach out. Looking forward to your support in making this task a success!
+
+Best regards,
+Your Earth-observation Mission Operator

@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a critical payload capture involving thermal mapping for an area of interest in Huasanó, Colombia. Given its high importance, I emphasize that this task must be treated as an absolute institutional priority with a binding contract requirement. We aim to capture a heat signature and surface temperature profile to identify any thermal anomalies.
+
+Our primary sensor will be the TIR, which is essential for assessing heat emissions from the ground. The operational deadline is set for three days from now, with a strict delivery deadline for the data products by the morning of that day. We need these data ingested into our pipeline before the deadline is met to ensure timely analysis.
+
+Please allocate resources accordingly and ensure this task gets the highest priority in your scheduling. Given its nature as a low priority importance request, we understand if it needs to be rescheduled or dropped at convenience if other critical tasks are prioritized. However, please treat this as a non-essential background filler task that can be accommodated within your baseline pipeline tracking setup with fixed parameters.
+
+Thank you for your attention to this matter. We look forward to receiving the data products in line with our operational guidelines and deadlines.
+
+Best regards,
+[Your Name]

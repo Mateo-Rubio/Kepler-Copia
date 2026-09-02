@@ -1,0 +1,5 @@
+We're tasked with capturing a thermal mapping of Santa Helena del Opón, Colombia using our thermal imaging sensor. This is a low priority importance request, so we'll treat it as a flexible schedule background survey or testbed tracking task. The goal is to assess the heat signature and surface temperature profile for this region, which will be crucial for thermal anomaly detection and mapping heat emissions.
+
+The deadline for delivering the data products is set for three days from now, with a strict delivery deadline in the morning. We aim to ensure that the products are ingested into our pipeline before then, so we can process and analyze the data efficiently without any delays.
+
+Please note that this task is not an absolute institutional priority or a binding contract requirement involving a critical payload capture or mandatory directive. It's more of a non-essential background filler task with a flexible schedule for opportunistic capture. We'll proceed with the task as soon as possible, respecting our operational guidelines and deadlines.

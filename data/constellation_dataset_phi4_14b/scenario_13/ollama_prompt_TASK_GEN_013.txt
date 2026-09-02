@@ -1,0 +1,3 @@
+I need to schedule a standard operational tasking for a multispectral vegetation analysis over Campo Capote, Colombia. This is part of our baseline pipeline tracking and involves capturing chlorophyll absorption levels and calculating the NDVI index. The request falls under our routine monitoring category with fixed parameters, representing a normal workflow update.
+
+We require this high-resolution optical snapshot during the afternoon of tomorrow at the latest. Please ensure that the data products are ingested into the pipeline before the afternoon deadline on that day.

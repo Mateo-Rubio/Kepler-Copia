@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request that falls under the category of a low priority importance task, which is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Our focus region is Colombia, specifically the city of Ibagué. The mission allocation priority is set at level 1, indicating this is a non-essential background filler task.
+
+Our primary sensor requirement is for near-infrared (NIR) observations. The goal here is to assess soil moisture and water body boundaries using this technology. This request aligns with our ongoing vegetation health monitoring program, which requires a detailed assessment of the land's moisture content and water body delineation.
+
+The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline scheduled for the morning block. We aim to ensure that the products are ingested into our pipeline before this time frame ends. Please note that due to the nature of this task being a low priority importance request, we have explicitly noted that it can be dropped or rescheduled at your convenience if necessary.
+
+Thank you for your attention to this matter. We appreciate your cooperation and understanding in meeting these operational guidelines. Looking forward to your confirmation on our task allocation. Have a great day!

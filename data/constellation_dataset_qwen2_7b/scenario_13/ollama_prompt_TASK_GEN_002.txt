@@ -1,0 +1,7 @@
+Good day, satellite constellation planners. I'm reaching out with a request for an Earth observation mission that's of low priority importance but requires some flexibility in scheduling. The task involves capturing a multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index over an area located in Moncalieri, Italia. This location is near a significant landmark that contributes to its unique environmental characteristics.
+
+The primary objective is to gather detailed information about the vegetation health and density, which will be crucial for agricultural planning and environmental monitoring. Given the nature of the task, it's classified as a non-essential background filler activity with a flexible schedule. However, I want to ensure that this task doesn't interfere with more critical operations.
+
+Our deadline for receiving the data products is set for four days from now, around mid-day. This means we need the information by the end of the day on that particular date at the latest. It's important to note that we're not looking to extend the deadline; we must adhere to this timeline for effective integration into our baseline pipeline tracking setup.
+
+Thank you for your attention and cooperation in fulfilling this request. I appreciate your understanding of its low priority status and the importance of adhering to the specified timeframe. Let's work together to ensure a smooth and timely execution of this task.

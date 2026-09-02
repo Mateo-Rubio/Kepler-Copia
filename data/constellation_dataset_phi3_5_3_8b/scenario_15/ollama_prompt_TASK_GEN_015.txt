@@ -1,0 +1,1 @@
+We are initiating a background tracking task with an infrared thermal mapping objective for Basa Ampek Balai Tapan in Indonesia. This is not of high priority, so please consider dropping or rescheduling it at your convenience. We need the data by tomorrow morning at the latest to ensure it's ingested into our analysis pipeline on time.

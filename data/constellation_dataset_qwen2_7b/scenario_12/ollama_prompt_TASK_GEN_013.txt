@@ -1,0 +1,11 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request an observational task for a region in Colombia, specifically focusing on the city of Cantagallo. The primary objective is to capture a high-resolution optical snapshot for daylight photography and true-color visual documentation of this area. As this is a low priority importance request, we're treating it as a flexible schedule opportunity to perform a background survey or testbed tracking task.
+
+The deadline for delivering the data products is set within three days, with a strict delivery deadline for the evening hours. We aim to ensure the products are ingested into our pipeline before the evening timeframe on the target day. This task is not an urgent operational execution but rather a non-essential background filler task that we can drop or reschedule at convenience.
+
+Thank you for your attention and cooperation in fulfilling this request.
+
+Best regards,
+
+[Your Name]

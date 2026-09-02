@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners! We're looking to capture an active radar scan using microwave surface imaging for an area in Ecuatorial, Indonesia. This is part of a routine monitoring tasking that's essential for baseline pipeline tracking and is represented by normal operational status with fixed parameters.
+
+The primary objective here is to penetrate heavy weather conditions and capture ground geometry with precision, which aligns well with the capabilities offered by our SAR sensor. We're aiming for high-resolution optical imagery to ensure clear visibility and true-color documentation of the region, which will be crucial for our ongoing project.
+
+With this request, we're targeting the day after tomorrow, specifically in the evening, as our deadline for data availability. We understand that there's a strict delivery deadline set for this tasking, ensuring that the products are ingested into the pipeline before the specified time. This is a low priority importance request with a flexible schedule, meaning it can be dropped or rescheduled at convenience if necessary.
+
+Thank you for your attention to this matter and we look forward to receiving the data products in due course.

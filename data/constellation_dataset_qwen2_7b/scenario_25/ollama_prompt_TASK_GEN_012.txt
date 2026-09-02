@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a critical task for our Earth observation mission. Our team is in need of a high-resolution optical snapshot from the VNIR sensor over Indonesia, specifically around the equatorial city of Ecuatorial. This imagery will serve as a true-color visual documentation to assess chlorophyll absorption levels and surface reflectance.
+
+This task carries low priority importance but must be treated with flexibility for scheduling. We're looking to capture this data on the day after tomorrow, ensuring that the products are ingested into our pipeline before mid-day. The deadline is set firmly for this time slot to meet our operational requirements.
+
+Thank you for your attention and assistance in fulfilling this background survey task. We appreciate your understanding of the flexible schedule and look forward to receiving the data promptly.
+
+Best regards,
+[Your Name]

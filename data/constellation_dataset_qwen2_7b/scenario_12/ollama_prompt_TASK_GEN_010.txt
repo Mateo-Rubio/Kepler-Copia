@@ -1,0 +1,14 @@
+Good day, esteemed satellite constellation planner. I hope this message finds you well.
+
+I'm reaching out to request a task for an Earth observation mission that involves capturing data using a near-infrared sensor. Our objective is to gather information about soil moisture and water body boundaries in the region of San Alberto, Colombia. The city is nestled within the lush landscapes of this beautiful country, known for its rich biodiversity and vibrant culture.
+
+Given the importance of this task, I'm designating it as a low priority importance request. We understand that there's flexibility in scheduling, and we can drop or reschedule this task at your convenience if necessary. This mission serves as a background survey to help us better understand environmental conditions without disrupting our primary operations.
+
+We're looking to obtain the data products by the day after tomorrow during the afternoon hours, with a strict delivery deadline set for that date. It's crucial that these products are ingested into our pipeline before we reach the target day and afternoon period to ensure timely analysis and decision-making.
+
+Thank you for your attention to this task. I appreciate your expertise in managing our satellite constellation and ensuring that we receive the data we need for our ongoing research and monitoring efforts. If there are any questions or further details required, please don't hesitate to reach out. 
+
+Best regards,
+
+[Your Name]
+[Your Position]

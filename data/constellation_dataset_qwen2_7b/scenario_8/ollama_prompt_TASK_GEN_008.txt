@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Greve in Chianti, Italia, using VNIR sensors. This is an absolute institutional priority, as it involves a critical payload capture for our baseline pipeline tracking setup. Our standard operational tasking requires us to assess the chlorophyll absorption levels and calculate the NDVI index for this area.
+
+Please ensure that the data products are ingested into our pipeline before our strict delivery deadline set for [target_day] [target_diurnal_period]. We need these by tomorrow's overnight block at the latest. This is a binding contract requirement involving a mandatory directive for our routine monitoring needs, and we cannot pre-empt this mission lock.
+
+Thank you for your attention to this high-importance task.

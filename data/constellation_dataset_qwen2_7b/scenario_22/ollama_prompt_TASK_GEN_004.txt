@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking at a high-priority task involving the National Institute of Colombia, specifically in Uribe city. The mission is centered around capturing a near-infrared (NIR) reflection for water body boundary mapping and soil moisture assessment. This request is an absolute institutional priority, implying that it involves a critical payload capture with a mandatory directive that must be executed urgently.
+
+The operational context is to ensure that the data products are ingested into our pipeline before the deadline set for the target day in the evening. The task requires us to provide a detailed thermal mapping of the area, capturing heat signatures and surface temperature profiles, which will help in detecting thermal anomalies related to water bodies and soil moisture.
+
+As this is a binding contract requirement, we need to emphasize that this task has a strict deadline set for delivery by our target day in the evening. This deadline cannot be extended or altered under any circumstances. We understand that this is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, but given its high priority, we must ensure that all processes are expedited without compromising quality.
+
+We appreciate your team's attention to detail and quick response times in fulfilling such critical tasks. Let's work together to meet this deadline and deliver the necessary data products for our client's review.
+
+Thank you for your cooperation.

@@ -1,0 +1,15 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a critical payload capture for an absolute institutional priority involving a high-resolution thermal mapping mission. The objective is to assess heat signatures and surface temperature profiles of a specific region in northern Italy, specifically the city of Norte. As part of our baseline pipeline tracking setup with fixed parameters, this task is essential for normal operational status and represents a mandatory directive.
+
+The primary sensor for this mission will be the TIR (Thermal Infrared) instrument, which will capture thermal anomalies and map heat emissions across the region. We aim to gather this data in the form of high-quality thermal images that can help us identify hotspots and temperature variations, crucial for our ongoing monitoring activities.
+
+Our deadline for delivering these data products is set for three days from now, with a strict mid-day target period at the latest. This means we need the data ingested into our pipeline before the day ends to ensure timely analysis and integration into our operational workflows.
+
+Please prioritize this request as an urgent operational execution and treat it as an un-preemptable mission lock. We understand the importance of adhering to this deadline, as it is critical for maintaining the integrity and effectiveness of our monitoring capabilities.
+
+Thank you for your attention to this matter, and we look forward to your timely response and successful completion of this task.
+
+Best regards,
+
+[Your Name]

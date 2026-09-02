@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners, we're looking at a task that's quite important for us. We need a high-resolution optical snapshot of the Ecuatorial region in Indonesia, which is essentially daylight photography or clear optical imagery for a critical payload capture. The request comes with a flexible schedule, as it's tagged under low priority importance and can be treated as a background survey or testbed tracking task.
+
+We aim to capture this visual documentation by the target day, which is three days from today, preferably in the morning. This means we need the data products ingested into our pipeline before the end of the overnight block on that day. We're looking for a true-color visual record that will serve as evidence of the region's landscape and condition.
+
+Thank you for your attention to this task, and please ensure it's marked with the appropriate priority level in your system to reflect its importance but also allow for some flexibility in scheduling. Your expertise in delivering such requests efficiently is greatly appreciated.

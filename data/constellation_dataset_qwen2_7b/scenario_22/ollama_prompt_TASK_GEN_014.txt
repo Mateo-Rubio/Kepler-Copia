@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission, focusing on the beautiful region of Italia, specifically around the charming town of Pradis di Sopra / Pradis Dadalt. The objective of this mission is to capture a high-resolution optical snapshot that will provide us with clear daylight photography and true-color visual documentation of the area. This task is of low priority importance, allowing for a flexible schedule where we can drop or reschedule it at our convenience.
+
+The operational deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline being in the morning. We aim to ensure that the products are ingested into our pipeline before this time, adhering to the deadline constraints without altering or extending them.
+
+Thank you for your attention and cooperation in fulfilling this request. If you have any questions or need further clarification, please let me know.

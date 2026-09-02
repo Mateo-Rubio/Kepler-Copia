@@ -1,0 +1,11 @@
+Good day to our satellite constellation planners,
+
+We're requesting a standard operational tasking for a high-resolution optical snapshot over the beautiful region of Follo, Italia. Our primary sensor is set to capture clear daylight imagery that will serve as true-color visual documentation of the area, providing us with valuable insights into its landscape and environment.
+
+Given the importance of this task, we consider it to be of medium priority level. We understand that our deadline for delivering the data products is set for tomorrow during the afternoon. This means that the satellite should deliver the captured images before the end of the day, ensuring they are ingested into our pipeline by then.
+
+We appreciate your attention to this standard operational task and look forward to receiving the results that will contribute to our baseline pipeline tracking setup. Thank you for your cooperation in meeting this fixed parameter requirement.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,12 @@
+Good day to all satellite mission planners! I'm reaching out with a high-priority request on behalf of our Earth observation team. Our focus is on a critical payload capture involving thermal mapping for a region in Colombia, specifically the city of Bolívar. This task is tagged as an "absolute institutional priority" due to its importance and contractual obligations.
+
+Our primary sensor requirement is the TIR (Thermal Infrared) sensor, which will be used to capture heat signatures across the area. Our goal is to gather detailed thermal data that can help us identify surface temperature profiles and potential thermal anomalies that could indicate significant environmental changes or issues.
+
+With this request, I'm emphasizing the urgency of our deadline. We need this data by the target day, which is in three days, with a strict delivery deadline set for overnight. This means we're looking at delivering our products before the end of the night on the target day to ensure they are ingested into our pipeline before the deadline.
+
+This task falls under our baseline pipeline tracking setup, representing normal operational status and workflow updates. However, given its high priority level, it's imperative that this request is treated with the utmost importance and executed without any delays.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this critical mission allocation. Let's work together to deliver these highly realistic and conversational English requests that maximize naturalness and validation accuracy in our dataset.
+
+Best regards,
+[Your Name]

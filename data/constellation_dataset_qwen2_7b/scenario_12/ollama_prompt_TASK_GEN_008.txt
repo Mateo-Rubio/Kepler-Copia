@@ -1,0 +1,9 @@
+Good day to all satellite mission planners. I'm reaching out with a task that needs your attention. We're looking to capture high-resolution optical imagery of Norte city, which is part of our ongoing environmental monitoring program. The primary sensor required for this mission is the Near-Infrared (NIR) sensor, focusing on mapping water bodies and assessing soil moisture levels.
+
+Our request carries a low priority importance, which means it's flexible in scheduling and can be accommodated based on your operational convenience. However, it's crucial to ensure that the data products are ingested into our pipeline before tomorrow morning. This deadline is non-negotiable as it aligns with our strategic planning processes for background survey tasks.
+
+With this request, we're seeking a true-color visual documentation of Norte city's water bodies and soil conditions to support our ongoing environmental studies. The imagery should capture the necessary details to discriminate gradients and provide insights into the health of local water bodies and soil moisture levels.
+
+Please note that this task is part of a non-essential background filler task, which can be dropped or rescheduled at your convenience without impacting our core operations. We appreciate your understanding and cooperation in meeting this deadline for tomorrow morning.
+
+Thank you for your attention to this matter. We look forward to receiving the data products that will contribute to our comprehensive environmental monitoring efforts.

@@ -1,0 +1,9 @@
+Good day to all satellite operators and mission planners. I'm reaching out with a task that needs immediate attention due to its low priority importance but requires adherence to strict operational deadlines. The request involves capturing a high-resolution optical snapshot of Norte, which is located in an unspecified country. This daylight photography aims to provide clear optical imagery for true-color visual documentation purposes.
+
+The mission is categorized as a low priority importance task with a flexible schedule, and it's considered a non-essential background filler task. However, it's crucial that we adhere to the deadline for data availability. The deadline is set for today, with the target diurnal period being overnight. This means that the data must be ready by tomorrow's overnight block at the latest.
+
+We're looking for an active radar scan using microwave surface imaging capabilities provided by our SAR sensor. The goal here is to perform a cloud-penetrating capture, ensuring that we can observe ground geometry even under heavy weather conditions. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that this request does not involve any critical payload capture or mandatory directives; it's more about gathering routine monitoring data. The main objective is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for multispectral vegetation analysis, which will help us understand surface reflectance.
+
+Let's ensure that all tasks are prioritized according to their importance levels and deadlines. I appreciate your understanding and cooperation in meeting this request efficiently. Thank you.

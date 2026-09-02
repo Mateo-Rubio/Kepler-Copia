@@ -1,0 +1,3 @@
+I am submitting an absolute institutional priority tasking for a high-resolution near-infrared reflection mission over Valle-di-Rostino, France. This critical payload capture is a binding contract requirement to conduct water body boundary mapping and soil moisture assessment in the region. The operation must be executed with urgent operational execution and an un-preemptable mission lock to ensure no rescheduling or dropping of this task.
+
+The data products from this mission are essential for our workflow and must be ingested into the pipeline before the day after tomorrow evening at the latest. This strict delivery deadline is non-negotiable, and we rely on your immediate attention to this high-importance request.

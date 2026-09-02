@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at a standard operational tasking for tomorrow's evening period, which involves an active radar scan using microwave surface imaging technology. Our focus is on the city of Majangkan in Indonesia, where we aim to capture cloud-penetrating imagery that will pierce through any heavy weather conditions. This mission is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. We've designated this request as a standard tasking operation with 'Majangkan, Indonesia' as the geographic context.
+
+The priority level for this task is set to medium importance, indicating it's a standard operational task that requires attention but is not an urgent requirement. The deadline for delivering the data products is strictly set for tomorrow evening and must be met without any extensions. We're looking forward to receiving high-quality data that will contribute to our ongoing monitoring efforts.
+
+Please ensure that the data products are ingested into the pipeline before the deadline, allowing us to analyze them promptly. This task is a part of our routine monitoring activities, contributing to our comprehensive understanding of the region's environmental conditions and supporting decision-making processes.
+
+Thank you for your attention to this request.

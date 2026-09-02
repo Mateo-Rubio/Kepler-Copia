@@ -1,0 +1,5 @@
+We have an absolute institutional priority task requiring a binding contract compliance for a critical payload capture. The mission is to conduct a multispectral vegetation analysis over Borgo Valsugana, Italy, using VNIR sensors. This entails assessing chlorophyll absorption levels and calculating the NDVI index to provide detailed surface reflectance data.
+
+This task holds high importance and must be executed with urgent operational execution. It is an un-preemptable mission lock, requiring immediate attention and prioritization over other tasks.
+
+Please ensure that this critical data is captured and delivered by the day after tomorrow around mid-day at the latest, aligning with our strict delivery deadline. This will guarantee the products are ingested into the pipeline before the specified timeframe.

@@ -1,0 +1,10 @@
+Good day! I'm reaching out to request a highly detailed thermal mapping task for the region of Indonesia, focusing on the city of Ecuatorial. Given its importance, this mission is classified as medium priority and involves critical operational considerations.
+
+Our primary sensor requirement is a Thermal Infrared (TIR) system, which will be used to capture heat signatures and surface temperature profiles across the region. This task aims to identify thermal anomalies and map heat emissions with precision, providing valuable insights into local environmental conditions and potential issues.
+
+The deadline for this task is set for the day after tomorrow, with a strict delivery deadline of evening hours. We're looking to ensure that the data products are ingested into our pipeline before the evening timeframe on the specified day, adhering to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting these requirements and ensuring that our task is executed as efficiently as possible. If there are any questions or adjustments needed, please feel free to reach out. Let's work together to achieve our goals and provide the necessary data products on time.
+
+Best regards,
+[Your Name]

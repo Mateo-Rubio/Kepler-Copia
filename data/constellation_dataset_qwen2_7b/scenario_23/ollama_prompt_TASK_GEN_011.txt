@@ -1,0 +1,7 @@
+Hello, automated satellite constellation planner. I'm reaching out on behalf of an Earth observation mission with a task request for a low priority importance survey in the beautiful region of Italia, focusing specifically on the charming city of Oderzo. Our objective is to capture a high-resolution optical snapshot using our VNIR sensor for daylight photography and true-color visual documentation of the area.
+
+Given our flexible schedule, this is classified as a non-essential background filler task that we can drop or reschedule at your convenience. The primary goal here is to assess the chlorophyll absorption level across various landscapes, which will help us calculate the vegetation NDVI index and understand surface reflectance patterns.
+
+We're aiming to gather these data products by the day after tomorrow, with a strict delivery deadline set for around mid-day. This ensures that they are ingested into our pipeline before we reach that point in time, allowing us to process them efficiently without any delays.
+
+Thank you for your attention and cooperation. We appreciate your support in helping us achieve our mission objectives while accommodating our low priority importance request.

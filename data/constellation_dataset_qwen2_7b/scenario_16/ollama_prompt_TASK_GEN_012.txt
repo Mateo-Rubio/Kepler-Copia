@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners, we're looking to capture a high-resolution SAR scan of Malaysia's Bukit Mabong region using an active radar system. This task is of utmost importance and requires immediate attention due to its critical payload capture nature. We aim to penetrate heavy weather conditions and capture ground geometry with precision.
+
+The urgency for this mission allocation is paramount, as we need the data by today's morning at the latest. This request is a binding contract requirement involving a cloud-penetrating capture that must be executed with the utmost priority. We are setting a strict deadline for data delivery, ensuring that the products are ingested into our pipeline before the target day's morning hours.
+
+The SAR scan will provide us with invaluable information about Malaysia's landscape and infrastructure, enabling us to make informed decisions based on detailed surface imaging. This task is part of an ongoing baseline pipeline tracking setup with fixed parameters representing normal operational status. However, due to its high priority level, we are treating this request as an urgent operational execution.
+
+Please ensure that the SAR data is captured and delivered by today's morning hours. We appreciate your cooperation in meeting this deadline and delivering accurate information that will contribute significantly to our ongoing projects. Thank you for your attention to this matter.

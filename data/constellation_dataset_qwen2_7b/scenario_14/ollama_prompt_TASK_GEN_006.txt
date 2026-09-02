@@ -1,0 +1,12 @@
+Good day to our satellite constellation team,
+
+We're looking to capture a high-resolution optical snapshot of Sintang, Indonesia's urban landscape for daylight photography purposes. Our goal is to gather clear optical imagery and true-color visual documentation of this region for further analysis.
+
+This task falls under the category of a low priority importance request, with flexible scheduling considerations. We're treating it as a non-essential background filler task that can be dropped or rescheduled at our convenience. However, we would appreciate if you could treat this as an opportunistic capture to ensure it aligns with our background survey and testbed tracking task requirements.
+
+Our deadline for acquiring these data products is set for the day after tomorrow, overnight. This means that we need the data by the time the sun rises on the following day to ensure they're ingested into our pipeline before the day's end.
+
+Thank you for your understanding and cooperation in this matter.
+
+Best regards,
+[Your Name]

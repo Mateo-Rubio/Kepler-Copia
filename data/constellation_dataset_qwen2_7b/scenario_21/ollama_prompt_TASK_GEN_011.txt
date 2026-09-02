@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking from our baseline pipeline tracking setup. We're looking to capture a high-resolution optical snapshot of Bagno a Ripoli in Italia, focusing on the vegetation for a multispectral analysis. Our goal is to assess the chlorophyll absorption level and calculate the NDVI index to understand surface reflectance patterns.
+
+This request carries a medium importance as it's part of our routine monitoring activities. We aim to deliver these data products by tomorrow around mid-day at the latest, ensuring they are ingested into the pipeline before then. This task is considered a fixed parameter in our normal operational status and represents a standard workflow update.
+
+Please note that this request has a flexible schedule; it's marked as a non-essential background filler task that can be dropped or rescheduled at convenience if needed. We appreciate your understanding and prompt attention to this matter, considering its importance within our operational framework. Thank you for your cooperation in this matter.

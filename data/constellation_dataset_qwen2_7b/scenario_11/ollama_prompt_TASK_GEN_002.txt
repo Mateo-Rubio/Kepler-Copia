@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'll make sure it's handled as smoothly and flexibly as possible. Our objective is to capture thermal mapping data for heat signature detection and surface temperature profiles using the TIR sensor.
+
+The location is in the beautiful region of Italia, specifically the charming city of Serravalle di Chienti. We're aiming to gather this data on the day after tomorrow during the afternoon period. This task falls under our background survey category and will be treated as a non-essential background filler task. We understand that it's not a critical payload capture or a mandatory directive, but we kindly request that you schedule this task for a flexible time slot if needed.
+
+Thank you for your understanding and cooperation in ensuring the products are ingested into the pipeline before our strict delivery deadline set for the day after tomorrow during the afternoon block. We appreciate your timely response and look forward to receiving the data.
+
+Best regards,
+[Your Name]

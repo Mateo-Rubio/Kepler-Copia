@@ -1,0 +1,5 @@
+Good day! We're looking to capture a high-resolution optical snapshot of Tanjung Saleh, Indonesia, for daylight photography purposes. Our primary sensor will be a VIS camera to provide clear visual documentation. This task is part of our standard operational pipeline and has been assigned medium importance.
+
+We aim to receive the data by tomorrow around mid-day at the latest. The imagery will be used for routine monitoring and baseline tracking purposes. We're focusing on capturing the landscape with fixed parameters representing normal operational status.
+
+Please ensure that the products are ready and ingested into our pipeline before tomorrow's mid-day timeframe, as per our strict deadline. This task is crucial for updating our database with fresh visual content from Tanjung Saleh. Thank you for your attention to this matter.

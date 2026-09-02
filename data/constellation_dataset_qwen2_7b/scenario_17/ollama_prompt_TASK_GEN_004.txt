@@ -1,0 +1,12 @@
+Hello satellite constellation planner,
+
+I'm reaching out with a background survey task for an upcoming project involving the observation of Caramanta, Colombia. Given our low priority importance and flexible schedule, this request is intended as a non-essential background filler task that can be scheduled at your convenience.
+
+Our primary sensor requirement is VNIR, which will be used for a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. This will help us understand surface reflectance patterns and provide valuable data for our project's objectives.
+
+The geographical context of Caramanta, Colombia, is crucial for this task, as it allows us to capture detailed information about the area's vegetation dynamics. Please ensure that your satellite captures this essential data by the target day, which falls three days from today, with a strict delivery deadline set for overnight at the latest.
+
+Thank you for your attention to this matter. We appreciate your cooperation and look forward to receiving the data products before our deadline.
+
+Best regards,
+[Your Name]

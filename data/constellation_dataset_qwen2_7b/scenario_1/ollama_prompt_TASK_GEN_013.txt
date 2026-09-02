@@ -1,0 +1,10 @@
+Hello there, satellite constellation planner! I'm reaching out with a task that's quite important for our Earth observation mission. We're looking to capture data from an area in Colombia, specifically Santa Rosa del Sur city. Our primary sensor requirement is near-infrared (NIR) technology, which will help us map water bodies and assess soil moisture.
+
+Considering the nature of this request, I'd classify it as a low priority importance task with a flexible schedule. We're treating this as a non-essential background filler task that can be dropped or rescheduled at your convenience. However, we do need to ensure that the data collection process adheres to our operational guidelines and respects the deadlines.
+
+The deadline for delivering the data products is set for the day after tomorrow, with a strict delivery deadline being in the morning. We're aiming to have the products ingested into our pipeline before that time frame. This task involves capturing thermal mapping, which will help us identify heat signatures and surface temperature profiles, as well as assess soil moisture.
+
+Thank you for your understanding and cooperation. We appreciate your efforts in ensuring this task is completed efficiently and within the specified timeframe. Looking forward to receiving the data promptly!
+
+Best regards,
+[Your Name]

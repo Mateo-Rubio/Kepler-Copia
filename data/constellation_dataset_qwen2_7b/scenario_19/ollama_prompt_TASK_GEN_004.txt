@@ -1,0 +1,10 @@
+Good day to our automated satellite constellation planner, we're looking to capture a detailed radar scan of the Colombian region, specifically focusing on the city of Antiguo ETCR La Guajira, known as Mariana Páez. This is a standard operational tasking for us, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We require this radar imagery to be as penetrating and comprehensive as possible, offering us insights into ground geometry regardless of weather conditions. We're aiming for high-resolution data that can help us understand the landscape beneath the clouds, ensuring that we capture every detail necessary for our baseline pipeline tracking.
+
+Please ensure that the SAR data is ready by tomorrow's overnight block at the latest. This deadline is strictly set due to operational constraints and must not be altered or extended in any way. We appreciate your team's expertise in handling such critical payloads and delivering them on time, as it forms part of our contractual obligations with Mariana Páez.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products before the deadline set for [target_day] [target_diurnal_period]. This will allow us to ingest them into our pipeline efficiently and proceed with our workflow updates accordingly. 
+
+Best regards,
+[Your Name]

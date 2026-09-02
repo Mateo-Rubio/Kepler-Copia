@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to your automated satellite constellation planner. Our objective is to capture highly realistic data using VNIR sensors for a critical payload capture involving daylight photography and true-color visual documentation of the region named 'Melgar', which is located in Colombia's lush landscapes. This request is given the high importance level, signifying an absolute institutional priority or a binding contract requirement that involves a mandatory directive.
+
+The operational deadline to deliver the data products is set for three days from now, with a strict delivery deadline for the afternoon period. This means we need the data by the latest during the next night/overnight block to ensure it's ingested into our pipeline before the set time frame ends. The importance of this task lies in assessing the chlorophyll absorption level and calculating the vegetation NDVI index, which will provide valuable insights into surface reflectance.
+
+Please allocate the necessary satellite resources for this mission allocation with the understanding that it represents a critical operational status or baseline pipeline tracking setup with fixed parameters. This is a standard operational tasking that requires urgent operational execution and cannot be preempted or rescheduled until completed.
+
+Thank you for your attention to this high-priority request.

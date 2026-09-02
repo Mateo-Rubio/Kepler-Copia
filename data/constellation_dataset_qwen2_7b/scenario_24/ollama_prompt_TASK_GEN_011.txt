@@ -1,0 +1,10 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out with a low priority importance task that requires your attention. The request pertains to a thermal mapping operation using near-infrared (NIR) sensors, focusing on the Campli region in Italia. We aim to capture the heat signature of the area during the afternoon of the target day which is four days from now. This task is designated as a non-essential background filler, with the understanding that it can be dropped or rescheduled at your convenience.
+
+The primary objective is to assess soil moisture levels and delineate water body boundaries using near-infrared reflection. We're looking for detailed thermal mapping data that will help us understand surface temperatures and detect any anomalies. This task doesn't have a stringent deadline, but we need the data products ingested into our pipeline before the target day's afternoon timeframe.
+
+Thank you for your understanding and cooperation in fulfilling this request.
+
+Best regards,
+[Your Name]

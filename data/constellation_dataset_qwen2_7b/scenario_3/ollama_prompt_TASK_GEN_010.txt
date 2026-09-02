@@ -1,0 +1,14 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request your assistance in capturing a highly realistic and detailed view of a specific area for an upcoming commercial tasking project. Our focus is on the region encompassing Colombia, with our primary interest centered around the vibrant city of Monterrey. As this request carries medium importance (Priority Level 2), it's essential that we receive a standard operational tasking with fixed parameters reflecting normal operational status.
+
+Our mission involves utilizing a Near-Infrared sensor to conduct a comprehensive assessment of water body boundaries and soil moisture levels in the region. This multispectral analysis aims to provide valuable insights into environmental conditions, enabling us to make informed decisions regarding potential agricultural activities or water management strategies.
+
+With a strict delivery deadline set for three days ahead in the morning (target_day: "in three days", target_diurnal_period: "in the morning"), we're looking forward to having the data products ingested into our pipeline before this time. Our objective is to ensure that these data are available for immediate analysis and integration into our baseline pipeline tracking setup.
+
+Please confirm your understanding of this request and advise on the steps required to proceed with the satellite constellation planning. We appreciate your attention to detail and adherence to operational guidelines, ensuring that our mission allocation priorities and timeframes are met efficiently and effectively.
+
+Thank you for your cooperation and support.
+
+Best regards,
+[Your Name]

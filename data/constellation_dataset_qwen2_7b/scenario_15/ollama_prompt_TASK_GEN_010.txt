@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a near-infrared reflection snapshot of the city of San Pablo, Colombia, for water body boundary mapping and soil moisture assessment. Our mission allocation is of medium importance, so it's essential that we receive this data by tomorrow's overnight block at the latest.
+
+Our primary sensor requirement is the near-infrared (NIR) band to provide us with critical information on water bodies and soil moisture levels. We're aiming for a high-resolution optical snapshot to ensure accurate mapping and assessment of these elements within the city.
+
+The deadline for delivering this data is set for tomorrow's overnight block, ensuring that our products are ingested into the pipeline before then. This task falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention and cooperation in meeting this request promptly.
+
+Best regards,
+[Your Name]

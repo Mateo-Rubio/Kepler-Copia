@@ -1,0 +1,9 @@
+Good day, Satellite Constellation Planner. I'm reaching out to request a high-resolution near-infrared (NIR) scan of the Kutai Kartanegara region in Indonesia. The goal is to capture detailed information about water body boundaries and soil moisture levels for an upcoming project deadline.
+
+Kutai Kartanegara, located in the heart of Indonesia, is known for its diverse landscapes and rich ecological systems. We're particularly interested in the near-infrared spectrum to assess water bodies and soil moisture content accurately. This data will be crucial for our analysis and decision-making process.
+
+Please schedule this task with a standard operational priority as part of our baseline pipeline tracking setup. We understand that this request falls under normal operational status, but we kindly request that you allocate resources accordingly without compromising quality or efficiency.
+
+We aim to have the data products ingested into our pipeline by tomorrow, around mid-day, at the latest. This deadline is critical for our workflow update and cannot be extended beyond this point.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring that our request is met with the necessary urgency and professionalism. Please let us know if there are any questions or adjustments needed regarding this task.

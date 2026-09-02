@@ -1,0 +1,9 @@
+Good day to all mission planners, we're looking at an urgent operational task requiring absolute attention due to its high importance. The mission is centered around capturing a thermal mapping snapshot of a specific location in Italy, specifically in the city of Latina. This is not just any routine monitoring; it's a critical payload capture with a binding contract requirement involved.
+
+The primary sensor for this mission will be utilizing TIR capabilities, aiming to provide us with a heat signature of the area, essentially a surface temperature profile or thermal anomaly detection, capturing heat emissions during the overnight period on tomorrow. This task is essential as we need the data products ready by tomorrow's overnight block at the latest.
+
+Our deadline is set for the day after tonight, ensuring the ingestion of these products into our pipeline before then. We're treating this as an "urgent operational execution" and an "un-preemptable mission lock". It's a high priority request that demands flexibility in scheduling but must not be rescheduled or dropped; it's part of our "non-essential background filler tasks".
+
+The deadline is strict, and we cannot extend it. We're looking for a professional, direct, and standard operational tone as this task fits into our baseline pipeline tracking setup with fixed parameters representing normal operational status. 
+
+Let's ensure that all necessary preparations are made to meet these requirements and deliver the data products on time. Thank you for your attention to this matter.

@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a high-resolution optical snapshot of the Ecuatorial region in Indonesia, captured during the afternoon light. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. We aim to ensure that the data products are ingested into our pipeline before the deadline set for four days from now.
+
+The primary sensor required for this task is VIS (visible imagery), which will provide us with clear optical imagery and true-color visual documentation of the region. This request falls under a non-essential background filler task, where we explicitly note to drop or reschedule at convenience if necessary.
+
+Please note that the deadline for delivering the data products is set for the afternoon of the target day, ensuring that they are ready by tomorrow's overnight block. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,1 @@
+We have a standard operational tasking for Piacenza, Italy, requiring a near-infrared reflection to map water body boundaries and assess soil moisture. This is part of our baseline pipeline tracking with fixed parameters, reflecting normal operational status. The data products need to be delivered by the afternoon in three days at the latest.

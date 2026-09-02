@@ -1,0 +1,5 @@
+I need to schedule an urgent mission over Northern Italy for a high-priority task. This is an absolute institutional priority, and it involves a critical payload capture of thermal mapping to detect any heat signatures or surface temperature profiles. We're looking for clear thermal anomaly detection in this region.
+
+The task requires an active radar scan using microwave surface imaging to ensure cloud-penetrating capture, even if there's heavy weather. This is a binding contract requirement with an un-preemptable mission lock, so it's crucial that we adhere to the strict deadline.
+
+Please make sure the data products are delivered by the afternoon in four days at the latest. This will ensure they're ingested into our pipeline on time. Thank you for prioritizing this critical operation.

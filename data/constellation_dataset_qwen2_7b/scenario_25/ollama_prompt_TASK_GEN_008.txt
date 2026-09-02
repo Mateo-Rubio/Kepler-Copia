@@ -1,0 +1,11 @@
+Good day, satellite constellation planner. I'm reaching out with a standard operational tasking for our satellite mission, which is part of our baseline pipeline tracking setup. Our priority here is medium importance, so please treat this request accordingly.
+
+Our objective is to capture high-resolution optical snapshots using the VNIR sensor for daylight photography and true-color visual documentation of an area in Prati di Tivo, Italia. This involves assessing chlorophyll absorption levels and calculating the vegetation NDVI index to understand surface reflectance.
+
+The specific geographic context we're focusing on is located within the beautiful region of Prati di Tivo, nestled within the picturesque landscape of Italia. We aim to capture comprehensive data that will serve as crucial inputs for our ongoing research and monitoring activities.
+
+We have set a strict deadline for this tasking, which requires that all the data products be ready by the target day, four days from now, during the afternoon. This means we need the satellite constellation to deliver the data with precision and reliability, ensuring it's ingested into our pipeline before the deadline.
+
+Please acknowledge receipt of this request and confirm that you will prioritize its execution in accordance with our operational guidelines. We appreciate your attention to detail and adherence to our priority levels, which are designed to reflect the importance of each task within our mission's hierarchy.
+
+Thank you for your cooperation and support in delivering high-quality data products that contribute to our scientific endeavors.

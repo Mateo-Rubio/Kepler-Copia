@@ -1,0 +1,12 @@
+Good day to all mission planners,
+
+We're looking to capture a near-infrared reflection snapshot of Norte city, which is part of our routine monitoring tasking. This imagery will help us assess soil moisture levels and water body boundaries in the area.
+
+Our priority for this task is medium importance, meaning it's a standard operational task that needs to be handled with professionalism and standard procedures. We aim to capture this data as part of our baseline pipeline tracking setup, ensuring fixed parameters are met for normal operational status.
+
+The deadline for delivering these data products is set for tomorrow evening, with a strict requirement that they must be ingested into the pipeline before then. This is not an extension or alteration of the deadline; it's a firm upper limit to ensure timely availability.
+
+Thank you for your attention and cooperation in meeting this request.
+
+Best regards,
+The Earth-observation Mission Operator

@@ -1,0 +1,5 @@
+Good day! I'm reaching out on behalf of an Earth-observation mission operator who needs your assistance in planning our satellite constellation. We're tasked with capturing a high-resolution near-infrared (NIR) reflection snapshot over the beautiful city of San José del Guaviare, located in the vibrant country of Colombia. This observation aims to map water body boundaries and assess soil moisture levels for environmental monitoring purposes.
+
+Given the nature of this request, we consider it as a low priority importance task with a flexible schedule for opportunistic capture. We acknowledge that there's no strict deadline for this mission, but we do appreciate any assistance you can provide before our target day arrives. Specifically, we're looking to have the data products ingested into our pipeline by tomorrow morning at the latest.
+
+Thank you in advance for your consideration and support in fulfilling this background survey task. We look forward to a successful collaboration that contributes to our ongoing research efforts. Please let us know if there's anything else you need from us or how we can assist you in optimizing our mission planning process.

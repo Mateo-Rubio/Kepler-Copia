@@ -1,0 +1,11 @@
+Good day to you! I'm reaching out as an Earth-observation mission operator, looking to translate raw physical simulation metadata into a highly realistic and conversational English request for your automated satellite constellation planner. Our objective is to provide a detailed task request based on the given JSON format.
+
+The geographical context of our mission involves Schweiz/Suisse/Svizzera/Svizra, more specifically the city of Rheinwald. We aim to capture thermal mapping data using near-infrared sensors (NIR) for an "essential background survey" that will help us assess soil moisture and water body boundaries in this region.
+
+Our priority level is set at medium importance, which means we're looking to perform a standard operational tasking with fixed parameters as part of our baseline pipeline tracking setup. This request represents normal operational status and should be treated as a "routine monitoring" activity.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline at the latest being in the evening. This deadline is crucial for ensuring that the products are ingested into our pipeline before the specified time frame.
+
+Please ensure that the data captured meets these requirements and is ready by the specified date and time. We appreciate your attention to this matter and look forward to collaborating with you on this task.
+
+Thank you for your prompt response and assistance in making this mission a success!

@@ -1,0 +1,20 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out with an urgent request based on our absolute institutional priority, as outlined in our contractual agreement. This mission involves a critical payload capture that demands our utmost attention and a binding directive for execution.
+
+Our objective is to conduct a near-infrared (NIR) reflection scan of the region surrounding Malaysia's Tatau city. This scan aims to provide us with valuable data on water body boundaries and soil moisture assessment, which will be crucial for our ongoing environmental monitoring efforts.
+
+We're looking for high-resolution optical snapshots that capture true-color visual documentation of the area during daylight hours. The primary sensor we're utilizing is designed to penetrate heavy weather conditions, ensuring cloud-penetrating capture of ground geometry with precision.
+
+Our deadline is set for tomorrow's overnight period, which means we need all data products ingested into our pipeline before the sun rises on that day. This timeframe represents a strict operational deadline, not an orbital window; it's imperative that we adhere to this deadline without any extensions.
+
+This tasking request is part of our baseline pipeline tracking setup, representing normal operational status and fixed parameters. We're looking for a standard workflow update that aligns with our commercial tasking and routine monitoring activities.
+
+We appreciate your swift attention to this matter and look forward to receiving the requested data products in time for our analysis. If any adjustments need to be made due to unforeseen circumstances, we kindly request that you communicate with us promptly so we can make necessary rescheduling or drop decisions at our convenience.
+
+Thank you for your cooperation and understanding.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Your Contact Information]

@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a task based on the operational guidelines provided in our JSON metadata for an Earth-observation mission. Our objective is to gather thermal mapping data using a TIR sensor for a location in Colombia, specifically in Puerto Wilches. This request falls under the 'low priority importance' category, implying that it's a flexible schedule task and can be treated as a 'background survey' or 'testbed tracking task'. 
+
+We aim to capture the heat signature of the area by conducting thermal mapping, which will help us detect surface temperature profiles and thermal anomalies. This is crucial for understanding heat emissions from various sources in the region.
+
+The location details indicate we're focusing on Puerto Wilches, Colombia, within the country's geographical context. We've set a deadline for tomorrow night, ensuring that the products are ingested into our pipeline before the 'overnight' period of tomorrow. Our primary goal is to gather this data by 'tomorrow overnight' at the latest.
+
+Thank you for your attention and cooperation in fulfilling this task request. If there are any questions or adjustments needed, please let us know. We appreciate your support in making this mission a success.

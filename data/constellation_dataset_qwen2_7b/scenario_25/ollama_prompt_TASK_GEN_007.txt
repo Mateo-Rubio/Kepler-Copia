@@ -1,0 +1,10 @@
+Good day, satellite constellation planners! I'm reaching out with a request for an Earth observation task that's quite important to us. We're looking at a location in Colombia, specifically in the city of Oiba, which is a small but significant spot for our operations. The mission involves capturing high-resolution data using a VNIR sensor, focusing on multispectral vegetation analysis. Our goal here is to assess the chlorophyll absorption level and calculate a vegetation NDVI index to understand surface reflectance patterns.
+
+This task carries low priority importance, so we're treating it as a flexible schedule opportunity or an opportunistic capture. We'd like to drop or reschedule this task at your convenience if necessary, considering it's part of our background survey or testbed tracking task.
+
+The deadline for delivering the data products is set quite strictly. We need these by tomorrow night, ensuring they're ingested into our pipeline before then. This deadline represents a strict operational requirement and not an orbital capture window; we understand the urgency and aim to meet it without extending this timeframe.
+
+Thank you for your attention to this task. We appreciate your support in helping us gather valuable data while respecting operational constraints. Have a great day!
+
+Best regards,
+[Your Name]

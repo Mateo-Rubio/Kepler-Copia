@@ -1,0 +1,7 @@
+Good morning! I'm reaching out to request a standard operational tasking from your satellite constellation planner. Our mission involves capturing a high-resolution optical snapshot of a location in Colombia, specifically in the city of Facatativá, using our VIS sensor. We aim to achieve clear daylight photography and true-color visual documentation for this area.
+
+Given the importance of this task, we're looking at it as part of our baseline pipeline tracking setup with fixed parameters that represent our normal operational status. This is a routine monitoring activity that's crucial for our ongoing projects in the region.
+
+We're setting a strict delivery deadline for these data products to be ingested into our pipeline by the day after tomorrow, in the morning. This ensures we meet our commitments and can proceed with further analysis without any delays.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring this task is executed efficiently and within the specified timeframe.

@@ -1,0 +1,5 @@
+Good day! I'm reaching out to request a critical task from our satellite constellation planner. The mission involves capturing thermal mapping data for a region in Colombia, specifically focusing on Concepción city. Our primary sensor is designed for TIR observations, which will help us assess surface temperature profiles and detect thermal anomalies.
+
+We're aiming to gather this essential information by tomorrow's overnight period at the latest, ensuring that our data products are ingested into the pipeline before then. This task falls under our low priority importance category, meaning it can be accommodated within our flexible schedule while maintaining our operational status. We understand the deadline is strict and appreciate your team's efforts to meet this requirement.
+
+Thank you for your attention to this background survey task. We look forward to receiving the data that will help us further our understanding of the region's thermal dynamics.

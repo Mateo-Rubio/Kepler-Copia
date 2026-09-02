@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out to request a high-resolution optical snapshot of Colombia's Sabana de Torres region for daylight photography purposes. This task is tagged as a low priority importance request with a flexible schedule for opportunistic capture. We're looking to assess clear optical imagery and true-color visual documentation to support our background survey needs.
+
+The deadline for delivering this data product is set for three days from now, with a strict delivery deadline marked for the morning hours. We understand that this is an absolute institutional priority and an un-preemptable mission lock, as it aligns with our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please ensure that the products are ingested into our pipeline before the specified timeframe. This task is part of a non-essential background filler task where we explicitly note to drop or reschedule at convenience if necessary. Thank you for your attention and cooperation in fulfilling this request.

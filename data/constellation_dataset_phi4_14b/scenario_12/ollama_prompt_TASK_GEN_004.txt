@@ -1,0 +1,1 @@
+We need a routine monitoring mission over La Paz, Colombia, focusing on thermal mapping to capture surface temperature profiles and detect any thermal anomalies. This is part of our baseline pipeline tracking and should adhere to standard operational parameters. The data products must be ingested into the pipeline before tomorrow evening at the latest.

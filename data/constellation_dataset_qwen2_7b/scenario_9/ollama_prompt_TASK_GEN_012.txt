@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a mission allocation for an Earth observation task with a low priority importance. This task involves capturing data using the Near-Infrared (NIR) sensor, which will be used for water body boundary mapping and soil moisture assessment. The objective is to gather detailed information about the water bodies and soil conditions in Malinau, Indonesia, as part of our ongoing background survey.
+
+The geographical context here is Indonesia, with a specific focus on the city of Malinau. We aim to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation to ensure that we can accurately assess the water bodies and soil moisture levels.
+
+We understand that this task has a deadline set for tomorrow morning, ensuring that the products are ingested into our pipeline before that time. As this is a non-essential background filler task, we appreciate your flexibility in scheduling and plan to drop or reschedule it at convenience if necessary.
+
+Thank you for your understanding and cooperation in meeting our request within the specified timeframe.
+
+Best regards,
+[Your Name]

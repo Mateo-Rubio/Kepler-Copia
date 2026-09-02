@@ -1,0 +1,10 @@
+Good day! As part of our standard operational tasking, we're looking to capture an active radar scan using microwave surface imaging for a cloud-penetrating capture of ground geometry. Our target location is the beautiful city of Pesisir Selatan in Indonesia, which holds a special place in our operational pipeline tracking setup.
+
+Please note that this request falls under medium importance, indicating a "standard operational tasking" or "commercial tasking" with fixed parameters representing normal operational status. We aim to ensure that the data is collected and ready for processing by tomorrow morning, adhering to our baseline pipeline tracking setup.
+
+We appreciate your attention to detail and timely execution in delivering this data product before the strict deadline set for tomorrow's overnight block. This will enable us to continue monitoring and maintaining our baseline performance indicators without any compromise on quality or efficiency.
+
+Thank you for your cooperation and understanding in this matter. We look forward to receiving the SAR data as soon as possible, so we can proceed with our analysis and ensure that all necessary actions are taken in a timely manner.
+
+Best regards,
+[Your Name]

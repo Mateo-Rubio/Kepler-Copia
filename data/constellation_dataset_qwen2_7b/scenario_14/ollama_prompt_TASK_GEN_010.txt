@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+We are tasked with capturing a high-resolution optical snapshot of Andina, Colombia, for a critical payload capture involving a vegetation health assessment. Our priority is absolute institutional importance, as this data will be used to determine the chlorophyll absorption level and calculate a vegetation NDVI index for environmental monitoring purposes.
+
+Our primary sensor is the VNIR, which allows us to assess the health of the vegetation by capturing the unique spectral signature in the near-infrared region. We require this information urgently, with a strict delivery deadline set for tomorrow's overnight block at the latest. This means that the data must be ready and available for ingestion into our pipeline before midnight tonight.
+
+We understand that this task carries significant weight due to its impact on environmental policy decisions and agricultural management strategies. Therefore, we request your team's full attention and commitment to ensure that this task is executed with the utmost priority and efficiency.
+
+Thank you for your understanding and swift action in fulfilling this urgent operational requirement.
+
+Best regards,
+[Your Name]

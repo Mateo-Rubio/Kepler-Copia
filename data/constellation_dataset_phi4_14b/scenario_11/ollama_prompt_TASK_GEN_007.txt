@@ -1,0 +1,1 @@
+I need a standard operational tasking for a high-resolution optical snapshot over Mapiripán, Colombia. This is part of our baseline pipeline tracking and involves capturing clear optical imagery during daylight photography. The delivery deadline is set for tomorrow afternoon at the latest, ensuring the products are ingested into the pipeline before then.

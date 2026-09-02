@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a multispectral vegetation analysis using VNIR sensors for our client in San Gil, Colombia. Our objective is to assess chlorophyll absorption levels and calculate the NDVI index for their area of interest. This task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+We understand the urgency of this request and aim to deliver the data products by the day after tomorrow, ensuring they are ingested into the pipeline before evening. Our client requires a high-resolution optical snapshot as daylight photography or true-color visual documentation to support their ongoing project.
+
+Please note that this is a standard operational tasking with a flexible schedule for opportunistic capture, treated as a background survey or testbed tracking task. Kindly ensure that this request does not interfere with any critical payload capture or mandatory directives and remains within our baseline pipeline tracking setup.
+
+Thank you for your attention to this matter, and we look forward to your confirmation on the execution of this task.

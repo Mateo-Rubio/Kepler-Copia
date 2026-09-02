@@ -1,0 +1,9 @@
+Good day to our satellite constellation team! We're reaching out with a task request for tomorrow's overnight period, specifically focusing on thermal mapping needs by Colombia's city of Bugalagrande. Our objective is to capture heat signatures and surface temperature profiles through a "TIR" sensor mission.
+
+This request carries low priority importance, allowing us flexibility in scheduling. Nevertheless, we're looking at this as a non-essential background filler task that can be accommodated within our operational pipeline tracking setup. We understand the importance of maintaining normal workflow parameters and will ensure this task doesn't interfere with more critical operations.
+
+We aim to achieve high-quality thermal imagery without compromising the integrity of our baseline monitoring processes. Please note that this is a "flexible schedule" request, which means it can be dropped or rescheduled at your convenience, treating it as an opportunistic survey or testbed tracking task.
+
+Please ensure that the data products are ingested into our pipeline before tomorrow's overnight period. We're aware of the deadline set for data availability, and we appreciate your commitment to meeting this requirement without altering or extending the deadline.
+
+Thank you for your attention to this matter. We look forward to your cooperation in fulfilling this request promptly and efficiently.

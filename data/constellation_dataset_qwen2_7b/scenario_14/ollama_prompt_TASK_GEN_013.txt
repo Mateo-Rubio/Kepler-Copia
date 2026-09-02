@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task that's been marked as a low priority importance request, which means we're looking for a flexible schedule for opportunistic capture. Our mission involves a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our objective is to conduct an active radar scan using microwave surface imaging technology. This "cloud-penetrating capture" aims to provide us with critical data on ground geometry and terrain features, which is essential for our ongoing projects. The task involves a high-resolution optical snapshot, a true-color visual documentation that will help us understand the daytime landscape vividly.
+
+We're focusing on a specific region in Colombia, where our attention is particularly drawn to Suratá. This location is of interest due to its unique geographical features and potential environmental changes we aim to monitor.
+
+The deadline for delivering this data product is set for three days from now, with a strict delivery deadline set for the evening. We're aiming to ensure that the products are ingested into our pipeline before the day ends, ensuring that they are available for immediate analysis.
+
+Thank you for your attention and assistance in fulfilling this request. We appreciate your cooperation in meeting our operational timeline.
+
+Best regards,
+[Your Name]

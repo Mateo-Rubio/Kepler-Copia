@@ -1,0 +1,3 @@
+We have a standard operational tasking for a commercial satellite mission over Indonesia, specifically focusing on the city of Majangkan. The mission involves an active radar scan using microwave surface imaging to capture cloud-penetrating data, which is crucial for our baseline pipeline tracking setup. This routine monitoring task has fixed parameters and represents a normal operational status update within our workflow.
+
+The data products are needed by tomorrow evening at the latest to ensure they are ingested into the pipeline before this strict delivery deadline. Please coordinate accordingly.

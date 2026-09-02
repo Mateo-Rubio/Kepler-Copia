@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We are requesting a standard operational tasking involving an active radar scan using microwave surface imaging for cloud-penetrating capture of ground geometry. Our focus is on the region encompassing the country of Italia and its city, Norte. This mission allocation holds medium importance as it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The request pertains to a critical payload capture that needs to be executed with urgency but without being an un-preemptable mission lock. We aim to obtain this data by today, in the morning, at the latest. This task involves assessing the thermal mapping of the region, capturing heat signatures and surface temperature profiles for thermal anomaly detection and mapping heat emissions.
+
+Please ensure that the data products are ingested into our pipeline before today's overnight block to meet our strict delivery deadline set for today, in the morning. We appreciate your cooperation in adhering to this timeframe as it aligns with our operational requirements.
+
+Thank you for your attention and swift action in fulfilling this request.

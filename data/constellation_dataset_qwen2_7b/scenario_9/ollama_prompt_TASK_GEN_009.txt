@@ -1,0 +1,9 @@
+Hello there! I'm reaching out as an operator of an Earth-observation mission, tasked with a specific request for data collection. Our primary sensor is set to conduct thermal mapping, which involves capturing heat signatures and surface temperature profiles in a highly detailed manner. This task targets the region of Indonesia, specifically focusing on a location known as Ecuatorial City, aiming to gather information about heat emissions from various sources.
+
+Given our priority level is Low Importance, we're looking at this request as a flexible schedule opportunity for opportunistic capture. We understand that this might be considered a 'background survey' or 'testbed tracking task', but it's crucial for our ongoing monitoring and data collection efforts.
+
+The deadline for delivering the data products is set for three days from now, with a strict delivery deadline to ensure the products are ingested into the pipeline before the evening timeframe. This deadline is critical as it represents the upper limit for data availability; we cannot extend this deadline.
+
+Please note that we're employing our TIR sensor for this task, which allows us to capture thermal images during both day and night, providing essential information about heat distribution across the region.
+
+Thank you for your attention and cooperation in fulfilling this request. We appreciate your support in making this mission a success!

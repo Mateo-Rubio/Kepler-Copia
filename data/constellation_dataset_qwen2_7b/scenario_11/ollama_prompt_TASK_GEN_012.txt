@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our satellite fleet. Our primary sensor requirement is an active radar scan utilizing microwave surface imaging technology. This mission aims to capture cloud-penetrating imagery of the Ecuatorial region in Indonesia, which is crucial for understanding ground geometry under various weather conditions.
+
+Our priority level is set at medium importance, signifying that this task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We are focusing on achieving this mission's objectives as part of our routine monitoring activities.
+
+We're aiming to deliver these data products by tomorrow morning, ensuring they are ingested into the pipeline before that time frame. This deadline is critical for our ongoing projects and should not be extended or altered in any way. Our request is framed with a professional tone, acknowledging the standard operational nature of this tasking without compromising the urgency required.
+
+Thank you for your attention to this matter. We appreciate your swift action in allocating the necessary resources to meet these requirements.

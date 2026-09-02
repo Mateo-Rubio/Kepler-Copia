@@ -1,0 +1,12 @@
+Good day to all satellite planners and operators,
+
+I'm reaching out from a regional monitoring station in Norte, a location that's part of an expansive and diverse landscape. Our primary objective is to capture thermal data using the TIR sensor. We're looking for a heat signature or surface temperature profile across our region, with a particular interest in identifying any thermal anomalies that may indicate unusual activity or conditions.
+
+Our request is classified as a low priority importance task, which means we're treating this as a flexible schedule opportunity to conduct an opportunistic capture of data. We understand that this might not be the most urgent mission, but it's part of our ongoing efforts to ensure comprehensive monitoring of our area.
+
+We're aiming to have these data products ready by the day after tomorrow, with a strict delivery deadline set for overnight. This means we need the final data ingested into our pipeline before the night falls on that day, ensuring timely access and processing for further analysis.
+
+I appreciate your attention to this request and look forward to your support in fulfilling this task.
+
+Thank you,
+[Your Name]

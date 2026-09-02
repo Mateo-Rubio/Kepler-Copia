@@ -1,0 +1,14 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out with a standard operational tasking that requires your immediate attention. Our mission involves capturing high-resolution optical imagery of Indonesia's equatorial region, focusing on the city of Ecuatorial. The objective is to gather clear daylight photography and true-color visual documentation of the area.
+
+To ensure our baseline pipeline tracking continues smoothly, we're deploying our VIS sensor for this task. This will provide us with the necessary data to assess environmental conditions, monitor land use, and support various Earth observation applications.
+
+Given the importance of this request, we emphasize that it falls under our medium priority level, indicating standard operational status and normal workflow updates. We understand the urgency involved, hence our request is tied to a strict deadline: we need the data products by tomorrow, around mid-day at the latest. This aligns with our operational guidelines, ensuring the timely delivery of data without compromising quality.
+
+Please note that this task is part of our regular monitoring activities and does not require any exceptional efforts or resources beyond our baseline capabilities. We appreciate your cooperation in meeting this deadline and look forward to receiving the data as scheduled.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Mission Operator]

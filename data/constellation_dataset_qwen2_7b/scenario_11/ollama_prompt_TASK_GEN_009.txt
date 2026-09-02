@@ -1,0 +1,17 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a mission allocation for an important task involving thermal mapping in the beautiful region of Kutai Timur, Indonesia. This request is of medium importance and requires your team's attention promptly.
+
+Our primary sensor requirement is TIR, which will help us capture heat signatures and surface temperature profiles across the area. We aim to achieve high-resolution thermal imagery that can assist in identifying thermal anomalies and mapping heat emissions accurately.
+
+The geographical context is quite straightforward: we're focusing on Kutai Timur, a city located in Indonesia, known for its vibrant culture and lush landscapes. The country's diverse climate adds complexity to our task, but we're confident that your satellite constellation will be able to handle the challenge.
+
+Our deadline is set for three days from today, with the requirement that all data products should be ready by the overnight period. This means we need to ensure that the data is ingested into our pipeline before tomorrow's night falls. We appreciate your team's ability to meet this strict deadline and deliver high-quality data products on time.
+
+This task aligns with our baseline pipeline tracking setup, involving fixed parameters that represent normal operational status. It's part of a routine monitoring process aimed at providing valuable insights into the region's environmental conditions.
+
+Thank you for your attention to this matter. We look forward to receiving your confirmation and the expected data products as per the guidelines provided.
+
+Best regards,
+
+[Your Name]

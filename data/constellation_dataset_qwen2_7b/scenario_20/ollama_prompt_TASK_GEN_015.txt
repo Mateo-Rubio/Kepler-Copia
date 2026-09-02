@@ -1,0 +1,5 @@
+Good day! I'm reaching out on behalf of our Earth observation mission to request a task from your automated satellite constellation planner. We're looking at a high-resolution active radar scan using microwave surface imaging technology for cloud-penetrating capture and ground geometry assessment in Malaysia, specifically in the city of Belaga. This is a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our priority level is medium importance, so please treat this request with professionalism and standard operational procedures. We're aiming for an urgent delivery deadline set for the day after tomorrow in the morning. The products need to be ingested into our pipeline before then, ensuring we meet our contractual obligations without any delays.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting our requirements efficiently. Looking forward to a successful collaboration.

@@ -1,0 +1,21 @@
+Subject: High Importance Mission Allocation for Thermal Mapping and Vegetation Analysis in Ghedi, Italia
+
+Priority: Absolute Institutional Priority
+
+Mission Objective:
+
+We are urgently requesting a critical payload capture involving an active radar scan using microwave surface imaging technology to penetrate heavy weather conditions and capture ground geometry. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Geographic Context:
+
+Our focus is on Ghedi, Italia, nestled within the heart of the region. The mission will entail a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance.
+
+Temporal Parameters:
+
+The data must be ready by [target_day] in the morning at the latest. This deadline is set with strict adherence to our contractual obligations and represents an un-preemptable mission lock, emphasizing the importance of timely delivery for our user's needs.
+
+Please ensure the products are ingested into the pipeline before [target_day]. We appreciate your team's commitment to meeting this deadline, considering Ghedi's unique environmental conditions that may impact data quality and availability.
+
+This request is a binding contract requirement involving a critical payload capture, which is essential for our ongoing research and operational monitoring activities. We are looking forward to your timely response and collaboration to ensure the success of this mission.
+
+Thank you for your attention to this matter.

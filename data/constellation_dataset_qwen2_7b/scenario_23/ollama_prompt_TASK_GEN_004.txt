@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out regarding an urgent operational tasking that requires your immediate attention due to its high importance and contractual value. We're tasked with capturing a critical payload using our thermal mapping capabilities for the area of interest in Cubarral, Colombia. This mission is a binding contract requirement involving a mandatory directive for us to ensure accurate heat signature data.
+
+Our primary sensor will be the TIR, which we'll use to gather thermal mapping data that captures the heat signature and surface temperature profile of the region. We aim to provide you with this essential data by the day after tomorrow, specifically during the afternoon timeframe, ensuring it's available for ingestion into the pipeline before our deadline.
+
+This is an absolute institutional priority with an un-preemptable mission lock, as we need to deliver this data promptly without any delays. Please note that this tasking involves fixed parameters representing normal operational status and is part of our baseline pipeline tracking setup. We appreciate your cooperation in meeting this critical deadline.
+
+Thank you for your attention to this matter. We look forward to working with you on this important mission.

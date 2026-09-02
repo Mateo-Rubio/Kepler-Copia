@@ -1,0 +1,11 @@
+Good day to all satellite operators and mission planners. I'm reaching out with a task that requires your attention, as it's of critical importance for our ongoing operational activities. Our focus is on the beautiful region of Italia, specifically in the charming city of Santa Croce sull'Arno. The mission involves capturing thermal mapping data using our trusted TIR sensor to identify heat signatures and surface temperature profiles. This task is part of a broader baseline pipeline tracking setup, which necessitates the acquisition of normal operational status data.
+
+The urgency here is paramount, as we need this data by the target day, which is exactly four days from now, in the morning. We are looking for an absolute institutional priority here, as this involves a critical payload capture that aligns with our contractual requirements and represents a mandatory directive. Therefore, we emphasize the need for an urgent operational execution and an un-preemptable mission lock.
+
+To ensure the data products are ingested into our pipeline before the set deadline, we request your assistance in capturing this information with the utmost priority. We understand that this task might be considered a low priority importance request with a flexible schedule, but it's crucial for our background survey and testbed tracking tasks. Please treat it as such and adjust your plans accordingly to accommodate this non-essential background filler task.
+
+Thank you for your understanding and cooperation in ensuring the timely delivery of this important data. We appreciate your swift response and look forward to receiving the data products that will contribute to our mission's success. If you have any questions or need further clarification, please don't hesitate to reach out. Let's work together to meet this deadline and deliver the required data by the target day in the morning.
+
+Best regards,
+
+[Your Name]

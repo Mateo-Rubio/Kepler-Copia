@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a critical payload capture involving thermal mapping for Norte, which is located in an unspecified country. Our objective is to gather heat signatures and surface temperature profiles with utmost precision, aiming to identify any thermal anomalies that might be of significant interest.
+
+Considering the operational guidelines provided, this task is of low priority importance, yet it's still essential for our background survey and testbed tracking tasks. We're looking for a flexible schedule where we can drop or reschedule this at your convenience, treating it as an opportunistic capture.
+
+The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline of the morning block. We understand that this deadline represents the upper limit for data availability and must be adhered to strictly.
+
+To achieve this goal, we'll be utilizing our thermal imaging sensor (TIR) for the capture. The imagery will allow us to document heat emissions accurately, which is crucial for our ongoing research and monitoring activities.
+
+Thank you for your understanding and cooperation in ensuring that this task receives the attention it deserves within the specified timeframe. We appreciate your support in maintaining our baseline pipeline tracking and workflow updates.
+
+Best regards,
+[Your Name]

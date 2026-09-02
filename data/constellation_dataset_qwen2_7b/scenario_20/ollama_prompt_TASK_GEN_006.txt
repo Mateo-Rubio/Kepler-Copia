@@ -1,0 +1,7 @@
+Good day to you! I'm reaching out as an Earth-observation mission operator to request your assistance in capturing thermal mapping data for a highly important task. Our focus is on the region of Sekadau, Indonesia, where we aim to gather critical information about heat signatures and surface temperature profiles.
+
+We're employing our thermal imaging sensor, the TIR, to perform this task, which will allow us to capture essential data on heat emissions and thermal anomalies in the area. This mission involves a standard operational tasking with fixed parameters and represents a baseline pipeline tracking setup.
+
+The urgency of this request cannot be overstated, as we need the data products to be ready by the day after tomorrow at the latest, with a strict delivery deadline set for the overnight period on that day. We're aiming to ensure that these products are ingested into our pipeline before they reach their final destination.
+
+Please understand that this task holds significant importance for our operations and contractual agreements. We appreciate your cooperation in meeting this deadline and delivering the required data products as specified. Thank you for your attention to this matter, and we look forward to your response.

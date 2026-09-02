@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out from Norte, an area of considerable interest for our ongoing Earth observation mission. Our objective is to capture a high-resolution optical snapshot of this region during the afternoon on the day four days from now. We're looking for clear daylight photography and true-color visual documentation that can provide us with essential information about the landscape.
+
+As this request carries low importance, we understand that it may be subject to flexible scheduling. However, we kindly ask that you prioritize this task as a background survey or testbed tracking task. We appreciate your understanding regarding the nature of this request and its position in our operational pipeline.
+
+Please ensure that the data products are ready for ingestion into our pipeline before the day four days from now during the afternoon timeframe. We're aware of the strict deadline set for this task, and we trust that it aligns with our operational requirements for timely data delivery.
+
+Thank you very much for your cooperation and attention to detail in handling this request. We look forward to receiving the valuable insights that this observation will provide. If you have any questions or need further clarification, please don't hesitate to reach out. 
+
+Best regards,
+[Your Mission Operator]

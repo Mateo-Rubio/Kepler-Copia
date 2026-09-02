@@ -1,0 +1,5 @@
+Good day to you! I'm reaching out from our Earth observation mission control center, where we're handling a unique task for our satellite constellation planner. Our objective is to capture a detailed view of Bossico, Italy, using an active radar scan that will penetrate any cloud cover and provide us with a comprehensive understanding of the ground geometry. We're aiming for high-resolution imagery that will serve as a valuable resource for our clients.
+
+As this request carries low priority importance, we're treating it as a flexible schedule task that can be dropped or rescheduled at your convenience. However, we kindly ask that you prioritize this request, ensuring that the data products are ingested into the pipeline before the strict delivery deadline set for the day after tomorrow around mid-day. We understand that timing is crucial, but please note that altering or extending this deadline is not possible.
+
+We appreciate your understanding and cooperation in meeting this deadline. Our team is looking forward to receiving the data and will be ready to process it as soon as it's available. Thank you for your attention to this matter.

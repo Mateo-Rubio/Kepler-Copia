@@ -1,0 +1,9 @@
+Good day! I'm reaching out on behalf of our Earth-observation mission to request a highly realistic and detailed task from your automated satellite constellation planner. Our priority is to capture a near-infrared reflection snapshot over the beautiful city of Bangka Selatan, located in Indonesia, specifically focusing on its unique features during mid-day hours.
+
+Bangka Selatan, known for its vibrant landscapes and diverse ecosystems, requires our attention to assess soil moisture levels and delineate water bodies accurately. We aim to gather comprehensive data that will contribute to our ongoing research efforts and provide valuable insights into environmental conditions.
+
+Given the importance of this task, we classify it as medium significance, acknowledging the need for a standard operational tasking. We understand that there are fixed parameters involved in this mission, representing normal operational status. Our request is part of a baseline pipeline tracking setup, ensuring that our data aligns with our standard workflows and contractual obligations.
+
+We're looking to capture this snapshot by the end of our target day, which is three days from now, around mid-day. This deadline is critical for us to ensure that the products are ingested into our data pipeline promptly. We appreciate your team's expertise in delivering the data products on time, adhering to our operational guidelines.
+
+Thank you for considering this request. We're looking forward to receiving the data that will help us in our ongoing environmental studies and contribute to our understanding of Bangka Selatan's unique characteristics.

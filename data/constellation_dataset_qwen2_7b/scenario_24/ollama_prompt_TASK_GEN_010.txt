@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out to request a low priority importance task for an Earth observation mission involving near-infrared (NIR) sensors. The objective is to capture thermal mapping data for a critical area of interest located in Colombia, specifically within the AMCO, Area Metropolitana Centro Occidente region. This operation aims to assess soil moisture and delineate water body boundaries using near-infrared reflection capabilities.
+
+The location details indicate that we're focusing on a specific area within Colombia, though exact city and landmark information are not available. However, this is more than adequately described by the region name provided.
+
+Given the nature of this request, I'm framing it as a 'non-essential background filler task' that can be executed with flexibility in scheduling. We're looking to capture these data products for our user by the day after tomorrow, ensuring they are ingested into the pipeline before evening. This deadline reflects the operational urgency associated with delivering the data products within the specified timeframe.
+
+Thank you for your attention and cooperation in fulfilling this task request. Should there be any questions or clarifications needed, please feel free to reach out.

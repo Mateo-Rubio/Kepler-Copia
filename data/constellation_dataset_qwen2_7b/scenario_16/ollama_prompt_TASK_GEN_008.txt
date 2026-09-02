@@ -1,0 +1,12 @@
+Good day to our satellite mission planners,
+
+We're reaching out with a new task request that falls under the category of a 'low priority importance' and is part of our 'background survey' operations. The objective is to capture high-resolution optical imagery using a VNIR sensor for daylight photography purposes. This task involves assessing chlorophyll absorption levels and calculating the NDVI index, as well as surface reflectance.
+
+The geographical context involves Cossogno, a beautiful location in Italia. We're aiming to gather this data during the afternoon period on the day that's four days ahead from today. The urgency here is not about the proximity of the deadline but ensuring that we capture this essential data before the set time window closes. We're looking for a true-color visual documentation that will provide us with valuable insights into the environmental conditions.
+
+Please note, this task is considered a 'non-essential background filler task' and can be dropped or rescheduled at your convenience. We appreciate your understanding and cooperation in managing our operational workflow updates efficiently.
+
+Thank you for your attention to this request.
+
+Best regards,
+[Your Name]

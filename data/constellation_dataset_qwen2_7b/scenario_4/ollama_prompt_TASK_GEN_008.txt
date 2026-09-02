@@ -1,0 +1,7 @@
+Good day! I'm reaching out to request a low priority importance task from your automated satellite constellation planner. The objective is to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment in the region of Arnoldstein, which is located in the beautiful country of Österreich. The purpose of this task is to gather crucial information that will help us understand the environmental dynamics of the area.
+
+The operational parameters are as follows: we aim to obtain the data products by the target day, which is three days from now, with a strict delivery deadline set for the morning hours. We emphasize that these data should be ingested into our pipeline before the deadline to ensure timely analysis and decision-making processes.
+
+This request serves as a background survey task that doesn't require immediate attention but is essential for our ongoing monitoring activities. It's important to note that this task can be dropped or rescheduled at convenience if there are more pressing matters that need our attention. We appreciate your understanding and cooperation in fulfilling this non-essential background filler task.
+
+Thank you for your time, and we look forward to receiving the satellite data as per our request. If you have any questions or need further clarification, please feel free to reach out to us. Have a great day ahead!

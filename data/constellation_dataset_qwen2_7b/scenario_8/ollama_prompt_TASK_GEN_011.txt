@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Arsiero, Italia, during the afternoon on the day that's four days ahead from our current date. This will be part of a standard operational tasking for commercial purposes. The imagery will provide clear daylight photography and true-color visual documentation for our clients.
+
+We require this data by the time the day rolls over into the evening, ensuring the products are ingested into our pipeline before the deadline set for the afternoon on that day. This request aligns with our baseline pipeline tracking setup and represents normal operational status. We appreciate your prompt attention to this standard tasking.
+
+Thank you for your cooperation in delivering this data within the specified parameters.

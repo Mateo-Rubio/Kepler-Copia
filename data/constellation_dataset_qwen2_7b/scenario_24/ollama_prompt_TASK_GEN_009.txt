@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed view of Beringin Jaya, Indonesia, using an active radar scan for microwave surface imaging. This task is part of our standard operational pipeline tracking and involves fixed parameters for normal operational status.
+
+We aim to obtain cloud-penetrating imagery that will help us understand ground geometry without any interference from weather conditions. Our deadline for this mission is set for tomorrow's overnight block, with a strict delivery deadline of [target_day] [target_diurnal_period]. We require the products to be ingested into our pipeline before this time.
+
+This request falls under medium importance and represents a standard operational tasking that involves no critical payload capture or mandatory directive. It is part of our baseline workflow update and does not impact any binding contract requirements or urgent operational execution. We appreciate your attention to these guidelines and look forward to receiving the data products in accordance with our specifications.
+
+Thank you for your cooperation.

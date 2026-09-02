@@ -1,0 +1,8 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a high-resolution optical snapshot of the region surrounding Olmo al Brembo, located in the beautiful country of Italia. Our objective is to capture clear daylight imagery for true-color visual documentation of this area. Please consider this task as a low priority importance request with a flexible schedule for opportunistic capture.
+
+We are looking to gather this data by the morning of the day after tomorrow, ensuring that the products are ingested into our pipeline before that time. This is part of a background survey task, where we aim to assess the landscape and gather preliminary information about the region without imposing any urgent operational execution constraints.
+
+Thank you for your attention to this matter, and we appreciate your cooperation in accommodating our request within the specified timeframe. Should there be any issues or if you need further clarification, please feel free to reach out. We look forward to receiving the data products as soon as possible.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,3 @@
+We have an interesting task in mind for a low-priority importance capture, ideally suited to a flexible schedule. We're looking at an opportunistic capture of Malinau, Indonesia, where we can afford to drop or reschedule this as convenient. The task involves using an active radar scan with microwave surface imaging to achieve cloud-penetrating capture, which will be beneficial for piercing through heavy weather and capturing ground geometry.
+
+Given the low priority level, we're treating this as a non-essential background filler task within our workflow. However, it's important that the data products are ingested into the pipeline before the day after tomorrow morning at the latest, ensuring they meet the necessary delivery deadline.

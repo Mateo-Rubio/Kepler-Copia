@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner, we're looking at an urgent task that involves thermal mapping of Norte region, which is a critical payload capture under high importance. This task requires us to observe and gather data on heat signatures and surface temperature profiles for Norte's geographical context by tomorrow overnight at the latest.
+
+As per the operational guidelines, this request carries a binding contract requirement due to its absolute institutional priority. The necessity for this thermal mapping is paramount as it will aid in detecting thermal anomalies and mapping heat emissions accurately. We're utilizing our TIR sensor for this mission, which allows us to capture essential data about surface temperature profiles.
+
+With the deadline set for tomorrow overnight, we need to ensure that the products are ingested into the pipeline before this time frame. This task is an example of a standard operational tasking with fixed parameters representing normal operational status and falls under our baseline pipeline tracking setup.
+
+Please note that this request has a high priority level and should be treated as such. It's important to deliver the data products by tomorrow's overnight block, which means we're strictly adhering to the deadline without any alterations or extensions.
+
+We appreciate your immediate attention to this matter and look forward to receiving the data products as per our requirements. Thank you for your cooperation in ensuring that this task is completed successfully under the high priority level and deadline constraints.

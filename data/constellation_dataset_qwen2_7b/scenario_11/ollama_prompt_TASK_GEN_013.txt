@@ -1,0 +1,8 @@
+Hello there, satellite constellation planner. I'm reaching out to request a task that involves capturing an active radar scan of Colombia's Restrepo region using our SAR sensor. This is a low priority importance request, meaning it can be handled with a flexible schedule and treated as a non-essential background filler task. However, we do need to ensure the data products are ready by tomorrow during the afternoon at the latest. This request aligns with our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The goal here is to obtain cloud-penetrating capture that will provide us with critical information about ground geometry while piercing through heavy weather conditions. We're interested in obtaining detailed surface mapping and geometry data, which could be crucial for various applications such as urban planning or environmental monitoring.
+
+Please note that this task might be dropped or rescheduled at your convenience if there are more pressing tasks to attend to. We're looking forward to your support in ensuring we capture the necessary data within the specified deadline. Thank you for your understanding and cooperation.
+
+Best regards,
+[Your Name]

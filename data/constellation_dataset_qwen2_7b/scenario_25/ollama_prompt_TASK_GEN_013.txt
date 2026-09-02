@@ -1,0 +1,5 @@
+Hello, automated satellite constellation planner. I'm reaching out with an Earth observation mission request from Colombia, specifically from the charming town of Cáchira. Our priority is quite low, indicating this task doesn't require immediate attention. We're looking for a high-resolution optical snapshot, which will serve as a true-color visual documentation to capture the beauty of daylight photography in this region. This request falls under our 'non-essential background filler task', and we can drop or reschedule it at your convenience.
+
+Our deadline is set for four days from now, with the strict delivery deadline being tomorrow's morning period. We aim to ensure that the data products are ingested into the pipeline before the deadline. Please note that this is not an orbital capture window but a deadline for delivering the data products to us.
+
+Thank you for your attention and cooperation in fulfilling this request.

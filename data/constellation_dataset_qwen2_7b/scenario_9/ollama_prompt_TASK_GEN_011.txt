@@ -1,0 +1,14 @@
+Good day to all satellite operators and planners,
+
+I am reaching out with a task request that falls under the low priority importance category, which is part of our standard operational tasks. This request involves capturing thermal mapping data for a specific area in Slovenia, specifically the city of Norte. The primary sensor required for this mission will be the TIR (Thermal Infrared) sensor, aiming to capture heat signatures and surface temperature profiles for our purposes.
+
+The geographic context is straightforward: we're focusing on an area within Slovenia, with the city of Norte being our main point of interest. This task does not require any specific landmarks or detailed coordinates, as our goal is to gather thermal data across a broader region in this beautiful country.
+
+As for timing, we have set a deadline that must be adhered to. The data products resulting from this mission should be ready by the target day, which is 'in three days', with the strict delivery deadline set for 'in the morning'. This means that the data must be ingested into our pipeline before the end of the overnight block on the target day.
+
+We appreciate your understanding and flexibility regarding this task's scheduling. We recognize it might not be an urgent mission, and you may drop or reschedule it as per your convenience if any other tasks have higher priority. This is a non-essential background filler task that will contribute to our ongoing background survey and testbed tracking tasks.
+
+Thank you in advance for your cooperation and expertise in fulfilling this request.
+
+Best regards,
+[Your Name]

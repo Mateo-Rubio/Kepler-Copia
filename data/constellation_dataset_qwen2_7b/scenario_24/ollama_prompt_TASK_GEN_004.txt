@@ -1,0 +1,9 @@
+Good day to our satellite constellation planners, we're looking at an urgent operational execution task that involves a critical payload capture. This mission is part of a binding contract requirement and represents a high importance level for our institution.
+
+Our focus is on the region of Colombia, specifically within the city of Santa Sofía. We aim to capture data using near-infrared (NIR) sensors for water body boundary mapping and soil moisture assessment. The goal is to gather detailed information about the surface reflectance in this area with a high level of precision.
+
+The deadline for delivering this data product is set as "around mid-day" on the day after tomorrow. We need these results by then, ensuring they are ingested into our pipeline before that time frame. This task is essential for our background survey and will contribute to our testbed tracking tasks.
+
+Please prioritize this request as an absolute institutional priority. The data capture should be conducted with fixed parameters representing normal operational status. We appreciate your swift attention to this critical payload capture, which involves a heat signature or surface temperature profile mapping using thermal imaging capabilities.
+
+Thank you for your cooperation and understanding in meeting this deadline. Let's ensure the satellite constellation is ready to capture this data promptly and deliver it on time.

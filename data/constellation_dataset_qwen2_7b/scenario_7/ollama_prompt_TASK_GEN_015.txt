@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're looking at a standard operational tasking for a high-resolution optical snapshot of Indonesia's equatorial region. Our city of focus is Ecuatorial, which, though not explicitly named, will provide a unique perspective on the area's biodiversity and urban development. 
+
+We're aiming for a clear daylight photography to capture the essence of this tropical landscape, ensuring that every detail from the lush vegetation to the bustling cityscape is visible. This request carries a medium importance level, meaning it's part of our baseline pipeline tracking setup with fixed parameters, reflecting normal operational status.
+
+The deadline for this task is set three days ahead, with the strict delivery deadline being overnight on the final day. We're pushing for these data products to be ingested into our pipeline before sunrise, ensuring that the data capture aligns with the operational guidelines we've set forth.
+
+We appreciate your attention to detail and adherence to our operational guidelines. If there are any questions or if adjustments need to be made, please feel free to reach out. Thank you for your cooperation in fulfilling this task.

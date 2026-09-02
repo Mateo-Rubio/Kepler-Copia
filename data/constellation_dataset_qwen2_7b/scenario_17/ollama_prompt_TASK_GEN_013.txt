@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out with a request for an Earth observation mission that will capture high-resolution optical imagery of San Pablo, Colombia. The goal is to obtain clear daylight photography and true-color visual documentation of the region's landscape and urban areas for a background survey task. This request carries a low priority importance, allowing for a flexible schedule where we can drop or reschedule at convenience.
+
+The data should be ready by the target day, which is four days from now, with a strict delivery deadline set for the evening of that day. We aim to ensure the products are ingested into our pipeline before then, as per our operational guidelines.
+
+Thank you for your attention and assistance in fulfilling this task.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,18 @@
+Subject: Immediate Data Acquisition Request - Thermal Mapping of Colombia's Pantanillo Region
+
+Good day,
+
+I am reaching out to request an urgent data acquisition mission for our satellite constellation, focusing on the region of Colombia, specifically the city of Pantanillo. Our primary sensor requirement is the near-infrared (NIR) sensor, which we aim to use for a comprehensive thermal mapping operation.
+
+The objective here is to capture detailed thermal signatures across the entire Pantanillo area, with an emphasis on identifying and mapping heat emissions and surface temperature profiles. This task is of the highest importance due to its direct impact on our ongoing environmental monitoring project.
+
+We are looking for a high-resolution optical snapshot as well, which will serve as a true-color visual documentation of the region during daylight hours. This imagery will provide us with clear optical data that can be used for various applications, including but not limited to agricultural health assessment and urban heat island detection.
+
+The deadline for this mission is set for today's overnight period; hence, we need the data products to be ready and available by tomorrow's morning at the latest. This ensures that our team can promptly analyze the data and integrate it into our baseline pipeline tracking setup without any delays.
+
+This task is a binding contract requirement involving a critical payload capture under an urgent operational execution, which requires the highest level of priority attention. It represents a "critical" aspect of our workflow update and must be handled with utmost care to meet our contractual obligations.
+
+Thank you for your immediate attention to this matter. We appreciate your cooperation in ensuring that we receive the data products as per the specified requirements and deadline.
+
+Best regards,
+[Your Name]

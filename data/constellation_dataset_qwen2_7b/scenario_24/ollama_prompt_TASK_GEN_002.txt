@@ -1,0 +1,7 @@
+Good day! We're tasked with a standard operational mission allocation for a near-infrared (NIR) sensor observation. Our focus is on capturing detailed data of the region surrounding Saas-Almagell, located in the picturesque country of Schweiz/Suisse/Svizzera/Svizra. The primary objective here involves assessing soil moisture levels and delineating water body boundaries using this sensor's unique capabilities for near-infrared reflection analysis.
+
+This request carries a medium importance level, indicating that while it's not an absolute institutional priority or a binding contract requirement, it's still crucial for our baseline pipeline tracking setup. We're aiming to maintain normal operational status with fixed parameters and ensure the mission is part of our routine monitoring activities.
+
+The deadline for this data delivery is set for the day after tomorrow, with a strict emphasis on ensuring that the products are ingested into our pipeline by the overnight block. This means we need the data ready by the time the day after tomorrow's night falls, adhering closely to our operational deadlines without any extensions.
+
+Please proceed with capturing the necessary data and ensure it meets our quality standards for soil moisture assessment and water body boundary mapping. Thank you for your attention to this important task.

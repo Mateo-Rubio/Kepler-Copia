@@ -1,0 +1,11 @@
+Good day, satellite constellation planner. I'm reaching out to request a standard operational tasking involving a VNIR sensor for an optical snapshot of Rokan Hilir, Indonesia. Given its strategic location and importance in our baseline pipeline tracking setup, this task requires fixed parameters and represents normal operational status.
+
+We aim to capture high-resolution optical imagery that will serve as true-color visual documentation of the area during daylight hours. The goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index for environmental monitoring purposes. This is crucial for our ongoing research project on ecosystem health in the region.
+
+The deadline for delivering this data is set for three days from now, with a strict delivery deadline to be met during the afternoon period. We understand that adhering to this timeline is essential to ensure timely analysis and decision-making processes within our organization. We appreciate your team's efforts in meeting this requirement without compromising on quality or operational standards.
+
+Thank you for your attention to this matter. We look forward to receiving the data products by the specified deadline, allowing us to integrate them into our workflow updates efficiently. If any adjustments are needed due to unforeseen circumstances, please communicate with us promptly so we can reschedule or drop the task as necessary.
+
+Best regards,
+[Your Name]
+[Your Contact Information]

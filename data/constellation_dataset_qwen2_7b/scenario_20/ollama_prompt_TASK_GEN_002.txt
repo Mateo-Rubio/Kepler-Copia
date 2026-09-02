@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection dataset for water body boundary mapping and soil moisture assessment in Norte, Brazil. Given its medium importance, this task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We aim to gather this information by tomorrow's overnight block at the latest, ensuring the products are ingested into our pipeline before then. This request aligns with our standard operational tasking and contractual obligations, emphasizing routine monitoring without compromising quality or accuracy.
+
+For this background survey, please treat it as a flexible schedule task that can be dropped or rescheduled at your convenience if necessary. We appreciate your understanding and cooperation in meeting this deadline without altering the operational parameters or extending the timeframe.
+
+Thank you for your attention to this matter.

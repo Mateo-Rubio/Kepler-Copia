@@ -1,0 +1,11 @@
+Good day to our automated satellite constellation planner,
+
+I'm reaching out with a task request for tomorrow's morning timeframe, which is critical for our operational pipeline tracking. Our priority level is set to Low Importance, but we're still ensuring it's handled with due care.
+
+The mission involves capturing a high-resolution optical snapshot of Norte City using an active radar scan. This will be an 'in-depth' exploration of the area's ground geometry, utilizing microwave surface imaging capabilities to provide us with cloud-penetrating capture data. This is essential for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The imagery we're seeking is to assess the heat signature and surface temperature profile of the region, which will aid in thermal anomaly detection and mapping of heat emissions. This task is a non-essential background filler task that we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
+
+Please ensure the products are ingested into our pipeline before tomorrow's overnight block, adhering to the strict deadline set for this request. We appreciate your understanding and prompt attention to this matter.
+
+Thank you very much for your support in this endeavor.

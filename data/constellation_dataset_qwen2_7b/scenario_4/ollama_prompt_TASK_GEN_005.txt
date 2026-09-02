@@ -1,0 +1,9 @@
+Good day to you, esteemed satellite constellation planner. I'm reaching out as an Earth-observation mission operator with an urgent task that requires your immediate attention. The region we're focusing on is the picturesque town of Santa Giustina in the beautiful country of Italia.
+
+Our mission's priority level is marked as 'High Importance', which means this request carries a binding contract requirement and is considered a critical payload capture with an un-preemptable mission lock. We're tasked to perform an active radar scan using microwave surface imaging, which will help us pierce through heavy weather conditions or capture ground geometry. This task is essential for our operational pipeline tracking setup.
+
+We're aiming for delivery by the day after tomorrow, in the evening at the latest. The deadline is strictly set and cannot be extended; we need to ensure that the products are ingested into our pipeline before that time frame. Our primary sensor of choice is SAR, which will provide us with high-resolution optical imagery for daylight photography, clear optical imagery, or true-color visual documentation.
+
+This task represents a standard operational tasking for us, as it involves routine monitoring and baseline pipeline tracking activities with fixed parameters representing normal operational status. However, due to its priority level, we're treating this as an urgent operational execution that cannot be pre-empted.
+
+I kindly request your assistance in scheduling our satellite constellation to capture the data according to these specifications. Thank you for your understanding and prompt attention to this matter.

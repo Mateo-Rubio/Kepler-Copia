@@ -1,0 +1,8 @@
+Good day, satellite constellation planner. I'm reaching out with a standard operational tasking for an upcoming mission scheduled in three days during the afternoon. The objective is to capture high-resolution optical imagery of Simabur, Indonesia, using a VNIR sensor. Our aim is to gather detailed daylight photography and true-color visual documentation of the region. This request carries medium importance, as it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're looking for thermal mapping capabilities as well, to assess surface temperature profiles and detect any thermal anomalies. This will help us understand heat emissions and provide valuable insights into local conditions. With this task, we're ensuring the products are ingested into the pipeline before the deadline set for three days during the afternoon. Kindly note that this is a standard operational task with a flexible schedule, which we can adjust as per your operational capacity.
+
+Thank you for your attention to this request. We appreciate your timely delivery of data products and look forward to receiving them by the specified deadline. If you have any questions or need further clarification, please feel free to reach out. Have a great day!
+
+Best regards,
+[Your Name]

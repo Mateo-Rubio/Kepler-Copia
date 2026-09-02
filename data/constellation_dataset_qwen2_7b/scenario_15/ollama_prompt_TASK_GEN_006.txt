@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I am reaching out to request a low-priority importance task for an Earth observation mission. This task involves capturing a multispectral vegetation analysis using our VNIR sensor. We aim to assess the chlorophyll absorption levels and calculate the NDVI index for the region of Indonesia, specifically focusing on the city of Sintang. Our goal is to provide detailed insights into the vegetation health and land cover characteristics.
+
+This request falls under the category of a "non-essential background filler task", which can be scheduled with a flexible timeline. We understand that this might not be an urgent requirement and can be dropped or rescheduled at your convenience. The primary objective is to gather data that can serve as a testbed for future monitoring activities.
+
+We are targeting delivery by the day after tomorrow, during the afternoon. This deadline ensures that the products will be ingested into our pipeline before the specified time frame. Please note that this is a strict operational deadline and cannot be extended.
+
+Thank you for your attention to this task. We appreciate your cooperation in scheduling the mission allocation accordingly.
+
+Best regards,
+[Your Name]

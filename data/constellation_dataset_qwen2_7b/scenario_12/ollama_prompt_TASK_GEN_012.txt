@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a task for an urgent operational mission involving the Indonesian region, specifically focusing on Muara Asa city. Our priority is set at 'High Importance', which means this task carries significant weight and must be executed with utmost urgency.
+
+Our mission involves utilizing the Synthetic Aperture Radar (SAR) system, which will perform an active radar scan using microwave surface imaging. This scan aims to capture cloud-penetrating imagery for critical ground geometry details. The goal is to obtain high-resolution data that can help us understand terrain and structures beneath the clouds.
+
+The request is for a 'standard operational tasking', part of our baseline pipeline tracking setup. We're looking for fixed parameters representing normal operational status, with this being a routine monitoring activity. The payload capture must adhere to our baseline pipeline tracking framework without any preemption.
+
+We need these data products by tomorrow evening at the latest. Our strict delivery deadline is set for tomorrow evening, ensuring that the products are ingested into our pipeline before that time frame expires. This task is not an essential background filler; however, it's a flexible schedule item that can be dropped or rescheduled as per convenience.
+
+Thank you for your attention to this matter. We appreciate your swift action in delivering the required data, which will play a crucial role in our ongoing operations.

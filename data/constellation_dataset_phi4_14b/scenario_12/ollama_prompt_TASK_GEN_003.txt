@@ -1,0 +1,1 @@
+We have a standard operational tasking for a high-resolution optical snapshot over Ecuatorial, Indonesia. This is part of our baseline pipeline tracking setup with fixed parameters to ensure normal operational status and a workflow update. We need the clear optical imagery delivered by the day after tomorrow overnight at the latest.

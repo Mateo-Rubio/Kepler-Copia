@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of an Earth-observation mission operator to request a task for today's priority. The objective is to capture thermal mapping data using our TIR sensor, focusing on the ecotone region in Indonesia, specifically near the equator, which is known as Ecuatorial City.
+
+This request is classified as a low priority importance task with a flexible schedule, acting as a non-essential background filler task that can be dropped or rescheduled at convenience. The primary goal is to assess surface temperature profiles and detect thermal anomalies through heat emissions using our TIR sensor's capabilities.
+
+The deadline for this data is set for today, in the morning, needed by today at the latest. We are aware of the strict operational deadline and will ensure that the products are ingested into the pipeline before today's morning block. This task will contribute to background survey activities or serve as a testbed tracking task for our ongoing monitoring efforts.
+
+Thank you for your attention and cooperation in fulfilling this request promptly. We appreciate your support in maintaining our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Best regards,
+[Your Name]

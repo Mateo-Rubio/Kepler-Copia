@@ -1,0 +1,15 @@
+Subject: Request for Thermal Mapping Task - Norte, Three Days Overnight
+
+Good day,
+
+I'm reaching out to request a thermal mapping task focused on Norte region. Our team requires high-resolution thermal imagery to capture heat signatures and surface temperature profiles across the area. The primary sensor will be utilized to gather data that can help us detect thermal anomalies and map heat emissions accurately.
+
+Given the nature of our operational guidelines, this request is being flagged as a low priority importance task with a flexible schedule for opportunistic capture. We understand that this might not be an urgent requirement but still appreciate your prompt attention to this matter.
+
+We aim to have the data products ready by the target day, which is in three days from today, specifically during the overnight period. This deadline is critical as we need to ensure the products are ingested into our pipeline before the set diurnal period.
+
+Thank you for your understanding and cooperation in fulfilling this request. We look forward to receiving your confirmation on this task.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,7 @@
+We are tasked with an absolute institutional priority involving a critical payload capture for our client in Colombia. Specifically, we need to perform thermal mapping of the region around Útica city using our advanced TIR sensor. This operation aims to capture the heat signature and surface temperature profile of the area, which is essential for thermal anomaly detection and mapping heat emissions.
+
+The urgency of this mission cannot be overstated. We require high-resolution thermal imagery needed by "in three days in the morning" at the latest. This tasking is a binding contract requirement that involves a mandatory directive for our satellite constellation planner. The deadline for delivering the data products to the user is strictly set for "in three days in the morning", and we must ensure these products are ingested into the pipeline before this time.
+
+This request represents an urgent operational execution with an un-preemptable mission lock, reflecting the high importance of capturing this data within the specified timeframe. We emphasize that this tasking is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update.
+
+Given its high priority level, we are prepared to allocate the necessary resources to ensure this mission's success without compromising the quality or integrity of our other tasks. This request is a clear demonstration of our commitment to fulfilling contractual obligations and maintaining operational excellence under stringent deadlines.

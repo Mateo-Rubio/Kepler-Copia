@@ -1,0 +1,5 @@
+Hello automated satellite constellation planner, I'm reaching out to request a specific task for an Earth observation mission. Our objective is to capture a detailed multispectral vegetation analysis using VNIR sensors over a region in "Italia", specifically near the city of "Norte". This task falls under our low priority importance category, as it's part of a flexible schedule for opportunistic capture. We're looking to assess the chlorophyll absorption levels and calculate the NDVI index for this area.
+
+Given the operational guidelines, we aim to deliver this data by "the day after tomorrow" in the evening, with a strict deadline set for that date and time. This is not an extension of the orbital capture window but rather the final limit for providing the data products to our user. We understand the urgency and will ensure that the products are ingested into our pipeline before this deadline.
+
+Thank you for your attention to this request. Please let us know if you need any further details or have questions about the specifics of this task.

@@ -1,0 +1,9 @@
+Good morning! I'm reaching out as the operator of an Earth-observation mission, requesting urgent attention for a task that aligns with our baseline pipeline tracking and standard operational tasks. We're focusing on thermal mapping needs in Indonesia, specifically within the Berau region.
+
+Our priority is set to 'low importance', which means this request can be accommodated with a flexible schedule as a non-essential background filler task. The deadline for delivering the data products is set for the day after tomorrow overnight, ensuring they are ingested into our pipeline before that time.
+
+The primary sensor required for this mission is 'TIR'. Our goal is to capture thermal mapping data to detect heat signatures and map surface temperature profiles. This will help us identify thermal anomalies and understand heat emissions effectively.
+
+Please note that we're not looking for any technical system tags, underscores, or coordinate arrays in your final output. We want you to describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details', and if those are "N/A", use the remaining valid fields or the clean 'region_name'.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products that will contribute valuable insights to our ongoing projects. Please let us know if there's anything else we can assist with today.

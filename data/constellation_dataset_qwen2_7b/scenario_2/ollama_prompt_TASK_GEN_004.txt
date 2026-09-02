@@ -1,0 +1,7 @@
+Please initiate a low priority importance task for an active radar scan using microwave surface imaging. The objective is to capture cloud-penetrating imagery of a heat signature for a critical payload in Colombia, specifically in the city of Nóvita. This task requires a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation to assess the scene.
+
+Given the operational guidelines and the nature of this request, we aim to deliver thermal mapping data that captures surface temperature profiles and detects thermal anomalies. The primary sensor will be utilized to map heat emissions accurately, providing invaluable insights into the region's thermal dynamics.
+
+With a strict delivery deadline set for four days in the evening at the latest, ensure that the products are ingested into the pipeline before this time frame concludes. This task is considered a non-essential background filler, allowing for flexible scheduling and opportunistic capture. We will treat it as a background survey or testbed tracking task, recognizing its importance within our operational scope but not requiring an urgent operational execution.
+
+Thank you for your attention to this request, and we look forward to receiving the data products by the specified deadline.

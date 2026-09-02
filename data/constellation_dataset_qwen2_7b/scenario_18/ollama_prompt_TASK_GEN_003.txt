@@ -1,0 +1,10 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out to request a task for an Earth observation mission focusing on Indonesia, specifically the city of Singkep. Our primary sensor requirement is VNIR, which we'll use for multispectral vegetation analysis. The goal is to assess chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance patterns.
+
+Given the importance level of this task, it's categorized as low priority, allowing for a flexible schedule and treating it as a non-essential background filler task. We're looking to capture this data on the target day, which is four days from now, with the strict delivery deadline set for the afternoon period. This means we need the data by the latest overnight block of that day to ensure the products are ingested into our pipeline before the deadline.
+
+Thank you for your attention and assistance in fulfilling this request.
+
+Best regards,
+[Your Name]

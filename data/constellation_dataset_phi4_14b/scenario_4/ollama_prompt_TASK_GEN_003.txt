@@ -1,0 +1,1 @@
+I need a standard operational tasking for thermal mapping over Banyuasin, Indonesia. This is part of our baseline pipeline tracking to capture surface temperature profiles and detect any thermal anomalies in the area. The data should be ready by the day after tomorrow's overnight schedule at the latest, as this fits within our normal operational workflow update.

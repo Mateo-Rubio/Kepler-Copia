@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner, we're looking to capture a thermal mapping of Desa Muaro Sentajo in Indonesia using our TIR sensor. This is a standard operational tasking for us, part of the baseline pipeline tracking setup with fixed parameters. We aim to assess surface temperature profiles and detect any thermal anomalies that might be present.
+
+We require this data by tomorrow's overnight block at the latest, ensuring the products are ingested into the pipeline before then. This request aligns with our normal operational status and contractual obligations, representing a routine monitoring task. We appreciate your prompt attention to this matter as it is part of our standard workflow updates.
+
+Thank you for your cooperation in delivering this critical payload capture on time. Have a great day!

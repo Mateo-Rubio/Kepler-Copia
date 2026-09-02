@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner with high urgency. We're tasked with capturing a near-infrared reflection (NIR) image of the region named "Colombia", specifically focusing on the city of San José del Guaviare. This is an absolute institutional priority due to its critical payload capture and contractual requirement, demanding an urgent operational execution.
+
+Our objective is to obtain high-resolution optical imagery that will document daylight photography, clear optical data, and true-color visual documentation of this area. The mission's priority level indicates the importance of this task within our baseline pipeline tracking setup, with fixed parameters representing normal operational status. However, given its high importance, we treat it as a binding contract requirement involving a critical payload capture.
+
+The deadline for delivering the data products is set for "the day after tomorrow" in the morning. This strict deadline represents the upper limit for data availability and ensures that the products are ingested into our pipeline before "the day after tomorrow" in the morning. This is not an orbital capture window but a clear operational deadline to meet user expectations.
+
+We're confident in our capabilities to deliver this high-quality data set within the given timeframe, adhering to the guidelines provided for maximizing naturalness and validation accuracy of the dataset. Our translation process involves interpreting the raw physical simulation metadata into a single, highly realistic, and conversational English request that reflects operational priorities and temporal constraints accurately.
+
+Let's proceed with the task allocation and ensure that our satellite constellation is ready to capture this essential data set in accordance with our operational guidelines.

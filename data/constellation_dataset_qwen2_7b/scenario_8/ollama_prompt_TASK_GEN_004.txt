@@ -1,0 +1,13 @@
+Hello there,
+
+I'm reaching out to request a task for an Earth observation mission that needs to be executed with flexibility and opportunism, as it's designated with low priority importance. This request involves capturing data using the VNIR sensor for a high-resolution optical snapshot of daylight photography, true-color visual documentation, or clear optical imagery, all aimed at assessing chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance.
+
+The geographical context for this task is centered around Ituango, Colombia. We're looking to gather these data during the afternoon period on the day that's three days ahead of our current timeline. The operational deadline is set with strict adherence to the target day and diurnal period provided, ensuring that the products are ingested into the pipeline before the specified time.
+
+I kindly request you to treat this task as a non-essential background filler, allowing for drop or rescheduling at your convenience if it doesn't align with your current operational schedule. We appreciate your understanding and cooperation in fulfilling this request within the given constraints.
+
+Thank you for your attention and assistance.
+
+Best regards,
+
+[Your Name]

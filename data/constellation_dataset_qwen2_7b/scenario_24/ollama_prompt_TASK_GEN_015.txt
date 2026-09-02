@@ -1,0 +1,17 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out with an important task request for your team, involving a high-resolution radar imaging mission in Indonesia. Specifically, we're focusing on the region around Kuala Enok, which is a key area of interest for us.
+
+Our objective is to capture detailed microwave surface images during the afternoon hours, as specified by our deadline, which is set for four days from now. This imaging should provide cloud-penetrating views that are critical for understanding ground geometry and topography under various weather conditions.
+
+This task falls under the category of "standard operational tasking", reflecting its importance in our baseline pipeline tracking setup. It's a routine monitoring activity with fixed parameters, representing normal operational status. We aim to capture this data without any preemption or delay, ensuring that the assets are dedicated solely to this mission until completion.
+
+With this request, we're looking for thermal mapping capabilities as well, which will help us in detecting surface temperature profiles and identifying any potential heat anomalies. This is crucial for our ongoing research and operational planning.
+
+Please note that this task carries a deadline that must be strictly adhered to: the data products need to be ingested into our pipeline by the time specified on the target day and during the afternoon period, as outlined in our operational guidelines.
+
+Thank you for your attention to this matter. We appreciate your expertise and prompt action to ensure that our mission objectives are met with the highest level of accuracy and efficiency.
+
+Best regards,
+
+[Your Name]

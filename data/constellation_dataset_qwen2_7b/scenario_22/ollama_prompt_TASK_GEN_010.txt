@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm reaching out with a task request that requires your immediate attention to ensure the timely acquisition of thermal data for our operational needs. Our focus is on Colombia, specifically in the region around Paimadó, where we're looking for a high-resolution thermal mapping of the area.
+
+The primary sensor involved will be our TIR (Thermal Infrared) instrument, which will capture the heat signature and surface temperature profiles to identify any thermal anomalies or emissions. This data is crucial for our ongoing project and must be as accurate as possible to meet our objectives.
+
+Considering the importance of this task, I'm assigning it a priority level of "Low Importance" due to its flexible scheduling nature. However, we still require a high level of professionalism and expertise in handling this request. We're aiming to capture this data by tomorrow, specifically around mid-day, ensuring that the products are ingested into our pipeline before that time.
+
+Please treat this task as a 'background survey' or 'testbed tracking task', with the understanding that it can be dropped or rescheduled at your convenience if there are more pressing matters. We appreciate your cooperation and look forward to receiving the data promptly.
+
+Thank you for your attention to this matter, and we trust that your team will handle this request with the care and expertise it deserves.
