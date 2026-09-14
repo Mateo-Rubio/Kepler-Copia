@@ -1,0 +1,1 @@
+Log a standard operational tasking for an active radar scan using microwave surface imaging over Ecuatorial, aiming to penetrate cloud cover and capture ground geometry. This is routine monitoring as part of our baseline pipeline tracking with fixed parameters. The delivery deadline is set for the day after tomorrow in the evening.

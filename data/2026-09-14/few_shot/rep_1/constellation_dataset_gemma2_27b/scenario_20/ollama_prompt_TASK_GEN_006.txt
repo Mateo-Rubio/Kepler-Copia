@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Sekadau in Indonesia as part of our baseline pipeline tracking with fixed parameters. We need to capture a heat signature and surface temperature profile overnight the day after tomorrow.  Normal operational status, fixed parameters, and the products should be ingested into the pipeline by then.

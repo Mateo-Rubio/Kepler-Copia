@@ -1,0 +1,3 @@
+Log a non-essential background filler task with flexible scheduling for Olmo al Brembo in Italy. If an opportunistic capture opens up, we'd like to take advantage of it by capturing high-resolution optical snapshots during the morning hours tomorrow. Feel free to adjust or reschedule as needed; this is not urgent but can be arranged if time permits.
+
+```prompt

@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Kutai Timur in Indonesia. We need to capture a surface temperature profile and flag any thermal anomalies across the region.  Normal operational status applies, fixed parameters are in place, and we need the products ingested into the pipeline in three days in the morning.

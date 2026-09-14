@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Desa Muaro Sentajo in Indonesia. We need a heat signature and surface temperature profile of the area, overnight tomorrow.  This is part of our baseline pipeline tracking with fixed parameters representing normal operational status.

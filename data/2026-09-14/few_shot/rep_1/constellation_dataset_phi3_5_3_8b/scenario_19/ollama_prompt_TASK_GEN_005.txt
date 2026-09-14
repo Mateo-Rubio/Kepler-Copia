@@ -1,0 +1,1 @@
+Log a standard operational tasking for Norte in Brazil as part of our baseline pipeline tracking with fixed parameters. We need an active radar scan using microwave surface imaging to capture ground geometry regardless of weather, setting the delivery deadline for the day after tomorrow around morning time.

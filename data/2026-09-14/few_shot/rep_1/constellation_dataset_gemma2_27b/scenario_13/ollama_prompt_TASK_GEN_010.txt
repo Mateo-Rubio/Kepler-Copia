@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Puerto Rico in Colombia. We need to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance for the agricultural plots south of town. This is routine monitoring at normal operational status, and the products should be delivered in three days in the evening.

@@ -1,0 +1,1 @@
+This is a standard operational tasking for Arsiero in Italia. We need a multispectral vegetation analysis to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance for the agricultural fields around the town. Normal operational status, fixed parameters, and the products should be ingested into the pipeline in four days in the evening.

@@ -1,0 +1,3 @@
+Log an opportunistic capture with a flexible schedule for Borgo San Lorenzo in Italy, aiming at multispectral vegetation analysis to assess chlorophyll absorption level and calculate surface reflectance. This is considered low priority importance; if the window opens up during the afternoon the day after tomorrow, please drop or reschedule as convenience allows.
+
+```prompt

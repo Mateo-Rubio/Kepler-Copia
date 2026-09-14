@@ -1,0 +1,1 @@
+Log a standard operational tasking over Arsiero in Italy as part of our baseline pipeline tracking with fixed parameters. We aim for multispectral vegetation analysis to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance during the evening, with delivery expected in four days from now.
