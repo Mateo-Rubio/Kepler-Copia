@@ -5,10 +5,10 @@ import requests
 import time
 import urllib3 
 from datetime import datetime, timezone
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any, Tuple
 from src.core.datatypes import TargetTask
 
-__all__ = ["generate_ollama_semantic_prompt", "build_single_task_string"]
+__all__ = ["generate_ollama_semantic_prompt", "build_single_task_string", "build_task_fields"]
 
 
 def _get_geocoded_info(lat: Optional[float], lon: Optional[float]) -> Dict[str, str]:
@@ -75,7 +75,7 @@ def _get_geocoded_info(lat: Optional[float], lon: Optional[float]) -> Dict[str, 
     return {"country": "N/A", "city": "N/A", "landmark": "N/A"}
 
 
-def build_single_task_string(task: TargetTask, now_utc: datetime) -> str:
+def build_task_fields(task: TargetTask, now_utc: datetime) -> Dict[str, Any]:
     primary_sensor = task.required_sensors[0] if task.required_sensors else "VISUAL"
     
     raw_deadline = getattr(task, "deadline", getattr(task, "deadline_s", 0))
@@ -154,72 +154,133 @@ def build_single_task_string(task: TargetTask, now_utc: datetime) -> str:
         "target_diurnal_period": hour_tag
     }
     
-    return json.dumps(task_json_data, indent=2, ensure_ascii=False)
+    return task_json_data
+
+
+def build_single_task_string(task: TargetTask, now_utc: datetime) -> str:
+    return json.dumps(build_task_fields(task, now_utc), indent=2, ensure_ascii=False)
+
+
+
+def _ollama_endpoint() -> str:
+    raw_url = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434")
+    clean_url = raw_url.replace("[", "").replace("]", "").split("(")[0].strip()
+    return f"{clean_url}/api/generate"
+
+
+def _call_ollama(
+    prompt: str,
+    model_name: str,
+    temperature: float,
+    num_predict: int = 700,
+    repeat_penalty: float = 1.05,
+    echo: bool = True,
+) -> str:
+    """Una sola llamada a Ollama. Devuelve el texto crudo, sin parsear."""
+    payload = {
+        "model": model_name,
+        "prompt": prompt,
+        "options": {
+            "temperature": temperature,
+            "num_predict": num_predict,
+            "repeat_penalty": repeat_penalty,
+        },
+    }
+
+    response = requests.post(_ollama_endpoint(), json=payload, stream=True, timeout=180)
+    response.raise_for_status()
+
+    output_chunks = []
+    for line in response.iter_lines():
+        if not line:
+            continue
+        line_object = json.loads(line)
+        if "response" not in line_object:
+            continue
+
+        chunk = line_object["response"]
+        if echo:
+            print(chunk, end="", flush=True)
+        output_chunks.append(chunk)
+
+        if line_object.get("done"):
+            break
+
+    if echo:
+        print()
+    return "".join(output_chunks)
+
+
+def _extract_prompt_block(raw_text: str) -> str:
+    """Extrae el primer bloque ```prompt ... ```; si no hay, devuelve el texto."""
+    pattern = r"\x60{3}(?:prompt|text)?\s*(.*?)\s*\x60{3}"
+    match = re.search(pattern, raw_text, re.DOTALL | re.IGNORECASE)
+    return match.group(1).strip() if match else raw_text.strip()
 
 
 def generate_ollama_semantic_prompt(
     targets: List[TargetTask],
-    system_instruction_template: str,
+    strategy_cfg: Dict[str, Any],
+    shared_header: str = "",
     now_utc: Optional[datetime] = None,
     model_name: str = "llama3.1:8b",
     temperature: float = 0.4,
     num_predict: int = 700,
     repeat_penalty: float = 1.05,
-) -> Dict[str, str]:
-    raw_url = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434")
-    clean_url = raw_url.replace("[", "").replace("]", "").split("(")[0].strip()
-    target_endpoint = f"{clean_url}/api/generate"
-    
-    generated_prompts_map = {}
+) -> Tuple[Dict[str, str], Dict[str, str]]:
+    """
+    Devuelve (prompts_map, stage1_map).
+
+    prompts_map : task_id -> solicitud final en lenguaje natural
+    stage1_map  : task_id -> frase temporal resuelta en la etapa 1
+                  (vacio para las estrategias de una sola llamada)
+    """
+    generated_prompts_map: Dict[str, str] = {}
+    stage1_map: Dict[str, str] = {}
 
     if now_utc is None:
         now_utc = datetime.now(timezone.utc)
 
+    two_stage = int(strategy_cfg.get("n_calls", 1)) == 2
+
     for task in targets:
         task_string = build_single_task_string(task, now_utc)
-        full_prompt = system_instruction_template.format(tasks_dataset=task_string)
-        
-        payload = {
-            "model": model_name,
-            "prompt": full_prompt,
-            "options": {
-                "temperature": temperature,
-                "num_predict": num_predict,
-                "repeat_penalty": repeat_penalty
-            }
-        }
 
         print(f"\n[OLLAMA] Generating prompt for {task.task_id}...")
-        response = requests.post(
-            target_endpoint,
-            json=payload,
-            stream=True,
-            timeout=180
+
+        if two_stage:
+            fields = build_task_fields(task, now_utc)
+
+            stage1_prompt = strategy_cfg["template_stage1"].format(
+                target_day=fields["target_day"],
+                target_diurnal_period=fields["target_diurnal_period"],
+            )
+            raw_phrase = _call_ollama(
+                stage1_prompt, model_name, temperature,
+                num_predict=40, repeat_penalty=repeat_penalty, echo=False,
+            )
+
+            phrase = raw_phrase.strip().strip('"').strip()
+            phrase = phrase.splitlines()[0].strip() if phrase else ""
+            stage1_map[task.task_id] = phrase
+            print(f"[STAGE 1] {task.task_id} -> {phrase!r}")
+
+            full_prompt = strategy_cfg["template_stage2"].format(
+                shared_header=shared_header,
+                verified_temporal_phrase=phrase,
+                tasks_dataset=task_string,
+            )
+        else:
+            stage1_map[task.task_id] = ""
+            full_prompt = strategy_cfg["template"].format(
+                shared_header=shared_header,
+                tasks_dataset=task_string,
+            )
+
+        raw_text = _call_ollama(
+            full_prompt, model_name, temperature,
+            num_predict=num_predict, repeat_penalty=repeat_penalty,
         )
-        response.raise_for_status()
+        generated_prompts_map[task.task_id] = _extract_prompt_block(raw_text)
 
-        output_chunks = []
-        for line in response.iter_lines():
-            if not line:
-                continue
-            line_object = json.loads(line)
-            if "response" not in line_object:
-                continue
-            
-            chunk = line_object["response"]
-            print(chunk, end="", flush=True)
-            output_chunks.append(chunk)
-
-            if line_object.get("done"):
-                break
-
-        print()
-        raw_text = "".join(output_chunks)
-        
-        pattern = r"\x60{3}(?:prompt|text)?\s*(.*?)\s*\x60{3}"
-        match = re.search(pattern, raw_text, re.DOTALL | re.IGNORECASE)
-        parsed_text = match.group(1).strip() if match else raw_text.strip()
-            
-        generated_prompts_map[task.task_id] = parsed_text
-        
-    return generated_prompts_map
+    return generated_prompts_map, stage1_map

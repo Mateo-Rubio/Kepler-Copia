@@ -93,10 +93,9 @@ task_generation:
       VNIR: "multispectral vegetation analysis chlorophyll absorption level NDVI index"
       SAR: "active radar scan microwave surface imaging cloud-penetrating capture"
       NIR: "near-infrared reflection water body boundary mapping soil moisture assessment"
-      VIS: "high-resolution optical snapshot daylight photography RGB true-color imagery"
-    system_instruction_template: |
-      Return ONLY one block delimited by triple backticks with the language tag `prompt`.
-
+      VIS: "high-resolution optical snapshot daylight photography RGB true-color imagery" 
+    active_strategy: "zero_shot"
+    shared_header: |
       You are an Earth-observation mission operator submitting a task request to an automated satellite constellation planner.
       Your objective is to translate the raw physical simulation metadata provided in JSON format below into a single, highly realistic, and conversational English request.
 
@@ -123,24 +122,231 @@ task_generation:
            * VNIR -> Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
            * NIR -> Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
 
-      4. RELATIVE TIMEFRAMES (Interpret keys 'target_day' and 'target_diurnal_period'):
-              - Do NOT output raw UTC timestamps, digits, or countdown metrics.
-              - CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window. Your text must reflect this urgency naturally.
-              - You are strictly forbidden from altering or extending this deadline. You must weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like:
-                * "...needed by [target_day] [target_diurnal_period] at the latest."
-                * "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
-                * "...ensuring the products are ingested into the pipeline before [target_day] [target_diurnal_period]."
-              
-              Operational vocabulary alignment:
-              - If 'target_diurnal_period' is "overnight" -> The data must be ready by tomorrow's overnight/nighttime block. Do NOT write "afternoon" or "morning" as it would violate the deadline constraint.  
-      
-      Target task context JSON:
-      {tasks_dataset}
+    strategies:
+      zero_shot:
+        n_calls: 1
+        template: |
+          Return ONLY one block delimited by triple backticks with the language tag `prompt`.
 
-      Now output ONLY the final natural user request inside:
-      ```prompt
-      ...your text here...
-      ```
+          {shared_header}
+
+          4. RELATIVE TIMEFRAMES (Interpret keys 'target_day' and 'target_diurnal_period'):
+                  - Do NOT output raw UTC timestamps, digits, or countdown metrics.
+                  - CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window. Your text must reflect this urgency naturally.
+                  - You are strictly forbidden from altering or extending this deadline. You must weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like:
+                    * "...needed by [target_day] [target_diurnal_period] at the latest."
+                    * "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+                    * "...ensuring the products are ingested into the pipeline before [target_day] [target_diurnal_period]."
+
+                  Operational vocabulary alignment:
+                  - If 'target_diurnal_period' is "overnight" -> The data must be ready by tomorrow's overnight/nighttime block. Do NOT write "afternoon" or "morning" as it would violate the deadline constraint.
+
+          Target task context JSON:
+          {tasks_dataset}
+
+          Now output ONLY the final natural user request inside:
+          ```prompt
+          ...your text here...
+          ```
+
+      # ================================================================
+      # FEW-SHOT — demostraciones resueltas en lugar de placeholders.
+      #
+      # Diseño:
+      #  - 4 ejemplos que cubren 4 de las 5 franjas diurnas (se omite una
+      #    a propósito para poder observar generalización, no copia).
+      #  - Cada ejemplo contiene el token ancla literal exigido por la
+      #    regex del validador (morning | mid-day | afternoon | evening |
+      #    overnight). Sin el token literal la extracción falla y cae al
+      #    fallback silencioso.
+      #  - Los ejemplos son UN SOLO PARRAFO, sin saludo ni firma. Esto
+      #    ataca implicitamente el fallo de registro de qwen2:7b
+      #    ([Your Name], 151/161 de sus artefactos) sin necesidad de una
+      #    instruccion explicita que confundiria el experimento.
+      # ================================================================
+      few_shot:
+        n_calls: 1
+        template: |
+          Return ONLY one block delimited by triple backticks with the language tag `prompt`.
+
+          {shared_header}
+
+          4. RELATIVE TIMEFRAMES (Interpret keys 'target_day' and 'target_diurnal_period'):
+             - Do NOT output raw UTC timestamps, digits, or countdown metrics.
+             - CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products, NOT the orbital capture window.
+             - You must state the deadline using the exact wording of 'target_day' and the exact wording of 'target_diurnal_period'. Do not substitute them for synonyms, and do not shift them to a different part of the day.
+
+          Study the following worked examples. Each shows the input metadata and the
+          corresponding request. Note the register: one flowing paragraph, no greeting,
+          no sign-off, no signature line.
+
+          --- EXAMPLE 1 ---
+          INPUT:
+          {{
+            "primary_sensor": "TIR",
+            "location_details": {{"country": "Italy", "city": "Grosseto"}},
+            "priority_level": 3,
+            "target_day": "today",
+            "target_diurnal_period": "in the evening"
+          }}
+          OUTPUT:
+          ```prompt
+          This is an absolute institutional priority and a binding contract requirement, so I need to lock in a critical payload capture over Grosseto in Italy under a mandatory directive. We are after thermal mapping of the area to pull a clean surface temperature profile and flag any thermal anomaly across the industrial belt. This is an un-preemptable mission lock and requires urgent operational execution, with the products needed today in the evening at the latest.
+          ```
+
+          --- EXAMPLE 2 ---
+          INPUT:
+          {{
+            "primary_sensor": "VNIR",
+            "location_details": {{"country": "Colombia", "city": "El Paujil"}},
+            "priority_level": 1,
+            "target_day": "tomorrow",
+            "target_diurnal_period": "overnight"
+          }}
+          OUTPUT:
+          ```prompt
+          Low priority importance on this one, so treat it as a non-essential background filler task with a flexible schedule and feel free to drop or reschedule at convenience. When an opportunistic capture opens up over El Paujil in Colombia, we would like a multispectral vegetation analysis to assess chlorophyll absorption level and work out an NDVI index along with surface reflectance for the plots south of town. It is a background survey, nothing urgent, but if it does run we need the products by tomorrow overnight at the latest.
+          ```
+
+          --- EXAMPLE 3 ---
+          INPUT:
+          {{
+            "primary_sensor": "SAR",
+            "location_details": {{"country": "Indonesia", "city": "Palembang"}},
+            "priority_level": 2,
+            "target_day": "the day after tomorrow",
+            "target_diurnal_period": "around mid-day"
+          }}
+          OUTPUT:
+          ```prompt
+          Logging a standard operational tasking over Palembang in Indonesia as part of our baseline pipeline tracking with fixed parameters. Cloud cover has been heavy all week, so we need an active radar scan using microwave surface imaging for a cloud-penetrating capture that will give us the ground geometry regardless of weather. This is routine monitoring at normal operational status, and the delivery deadline is set for the day after tomorrow around mid-day.
+          ```
+
+          --- EXAMPLE 4 ---
+          INPUT:
+          {{
+            "primary_sensor": "VIS",
+            "location_details": {{"country": "Italy", "city": "Ravenna"}},
+            "priority_level": 2,
+            "target_day": "in three days",
+            "target_diurnal_period": "in the morning"
+          }}
+          OUTPUT:
+          ```prompt
+          Putting in a commercial tasking for Ravenna in Italy as a workflow update on our coastal file. We want a high-resolution optical snapshot with proper daylight photography so the client gets true-color visual documentation of the port expansion works. Normal operational status, fixed parameters, and the products should be ingested into the pipeline in three days in the morning.
+          ```
+
+          --- END OF EXAMPLES ---
+
+          Now apply the same treatment to this task.
+
+          Target task context JSON:
+          {tasks_dataset}
+
+          Output ONLY the final natural user request inside:
+          ```prompt
+          ...your text here...
+          ```
+
+      # ================================================================
+      # CHAIN-OF-THOUGHT — razonamiento explicito antes de redactar.
+      #
+      # Nota de implementacion: el parser actual de generator.py es
+      #   r"\x60{3}(?:prompt|text)?\s*(.*?)\s*\x60{3}"
+      # y extrae el PRIMER bloque delimitado. Por eso el razonamiento va
+      # en prosa plana FUERA del bloque y la solicitud final dentro. No
+      # hace falta tocar el parser. Es critico instruir que el
+      # razonamiento nunca use delimitadores de bloque, o el parser
+      # extraeria el razonamiento en lugar de la solicitud.
+      # ================================================================
+      chain_of_thought:
+        n_calls: 1
+        template: |
+          {shared_header}
+
+          4. RELATIVE TIMEFRAMES (Interpret keys 'target_day' and 'target_diurnal_period'):
+             - Do NOT output raw UTC timestamps, digits, or countdown metrics.
+             - CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products, NOT the orbital capture window.
+             - You may not alter, extend, shift or reinterpret the deadline.
+
+          Target task context JSON:
+            {tasks_dataset}
+
+          Answer in two stages.
+
+          STAGE 1 - REASONING. Write plain prose, no bullet points, no code blocks,
+          no backticks. Work through these four questions in order:
+            a) Which exact string is in 'target_day'? Copy it verbatim.
+            b) Which exact string is in 'target_diurnal_period'? Copy it verbatim.
+            c) Which single word out of {{morning, mid-day, afternoon, evening, overnight}}
+               is contained in that string? That word must appear literally in your
+               final request. Name it.
+            d) Confirm you are not shifting the deadline to an adjacent part of the day.
+
+          STAGE 2 - FINAL REQUEST. Output the operational request as one flowing
+          paragraph, no greeting and no signature, containing verbatim both the
+          'target_day' string and the word you identified in step (c).
+
+          Begin STAGE 1 now. When you reach STAGE 2, output it inside:
+          ```prompt
+          ...your text here...
+          ```
+
+      # ================================================================
+      # PROMPT CHAINING — dos llamadas secuenciales.
+      #
+      # Llamada 1: resuelve SOLO la expresion temporal.
+      # Llamada 2: recibe esa expresion ya verificada como insumo fijo y
+      #            NO recibe target_day / target_diurnal_period en crudo,
+      #            para que no pueda re-derivarlas. Ese aislamiento es lo
+      #            que hace que la estrategia sea distinta de zero-shot.
+      # ================================================================
+      chaining:
+        n_calls: 2
+        template_stage1: |
+          You are a temporal normalization module for a satellite tasking system.
+
+          You receive two fields and must return the single English phrase an operator
+          would use to state a delivery deadline.
+
+          Rules:
+            - The phrase must contain the 'target_day' string verbatim.
+            - The phrase must contain exactly one word from this closed set:
+              morning, mid-day, afternoon, evening, overnight.
+            - Return the phrase and nothing else. No explanation, no punctuation
+              beyond what belongs in the phrase, no quotes, no code blocks.
+
+          Examples:
+            target_day="today", target_diurnal_period="in the evening" -> today in the evening
+            target_day="tomorrow", target_diurnal_period="overnight" -> tomorrow overnight
+            target_day="in three days", target_diurnal_period="around mid-day" -> in three days around mid-day
+
+          target_day = "{target_day}"
+          target_diurnal_period = "{target_diurnal_period}"
+
+          Phrase:
+
+        template_stage2: |
+          Return ONLY one block delimited by triple backticks with the language tag `prompt`.
+
+          {shared_header}
+
+          4. DELIVERY DEADLINE:
+             - The deadline for this task has already been resolved by an upstream module.
+               It is: "{verified_temporal_phrase}"
+             - You must insert this phrase VERBATIM into your request, as the stated
+               upper limit for data availability. Do not rephrase it, do not shorten it,
+               do not move it to a different part of the day.
+             - Do NOT output raw UTC timestamps, digits, or countdown metrics.
+
+          Target task context JSON:
+          {tasks_dataset}
+
+          Output the request as one flowing paragraph, no greeting and no signature,
+          inside:
+          ```prompt
+          ...your text here...
+          ```
 
 paths:
   gs_file_path: "data/ground_station.csv"

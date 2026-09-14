@@ -20,6 +20,7 @@ def prompt_factory_main(
     days_categories: Optional[List[str]] = None,
     hours_categories: Optional[List[str]] = None,
     simulation_t0: Optional[datetime] = None
+    strategy: Optional[str] = None
 ) -> Dict[str, str]:
     if prompt_config is None:
         return {}
@@ -94,6 +95,7 @@ def prompt_factory_main(
     prompts_map = generate_ollama_semantic_prompt(
         targets=targets,
         system_instruction_template=system_instruction,
+        strategy_cfg=strategy_cfg,
         model_name=model_name,
         temperature=temperature,
         now_utc=fixed_now_utc
@@ -134,7 +136,7 @@ def prompt_factory_main(
             elif remaining_hours < 60:
                 day_tag = "the day after tomorrow"
             elif remaining_hours < 84:
-                day_tag = "in three days"
+                day_tag = "in three days"+
             else:
                 day_tag = "in four days"
 
