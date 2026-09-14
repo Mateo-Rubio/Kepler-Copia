@@ -43,26 +43,12 @@ import os
 import pathlib
 import sys
 import traceback
+import yaml
+import requests
 from datetime import datetime, timezone, timedelta
-
-try:
-    import requests
-except ImportError:
-    print("[!] Este script requiere 'requests'. Instálalo con: pip install requests", file=sys.stderr)
-    sys.exit(1)
-
-try:
-    import yaml
-except ImportError:
-    print("[!] Este script requiere PyYAML. Instálalo con: pip install pyyaml", file=sys.stderr)
-    sys.exit(1)
-
 from src.modules.data_collector.main import data_collector_main
 from src.modules.physics_engine.main import physics_engine_main
 from src.modules.prompt_factory.main import prompt_factory_main
-
-# Modelos evaluados en el paper original de KDF. Se pueden sobreescribir
-# con --models.
 
 RUN_DATE = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
