@@ -1,0 +1,2 @@
+We're looking to gather a multispectral vegetation analysis using near-infrared reflection capabilities, targeting the city of Ecuatorial in Indonesia. This task is scheduled as a low priority importance with a flexible schedule and needs to be accomplished within three days by this evening at the latest. Please ensure that these data products are ready for integration into our monitoring pipeline before then.
+```

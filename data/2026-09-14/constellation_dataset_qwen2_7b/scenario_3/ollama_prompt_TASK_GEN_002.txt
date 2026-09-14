@@ -1,0 +1,13 @@
+Good day, Satellite Mission Planner,
+
+I'm reaching out to request an urgent tasking for our Earth observation mission. We're looking to capture high-resolution optical imagery of a specific area in Italy, specifically Ghedi, which is part of the broader region named Italia. The primary sensor required for this mission is the VNIR (Visible Near-Infrared) sensor, which will be used for multispectral vegetation analysis to assess the chlorophyll absorption level and calculate the NDVI index.
+
+This task is categorized under priority level 3, indicating its high importance. We need this data by a specific day, which is three days from now, with a strict delivery deadline set for mid-day. This means we're aiming for the products to be ingested into our pipeline before that time, ensuring timely availability of the data.
+
+The imagery captured should provide clear optical documentation and true-color visual details of the region at Ghedi. We're particularly interested in understanding the vegetation health and density, which will help us monitor environmental changes and support agricultural practices in the area.
+
+Thank you for your immediate attention to this matter. Please let me know if we need to adjust our request or provide any additional information.
+
+Best regards,
+
+[Your Name]

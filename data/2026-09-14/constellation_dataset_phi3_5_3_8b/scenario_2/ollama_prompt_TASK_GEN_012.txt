@@ -1,0 +1,3 @@
+We need a flexible schedule for an opportunistic capture task focusing on active radar scanning using microwave surface imaging in Sanggau, Indonesia. This background survey is not urgent but should be ready by the afternoon following tomorrow to ensure we have some data for review without pressing deadlines.
+```prompt
+...your text here...

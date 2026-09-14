@@ -1,3 +1,4 @@
+'''
 #!/usr/bin/env python3
 """
 plot_special_char_distribution.py
@@ -257,3 +258,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+'''

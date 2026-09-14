@@ -1,0 +1,5 @@
+Translate this raw simulation metadata into a highly realistic and conversational English request for a satellite constellation planner.
+
+The objective is to capture a high-resolution optical snapshot of the region in Italia, specifically around Ghedi, using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This is an absolute institutional priority, involving a critical payload capture and mandatory directive with an urgent operational execution and un-preemptable mission lock.
+
+The data must be ready by in three days around mid-day at the latest, ensuring the products are ingested into the pipeline before then.

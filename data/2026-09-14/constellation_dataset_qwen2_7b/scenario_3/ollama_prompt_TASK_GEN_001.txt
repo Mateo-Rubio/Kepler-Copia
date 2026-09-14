@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planner,
+
+I'm reaching out with a standard operational tasking request for a routine monitoring activity involving the VNIR sensor, which will be utilized to conduct a multispectral vegetation analysis. Our objective is to assess chlorophyll absorption levels and calculate the NDVI index for an area located in Tame, Colombia. This high-resolution optical snapshot will serve as a true-color visual documentation of the region's vegetation health.
+
+Given the importance of this task, we are treating it as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We understand that this request falls under medium operational priority and is subject to standard workflow updates.
+
+The deadline for delivering the data products is set for tomorrow, with a strict delivery deadline for overnight hours. This means that the products must be ingested into the pipeline before the end of tonight's block to ensure timely processing and analysis.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring this task is executed according to our guidelines.
+
+Best regards,
+[Your Name]

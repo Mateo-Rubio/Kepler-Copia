@@ -1,0 +1,3 @@
+We have an absolute institutional priority to conduct a thermal mapping mission over the northern region of Italy. This task involves capturing a detailed heat signature and surface temperature profile using microwave surface imaging, ensuring we detect any potential thermal anomalies. Given its critical payload capture nature, this is a mandatory directive that requires urgent operational execution with an un-preemptable mission lock.
+
+The data products must be ingested into the pipeline before mid-day in three days at the latest. This strict deadline ensures timely delivery and analysis of the thermal data. Please prioritize this task accordingly to meet our binding contract requirements.

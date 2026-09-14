@@ -1,0 +1,7 @@
+Good day, satellite constellation planners. I'm reaching out with a task request that's of low priority importance but requires a flexible schedule for opportunistic capture. Our focus is on conducting an active radar scan using microwave surface imaging technology to capture cloud-penetrating imagery of a specific region. The geographic context involves Colombia, specifically the city of Nóvita. This task falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary objective is to assess ground geometry and gather detailed information about the area's features that might not be visible under clear sky conditions. We're aiming for a high-resolution optical snapshot as well to ensure comprehensive coverage and understanding of the region's landscape. This imagery will serve as a thermal mapping tool, allowing us to detect heat signatures and surface temperature profiles.
+
+The deadline for delivering this data product is set for four days from now, with a strict delivery deadline set for the evening block. We understand that this timeframe represents a deadline for data availability and not an orbital capture window. We're treating this task as a non-essential background filler task where we can drop or reschedule it at our convenience if necessary.
+
+Please ensure that the products are ingested into the pipeline before the specified day and evening period to meet our operational requirements. Thank you for your attention and cooperation in fulfilling this request.

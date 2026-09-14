@@ -1,0 +1,8 @@
+Good day, satellite constellation planner. I'm reaching out with a task that's of low priority importance for our operational pipeline. This request involves capturing data using the VNIR sensor, which will help us assess chlorophyll absorption levels and calculate the vegetation NDVI index in Porto Recanati, Italia. The goal is to obtain high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation.
+
+The mission's deadline is set for three days from now, with a strict delivery deadline for the afternoon timeframe. We understand this might be a flexible schedule for our background survey task, but we aim to complete it efficiently without impacting other critical operations. Kindly mark your calendar to ensure that the products are ingested into our pipeline before the target day's afternoon period.
+
+Thank you for your attention and cooperation in fulfilling this request. If there are any questions or adjustments needed, please feel free to communicate with us. We appreciate your understanding of our operational guidelines and look forward to a smooth process.
+
+Best regards,
+[Your Name]

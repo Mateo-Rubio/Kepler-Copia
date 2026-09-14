@@ -14,15 +14,19 @@ caracteres especiales hay, ni cuántas veces aparece cada uno). Al final se
 genera un gráfico de barras con el número de prompts por modelo que
 contienen al menos uno de estos caracteres.
 
-Estructura de datos esperada:
-    <data-root>/constellation_dataset_<modelo>/scenario_<n>/ollama_prompt_TASK_GEN_*.txt
+Estructura de datos esperada (cualquiera de las dos):
+    <data-root>/<fecha>/constellation_dataset_<modelo>/scenario_<n>/ollama_prompt_TASK_GEN_*.txt
+    <data-root>/<fecha>/<estrategia>/constellation_dataset_<modelo>/scenario_<n>/...
+
+Si no se usa --date, se escanea <data-root> directamente (estructura antigua).
 
 Requiere matplotlib:
     pip install matplotlib --break-system-packages
 
 Ejemplo de uso:
-    python3 scan_special_characters.py --data-root data
-    python3 scan_special_characters.py --data-root data --list-matches
+    python3 scan_special_characters.py --list-dates
+    python3 scan_special_characters.py --data-root data --date 2026-09-14
+    python3 scan_special_characters.py --data-root data --date 2026-09-14 --list-matches
 """
 
 import argparse
@@ -48,26 +52,28 @@ except ImportError:
 # Edita esta lista según lo que quieras detectar.
 # ------------------------------------------------------------------ #
 SPECIAL_CHARS = [
-    "`",   
-    "~",   
-    '"',   
-    "[",   
-    "]",   
-    "{",   
-    "}",   
-    "<",   
-    ">",   
-    "|",   
-    "^",   
-    "\\",  
-    "*",  
-    "_",  
-    "@",   
-    "#",   
-    "$",  
-    "%",   
-    "&",   
+    "`",
+    "~",
+    '"',
+    "[",
+    "]",
+    "{",
+    "}",
+    "<",
+    ">",
+    "|",
+    "^",
+    "\\",
+    "*",
+    "_",
+    "@",
+    "#",
+    "$",
+    "%",
+    "&",
 ]
+
+DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 def build_pattern(chars: list) -> re.Pattern:
@@ -76,12 +82,37 @@ def build_pattern(chars: list) -> re.Pattern:
     return re.compile(f"[{char_class}]")
 
 
-def discover_models(data_root: Path):
-    models = []
-    for p in sorted(data_root.glob("constellation_dataset_*")):
+def list_available_dates(data_root: Path):
+    """Carpetas YYYY-MM-DD presentes bajo data-root, de más antigua a más reciente."""
+    if not data_root.exists():
+        return []
+    return sorted(d.name for d in data_root.iterdir()
+                  if d.is_dir() and DATE_PATTERN.match(d.name))
+
+
+def pretty_label(rel_path: Path) -> str:
+    """
+    constellation_dataset_llama3_1_8b            -> llama3_1_8b
+    few_shot/constellation_dataset_llama3_1_8b   -> few_shot | llama3_1_8b
+    """
+    parts = list(rel_path.parts)
+    model = parts[-1].replace("constellation_dataset_", "", 1)
+    prefix = parts[:-1]
+    return " | ".join(prefix + [model]) if prefix else model
+
+
+def discover_model_dirs(scan_root: Path):
+    """
+    Devuelve [(etiqueta, ruta)] de cada carpeta de modelo encontrada bajo
+    scan_root, a cualquier profundidad. Usar rglob permite que funcione
+    igual con data/<fecha>/<modelo>/ que con
+    data/<fecha>/<estrategia>/<modelo>/.
+    """
+    found = []
+    for p in sorted(scan_root.rglob("constellation_dataset_*")):
         if p.is_dir():
-            models.append(p.name.replace("constellation_dataset_", "", 1))
-    return models
+            found.append((pretty_label(p.relative_to(scan_root)), p))
+    return found
 
 
 def parse_scenario_range(spec: str):
@@ -99,9 +130,9 @@ def parse_scenario_range(spec: str):
     return sorted(scenarios)
 
 
-def scan_model(data_root: Path, model: str, scenarios, pattern: re.Pattern):
+def scan_model_dir(model_dir: Path, scenarios, pattern: re.Pattern):
     """
-    Recorre todos los .txt de prompt de un modelo y devuelve:
+    Recorre todos los .txt de prompt de una carpeta de modelo y devuelve:
       - total_files: número total de archivos de prompt encontrados
       - matched_files: lista de rutas cuyo contenido contiene AL MENOS UNO
         de los caracteres especiales (solo presencia/ausencia por archivo)
@@ -110,7 +141,7 @@ def scan_model(data_root: Path, model: str, scenarios, pattern: re.Pattern):
     matched_files = []
 
     for scenario in scenarios:
-        scenario_dir = data_root / f"constellation_dataset_{model}" / f"scenario_{scenario}"
+        scenario_dir = model_dir / f"scenario_{scenario}"
         if not scenario_dir.is_dir():
             continue
 
@@ -128,7 +159,8 @@ def scan_model(data_root: Path, model: str, scenarios, pattern: re.Pattern):
     return total_files, matched_files
 
 
-def plot_bars(counts_by_model: dict, totals_by_model: dict, output_path: Path):
+def plot_bars(counts_by_model: dict, totals_by_model: dict, output_path: Path,
+              date: str = None):
     models = sorted(counts_by_model.keys())
     if not models:
         print("[!] No se encontraron modelos/archivos para graficar.")
@@ -137,12 +169,15 @@ def plot_bars(counts_by_model: dict, totals_by_model: dict, output_path: Path):
     values = [counts_by_model[m] for m in models]
 
     x = range(len(models))
-    fig, ax = plt.subplots(figsize=(max(6, len(models) * 1.4), 6))
+    fig, ax = plt.subplots(figsize=(max(6, len(models) * 1.6), 6))
     bars = ax.bar(x, values, color="#8172B2")
 
     ax.set_xlabel("Modelo")
     ax.set_ylabel("Nº de prompts con al menos un carácter especial")
-    ax.set_title("Prompts por modelo que contienen caracteres especiales")
+    title = "Prompts por modelo que contienen caracteres especiales"
+    if date:
+        title += f"\nCorrida: {date}"
+    ax.set_title(title)
     ax.set_xticks(list(x))
     ax.set_xticklabels(models, rotation=20, ha="right")
     ax.yaxis.grid(True, linestyle="--", alpha=0.4)
@@ -169,11 +204,17 @@ def main():
                     "contienen al menos uno."
     )
     parser.add_argument("--data-root", type=Path, default=Path("data"),
-                         help="Carpeta que contiene constellation_dataset_<modelo>/ (default: ./data)")
+                         help="Carpeta raíz de datos (default: ./data)")
+    parser.add_argument("--date", type=str, default=None,
+                         help="Carpeta de fecha YYYY-MM-DD bajo data-root. Si se omite y "
+                              "existen carpetas de fecha, se usa la más reciente.")
+    parser.add_argument("--list-dates", action="store_true",
+                         help="Solo listar las fechas disponibles y salir.")
     parser.add_argument("--scenarios", type=str, default="1-25",
                          help="Rango de escenarios a considerar, ej. '1-25' o '1,3,5' (default: 1-25)")
-    parser.add_argument("--output", type=Path, default=Path("special_chars_by_model.png"),
-                         help="Ruta del archivo PNG de salida (default: special_chars_by_model.png)")
+    parser.add_argument("--output", type=Path, default=None,
+                         help="Ruta del archivo PNG de salida. Por defecto incluye la fecha "
+                              "en el nombre.")
     parser.add_argument("--list-matches", action="store_true",
                          help="Además del gráfico, imprime la ruta y los caracteres especiales "
                               "encontrados en cada archivo")
@@ -183,38 +224,78 @@ def main():
         print(f"[!] La carpeta de datos '{args.data_root}' no existe.", file=sys.stderr)
         sys.exit(1)
 
-    pattern = build_pattern(SPECIAL_CHARS)
+    available_dates = list_available_dates(args.data_root)
 
+    if args.list_dates:
+        if available_dates:
+            print("Fechas disponibles:")
+            for d in available_dates:
+                print(f"  {d}")
+        else:
+            print(f"No hay carpetas de fecha bajo '{args.data_root}'.")
+        sys.exit(0)
+
+    # ---- Resolver qué carpeta escanear ---------------------------- #
+    selected_date = args.date
+    if selected_date is None and available_dates:
+        selected_date = available_dates[-1]
+        print(f"[INFO] No se especificó --date; usando la más reciente: {selected_date}")
+
+    if selected_date:
+        scan_root = args.data_root / selected_date
+        if not scan_root.exists():
+            print(f"[!] No existe la carpeta de fecha '{selected_date}' en "
+                  f"'{args.data_root}'.", file=sys.stderr)
+            print(f"[!] Fechas disponibles: {available_dates if available_dates else 'ninguna'}",
+                  file=sys.stderr)
+            sys.exit(1)
+    else:
+        scan_root = args.data_root
+        print(f"[INFO] Sin carpetas de fecha; escaneando '{scan_root}' directamente.")
+
+    output_path = args.output
+    if output_path is None:
+        suffix = f"_{selected_date}" if selected_date else ""
+        output_path = Path(f"special_chars_by_model{suffix}.png")
+
+    pattern = build_pattern(SPECIAL_CHARS)
     scenarios = parse_scenario_range(args.scenarios)
-    models = discover_models(args.data_root)
-    if not models:
+
+    model_dirs = discover_model_dirs(scan_root)
+    if not model_dirs:
         print(f"[!] No se encontraron carpetas 'constellation_dataset_*' en "
-              f"'{args.data_root}'.", file=sys.stderr)
+              f"'{scan_root}'.", file=sys.stderr)
         sys.exit(1)
-    print(f"Modelos encontrados ({len(models)}): {', '.join(models)}")
+
+    print(f"Modelos encontrados ({len(model_dirs)}): "
+          f"{', '.join(label for label, _ in model_dirs)}")
     print(f"Caracteres especiales considerados: {SPECIAL_CHARS}\n")
 
     counts_by_model = {}
     totals_by_model = {}
     all_matches = defaultdict(list)
 
-    for model in models:
-        total, matched = scan_model(args.data_root, model, scenarios, pattern)
-        totals_by_model[model] = total
-        counts_by_model[model] = len(matched)
-        all_matches[model] = matched
-        print(f"  {model:20s}  {len(matched):4d} / {total:4d} prompts contienen "
-              f"caracteres especiales")
+    for label, model_dir in model_dirs:
+        total, matched = scan_model_dir(model_dir, scenarios, pattern)
+        if total == 0:
+            print(f"  {label:28s}  sin archivos de prompt, se omite")
+            continue
+        totals_by_model[label] = total
+        counts_by_model[label] = len(matched)
+        all_matches[label] = matched
+        pct = len(matched) / total * 100
+        print(f"  {label:28s}  {len(matched):4d} / {total:4d} prompts contienen "
+              f"caracteres especiales ({pct:.1f}%)")
 
     if args.list_matches:
         print("\nArchivos con caracteres especiales y cuáles se encontraron:")
-        for model in models:
-            for path in all_matches[model]:
+        for label in sorted(all_matches):
+            for path in all_matches[label]:
                 content = path.read_text(encoding="utf-8")
                 found = sorted(set(c for c in SPECIAL_CHARS if c in content))
-                print(f"  [{model}] {path}  ->  {found}")
+                print(f"  [{label}] {path}  ->  {found}")
 
-    plot_bars(counts_by_model, totals_by_model, args.output)
+    plot_bars(counts_by_model, totals_by_model, output_path, date=selected_date)
 
 
 if __name__ == "__main__":

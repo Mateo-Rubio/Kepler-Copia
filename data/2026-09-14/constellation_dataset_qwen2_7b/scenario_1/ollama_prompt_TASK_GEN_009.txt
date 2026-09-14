@@ -1,0 +1,7 @@
+Good day, esteemed satellite constellation planner. I'm reaching out to request your immediate attention for a critical task involving our automated mission allocation system. Our current mission involves capturing an active radar scan of the Indonesian region, focusing specifically on the city of Kubu Raya. This task requires a high-resolution microwave surface imaging capability to penetrate heavy cloud cover and provide us with detailed ground geometry data.
+
+Given the nature of this request, I'd like to emphasize that it carries a low priority importance, allowing for a flexible schedule that can accommodate any necessary rescheduling or dropping at your convenience. However, we do need to ensure that the data products are ready for ingestion into our pipeline by tomorrow's overnight block, adhering strictly to the deadline set for this task.
+
+Please note that this request is labeled as "non-essential background filler" and should be treated as a background survey or testbed tracking task, with no impact on urgent operational execution. We appreciate your understanding and cooperation in meeting these guidelines.
+
+Thank you for your attention and prompt action.

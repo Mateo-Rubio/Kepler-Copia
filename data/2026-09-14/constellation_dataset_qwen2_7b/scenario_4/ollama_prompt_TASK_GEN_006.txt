@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We have an urgent request for a highly important mission allocation, which falls under Priority 3 due to its critical payload capture necessity and contractual binding requirements. This task involves utilizing the active radar scan capabilities of our SAR sensor to perform cloud-penetrating capture of ground geometry in Air Itam, Indonesia. The goal is to gather essential data that will provide us with a clear understanding of the area's topography under various weather conditions.
+
+To ensure we meet this deadline, we need a high-resolution optical snapshot of Air Itam by the day after tomorrow during the overnight block. This imagery will serve as crucial input for our baseline pipeline tracking setup, and it must be ready with fixed parameters that represent normal operational status. We are aware of the strict delivery deadline set for this mission, which is the day after tomorrow at the latest.
+
+We appreciate your swift attention to this matter and look forward to receiving the data products before the specified time frame. If there are any constraints or adjustments needed due to other operational tasks, please consider this request as a flexible schedule for opportunistic capture.
+
+Thank you for your cooperation in ensuring this mission's successful execution.
+
+Best regards,
+[Your Name]

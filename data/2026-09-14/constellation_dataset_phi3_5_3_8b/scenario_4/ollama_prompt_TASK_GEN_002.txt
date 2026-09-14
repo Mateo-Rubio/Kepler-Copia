@@ -1,0 +1,2 @@
+We have an absolute institutional priority to capture high-resolution optical snapshots of Norte's vegetation using multispectral analysis during tomorrow afternoon's peak light period. This critical payload capture is needed by in three days afternoon at the latest, ensuring the products are ingested into our baseline pipeline tracking system without delay for a comprehensive chlorophyll absorption level assessment and surface reflectance calculations.
+```

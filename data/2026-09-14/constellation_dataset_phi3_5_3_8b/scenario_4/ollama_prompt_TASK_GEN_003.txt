@@ -1,0 +1,2 @@
+We need a high-resolution thermal mapping of Banyuasin, Indonesia, to capture heat signatures and surface temperature profiles. This task is part of our routine monitoring aimed at detecting any thermal anomalies within the region. The data must be ready by tomorrow's morning block for integration into our regular workflow updates.
+```prompt

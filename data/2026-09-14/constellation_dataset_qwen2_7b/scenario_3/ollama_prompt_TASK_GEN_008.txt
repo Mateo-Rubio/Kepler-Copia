@@ -1,0 +1,11 @@
+Good day to our automated satellite constellation planner. We're reaching out with a task that's part of our baseline pipeline tracking setup, representing a standard operational tasking. Our priority level is set to medium importance, meaning this request falls under normal operational status and has fixed parameters that define its standard workflow update.
+
+Our geographical context involves the beautiful region of Italia, specifically focusing on the charming city of Gazzola. We're looking to capture high-resolution optical snapshots for daylight photography, aiming to gather clear optical imagery and true-color visual documentation of the area.
+
+The primary sensor we're utilizing for this mission is the VNIR (Visible Near-Infrared) sensor, which will allow us to assess chlorophyll absorption levels and calculate a vegetation NDVI index, providing valuable insights into the surface reflectance characteristics.
+
+Our deadline is set with strict parameters; we need the data products ingested into our pipeline by the target day, which is three days from now, in the morning. This means ensuring that all captured data will be ready for analysis before the sun rises on that particular day.
+
+Please note that this request carries a flexible schedule, as it's classified as a non-essential background filler task. We understand that there might be opportunities to drop or reschedule this task at your convenience if more pressing matters arise in your operational queue.
+
+Thank you for your attention and cooperation in handling this important request. We appreciate your expertise in delivering the data products that will help us further our understanding of the region of Gazzola.

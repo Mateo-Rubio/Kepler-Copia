@@ -1,0 +1,2 @@
+We need to schedule an opportunistic SAR scan over Kubu Raya, Indonesia, for a cloud-penetrating capture of the ground geometry. This task is considered low priority and can be dropped or rescheduled at our convenience. Please ensure that we have this data ready by tomorrow night's block latest, as it will serve as background survey material in our ongoing monitoring efforts.
+```

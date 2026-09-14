@@ -1,0 +1,7 @@
+Good day to you! I'm reaching out regarding an important task for our Earth observation mission. We're focusing on a region in Indonesia, specifically near an equatorial city known as Ecuatorial. The primary sensor we'll be utilizing for this operation is Thermal Infrared (TIR), which will help us capture thermal mapping data to identify heat signatures and surface temperature profiles.
+
+The urgency of this task cannot be overstated. It's considered a low priority importance request, but we're treating it with the utmost care and flexibility. We aim to complete this task as part of our opportunistic survey activities, noting that it can be dropped or rescheduled at your convenience if needed.
+
+We're setting a strict deadline for delivering the data products by tomorrow, with the latest required time being overnight. This means ensuring that all the products are ingested into our pipeline before tomorrow's nightfall. We're looking forward to receiving this valuable data to contribute to our background survey and testbed tracking tasks.
+
+Thank you for your attention to this request. We appreciate your understanding of its importance within our operational framework. Let's work together to make this a successful mission!

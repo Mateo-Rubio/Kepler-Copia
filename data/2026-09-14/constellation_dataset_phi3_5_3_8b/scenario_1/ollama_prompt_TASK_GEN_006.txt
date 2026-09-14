@@ -1,0 +1,2 @@
+We need to schedule a multispectral vegetation analysis for Pekanbaru, Indonesia, aiming to assess chlorophyll absorption levels and calculate surface reflectance. This standard operational tasking should be completed the day after tomorrow during the afternoon hours at the latest. Please ensure this routine monitoring is integrated into our baseline pipeline tracking with fixed parameters representing normal operational status.
+```

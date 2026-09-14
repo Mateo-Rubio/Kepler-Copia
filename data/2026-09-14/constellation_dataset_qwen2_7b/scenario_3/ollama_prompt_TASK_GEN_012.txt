@@ -1,0 +1,20 @@
+Subject: High-Priority Task Request - Thermal Mapping of Indonesia's Malinau Region
+
+Attention all satellite operators and mission planners,
+
+We hereby request a critical payload capture for our client's urgent operational needs. The task involves the observation of the Indonesian region, specifically focusing on the city of Malinau, utilizing our Near-Infrared sensor to conduct thermal mapping.
+
+Our primary objective is to capture a heat signature and surface temperature profile for Malinau, aiming to detect any thermal anomalies and map heat emissions with precision. This mission is of paramount importance due to its impact on environmental monitoring and critical infrastructure assessment.
+
+We require the data products generated from this observation to be ready by the target day, which is three days from now, with a strict delivery deadline set for overnight. This means that the products must be ingested into our pipeline before the end of tonight's overnight block to ensure timely analysis and decision-making processes.
+
+The priority level of this task is marked as 'High Importance', indicating an absolute institutional priority and a binding contract requirement involving a critical payload capture. We emphasize the urgency of this mission, which necessitates immediate attention and a dedicated allocation of resources to guarantee the data's accuracy and timeliness.
+
+Please note that this task must be treated with the utmost importance and allocated the necessary assets to meet our deadline constraints without any exceptions.
+
+Thank you for your understanding and cooperation in ensuring the successful execution of this mission. We look forward to receiving the requested data products by the specified deadline.
+
+Best regards,
+
+[Your Name]
+Earth-observation Mission Operator

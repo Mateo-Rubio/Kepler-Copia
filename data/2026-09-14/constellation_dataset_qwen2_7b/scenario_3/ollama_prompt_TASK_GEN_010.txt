@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a routine monitoring task for an important commercial project involving the Colombian city of Monterrey. The primary sensor required is the near-infrared (NIR) instrument, which will capture essential data on water body boundaries and soil moisture levels.
+
+Our request is as follows:
+
+Please conduct an active radar scan using the microwave surface imaging capabilities of your satellite constellation to provide us with detailed imagery of the area around Monterrey. This imagery should specifically highlight water bodies and assess soil moisture content for our ongoing project.
+
+The deadline for this task is set for three days from today, with a strict delivery deadline of the morning on that day. We're looking for data products that can be ingested into our pipeline before the morning hours of the target day.
+
+Thank you for your attention to this standard operational tasking. We appreciate your team's expertise and look forward to receiving the necessary data within these parameters.
+
+Best regards,
+[Your Name]

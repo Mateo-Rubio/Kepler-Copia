@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a high-resolution optical snapshot of the region near Sotta, France. This daylight photography will serve as a clear visual documentation for our environmental monitoring project, capturing the true colors and details of the area.
+
+As this request carries low priority importance, we understand that it can be scheduled flexibly within your operational pipeline. We're treating this as a non-essential background filler task, with the operator's explicit note to drop or reschedule at convenience if needed.
+
+The deadline for delivering the data products is set by the target day, which is four days from now, with the strict delivery deadline being in the morning. We're looking to ensure that the products are ingested into our pipeline before then, so they can be processed and made available for analysis.
+
+Thank you for your attention to this task. Please let us know if you have any questions or need additional information.
+
+Best regards,
+[Your Name]

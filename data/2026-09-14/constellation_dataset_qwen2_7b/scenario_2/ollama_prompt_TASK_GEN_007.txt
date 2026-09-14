@@ -1,0 +1,12 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out with a standard operational tasking request for a near-infrared (NIR) scan of San Joaquín, Colombia. This is an important commercial tasking assignment that requires capturing the surface moisture and water body boundaries using the NIR sensor.
+
+Please understand that this request has been marked as medium importance due to its role in our baseline pipeline tracking setup. It's part of our normal operational status and involves fixed parameters essential for monitoring environmental conditions.
+
+The deadline for delivering the data products is set for tomorrow morning, so we're looking at a strict delivery deadline of [target_day] [target_diurnal_period]. This means that the products need to be ingested into the pipeline before the sun rises, ensuring timely access for our team's analysis and decision-making processes.
+
+Thank you for your attention to this standard operational task. We appreciate your professional handling and adherence to our baseline pipeline tracking setup with these fixed parameters representing normal operational status.
+
+Best regards,
+[Your Name]

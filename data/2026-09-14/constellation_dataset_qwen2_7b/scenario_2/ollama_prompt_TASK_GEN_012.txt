@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out to request an urgent task for a critical payload capture involving our high-priority mission allocation. The objective is to conduct an active radar scan using microwave surface imaging technology to gather cloud-penetrating data on the Indonesian landscape, specifically focusing on the city of Sanggau. We aim to capture ground geometry and essential features during the afternoon session on the day after tomorrow.
+
+For this standard operational tasking, we're looking to assess the impact of heavy weather conditions by piercing through clouds using our satellite's SAR capabilities. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The mission involves a routine monitoring process that requires the collection of high-resolution data on cloud-penetrating capture.
+
+We understand that this request carries a low priority importance, but it serves as a non-essential background filler task for our team. We explicitly note that this task can be dropped or rescheduled at convenience and is treated as a background survey or testbed tracking task. Our goal is to ensure the products are ingested into the pipeline before the day after tomorrow during the afternoon session, adhering to our strict delivery deadline set for that day.
+
+Thank you for your attention and understanding of this operational context. We appreciate your cooperation in meeting these requirements.

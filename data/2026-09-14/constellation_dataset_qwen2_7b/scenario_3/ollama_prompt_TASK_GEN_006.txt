@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're requesting a standard operational tasking for an optical snapshot from the VIS sensor over Tanjung Saleh, Indonesia. This daylight photography aims to capture clear images of the region for baseline pipeline tracking purposes.
+
+Our priority level for this mission is medium importance, which means it's part of our normal operational status and will be handled with fixed parameters in our workflow update. We're looking for a high-resolution optical snapshot that will provide us with true-color visual documentation of the area.
+
+We need this data by tomorrow during the afternoon at the latest. This deadline ensures that the products are ingested into our pipeline before we move on to other tasks. This request is not an urgent operational execution or a critical payload capture, but it's essential for maintaining our standard monitoring capabilities.
+
+Thank you for your attention and cooperation in ensuring this task is completed according to our guidelines.

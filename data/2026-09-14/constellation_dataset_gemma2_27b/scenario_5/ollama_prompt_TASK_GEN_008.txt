@@ -1,0 +1,1 @@
+This is a standard operational tasking request for an active radar scan using microwave surface imaging over the city of Norte.  We need this data around mid-day the day after tomorrow at the latest, ensuring the products are ingested into the pipeline before that time.

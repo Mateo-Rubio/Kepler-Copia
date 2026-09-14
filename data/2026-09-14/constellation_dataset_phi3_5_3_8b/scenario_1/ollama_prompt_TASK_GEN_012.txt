@@ -1,0 +1,2 @@
+We're looking to capture a thermal mapping of Bengkalis, Indonesia, during the upcoming afternoon session in three days. This is considered a low priority importance task with a flexible schedule; however, we need these heat signature data products ready by tomorrow's overnight block at the latest for our ongoing environmental impact study. Please ensure this background survey or testbed tracking task can be dropped or rescheduled if necessary, but let's aim to have them ingested into our analysis pipeline promptly.
+```

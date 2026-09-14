@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Kapuas Hulu, Indonesia. We need an active radar scan using microwave surface imaging to penetrate any cloud cover and capture the ground geometry of the area. This data is needed by the day after tomorrow around mid-day at the latest.

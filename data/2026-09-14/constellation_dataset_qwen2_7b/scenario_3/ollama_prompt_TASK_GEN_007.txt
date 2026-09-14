@@ -1,0 +1,13 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request an operational task for our Earth observation mission. We're focusing on a region in Colombia, specifically in the city of Istmina, where we need a high-resolution optical snapshot for daylight photography purposes. Our objective is to capture clear optical imagery and true-color visual documentation that will help us assess various environmental conditions.
+
+Given the nature of this request, I would like to classify it as a low priority importance task with a flexible schedule for opportunistic capture. We understand that this might be considered a non-essential background filler task, but we appreciate any consideration you can provide.
+
+We're aiming to have the data products ready by the target day, which is in four days, with a strict delivery deadline set for the morning of that day. This ensures the products are ingested into our pipeline before the specified time.
+
+Thank you for your attention to this matter. We look forward to your confirmation and any further instructions on how to proceed.
+
+Best regards,
+
+[Your Name]

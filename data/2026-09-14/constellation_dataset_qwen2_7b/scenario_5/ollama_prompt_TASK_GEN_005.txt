@@ -1,0 +1,9 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out with a low priority importance task that requires your attention. Our mission involves assessing the chlorophyll absorption levels in the vegetation of Borgo San Lorenzo, Italia, using a multispectral vegetation analysis tool known as VNIR. We aim to capture high-resolution optical snapshots for daylight photography, providing us with clear optical imagery and a detailed surface reflectance assessment.
+
+We're looking to complete this task by the day after tomorrow, around mid-day, ensuring that the products are ingested into our pipeline before then. This request is labeled as a "non-essential background filler task" with a flexible schedule for opportunistic capture.
+
+Thank you for your understanding and cooperation in managing this low priority importance task efficiently. Kind regards,
+
+[Your Name]

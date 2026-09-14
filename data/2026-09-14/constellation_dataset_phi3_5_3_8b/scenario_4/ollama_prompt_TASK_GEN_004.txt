@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for multispectral vegetation analysis in San Carlos de Guaroa, Colombia. This routine monitoring is part of our baseline pipeline tracking and must be completed within the upcoming afternoon four days from now. Please ensure that this low-importance background filler task aligns with our current workflow update timelines without disrupting higher priority missions.
+```

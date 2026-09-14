@@ -1,0 +1,5 @@
+Good day! I'm reaching out to request a standard operational tasking involving the VNIR sensor, focusing on a multispectral vegetation analysis for Rokan Hilir, Indonesia. We aim to assess the chlorophyll absorption level and calculate the NDVI index to understand surface reflectance patterns.
+
+Our priority for this mission allocation is medium importance, which means we're looking at a standard operational status with fixed parameters, ensuring normal workflow updates are maintained. The deadline for delivering these data products is quite strict; we need them by the target day during the afternoon at the latest. This aligns with our baseline pipeline tracking setup, and we're confident in meeting this deadline without any delays.
+
+Please note that this request is part of our routine monitoring activities and represents a normal operational status. We appreciate your attention to this task and look forward to receiving the results by our specified deadline. Thank you for your cooperation in ensuring timely data availability for our operations.

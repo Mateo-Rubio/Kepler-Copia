@@ -1,0 +1,1 @@
+Please task the satellite constellation to capture a high-resolution optical snapshot for daylight photography and clear optical imagery of Prado, Colombia, by the day after tomorrow in the evening. This is a standard operational tasking part of the baseline pipeline tracking setup with fixed parameters representing normal operational status.

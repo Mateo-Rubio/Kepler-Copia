@@ -1,0 +1,16 @@
+Subject: Critical Payload Capture - High Importance Task for Colombia, Santa Rosa del Sur
+
+To our esteemed satellite constellation planners,
+
+We hereby request an urgent operational execution of a high-priority mission involving the capture of critical data for a specific location in Colombia. Our target area is Santa Rosa del Sur, a vibrant city nestled within the lush landscapes of Colombia. The primary sensor required for this task is Near-Infrared (NIR), which will be used to assess soil moisture and water body boundaries with precision.
+
+The operational deadline for this mission is set for four days from now, with a strict delivery deadline for the data products being in the morning. We aim to ensure that these products are ingested into our pipeline before the sun rises on the target day. This task is a binding contract requirement involving a mandatory directive and represents an absolute institutional priority.
+
+This request is not just another baseline pipeline tracking setup; it's a critical piece of information that cannot be pre-empted or delayed. The data captured will provide invaluable insights into soil conditions and water resources, which are essential for agricultural planning and environmental management in the region.
+
+We appreciate your swift attention to this matter and look forward to your cooperation in meeting this high-priority importance task. Your expertise and dedication to timely data delivery are paramount to our success.
+
+Best regards,
+
+[Your Name]
+Earth-observation Mission Operator

@@ -1,0 +1,2 @@
+Ensure that multispectral vegetation analysis using near-infrared reflection is conducted in Norte, Italia during tomorrow's afternoon to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. This standard operational tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data products must be ingested into the system before tomorrow's overnight block deadline to maintain our routine monitoring flow.
+```

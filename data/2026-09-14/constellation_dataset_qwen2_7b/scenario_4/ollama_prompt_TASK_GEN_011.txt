@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners! I'm reaching out with a task that's quite important for us. We're looking at a location in Croatia, specifically Primorsko-goranska županija, and the mission we need to execute involves thermal mapping of this area using our TIR sensor. The goal is to capture the heat signature and surface temperature profile for this region.
+
+We understand that this task has a deadline attached to it, which is set in three days from now, with the strictest requirement being that the data products must be ingested into our pipeline by overnight. This means we're looking at a delivery deadline set for the target day's nighttime block.
+
+This request falls under the category of a low priority importance task, which means it can have a flexible schedule for capture. We're treating this as a non-essential background filler task that can be dropped or rescheduled at convenience if needed. However, given its nature and the urgency involved, we'd appreciate your team's attention to ensure timely delivery.
+
+Thank you for considering our request. If you have any questions or need further details, please don't hesitate to reach out. We're looking forward to your confirmation on this task.

@@ -1,0 +1,2 @@
+Ensure that we conduct a non-essential background filler task for multispectral vegetation analysis in Borgo San Lorenzo, Italy. We aim to assess chlorophyll absorption levels and calculate the NDVI index around mid-day tomorrow, with an understanding that this request has flexible scheduling and can be adjusted as needed. However, it's important to note that we need these findings by tomorrow afternoon at the latest for our ongoing environmental monitoring efforts.
+```

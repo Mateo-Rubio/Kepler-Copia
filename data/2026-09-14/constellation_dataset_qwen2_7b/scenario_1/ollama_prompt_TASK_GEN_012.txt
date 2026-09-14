@@ -1,0 +1,25 @@
+Starting up our Earth-observation mission operator's task request for an automated satellite constellation planner, we're aiming to capture a highly realistic and conversational English request based on the provided JSON metadata. Our objective is to translate raw physical simulation data into a single, detailed request that adheres to operational guidelines.
+
+**Geographic Context**: We're looking at a location in Indonesia, specifically Bengkalis city, with a focus on thermal mapping of the area. The 'TIR' sensor will be utilized for capturing thermal anomalies and heat emissions across the region.
+
+**Mission Allocation Priority**: This task is categorized as low priority importance, which means we'll approach this request with a flexible schedule and treat it as a non-essential background filler task. We're not under immediate pressure but aim to complete this task efficiently.
+
+**Sensors and Physical Objectives**: The 'TIR' sensor will be deployed for thermal mapping, allowing us to capture heat signatures and surface temperature profiles. This is essential for identifying thermal anomalies and mapping heat emissions across the region.
+
+**Relative Timeframes**: We're targeting an evening deadline, specifically "in three days in the evening". This means we need to ensure that all data products are ready by this time, adhering strictly to the operational deadline without any extensions or alterations.
+
+To summarize our task request:
+
+---
+
+Ladies and gentlemen of the satellite constellation planning team,
+
+We are requesting a thermal mapping mission for an area located in Indonesia, specifically focusing on Bengkalis city. Our objective is to utilize the 'TIR' sensor to capture heat signatures and surface temperature profiles across the region, identifying thermal anomalies and mapping heat emissions.
+
+This task falls under our low priority importance category, indicating that it carries a flexible schedule and should be treated as a non-essential background filler task. We aim to complete this mission efficiently without any alterations or extensions to the deadline.
+
+Our target day for delivering these data products is three days from now, with the strict delivery deadline set for the evening of that day. We're ensuring that all data products will be ready by this time and will be ingested into the pipeline before the evening deadline.
+
+Thank you for your attention and cooperation in facilitating this mission.
+
+---

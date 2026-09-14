@@ -1,0 +1,15 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a low priority importance task that requires your attention. We're looking to capture a multispectral vegetation analysis for a specific area in Indonesia, particularly focusing on the Ecuatorial city region. The objective is to assess the chlorophyll absorption level and calculate the NDVI index as well as surface reflectance of the vegetation.
+
+This request falls under our 'background survey' category with flexible scheduling, so you may drop or reschedule it at your convenience. However, we do emphasize that this task should not be overlooked as it serves as a valuable addition to our testbed tracking tasks.
+
+We aim to gather this data by ensuring that the products are ingested into our pipeline before 'in three days', with a strict delivery deadline set for 'overnight'. This deadline is crucial for our operational planning and cannot be extended.
+
+Please proceed with capturing the 'high-resolution optical snapshot' or 'true-color visual documentation' as part of your standard operational tasks. We trust that your expertise will provide us with insightful data to further our understanding of the region's vegetation health.
+
+Thank you for your cooperation and prompt attention to this task.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,1 @@
+This is an absolute institutional priority tasking. We require a critical payload capture of Norte using multispectral vegetation analysis for chlorophyll absorption level assessment and NDVI index calculation.  The data products are needed by three days during the afternoon at the latest, ensuring timely ingestion into the pipeline.

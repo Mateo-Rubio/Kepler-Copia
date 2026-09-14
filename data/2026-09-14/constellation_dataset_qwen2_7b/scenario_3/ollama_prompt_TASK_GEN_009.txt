@@ -1,0 +1,8 @@
+```prompt
+Good morning, automated satellite constellation planner. I'm reaching out with a high-priority mission allocation request for an urgent operational tasking related to our satellite constellation's capabilities. Our focus is on Indonesia's Kapuas Hulu region, where we require an active radar scan using microwave surface imaging technology. The goal is to capture cloud-penetrating data that will provide us with detailed ground geometry information.
+
+We're looking for a high-resolution snapshot of the area, ideally taken around mid-day on the day after tomorrow. This is an absolute institutional priority and part of a binding contract requirement involving a critical payload capture. We're dealing with a mandatory directive that necessitates an urgent operational execution and an un-preemptable mission lock.
+
+Please note that this tasking has a strict delivery deadline set for the day after tomorrow, around mid-day. We need the data products to be ingested into our pipeline before that time, ensuring we meet our operational commitments. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status and workflow updates.
+
+Thank you for your immediate attention to this matter. We appreciate your cooperation in making sure this mission is executed promptly and efficiently. If there are any issues or constraints that might impact the delivery, please communicate them as soon as possible so we can adjust our plans accordingly.

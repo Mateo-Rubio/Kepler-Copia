@@ -1,0 +1,2 @@
+We need a high-resolution optical snapshot of Colombia, specifically in its capital city, tomorrow by the early hours to ensure we have true-color visual documentation ready for analysis. This task is considered low priority and can be adjusted according to current workload; however, it's essential that these images are ingested into our workflow before tomorrow morning's deadline to maintain a steady flow of data.
+```

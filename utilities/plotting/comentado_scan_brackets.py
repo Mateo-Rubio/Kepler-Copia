@@ -1,3 +1,4 @@
+'''
 #!/usr/bin/env python3
 """
 scan_bracket_expressions.py
@@ -195,3 +196,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+'''
