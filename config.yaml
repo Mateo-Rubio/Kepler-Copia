@@ -93,7 +93,8 @@ task_generation:
       VNIR: "multispectral vegetation analysis chlorophyll absorption level NDVI index"
       SAR: "active radar scan microwave surface imaging cloud-penetrating capture"
       NIR: "near-infrared reflection water body boundary mapping soil moisture assessment"
-      VIS: "high-resolution optical snapshot daylight photography RGB true-color imagery" 
+      VIS: "high-resolution optical snapshot daylight photography RGB true-color imagery"
+    system_instruction_template: 
     active_strategy: "zero_shot"
     shared_header: |
       You are an Earth-observation mission operator submitting a task request to an automated satellite constellation planner.
@@ -190,9 +191,7 @@ task_generation:
             "target_diurnal_period": "in the evening"
           }}
           OUTPUT:
-          ```prompt
           This is an absolute institutional priority and a binding contract requirement, so I need to lock in a critical payload capture over Grosseto in Italy under a mandatory directive. We are after thermal mapping of the area to pull a clean surface temperature profile and flag any thermal anomaly across the industrial belt. This is an un-preemptable mission lock and requires urgent operational execution, with the products needed today in the evening at the latest.
-          ```
 
           --- EXAMPLE 2 ---
           INPUT:
@@ -204,9 +203,7 @@ task_generation:
             "target_diurnal_period": "overnight"
           }}
           OUTPUT:
-          ```prompt
           Low priority importance on this one, so treat it as a non-essential background filler task with a flexible schedule and feel free to drop or reschedule at convenience. When an opportunistic capture opens up over El Paujil in Colombia, we would like a multispectral vegetation analysis to assess chlorophyll absorption level and work out an NDVI index along with surface reflectance for the plots south of town. It is a background survey, nothing urgent, but if it does run we need the products by tomorrow overnight at the latest.
-          ```
 
           --- EXAMPLE 3 ---
           INPUT:
@@ -218,9 +215,7 @@ task_generation:
             "target_diurnal_period": "around mid-day"
           }}
           OUTPUT:
-          ```prompt
           Logging a standard operational tasking over Palembang in Indonesia as part of our baseline pipeline tracking with fixed parameters. Cloud cover has been heavy all week, so we need an active radar scan using microwave surface imaging for a cloud-penetrating capture that will give us the ground geometry regardless of weather. This is routine monitoring at normal operational status, and the delivery deadline is set for the day after tomorrow around mid-day.
-          ```
 
           --- EXAMPLE 4 ---
           INPUT:
@@ -232,11 +227,12 @@ task_generation:
             "target_diurnal_period": "in the morning"
           }}
           OUTPUT:
-          ```prompt
           Putting in a commercial tasking for Ravenna in Italy as a workflow update on our coastal file. We want a high-resolution optical snapshot with proper daylight photography so the client gets true-color visual documentation of the port expansion works. Normal operational status, fixed parameters, and the products should be ingested into the pipeline in three days in the morning.
-          ```
 
           --- END OF EXAMPLES ---
+
+          Write only the request itself. Do not restate, paraphrase or summarize
+          these instructions, and do not use backticks anywhere in your text.
 
           Now apply the same treatment to this task.
 
