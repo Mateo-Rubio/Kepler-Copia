@@ -1,7 +1,0 @@
-Good day! I'm reaching out to request a thermal mapping task for Correggioli, Italia. Our objective is to capture a heat signature from this beautiful region using our thermal imaging sensor. We aim to provide you with invaluable insights into surface temperatures and potential thermal anomalies that could be critical for various applications such as urban planning, agriculture monitoring, or environmental studies.
-
-We understand the importance of timely data delivery, hence we're requesting this task to be executed with a strict deadline set for the day after tomorrow in the morning. We aim to ensure that the products are ingested into our pipeline before then, allowing you to make informed decisions based on the data as soon as possible.
-
-This request falls under a low priority importance category, meaning that we're flexible with scheduling and will accommodate any necessary adjustments or rescheduling at your convenience. This task will serve as a background survey to help us further understand the capabilities of our satellite constellation in capturing thermal data for various applications.
-
-Thank you for considering our request. We look forward to collaborating with you to achieve our shared goals in Earth observation.

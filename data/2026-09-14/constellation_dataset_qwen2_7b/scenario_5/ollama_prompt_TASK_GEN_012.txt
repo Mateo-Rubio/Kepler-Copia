@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. We're looking to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia for daylight photography purposes. This will help us gather clear optical imagery and true-color visual documentation to better understand the area's landscape and features. As this is categorized under medium importance, we aim to integrate this task into our standard operational pipeline tracking setup with fixed parameters.
-
-Given the nature of our request, we're targeting delivery by tomorrow around mid-day, adhering strictly to the deadline set for data availability. This ensures that the products are ingested into our pipeline before then, allowing us to maintain our baseline workflow without any delays.
-
-Please note that this task is part of a routine monitoring process and represents normal operational status within our organization. We appreciate your attention to this matter and look forward to receiving the captured data promptly.
-
-Thank you for your cooperation and understanding in meeting our requirements.

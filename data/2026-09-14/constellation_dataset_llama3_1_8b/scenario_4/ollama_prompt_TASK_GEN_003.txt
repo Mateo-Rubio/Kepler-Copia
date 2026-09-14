@@ -1,1 +1,0 @@
-Please conduct a thermal mapping task using the TIR sensor over Banyuasin, Indonesia, as part of our standard operational tasking and commercial tasking for baseline pipeline tracking with fixed parameters representing normal operational status. This routine monitoring is needed by the day after tomorrow in the morning at the latest.

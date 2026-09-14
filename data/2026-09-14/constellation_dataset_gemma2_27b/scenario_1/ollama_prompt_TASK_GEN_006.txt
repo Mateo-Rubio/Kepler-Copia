@@ -1,1 +1,0 @@
-This is a standard operational tasking for near-infrared reflection capture over Pekanbaru, Indonesia. We need to map water body boundaries and assess soil moisture gradients in this region. Please schedule this as part of a routine monitoring workflow with fixed parameters. The data products are needed by the day after tomorrow during the afternoon at the latest.

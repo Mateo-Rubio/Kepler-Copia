@@ -1,5 +1,0 @@
-Good day to our satellite constellation planners, we're looking at a task that's rather low in priority importance but still requires some attention. Our mission involves capturing a "multispectral vegetation analysis" using the VNIR sensor over a location in Colombia. Specifically, we're focusing on the city of Ibagué. The objective here is to assess the "chlorophyll absorption level" and calculate the NDVI index for vegetation health.
-
-We're not looking for any rush or urgency with this task; it's more about gathering data that can serve as a background survey or testbed tracking task. The deadline for delivering the data products is set for the day after tomorrow, in the morning. This means we need the data ready and available by that time to ensure it can be ingested into our pipeline before then.
-
-Please note, this request doesn't require any special operational phases or assets; it's just a routine monitoring task with fixed parameters representing normal operational status. We appreciate your understanding and cooperation in fulfilling this request as per our guidelines.

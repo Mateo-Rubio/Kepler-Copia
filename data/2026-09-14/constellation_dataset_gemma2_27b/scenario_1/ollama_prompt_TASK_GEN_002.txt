@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture over Calvi, France. We need a thermal map of the area needed by tomorrow overnight at the latest. Ensure the products are ingested into the pipeline before then.

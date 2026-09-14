@@ -1,3 +1,0 @@
-We're looking to capture an active radar scan using microwave surface imaging in Grottaferrata, Italy, as part of our routine monitoring. The goal is to penetrate any cloud cover and get a clear view of the ground geometry for analysis. This task has been marked with low priority importance, so please feel free to drop or reschedule at your convenience. We need this data by tomorrow nighttime at the latest to ensure it's ready for our baseline pipeline tracking updates.
-```prompt
-</TEXT>

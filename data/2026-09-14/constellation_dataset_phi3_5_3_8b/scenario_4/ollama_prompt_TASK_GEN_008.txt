@@ -1,2 +1,0 @@
-Ensure that a non-essential background filler task is scheduled to capture near-infrared reflection around midday in three days' time, with flexibility in timing. This will aid in water body boundary mapping or soil moisture assessment within Arnoldstein, Austria. Please remember this request has low priority importance and can be dropped or rescheduled at your convenience; however, we aim to have the data ready for analysis by then as a supplementary resource.
-```

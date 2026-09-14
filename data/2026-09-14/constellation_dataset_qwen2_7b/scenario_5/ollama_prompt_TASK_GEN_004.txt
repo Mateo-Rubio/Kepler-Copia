@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task request that requires your immediate attention. Our team is tasked with conducting a low priority importance survey of the Cumaral region in Colombia using our VNIR sensor. The goal is to assess chlorophyll absorption levels and calculate the NDVI index for vegetation analysis. This will help us understand the health and distribution of plant life in the area.
-
-We're aiming for high-resolution optical imagery that captures the essence of daylight photography, providing clear visual documentation of the region's landscape. Our objective is to gather data that can assist in environmental monitoring and support decision-making processes related to land management and conservation efforts.
-
-Given the nature of this task, we understand the urgency involved. We request that you ensure the products are ingested into our pipeline before tomorrow's overnight block. This means that the data must be ready for analysis by the time the day ends and the night begins.
-
-Please note that this is a flexible schedule request, allowing for opportunistically capturing the data when conditions permit. We appreciate your cooperation in adhering to the deadline set for target day and diurnal period. Thank you for your understanding and prompt attention to this matter.

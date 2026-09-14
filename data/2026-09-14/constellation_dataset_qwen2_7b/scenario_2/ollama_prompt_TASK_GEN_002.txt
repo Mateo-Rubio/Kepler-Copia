@@ -1,9 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out to request an urgent task for our Earth observation mission. Our priority is high importance, as this involves a critical payload capture and it's a binding contract requirement that must be met.
-
-Our mission targets the beautiful region of Italia, specifically in Norte, where we aim to capture essential data using near-infrared (NIR) sensors. The goal is to assess soil moisture levels and map water body boundaries by analyzing near-infrared reflection patterns. This will provide crucial insights for agricultural planning and environmental monitoring.
-
-The request has been assigned with a low priority importance, allowing for a flexible schedule where we can drop or reschedule tasks at our convenience. However, it's important to note that this is still a non-essential background filler task but plays a vital role in our background survey and testbed tracking tasks.
-
-We're looking to gather this data by the target day, which is three days from now, with a strict delivery deadline set for the morning of that day. This ensures that the products are ingested into the pipeline before it's too late. We appreciate your understanding and prompt attention to this task.
-
-Thank you for your cooperation and support in fulfilling our mission requirements.

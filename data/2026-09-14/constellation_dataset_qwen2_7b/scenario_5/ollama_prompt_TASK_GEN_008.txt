@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm submitting a task for an operational priority of medium importance involving the region known as Norte in the upcoming day after tomorrow, around mid-day. We're dealing with an active radar scan using microwave surface imaging to capture cloud-penetrating data and ground geometry specifics. The mission's deadline is set strictly for the day after tomorrow at mid-day, and we need this data by then at the latest to ensure timely delivery.
-
-This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a standard task that involves standard monitoring activities with normal operational requirements. We're looking forward to receiving the SAR data products before the day after tomorrow mid-day deadline.
-
-Please proceed with this task as per your usual protocols, ensuring it gets the attention it deserves within the given timeframe. Thank you for your cooperation and prompt action on this matter.

@@ -52,6 +52,12 @@ from src.modules.prompt_factory.main import prompt_factory_main
 
 RUN_DATE = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+
+def build_scenario_dir(strategy: str, rep: int, dataset_name: str, idx: int) -> pathlib.Path:
+    """data/<fecha>/<estrategia>/rep_<k>/<modelo>/scenario_<n>/"""
+    return (pathlib.Path("data") / RUN_DATE / strategy / f"rep_{rep}"
+            / dataset_name / f"scenario_{idx}")
+
 DEFAULT_MODELS = [
     "gemma2:27b",
     "llama3.1:8b",
@@ -60,7 +66,7 @@ DEFAULT_MODELS = [
     "qwen2:7b",
 ]
 
-FAILURE_LOG_PATH = pathlib.Path("run_all_models_failures.json")
+FAILURE_LOG_PATH = pathlib.Path("run_all_models_failures.json")  # se re-asigna en main()
 
 
 def model_to_dataset_name(model: str) -> str:
@@ -174,7 +180,8 @@ def save_failure_log(failures: list):
 
 
 def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
-                         sem_categories: dict, current_seed: int):
+                         sem_categories: dict, current_seed: int,
+                         strategy: str = "zero_shot", rep: int = 1):
     """Ejecuta el pipeline completo (Data Collector -> RG -> Physics Engine)
     para UN escenario. Lanza excepción si algo falla; el llamador decide
     qué hacer con ese error (ver main())."""
@@ -187,7 +194,7 @@ def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
     max_lifetime = task_cfg["max_lifetime"]
     total_required_duration_s = max_release_delay + max_lifetime
 
-    scenario_dir = pathlib.Path("data") / RUN_DATE / dataset_name / f"scenario_{idx}"
+    scenario_dir = build_scenario_dir(strategy, rep, dataset_name, idx)
     scenario_dir.mkdir(parents=True, exist_ok=True)
     scenario_report_path = scenario_dir / "scenario_report.json"
 
@@ -248,6 +255,7 @@ def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
             days_categories=sem_categories.get("days_categories"),
             hours_categories=sem_categories.get("hours_categories"),
             simulation_t0=generation_now_utc,
+            strategy=strategy,
         )
 
     physics_report_path = scenario_dir / "physics_passes_report.json"
@@ -292,9 +300,16 @@ def main():
     parser.add_argument("--continue-without-missing", action="store_true",
                          help="Si algún modelo no está descargado, continuar solo con los "
                               "disponibles en vez de detener la ejecución por completo")
+    parser.add_argument("--rep", type=int, default=1,
+                         help="Numero de repeticion (k). Cada k escribe en su propia "
+                              "carpeta rep_<k>/ para no sobrescribir la anterior.")
     parser.add_argument("--strategy", type=str, default="zero_shot",
                         choices=["zero_shot", "few_shot", "chain_of_thought", "chaining"])
     args = parser.parse_args()
+
+    global FAILURE_LOG_PATH
+    FAILURE_LOG_PATH = pathlib.Path(
+        f"run_all_models_failures_{RUN_DATE}_{args.strategy}_rep{args.rep}.json")
 
     cfg = load_config(args.config)
     sem_categories = load_semantic_categories(args.categories)
@@ -374,7 +389,7 @@ def main():
             if args.retry_failed_only and (model, idx) not in retry_set:
                 continue
 
-            scenario_dir = pathlib.Path("data") / RUN_DATE / dataset_name / f"scenario_{idx}"
+            scenario_dir = build_scenario_dir(args.strategy, args.rep, dataset_name, idx)
 
             if not args.retry_failed_only and scenario_already_complete(scenario_dir, tasks_k):
                 total_skipped += 1
@@ -386,7 +401,8 @@ def main():
             print(f"\n  [RUN] {model} escenario {idx}/{num_scenarios} (seed={current_seed})...")
 
             try:
-                run_single_scenario(model, dataset_name, idx, cfg, sem_categories, current_seed)
+                run_single_scenario(model, dataset_name, idx, cfg, sem_categories,
+                                    current_seed, strategy=args.strategy, rep=args.rep)
                 total_ok += 1
                 print(f"  [OK]  {model} escenario {idx} completado.")
             except Exception as e:

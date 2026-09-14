@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner, we're tasked with a low priority importance request for a standard operational tasking involving an active radar scan using microwave surface imaging. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Our mission targets a location in Grottaferrata, Italia, where we aim to capture ground geometry through cloud-penetrating radar imagery. The primary objective is to ensure the data products are ingested into the pipeline before tomorrow's overnight block, adhering strictly to our deadline set for the target day and diurnal period.
-
-Please proceed with scheduling this request as a non-essential background filler task, allowing for flexible scheduling where we can drop or reschedule at convenience. This is essentially a testbed tracking task that doesn't require immediate attention but contributes to our ongoing monitoring efforts.
-
-Thank you for your attention, and we look forward to receiving the data products by tomorrow's overnight block at the latest.

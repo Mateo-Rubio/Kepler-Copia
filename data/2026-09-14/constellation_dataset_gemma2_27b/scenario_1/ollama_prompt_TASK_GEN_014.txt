@@ -1,1 +1,0 @@
-Schedule a standard operational tasking for an active radar scan of Norte. This will be a routine monitoring task for cloud-penetrating capture and microwave surface imaging needed by tomorrow in the evening at the latest.

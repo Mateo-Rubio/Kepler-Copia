@@ -1,1 +1,0 @@
-Please conduct a near-infrared reflection survey for soil moisture assessment and water body boundary mapping in San Joaquín, Colombia. This is a standard operational tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need the data products by tomorrow morning at the latest.

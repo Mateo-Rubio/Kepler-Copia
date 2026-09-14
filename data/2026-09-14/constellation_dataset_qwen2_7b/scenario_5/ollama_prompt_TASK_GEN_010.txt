@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that involves capturing data using near-infrared (NIR) sensors. The objective is to assess soil moisture levels and delineate water body boundaries in the city of Buenaventura, Colombia. This task falls under our low priority importance category, as it's part of a flexible schedule for opportunistic capture and background surveying.
-
-The operational context here involves gathering data that will contribute to our understanding of environmental conditions in the region. Given the nature of this request, we understand that there is no strict deadline for execution; however, for the sake of our internal processes and data management pipeline, it's essential that the products are ingested into our system by the target day, today, in the morning at the latest.
-
-We appreciate your understanding and flexibility in handling this task. If any adjustments or scheduling changes are needed, please feel free to reschedule this task according to your operational convenience. Thank you for your attention to this matter.

@@ -1,5 +1,0 @@
-Good day, satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Colombia in the morning. Our objective is to obtain clear daylight photography and true-color visual documentation for an upcoming project. This request falls under our low priority importance category, as it's a flexible schedule task that we can drop or reschedule at convenience. 
-
-Our target day for data delivery is tomorrow, with a strict deadline set for the morning hours. We aim to ensure that the products are ingested into the pipeline before the overnight block of tomorrow. This task will serve as a background survey and testbed tracking task. Please note that our primary sensor for this mission will be the VIS sensor, providing us with the necessary daylight imagery.
-
-Thank you for your attention to this request. We appreciate your timely response and support in meeting our operational guidelines.

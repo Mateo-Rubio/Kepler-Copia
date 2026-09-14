@@ -1,2 +1,0 @@
-We're looking to gather near-infrared reflection data for water body boundary mapping in Sintang, Indonesia. This task is of low priority importance and needs to be completed by tomorrow morning at the latest. Please ensure this information is processed as a background survey or testbed tracking task that can be dropped or rescheduled according to convenience.
-```

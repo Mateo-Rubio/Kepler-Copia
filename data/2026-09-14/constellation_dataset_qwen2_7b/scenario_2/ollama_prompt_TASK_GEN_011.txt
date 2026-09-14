@@ -1,9 +1,0 @@
-Good day to all satellite operators and mission planners. I'm reaching out with an urgent task request for a highly important operational mission that requires immediate attention, as it involves a critical payload capture under a binding contract requirement.
-
-Our focus is on the beautiful region of Italia, specifically the charming town of Fobello, which we aim to capture in all its glory using our VNIR sensor. This sensor will provide us with a detailed multispectral vegetation analysis, allowing us to assess chlorophyll absorption levels and calculate the NDVI index for this area. The goal is to obtain high-resolution optical snapshots for daylight photography and true-color visual documentation that will help us understand the vegetation health and diversity.
-
-We are targeting a specific day in three days, with our strict delivery deadline set for the afternoon period. This means we need the data products ingested into the pipeline before the evening falls on that day, ensuring timely availability for further processing and analysis.
-
-Given the high priority level of this task, please treat it as an absolute institutional priority requiring immediate attention. We understand the importance of this mission and are committed to providing the most accurate and detailed information possible to support our ongoing research and monitoring efforts in this region.
-
-Thank you for your swift action and cooperation in fulfilling this request. Please let us know if there are any questions or adjustments needed as we proceed with this critical task.

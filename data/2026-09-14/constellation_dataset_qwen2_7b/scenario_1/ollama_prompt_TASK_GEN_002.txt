@@ -1,8 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with an urgent operational request on behalf of our institution. Our priority is high, as this task involves capturing a critical thermal signature from the region of Calvi in France. Given the importance of this payload, we're looking for a detailed thermal mapping that will reveal heat emissions and surface temperature profiles.
-
-We're utilizing our TIR sensor to achieve this goal, which will provide us with invaluable data on thermal anomalies. The operational deadline is set for tomorrow's overnight period, meaning we need the data products ingested into our pipeline by then at the latest. This task is an absolute institutional priority and a binding contract requirement involving a mandatory directive.
-
-Please ensure that our request receives top-tier attention as we're dealing with a "critical payload capture" that requires "un-preemptable mission lock". We appreciate your understanding and prompt action in addressing this high-importance task. If there are any issues or if you need more information, please feel free to reach out. Thank you for your cooperation and quick response.
-
-Best regards,
-[Your Name]

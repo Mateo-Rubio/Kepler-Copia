@@ -1,9 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a highly important task for an upcoming mission allocation. Our priority is set to 'High Importance', which means this task is not only critical but also carries significant contractual value.
-
-Our objective involves capturing thermal mapping data over the region of Berau, Indonesia. We aim to observe the heat signature and surface temperature profiles across the area, focusing on identifying any thermal anomalies that might be present in the landscape. This mission requires a 'TIR' sensor for its execution due to its capability in thermal imaging.
-
-The geographical context is straightforward: Berau, which lies within the Indonesian archipelago, is our primary focus. The mission's urgency is paramount, as we need the data products by the day after tomorrow during the overnight period at the latest. This deadline is strictly non-negotiable and represents the final window for delivering the required information.
-
-Given the nature of this task, it's classified as a 'low priority importance' request with flexible scheduling. We understand that this might not be an immediate requirement but still require attention due to its relevance in our baseline pipeline tracking setup. However, please note that this task can be dropped or rescheduled at your convenience if it doesn't align with your operational schedule.
-
-Thank you for your understanding and cooperation. We look forward to your prompt response and the successful execution of this mission.

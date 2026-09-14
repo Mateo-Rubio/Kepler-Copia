@@ -1,1 +1,0 @@
-Ensure that we have a multispectral vegetation analysis ready for ingestion into our pipeline by tomorrow's overnight block, capturing chlorophyll absorption levels and calculating the NDVI index to assess surface reflectance. This is a non-essential background filler task; please feel free to drop or reschedule at your convenience.

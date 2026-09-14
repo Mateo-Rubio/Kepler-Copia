@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture. We need near-infrared reflection imagery of Ecuatorial, Indonesia. This data is needed by tomorrow morning at the latest, ensuring the products are ingested into the pipeline before then.

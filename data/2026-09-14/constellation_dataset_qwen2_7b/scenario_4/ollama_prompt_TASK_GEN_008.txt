@@ -1,7 +1,0 @@
-Hello there! I'm reaching out as an Earth-observation mission operator, tasked with a low priority importance request. Our objective is to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in the beautiful region of Arnoldstein, nestled within the picturesque country of Österreich. 
-
-We're aiming to gather this data as part of a flexible schedule, treating it as a background survey or testbed tracking task. Our goal is to provide you with valuable insights into the gradients of your area without imposing any strict deadlines on the operational execution.
-
-The deadline for delivering these data products is set for three days from now, around mid-day. This means we need to ensure that the products are ingested into our pipeline before then, so they can be processed and shared with you promptly. We appreciate your understanding of this timeframe and look forward to collaborating on this task.
-
-Thank you for considering our request. If there's any additional information or clarification needed, please let us know!

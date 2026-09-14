@@ -1,9 +1,0 @@
-Good day to our satellite constellation planners. We're looking to capture a critical payload for an institutional priority task involving an active radar scan using microwave surface imaging technology. Our objective is to obtain near-infrared reflection data for water body boundary mapping and soil moisture assessment, which will help us discriminate gradients in the area.
-
-The region of interest is located in Indonesia, specifically near the equator, with our primary focus on capturing this essential data in the country's equatorial region. This task carries high importance due to its contractual requirements, necessitating an urgent operational execution.
-
-We're aiming for a delivery deadline set for tomorrow morning, ensuring the products are ingested into our pipeline before then. This task is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update.
-
-Please note that this request carries high priority and must be treated as an "absolute institutional priority" or a "binding contract requirement". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the critical nature of this payload capture.
-
-Thank you for your attention to this matter, and we look forward to your prompt action.
