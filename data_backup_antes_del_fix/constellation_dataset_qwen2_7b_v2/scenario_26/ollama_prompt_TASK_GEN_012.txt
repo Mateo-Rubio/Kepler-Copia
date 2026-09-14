@@ -1,1 +1,0 @@
-We require a low-priority importance task for opportunistic thermal mapping in Indonesia. Specifically, we're interested in capturing a high-resolution thermal snapshot of the Bengkalis region using an active thermal scan to detect heat signatures and surface temperature profiles overnight in three days.

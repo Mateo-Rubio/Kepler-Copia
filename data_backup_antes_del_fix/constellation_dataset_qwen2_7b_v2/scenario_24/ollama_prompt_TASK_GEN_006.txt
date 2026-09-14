@@ -1,9 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a standard operational tasking request for an upcoming monitoring activity involving the Indonesian region, specifically focusing on Kabupaten Padang Lawas Utara. The mission's priority level is set at medium importance, implying that this is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Our objective involves capturing near-infrared (NIR) data to assess soil moisture and water body boundaries in the region. This request necessitates a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation to ensure comprehensive coverage of the area's conditions under varying lighting scenarios.
-
-With a strict delivery deadline set for tomorrow's overnight block at the latest, we aim to ensure that the products are ingested into our pipeline before the target day's evening hours. This data is crucial for our ongoing environmental monitoring and management activities in the region.
-
-Please note that this request carries normal operational status and should be treated as part of our routine monitoring efforts. We appreciate your swift attention and cooperation in meeting these requirements, ensuring we maintain our baseline capabilities and operational readiness.
-
-Thank you for your time and assistance. Please let us know if you require any further details to proceed with this task.

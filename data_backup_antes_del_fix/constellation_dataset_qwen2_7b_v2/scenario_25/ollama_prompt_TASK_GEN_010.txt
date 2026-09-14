@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out from an absolute institutional priority regarding a critical payload capture task involving our Colombian assets, specifically focusing on Chima region. The urgency is paramount as we are tasked with thermal mapping of the area to detect any heat signatures or surface temperature profiles by the next day's overnight period at the latest. As this mission is bound by a contractual requirement, it's essential that we adhere to the strict deadline set for the target day and time.
-
-Our primary sensor will be our Thermal Infrared (TIR) equipment, which will capture thermal anomalies and map heat emissions with precision. The data products must be ingested into our pipeline before the specified target day and overnight period to ensure timely analysis and decision-making.
-
-Please prioritize this task as it is of high importance and involves a binding contract requirement. We appreciate your swift attention and quick action in delivering the necessary data by the deadline. Thank you for your cooperation and understanding in this matter.

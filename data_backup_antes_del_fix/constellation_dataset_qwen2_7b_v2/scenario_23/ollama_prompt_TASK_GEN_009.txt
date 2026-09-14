@@ -1,7 +1,0 @@
-Good morning! I'm reaching out from our Earth-observation mission control to request a highly important task for our automated satellite constellation planner. Our priority is set to 'High Importance', which means this is an absolute institutional priority or a binding contract requirement involving a critical payload capture.
-
-Our objective is to capture a multispectral vegetation analysis using the VNIR sensor, aiming to assess the chlorophyll absorption level and calculate the NDVI index for a detailed surface reflectance assessment. We're focusing on a region in Indonesia, specifically near the equator, where our 'city', 'Ecuatorial', is located.
-
-The deadline for this task is set for the day after tomorrow, with a strict delivery deadline of 'in the evening'. This means we need to ensure that the products are ingested into the pipeline before the specified time. We're treating this as an urgent operational execution and an un-preemptable mission lock.
-
-Thank you for your attention and swift action on this matter. We appreciate your cooperation in delivering this high-priority task within the given timeframe. If you have any questions or need further clarification, please let us know.

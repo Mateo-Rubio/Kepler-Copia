@@ -1,7 +1,0 @@
-Good day to our satellite constellation planners. We're looking to capture a low-priority importance task, which is a flexible schedule for an opportunistic survey of El Paujil, Colombia. Our primary sensor requirement is the VNIR for multispectral vegetation analysis, aiming to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
-
-The objective here is to gather data on plant health and environmental conditions in this region, which will serve as a background survey or testbed tracking task. We're requesting that you capture this information with a flexible schedule, allowing us to drop or reschedule at our convenience.
-
-We need this data by tomorrow evening at the latest, ensuring that the products are ingested into our pipeline before then. Our deadline is strictly set for tomorrow evening, and we appreciate your understanding of this operational constraint.
-
-Thank you for your attention to this task, and we look forward to receiving the data as per our request.

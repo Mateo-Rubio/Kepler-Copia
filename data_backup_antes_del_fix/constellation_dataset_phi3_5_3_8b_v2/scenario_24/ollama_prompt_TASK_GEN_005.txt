@@ -1,1 +1,0 @@
-In three days, we need to have a high-resolution optical snapshot of Norte's water bodies and soil moisture levels ready by tomorrow morning at the latest. This is a non-essential background filler task that I can drop or reschedule as needed; please ensure these multispectral vegetation analyses are ingested into our pipeline before this deadline.

@@ -1,8 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a mission allocation for an important task involving the observation of Kepulauan Meranti in Indonesia using Near-Infrared (NIR) sensors. Our objective is to capture detailed information about water body boundaries and soil moisture levels for this region. The imagery we're seeking should be acquired through an active radar scan, utilizing microwave surface imaging capabilities. This data is crucial for our ongoing environmental monitoring project.
-
-Given the nature of our operational requirements, we need this high-resolution optical snapshot by the evening on the day four days from today at the latest. This request carries a medium importance level and represents a standard operational tasking within our baseline pipeline tracking setup with fixed parameters that reflect normal operational status. We understand that there might be slight flexibility in scheduling, but we aim to adhere to this deadline as closely as possible.
-
-Please ensure that the data products are ingested into our pipeline before the specified evening timeframe on the target day. This is a standard task that falls within our contractual obligations and contributes to our ongoing efforts in environmental monitoring and assessment. Thank you for your attention to this matter, and we look forward to your prompt response.
-
-Best regards,
-[Your Name]

@@ -1,5 +1,0 @@
-Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
-
-The task involves capturing high-resolution active radar scans using microwave surface imaging to pierce heavy weather and capture ground geometry in the region of Italy, specifically in the city of Santa Giustina. This mission is an absolute institutional priority, representing a critical payload capture and mandatory directive with an urgent operational execution and un-preemptable mission lock.
-
-The data must be ready by the day after tomorrow overnight at the latest, ensuring the products are ingested into the pipeline before this deadline.

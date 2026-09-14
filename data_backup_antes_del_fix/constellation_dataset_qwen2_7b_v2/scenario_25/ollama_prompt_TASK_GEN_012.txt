@@ -1,5 +1,0 @@
-Good day, satellite constellation planners. I'm reaching out with a task request that's of low priority importance for our operational schedule. The mission involves capturing a multispectral vegetation analysis using VNIR sensors over the region of Indonesia, specifically focusing on the city of Ecuatorial. Our goal is to assess the chlorophyll absorption levels and calculate the NDVI index, as well as gather surface reflectance data.
-
-We're looking to perform this task in an opportunistic manner, with a flexible schedule that allows for this background survey or testbed tracking task to be accommodated at our convenience. The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline being before the evening block. This ensures that the products are ingested into our pipeline before the specified time frame.
-
-Thank you for your understanding and cooperation in scheduling this task within our operational guidelines. We appreciate your support in capturing this essential data for our background monitoring activities. Kind regards.

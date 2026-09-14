@@ -1,2 +1,0 @@
-Ensure a low priority importance task is scheduled for tomorrow's evening, where we aim to capture thermal mapping of Norte city. The goal is to obtain heat signature data and surface temperature profiles within the bounds of an opportunistic capture window. Please be reminded that this request can be dropped or rescheduled at your convenience as it does not have a binding contract requirement for immediate execution.
-```prompt

@@ -1,7 +1,0 @@
-Good day to all satellite operators and mission planners. I'm reaching out with a standard operational tasking request for a commercial monitoring activity involving near-infrared reflection observations in Indonesia, specifically in the equatorial city of Ecuatorial.
-
-As part of our baseline pipeline tracking setup, we aim to capture water body boundaries and assess soil moisture levels using this "NIR" sensor. The objective is to gather detailed information about the earth's surface conditions under normal operational status without any urgent deadlines associated with the payload capture.
-
-We're looking for high-quality data products that will be ingested into our system by the day after tomorrow, in the morning at the latest. This means ensuring the satellite assets are ready to deliver the required imagery before the sun rises on the day after tomorrow to meet our contractual obligations without any preemption of other missions.
-
-Thank you for your attention and swift action in fulfilling this request. We appreciate your cooperation and look forward to receiving the data as planned.

@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture. We need a thermal map of Ecuatorial, Indonesia, with a strict delivery deadline set for tomorrow during the afternoon at the latest.  Ensure the products are ingested into the pipeline before then.

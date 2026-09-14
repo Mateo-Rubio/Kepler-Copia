@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Tame, Colombia, during the afternoon on our target day. This is an absolute institutional priority involving a critical payload capture with a mandatory directive for us. We require this data set to be ready by tomorrow's overnight block at the latest. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status and an urgent operational execution.
-
-Given that we're dealing with near-infrared reflection, our objective is to map water body boundaries and assess soil moisture for this area. This task falls under a standard operational tasking, which is a routine monitoring activity for our commercial tasking operations. We need thermal mapping capabilities as well to capture heat signatures and surface temperature profiles for this location.
-
-We're treating this request as a non-essential background filler task with a flexible schedule, allowing us to drop or reschedule at convenience if necessary. However, please note that we have an un-preemptable mission lock on this deadline, ensuring the products are ingested into our pipeline before our target day's overnight block.
-
-Thank you for your attention to this urgent operational execution. We appreciate your cooperation in meeting this critical payload capture requirement.

@@ -1,1 +1,0 @@
-This is a standard operational tasking for an active radar scan of Medio Baudó, Colombia. We need a cloud-penetrating capture using microwave surface imaging to assess ground geometry. This is part of a routine monitoring workflow update and requires delivery of the data products by tomorrow morning at the latest.

@@ -1,3 +1,0 @@
-Good day to our satellite constellation planners. We're tasked with a low priority importance request, which involves capturing a thermal mapping of the region named "Poggi del Sasso" in Italia using an active radar scan with microwave surface imaging capabilities. This task aims to assess heat signatures and surface temperature profiles for potential thermal anomalies or emission detection.
-
-Our deadline is set for the day after tomorrow, with a strict delivery deadline by the overnight period. We're looking for high-quality data products that can be ingested into our pipeline before this time frame. Please ensure we receive these data in time to meet our operational needs. Thank you for your attention and cooperation.

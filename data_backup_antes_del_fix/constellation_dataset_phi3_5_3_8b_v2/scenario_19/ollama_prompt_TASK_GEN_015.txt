@@ -1,1 +1,0 @@
-As part of our routine monitoring, we need to conduct a thermal mapping over Muaro Sentajo in Indonesia tomorrow in the morning at the latest. This is standard operational tasking for surface temperature profile assessment and heat anomaly detection. Please ensure that the data products are ingested into our pipeline before this deadline.

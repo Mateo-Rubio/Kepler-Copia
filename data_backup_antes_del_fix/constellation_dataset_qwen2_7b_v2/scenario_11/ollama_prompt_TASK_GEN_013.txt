@@ -1,7 +1,0 @@
-Hello there, satellite constellation planner! I'm reaching out with an important task for our Earth observation mission. We're focusing on a critical payload capture involving a radar scan using our active SAR system in Colombia, specifically in the city of Restrepo. This request is of low priority importance and carries a flexible schedule, acting as a non-essential background filler task.
-
-Given the operational guidelines, I'm requesting a thermal mapping operation to capture a heat signature or surface temperature profile of the region. The goal is to assess the health of vegetation through multispectral analysis or determine soil moisture levels using near-infrared reflection.
-
-We're aiming for this task to be executed by tomorrow's overnight block, ensuring that all data products are ingested into our pipeline before the deadline set for the target day and diurnal period. This request doesn't require an urgent operational execution but is part of our standard baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Thank you for your attention to this task, and I'm looking forward to receiving confirmation that it's been scheduled according to these guidelines. Have a great day!

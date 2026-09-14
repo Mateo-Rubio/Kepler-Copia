@@ -1,5 +1,0 @@
-Good day to our satellite constellation planners, we're looking at a task that's been prioritized as low importance, which means it's flexible and can be scheduled according to convenience. The mission involves capturing thermal mapping data for a location in Indonesia, specifically in the city of Berau. We aim to observe the heat signature or surface temperature profile of the area using our thermal imaging sensor (TIR) for thermal anomaly detection and mapping heat emissions.
-
-The operational deadline for this task is set for the day after tomorrow, with the strictest requirement being that the data products must be ingested into the pipeline by morning. This is a background survey task, not critical to our core operations but still important for our baseline pipeline tracking setup.
-
-We're looking forward to receiving your assistance in scheduling this task to capture the thermal data accurately and efficiently. Thank you for your understanding and cooperation.

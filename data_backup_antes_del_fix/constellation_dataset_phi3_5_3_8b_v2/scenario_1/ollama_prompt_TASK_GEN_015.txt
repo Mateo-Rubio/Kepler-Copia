@@ -1,2 +1,0 @@
-We need a low priority importance task scheduled for tomorrow in the morning to capture thermal mapping over Ecuador, with an aim to document surface temperature profiles and detect any heat anomalies. This is a non-essential background filler task that can be dropped or rescheduled at your convenience, ensuring it doesn't interfere with our urgent operational executions.
-```prompt

@@ -1,9 +1,0 @@
-Good day to our satellite constellation team,
-
-We're reaching out with an urgent request, which we consider a binding contract requirement involving a critical payload capture. We're looking for a high-resolution optical snapshot of the Ecuatorial region in Indonesia, specifically focusing on the city of Ecuatorial. The goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index, as well as surface reflectance for our ongoing environmental monitoring project.
-
-This task is of utmost importance, and we need it by tomorrow's overnight block at the latest. We're treating this request with the highest priority, which means that any other operational tasks can be dropped or rescheduled at convenience. This is a non-essential background filler task but crucial for our background survey and testbed tracking task.
-
-We kindly ask you to ensure the products are ingested into our pipeline before tomorrow's overnight block, as we're strictly adhering to our deadline set for this data availability. We appreciate your immediate attention to this matter.
-
-Thank you very much for your understanding and cooperation in this matter.

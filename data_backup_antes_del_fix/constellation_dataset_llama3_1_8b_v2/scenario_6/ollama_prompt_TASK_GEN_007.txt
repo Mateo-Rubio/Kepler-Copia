@@ -1,1 +1,0 @@
-Please task the satellite to acquire a high-resolution optical snapshot of Zipaquirá, Colombia, using daylight photography for clear optical imagery. This is a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The products are needed by in four days in the evening at the latest.

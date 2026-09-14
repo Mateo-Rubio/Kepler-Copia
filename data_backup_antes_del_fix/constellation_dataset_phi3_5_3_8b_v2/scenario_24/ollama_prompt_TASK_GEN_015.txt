@@ -1,1 +1,0 @@
-We're looking to schedule an SAR-based active radar scan for cloud-penetrating capture over Kuala Enok, Indonesia. This is a non-essential background filler task with a flexible schedule, so feel free to drop or reschedule at your convenience. The data needs to be ready by the evening in four days from now, ensuring it's ingested into our pipeline before that deadline.

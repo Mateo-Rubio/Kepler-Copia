@@ -1,9 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out on behalf of an Earth-observation mission with a high importance task to be executed in the near future. Our objective is to capture thermal mapping data for the region surrounding Ecuatorial City, located within Indonesia's vast territory. This area requires a detailed heat signature and surface temperature profile for critical analysis.
-
-Our priority is marked as 'High Importance', which means this mission is an absolute institutional priority and part of a binding contract requirement involving a critical payload capture. We require this data to be available by the evening on the day that is three days ahead, ensuring it's ingested into our pipeline before the deadline is met.
-
-For this task, we are employing thermal sensors (TIR) to gather thermal images that will help us in detecting heat anomalies and mapping heat emissions accurately. The imagery captured should provide us with a comprehensive view of the region's thermal characteristics.
-
-Please note that this mission has a strict deadline due to operational constraints and represents a baseline pipeline tracking setup with fixed parameters, reflecting our normal operational status. We are looking forward to your immediate attention and cooperation in executing this task as per our requirements.
-
-Thank you for your understanding and swift action in fulfilling this request.

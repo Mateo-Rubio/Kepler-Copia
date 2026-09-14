@@ -1,5 +1,0 @@
-Good day! I'm reaching out to request an urgent task for an Earth observation mission. Our team needs a thermal mapping of Kapuas, Indonesia, using our TIR sensor. This is a low priority importance request, so please consider it as a flexible schedule "opportunistic capture" or "background survey". We're looking for the heat signature and surface temperature profile to support our ongoing research on urban heat islands.
-
-The deadline for this task is today during the afternoon. We need the data by tomorrow's overnight block at the latest. Kindly ensure that the products are ingested into our pipeline before the set deadline. This will allow us to analyze the thermal anomaly detection and mapping of heat emissions efficiently. Your cooperation in meeting this deadline is greatly appreciated.
-
-Thank you for your attention to this matter, and we look forward to receiving your response soon.

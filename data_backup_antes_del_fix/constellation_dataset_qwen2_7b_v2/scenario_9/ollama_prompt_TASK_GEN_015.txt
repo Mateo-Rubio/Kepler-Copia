@@ -1,7 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a low priority importance task for an opportunistic capture of a thermal mapping operation using near-infrared reflection technology. Our focus is on assessing soil moisture levels and water body boundaries in the ecuatorial region of Indonesia, specifically targeting the city of Ecuatorial.
-
-The primary objective is to gather data that will help us discriminate gradients in soil moisture and water bodies, which is crucial for our ongoing environmental monitoring project. The task involves capturing high-resolution optical snapshots as well, providing us with clear visual documentation and true-color imagery to supplement our analysis.
-
-We aim to deliver the data products by tomorrow during the afternoon at the latest, ensuring they are ingested into our pipeline before that time frame. This request is considered a non-essential background filler task, where we explicitly note that it can be dropped or rescheduled at convenience if necessary.
-
-Thank you for your attention and cooperation in fulfilling this request.

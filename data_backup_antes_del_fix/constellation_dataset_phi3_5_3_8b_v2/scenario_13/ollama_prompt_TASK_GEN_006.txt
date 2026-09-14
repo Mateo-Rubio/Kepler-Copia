@@ -1,1 +1,0 @@
-We have a standard operational tasking requiring multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and surface reflectance. This is part of our routine monitoring for Sarolangun, Indonesia. The data products must be ready by in three days overnight at the latest, ensuring they are ingested into the pipeline before then.

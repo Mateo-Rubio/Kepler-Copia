@@ -1,1 +1,0 @@
-This is a low priority importance request for a VNIR multispectral vegetation analysis scan over El Paujil, Colombia.  We're looking to capture some opportunistic data for chlorophyll absorption level assessment and NDVI index calculation.  The products can be ingested into the pipeline at your earliest convenience, but ideally before tomorrow evening.

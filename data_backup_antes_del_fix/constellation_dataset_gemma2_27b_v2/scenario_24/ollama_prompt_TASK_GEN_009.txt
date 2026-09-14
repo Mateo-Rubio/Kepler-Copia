@@ -1,1 +1,0 @@
-This is a standard operational tasking for an active radar scan using microwave surface imaging over Beringin Jaya, Indonesia. We need this data captured and processed, with a strict delivery deadline set for tomorrow around mid-day at the latest.

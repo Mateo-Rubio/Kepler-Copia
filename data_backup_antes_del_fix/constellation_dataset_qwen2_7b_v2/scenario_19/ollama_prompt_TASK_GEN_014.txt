@@ -1,5 +1,0 @@
-Good day! We're looking to capture a multispectral vegetation analysis on the region of interest in Italia, specifically focusing on the city of Norte. Our goal is to assess the chlorophyll absorption levels and calculate the NDVI index for the area, providing us with a detailed surface reflectance map.
-
-Our request is categorized as medium importance, meaning it's part of our standard operational tasking but still requires attention. We're aiming to complete this task in three days, with the data needed by the morning at the latest. This deadline is set for ensuring that the products are ingested into our pipeline before the designated time.
-
-To achieve this, we'll be employing a VNIR sensor to gather the necessary data. Please ensure that the data collection process adheres to our guidelines and provides us with high-quality information that meets our operational standards. Thank you for your cooperation in meeting these requirements.

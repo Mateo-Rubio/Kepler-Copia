@@ -1,1 +1,0 @@
-This is an absolute institutional priority tasking. We require a critical payload capture of the Tocaima region in Colombia using multispectral vegetation analysis.  We need the high-resolution VNIR data needed by today in the morning at the latest, ensuring the products are ingested into the pipeline before then.

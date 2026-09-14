@@ -1,1 +1,0 @@
-I'd like to submit a standard operational tasking for a high-resolution optical snapshot over Ecuatorial, Indonesia. This is part of our baseline pipeline tracking and involves capturing clear optical imagery during daylight photography. Please ensure the data products are ingested into the pipeline before three days from now, overnight. Thank you.

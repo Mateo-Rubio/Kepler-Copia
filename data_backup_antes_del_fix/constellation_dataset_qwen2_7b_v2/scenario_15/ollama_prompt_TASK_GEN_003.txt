@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner. We're looking to capture an active radar scan using microwave surface imaging technology for a cloud-penetrating capture of ground geometry. Our target region is Ecuatorial, which might be challenging due to heavy weather conditions. This request falls under medium importance and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Our priority here is to ensure the data is captured in accordance with our contractual obligations without compromising quality or accuracy. We aim for a standard operational tasking that will provide us with the necessary information to maintain our baseline pipeline tracking setup efficiently. 
-
-The deadline for this request is set for the day after tomorrow, with a strict delivery deadline for the data by overnight. This ensures that the products are ingested into our pipeline before the deadline arrives. We understand the urgency and importance of delivering this data promptly without altering or extending the deadline.
-
-Thank you for your attention to this matter. We appreciate your cooperation in ensuring that we receive the required data products on time, as per our operational guidelines.

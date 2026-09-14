@@ -1,1 +1,0 @@
-We need a low-priority, opportunistic capture of Norte using active radar scanning. This is a non-essential background filler task for cloud-penetrating capture and ground geometry mapping. Please drop or reschedule at convenience, treating this as a background survey. The data products should be ingested into the pipeline before tomorrow during the afternoon at the latest.

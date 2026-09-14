@@ -1,5 +1,0 @@
-Good day to our automated satellite constellation planner, we're looking at a mission allocation for a standard operational tasking involving an active radar scan using microwave surface imaging in Colombia. Specifically, our focus is on the city of Chaparral. The objective is to capture cloud-penetrating imagery that can pierce through heavy weather conditions and provide us with ground geometry details.
-
-We're aiming to complete this task by tomorrow's overnight period at the latest, ensuring we meet the strict delivery deadline set for our request. This operation falls under our baseline pipeline tracking setup, representing normal operational status with fixed parameters that reflect our standard workflow update needs.
-
-Please note that while this is a medium importance mission, it does not require an urgent operational execution or an un-preemptable mission lock. We appreciate your attention to this task and look forward to receiving the data products before tomorrow's nightfall. Thank you for your cooperation in ensuring our baseline pipeline remains on track.

@@ -1,5 +1,0 @@
-Good morning! I'm reaching out with an important request on behalf of our satellite constellation planning team. We're tasked with capturing a detailed radar scan using the SAR sensor for a specific region in Italy, focusing on the city of Grottaferrata. This is a low priority importance task, meaning it can be scheduled flexibly and treated as a background survey or testbed tracking task.
-
-The goal here is to gather microwave surface imaging data that can penetrate heavy weather conditions and provide us with ground geometry details. We aim to capture this data in the morning of the day after today, ensuring that all products are ingested into our pipeline before the overnight block of tomorrow. This is a non-essential background filler task where we can drop or reschedule at convenience.
-
-Thank you for your attention to this request. If you have any questions or need further clarification, please let me know. We appreciate your cooperation in meeting this deadline and look forward to receiving the data as planned.

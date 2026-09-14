@@ -1,1 +1,0 @@
-This is a standard operational tasking for near-infrared reflection capture over Rokan Hulu, Indonesia. The goal is to map water body boundaries and assess soil moisture gradients in the region.  We need the data products ingested into the pipeline before tomorrow overnight at the latest.

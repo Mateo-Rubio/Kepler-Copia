@@ -1,5 +1,0 @@
-I'm reaching out to request a low-priority task for a thermal mapping mission over Ecuatorial, Malaysia. This is a flexible schedule request with a focus on capturing heat signatures and surface temperature profiles. The goal is to perform thermal anomaly detection, which can be useful for various environmental assessments.
-
-Given the low priority importance of this task, I would like to emphasize that it's a non-essential background filler task. Please feel free to drop or reschedule it at your convenience if needed. However, if possible, I'd appreciate having the data products ingested into the pipeline before the day after tomorrow's overnight block.
-
-Thank you for considering this opportunistic capture request.

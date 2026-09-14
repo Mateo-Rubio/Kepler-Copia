@@ -1,1 +1,0 @@
-This is a low priority importance request for an opportunistic capture. We need a cloud-penetrating capture of Sesquilé, Colombia using active radar scan.  The data products should be ingested into the pipeline before in three days around mid-day at the latest.  Please drop or reschedule this task at your convenience.

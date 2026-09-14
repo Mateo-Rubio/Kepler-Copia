@@ -1,1 +1,0 @@
-I have a low-priority task for you. We're looking to conduct some thermal mapping over Norte, focusing on capturing heat signatures and surface temperature profiles. This is more of an opportunistic capture, so feel free to drop or reschedule it at your convenience if needed. Just make sure the data products are ingested into our pipeline before the day after tomorrow morning.

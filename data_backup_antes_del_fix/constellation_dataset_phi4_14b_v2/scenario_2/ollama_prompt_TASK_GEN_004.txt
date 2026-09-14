@@ -1,3 +1,0 @@
-I'd like to submit a task request for a low-priority importance mission with a flexible schedule, allowing for opportunistic capture. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The mission involves conducting an active radar scan using microwave surface imaging over Nóvita, Colombia, to achieve cloud-penetrating capture and ground geometry analysis.
-
-This request is part of our routine monitoring setup and serves as a testbed tracking task within our baseline pipeline. I would like the data products to be delivered with a strict deadline set for in four days overnight at the latest. Please ensure the products are ingested into the pipeline before this time.

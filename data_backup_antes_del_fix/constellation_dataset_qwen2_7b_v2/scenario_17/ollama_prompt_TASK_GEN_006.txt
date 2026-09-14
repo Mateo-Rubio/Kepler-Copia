@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner. We're looking into a standard operational tasking for a critical payload capture involving an active radar scan using microwave surface imaging technology. Our primary objective is to pierce through heavy weather conditions and capture ground geometry for a location in Majangkan, Indonesia. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Majangkan, Indonesia, is the geographical context we're focusing on. The request has been marked as medium importance, implying an urgent operational execution but not as critical as a binding contract requirement or mandatory directive. We aim to ensure that the data products are ingested into our pipeline before tomorrow's overnight block, adhering to the strict delivery deadline set for us.
-
-This task is part of our standard workflow update and commercial tasking operations. We're looking forward to receiving high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation that will help us in our ongoing efforts to monitor and analyze ground conditions effectively. 
-
-Thank you for your attention to this matter. We appreciate your swift action in addressing this request and ensuring its timely completion.

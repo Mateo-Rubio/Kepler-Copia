@@ -63,6 +63,9 @@ from src.modules.prompt_factory.main import prompt_factory_main
 
 # Modelos evaluados en el paper original de KDF. Se pueden sobreescribir
 # con --models.
+
+RUN_DATE = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
 DEFAULT_MODELS = [
     "gemma2:27b",
     "llama3.1:8b",
@@ -198,7 +201,7 @@ def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
     max_lifetime = task_cfg["max_lifetime"]
     total_required_duration_s = max_release_delay + max_lifetime
 
-    scenario_dir = pathlib.Path("data") / dataset_name / f"scenario_{idx}"
+    scenario_dir = pathlib.Path("data") / RUN_DATE / dataset_name / f"scenario_{idx}"
     scenario_dir.mkdir(parents=True, exist_ok=True)
     scenario_report_path = scenario_dir / "scenario_report.json"
 
@@ -303,6 +306,8 @@ def main():
     parser.add_argument("--continue-without-missing", action="store_true",
                          help="Si algún modelo no está descargado, continuar solo con los "
                               "disponibles en vez de detener la ejecución por completo")
+    parser.add_argument("--strategy", type=str, default="zero_shot",
+                        choices=["zero_shot", "few_shot", "chain_of_thought", "chaining"])
     args = parser.parse_args()
 
     cfg = load_config(args.config)
@@ -383,7 +388,7 @@ def main():
             if args.retry_failed_only and (model, idx) not in retry_set:
                 continue
 
-            scenario_dir = pathlib.Path("data") / dataset_name / f"scenario_{idx}"
+            scenario_dir = pathlib.Path("data") / RUN_DATE / dataset_name / f"scenario_{idx}"
 
             if not args.retry_failed_only and scenario_already_complete(scenario_dir, tasks_k):
                 total_skipped += 1

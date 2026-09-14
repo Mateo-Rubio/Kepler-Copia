@@ -1,3 +1,0 @@
-We have a standard operational tasking for a near-infrared reflection mission over the region known as Norte. This task involves capturing data to assess soil moisture levels and map water body boundaries, which is part of our baseline pipeline tracking with fixed parameters. We expect this operation to be conducted with normal operational status and integrated into our workflow update.
-
-The imagery should be ready by tomorrow's overnight block at the latest to ensure it meets our strict delivery deadline. Please proceed with scheduling and execution as per routine monitoring protocols.

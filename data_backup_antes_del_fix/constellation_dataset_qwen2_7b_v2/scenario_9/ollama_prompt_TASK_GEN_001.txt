@@ -1,9 +1,0 @@
-Good day to our satellite constellation planners,
-
-We are urgently requesting a high-priority task allocation for an absolute institutional requirement. Our mission involves capturing critical data on soil moisture levels within Colombia, specifically focusing on the city of San José del Guaviare. The primary sensor required is near-infrared (NIR), which will be used for mapping water body boundaries and assessing soil moisture content.
-
-The operational deadline for this task is set for tomorrow evening, ensuring that the products are ingested into our pipeline before then. We need high-resolution optical snapshots as well, to provide true-color visual documentation of the area during daylight hours. This task is part of a standard baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Please treat this request with utmost priority and consider it a binding contract requirement involving a mandatory directive for data capture. We appreciate your swift response and cooperation in meeting this deadline, as it pertains to an urgent operational execution and cannot be pre-empted or rescheduled at convenience.
-
-Thank you for your attention to this matter.

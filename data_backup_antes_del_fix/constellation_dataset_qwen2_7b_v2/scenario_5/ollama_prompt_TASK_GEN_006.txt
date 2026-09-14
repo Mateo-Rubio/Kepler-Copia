@@ -1,9 +1,0 @@
-Given the operational guidelines, I hereby request a high-resolution optical snapshot of Pasir Panjang, Indonesia, which is ideally situated in the country of Indonesia. This imagery will serve as a clear optical record for daylight photography and true-color documentation of the area's landscape. The primary sensor involved will capture this visual data using visible light wavelengths.
-
-As this task falls under Priority 1 (Low Importance), it carries a flexible schedule that allows for opportunistic capture, considering it as a background survey or testbed tracking task. The request is not tied to an urgent deadline but rather aims to maximize the naturalness and validation accuracy of the dataset.
-
-The imagery captured should be ready by tomorrow's evening block, ensuring the products are ingested into the pipeline before the target day. This request aligns with our baseline pipeline tracking setup, representing a standard operational tasking that fits within our normal workflow update.
-
-As per the operational guidelines, we will use the primary sensor VIS to gather high-resolution optical data that will help in assessing the landscape's features and details. This data collection will be conducted in Pasir Panjang, Indonesia, with the deadline set for the imagery to be ready by the target day at the latest during the evening period.
-
-Thank you for your attention to this request, and I look forward to receiving the necessary data products that will contribute to our ongoing Earth observation mission.

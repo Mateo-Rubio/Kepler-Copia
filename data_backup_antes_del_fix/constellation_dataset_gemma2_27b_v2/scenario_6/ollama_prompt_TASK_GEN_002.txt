@@ -1,1 +1,0 @@
-This is a low priority importance task for opportunistic capture of multispectral vegetation analysis imagery over Northern Italy. I need this data ingested into the pipeline before today around mid-day at the latest.  Feel free to drop or reschedule this task at your convenience.

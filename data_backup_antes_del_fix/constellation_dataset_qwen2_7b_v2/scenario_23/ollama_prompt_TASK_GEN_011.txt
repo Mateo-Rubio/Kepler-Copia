@@ -1,5 +1,0 @@
-Good day! I'm reaching out on behalf of our Earth-observation mission operator, requesting a task to be scheduled for the day after tomorrow in the evening. Our primary sensor requirement is for VNIR imagery, which will help us assess chlorophyll absorption levels and calculate the NDVI index for a specific area. We're looking at capturing high-resolution optical snapshots from the beautiful region of Italia, focusing on the city of Oderzo. 
-
-This task falls under a low priority importance category, meaning it's a non-essential background filler task that we can drop or reschedule as per our convenience. Our goal is to gather data for opportunistic capture purposes, which will serve as a background survey or testbed tracking task.
-
-Please ensure that the products are ingested into our pipeline before the deadline set for the day after tomorrow in the evening, adhering strictly to our operational guidelines and deadlines. Thank you for your attention to this matter.

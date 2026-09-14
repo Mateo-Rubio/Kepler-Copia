@@ -1,1 +1,0 @@
-Ensure that today's multispectral vegetation analysis, focusing on near-infrared reflection to assess soil moisture and discriminate gradients around El Playón in Colombia, is completed with a standard operational tasking. This routine monitoring should yield results by the afternoon of today for integration into our baseline pipeline tracking system.

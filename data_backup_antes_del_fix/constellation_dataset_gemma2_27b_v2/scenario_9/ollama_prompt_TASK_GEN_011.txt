@@ -1,1 +1,0 @@
-We need a low priority, opportunistic thermal mapping capture of the region near Norte, Slovenija.  This is a non-essential background filler task with a flexible schedule. Please drop or reschedule at your convenience. The data products should be ingested into the pipeline before in three days during the afternoon at the latest.

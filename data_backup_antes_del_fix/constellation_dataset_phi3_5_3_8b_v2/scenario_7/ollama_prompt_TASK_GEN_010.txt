@@ -1,1 +1,0 @@
-Initiate a standard operational tasking for multispectral vegetation analysis in Pantanillo, Colombia, to assess chlorophyll absorption levels and calculate the NDVI index by tomorrow evening's end. Ensure these data products are ingested into our baseline pipeline tracking system within this strict delivery window.

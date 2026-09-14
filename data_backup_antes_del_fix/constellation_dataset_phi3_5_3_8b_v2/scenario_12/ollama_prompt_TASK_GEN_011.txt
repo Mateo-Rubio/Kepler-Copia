@@ -1,2 +1,0 @@
-We have an absolute institutional priority to secure a high-resolution optical snapshot of Città di Castello in Italia during tomorrow's afternoon, with results needed by then for true-color visual documentation. This critical payload capture is mandatory and must be executed un-preemptably within four days, ensuring the products are ingested into our baseline pipeline promptly after acquisition to maintain operational integrity.
-```

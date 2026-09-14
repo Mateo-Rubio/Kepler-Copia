@@ -1,7 +1,0 @@
-Good day to all satellite operators and mission planners. We're looking at an operational task for today, involving a standard monitoring activity in Indonesia, specifically focusing on the city of Setiris. The priority level for this mission is set at medium importance, which means it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-The primary sensor to be utilized here is the VNIR (Visible Near-Infrared) sensor. This will enable us to conduct a detailed multispectral vegetation analysis, focusing on assessing the chlorophyll absorption levels across various areas and calculating the NDVI index for surface reflectance. Our goal is to capture high-quality imagery that can provide valuable insights into the health of the vegetation.
-
-The deadline for this task is set for today's afternoon period, with a strict delivery deadline of today at the latest. This means we need to ensure that the data products are ingested into our pipeline before tonight falls asleep. We're looking forward to receiving the data promptly so we can process it efficiently and provide timely insights to our clients.
-
-Thank you for your attention to this matter. Let's work together to meet this deadline and deliver a high-quality dataset as part of our ongoing operational tasks.

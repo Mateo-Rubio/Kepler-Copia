@@ -1,3 +1,0 @@
-I'd like to submit a task for a low-priority importance mission with a flexible schedule, where we can opportunistically capture data. This is essentially a non-essential background filler task that can be dropped or rescheduled at convenience. We're looking at conducting a multispectral vegetation analysis in the region of San Martín, Colombia. The goal here is to assess the chlorophyll absorption levels and calculate a vegetation NDVI index using VNIR technology.
-
-Please ensure that this data is ingested into the pipeline before evening in four days. Thank you for accommodating this as part of our background survey efforts.

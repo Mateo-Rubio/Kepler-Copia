@@ -1,1 +1,0 @@
-This is a low priority importance request for a high-resolution optical snapshot of Bolívar, Colombia.  We'd like to schedule this as a flexible background filler task, and drop or reschedule at your convenience. Please aim to have the products ingested into the pipeline before in four days in the evening at the latest.

@@ -1,5 +1,0 @@
-Hello there, satellite constellation planner! I'm reaching out with a task that's quite important to our operations. We're looking at a region in Indonesia, specifically near the city of Basa Ampek Balai Tapan, where we need some thermal mapping work done. This isn't just any request; it's part of a baseline pipeline tracking setup that's crucial for us. We're interested in capturing heat signatures and surface temperature profiles, which will help us detect any thermal anomalies.
-
-We're aiming to get this data by the day after tomorrow, in the evening, at the latest. It's a 'low priority importance' task, but we do want it done as efficiently as possible. This is akin to a background survey or testbed tracking task that can be scheduled flexibly. We understand that you might have other priorities, so please drop or reschedule this task according to your convenience.
-
-Thank you for your attention to this matter! We're looking forward to your response.

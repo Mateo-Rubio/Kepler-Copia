@@ -1,5 +1,0 @@
-We're looking to capture a detailed view of the Solok region in Indonesia using our VNIR sensor, which will provide us with high-resolution optical imagery for daylight photography and true-color visual documentation. This task is part of our standard operational pipeline tracking setup, with fixed parameters representing normal operational status. We aim to deliver this data by the target day, in four days, with a strict delivery deadline set for overnight at the latest. This request is categorized as medium importance, ensuring it gets processed as a routine monitoring task without altering or extending the deadline.
-
-Given the nature of the VNIR sensor, we're also interested in assessing chlorophyll absorption levels and calculating the vegetation NDVI index to provide insights into surface reflectance. We understand the urgency associated with this request and will ensure that the products are ingested into our pipeline before the target day's overnight period.
-
-Please proceed with capturing the required data and prepare for delivery accordingly, ensuring we meet the outlined operational guidelines.

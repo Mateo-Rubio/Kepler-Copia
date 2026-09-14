@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture. We need thermal mapping of a region in Northern Italy needed by in three days in the evening at the latest. Ensure the products are ingested into the pipeline before this deadline.

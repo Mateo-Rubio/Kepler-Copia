@@ -1,5 +1,0 @@
-Good day to our automated satellite constellation planner. We're looking at a high-priority task for Colombia, specifically in the city of Útica. The mission involves capturing thermal mapping data using the TIR sensor. This is an absolute institutional priority due to its critical payload capture and mandatory directive nature. We require this data by the target day, which is three days from today, during the afternoon at the latest. This task carries significant importance for our baseline pipeline tracking setup and represents a standard operational tasking with fixed parameters reflecting normal operational status.
-
-We're aiming to gather essential heat signatures and surface temperature profiles for this region, which will help us detect thermal anomalies and map heat emissions accurately. The urgency of this request is paramount as we need the data products ingested into our pipeline before the target day's afternoon deadline. Kindly schedule this task with a high level of importance and ensure it's treated as a non-negotiable requirement.
-
-Thank you for your attention to this critical matter, and we look forward to receiving the data promptly.

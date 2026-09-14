@@ -1,7 +1,0 @@
-Good day, automated satellite constellation planner. We're looking to capture thermal mapping data for a critical payload in Indonesia, specifically focusing on the area of Rokan Hulu. Our primary sensor requirement is near-infrared (NIR) technology for this task, which will enable us to assess soil moisture and water body boundaries accurately.
-
-Given that this is a standard operational tasking with normal parameters, we're treating it as part of our baseline pipeline tracking setup. We aim to deliver the thermal mapping data products by tomorrow's overnight block at the latest, ensuring they are ingested into our system before the deadline set for [target_day] [target_diurnal_period]. This is a standard workflow update that aligns with our routine monitoring activities.
-
-Please ensure this request is given priority level 2 in your scheduling and allocation process. We appreciate your cooperation in meeting these requirements promptly, as they are part of our regular operational status but also carry some importance for our ongoing projects.
-
-Thank you for your attention to detail and timely execution of this task.

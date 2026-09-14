@@ -1,1 +1,0 @@
-We need a standard operational tasking to capture thermal mapping of the ecuatorial region overnight, with data products ready by tomorrow night for integration into our baseline pipeline tracking. Ensure this routine monitoring aligns with our regular workflow update and is completed within the specified timeframe.

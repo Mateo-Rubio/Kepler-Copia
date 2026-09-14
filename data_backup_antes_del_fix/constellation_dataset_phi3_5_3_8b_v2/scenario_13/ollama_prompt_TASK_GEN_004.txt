@@ -1,2 +1,0 @@
-We need a high-resolution optical snapshot of San Martín, Colombia's multispectral vegetation during tomorrow's overnight block to assess chlorophyll absorption levels and calculate the NDVI index. This is a non-essential background filler task that can be dropped or rescheduled at your convenience, ensuring the products are ingested into our pipeline before three days from now in the afternoon.
-```

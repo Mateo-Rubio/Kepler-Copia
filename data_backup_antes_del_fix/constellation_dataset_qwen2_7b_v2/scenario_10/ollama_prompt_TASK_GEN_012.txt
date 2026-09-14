@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with a task for you to consider. Our mission involves capturing thermal data using near-infrared sensors from a location in Indonesia, specifically in the city of Rawak Hulu. This is a low priority importance request, so please treat it as a flexible schedule background survey or testbed tracking task.
-
-The data collection should take place tomorrow, ensuring that the products are ingested into our pipeline by the time the overnight period begins. Given the nature of this task being non-essential and having a more relaxed deadline, you may drop or reschedule it at your convenience if other priorities demand attention.
-
-Thank you for your understanding and cooperation in managing this request efficiently. We appreciate your support in fulfilling our Earth observation mission objectives.

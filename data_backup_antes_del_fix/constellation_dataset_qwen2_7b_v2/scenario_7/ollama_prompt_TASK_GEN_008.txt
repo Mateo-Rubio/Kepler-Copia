@@ -1,8 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a request for an operational tasking involving a low priority importance mission allocation, which is part of our baseline pipeline tracking setup. This request involves capturing high-resolution optical imagery for a critical payload capture at Quincinetto, Italia. The primary sensor we're focusing on is the VIS sensor, designed to provide us with daylight photography, clear optical imagery, and true-color visual documentation.
-
-Our deadline for this tasking is set for three days from now, with a strict delivery deadline for the data products being before the morning of that target day. We aim to ensure these products are ingested into our pipeline well before the specified time frame. This task is considered a non-essential background filler task and can be dropped or rescheduled at convenience if it doesn't align with our current operational status.
-
-Thank you for your attention, and we appreciate your cooperation in meeting this deadline. Should there be any questions or if you need additional information, please feel free to reach out. We look forward to receiving the data products that will contribute to our ongoing monitoring efforts.
-
-Best regards,
-[Your Name]

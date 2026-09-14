@@ -1,7 +1,0 @@
-Good morning! We're looking to capture a low priority importance task for our satellite constellation, which involves assessing vegetation health over Puerto Wilches, Colombia. The mission allocation authority and asset contractual value are quite significant for this task, as it's part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-The primary sensor involved is the VNIR (Visible Near-Infrared) sensor, which will provide us with multispectral vegetation analysis data to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This information will be crucial for understanding the health and productivity of the vegetation in this region.
-
-We're aiming to capture these data products by the day after tomorrow, specifically overnight, ensuring they are ingested into our pipeline before that deadline. This task is considered a background survey or testbed tracking task, with flexibility in scheduling, allowing us to drop or reschedule it at our convenience if needed. 
-
-Thank you for your attention to this task. We appreciate your cooperation in meeting these requirements and ensuring the data's quality and timeliness. Have a great day!

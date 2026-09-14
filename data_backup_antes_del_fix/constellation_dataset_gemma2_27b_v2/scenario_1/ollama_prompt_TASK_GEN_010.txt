@@ -1,1 +1,0 @@
-This is a low priority importance request for a multispectral vegetation analysis task. We need a VNIR capture over El Castillo, Colombia.  The data should be ready for ingestion into the pipeline by overnight in three days at the latest. Please drop or reschedule this task at your convenience if needed.

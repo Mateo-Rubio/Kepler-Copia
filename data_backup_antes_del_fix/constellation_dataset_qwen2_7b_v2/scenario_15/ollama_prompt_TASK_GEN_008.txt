@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner, we're looking to capture a near-infrared reflection dataset for water body boundary mapping and soil moisture assessment in Piacenza, Italia. This task is classified as medium importance, meaning it's part of our standard operational tasks with fixed parameters, representing normal operational status.
-
-We aim to obtain high-resolution imagery that will provide us with a clear view of the water bodies' boundaries and assess soil moisture levels, which are crucial for our ongoing environmental monitoring project. The primary sensor involved will be the near-infrared (NIR) sensor, providing us with essential data for these tasks.
-
-Our request is set with urgency, as we need the data by the target day at the latest, which is three days from now, with a strict delivery deadline set for that day's overnight block. We're confident in your team's capabilities to deliver this critical payload capture on time, ensuring our products are ingested into the pipeline before the deadline.
-
-Thank you for your attention and cooperation in making this task a success.

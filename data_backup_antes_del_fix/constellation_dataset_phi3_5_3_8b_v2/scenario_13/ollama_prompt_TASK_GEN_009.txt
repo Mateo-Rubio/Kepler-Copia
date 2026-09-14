@@ -1,2 +1,0 @@
-We need to schedule a TIR thermal mapping session for Pulang Pisau in Indonesia, aiming for high-resolution optical snapshot of heat signatures tomorrow morning. This standard operational tasking is part of our routine monitoring and should be integrated into the baseline pipeline tracking with fixed parameters representing normal operational status. Ensure that the products are ingested into the system before tomorrow's overnight block to maintain our workflow efficiency.
-```

@@ -1,7 +1,0 @@
-As part of our standard operational tasking, we aim to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia. This daylight photography will provide clear optical imagery and true-color visual documentation essential for our baseline pipeline tracking setup. The mission involves fixed parameters representing normal operational status and is to be executed with standard workflow updates.
-
-We require this data by the day after tomorrow, in the morning, at the latest. Our strict delivery deadline is set for the day after tomorrow, in the morning, ensuring the products are ingested into our pipeline before then. This task is part of our routine monitoring efforts and contributes to our ongoing commercial tasking and background survey operations.
-
-Please proceed with the capture of this essential payload as a standard operational task, prioritizing it within our baseline pipeline tracking setup. The data will be used for normal operational status updates and will help us maintain our standard workflow without any preemption or alteration of existing tasks.
-
-Thank you for your attention to this medium-importance request. We appreciate your cooperation in meeting the deadline and delivering the data products as specified.

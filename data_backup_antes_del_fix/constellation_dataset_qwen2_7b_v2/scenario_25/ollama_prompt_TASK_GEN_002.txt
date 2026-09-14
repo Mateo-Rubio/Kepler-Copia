@@ -1,8 +1,0 @@
-Good day to our automated satellite constellation planner. We're looking to capture a thermal mapping of Norte, which is located in an unspecified country. The primary objective here is to identify heat signatures and surface temperature profiles for this area. Given the importance level of this task, we classify it as a low priority request with flexible scheduling considerations.
-
-We aim to acquire this data within the next three days, specifically during the afternoon timeframe. This thermal mapping will serve as a background survey for us and might be used for preliminary analysis or as a testbed tracking task. We understand that there's an urgency associated with delivering these products by the deadline set for the target day at the latest.
-
-Thank you for your attention to this request and we look forward to receiving the data products in time for our operational pipeline. Should any adjustments need to be made due to unforeseen circumstances, please feel free to drop or reschedule this task at your convenience.
-
-Best regards,
-[Your Name] - Earth-observation mission operator

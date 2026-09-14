@@ -1,7 +1,0 @@
-Hello there! I'm reaching out from the Earth observation mission control to request a task that's been tagged as low priority importance. This is a non-essential background filler task, and we're treating it as a flexible schedule opportunity for opportunistic capture. We're looking at a low-resolution thermal mapping mission using our TIR sensor.
-
-The location we're focusing on is in the beautiful country of Slovenia, specifically in the city of Norte. Our goal here is to capture a heat signature or surface temperature profile, which will help us detect any thermal anomalies and map heat emissions with precision.
-
-We have a strict deadline for this task, needing the data by the target day, which is in three days, in the evening at the latest. This means that the data products must be ingested into the pipeline before the sun sets on the target day to ensure we meet our operational requirements.
-
-Thank you for your attention and cooperation in ensuring this background survey task meets our baseline pipeline tracking standards. We appreciate your flexibility and look forward to receiving the data as part of our normal operational status or workflow update.

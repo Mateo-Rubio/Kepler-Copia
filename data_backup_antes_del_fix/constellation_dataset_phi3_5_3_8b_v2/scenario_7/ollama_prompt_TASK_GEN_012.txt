@@ -1,3 +1,0 @@
-We need a standard operational tasking to conduct multispectral vegetation analysis in Ecuatorial city during tomorrow's evening hours, ensuring the products are ingested into our tracking pipeline by then. This routine monitoring will assess chlorophyll absorption levels and calculate surface reflectance indices for environmental studies.
-```prompt
-...your text here...

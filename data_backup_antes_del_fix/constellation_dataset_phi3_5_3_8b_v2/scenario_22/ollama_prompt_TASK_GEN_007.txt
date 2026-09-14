@@ -1,2 +1,0 @@
-We're looking to capture an active radar scan using microwave surface imaging in Sesquilé, Colombia. This is a low priority importance task with flexible scheduling; however, we need the data ready by three days from now around mid-day at the latest for opportunistic survey purposes. If circumstances change, please feel free to drop or reschedule this background tracking assignment as needed.
-```

@@ -1,9 +1,0 @@
-Good day, satellite mission planner. I'm reaching out to request a highly critical payload capture from our automated constellation. The operational context involves Indonesia, specifically the city of Lumpatan II. Our priority is marked as 'High Importance', which means this task is an absolute institutional priority and a binding contract requirement.
-
-The primary sensor we're focusing on is Near-Infrared (NIR), aimed at capturing near-infrared reflection data for water body boundary mapping. This will help us assess soil moisture levels, distinguishing various gradients with precision. 
-
-We aim to capture this data in the evening of the day after tomorrow, ensuring the products are ingested into our pipeline before that time. The deadline is set with strict adherence; we need the data ready by the day after tomorrow, in the evening.
-
-This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a standard operational tasking and commercial tasking activity. However, given its high priority, it carries an urgent operational execution and an un-preemptable mission lock.
-
-Please treat this request with the utmost importance and ensure that all necessary resources are allocated to meet these requirements promptly. Thank you for your attention to this critical matter.

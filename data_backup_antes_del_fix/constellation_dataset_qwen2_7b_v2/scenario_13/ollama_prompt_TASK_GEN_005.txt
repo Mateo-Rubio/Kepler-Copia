@@ -1,7 +1,0 @@
-Good day! I'm reaching out to request assistance with an operational task for our satellite constellation. We're looking to capture a detailed radar scan of Norte, using microwave surface imaging technology, to gather cloud-penetrating data that will help us understand the ground geometry in the area. This is a low priority importance request, meaning we're treating it as a background survey or testbed tracking task with a flexible schedule for opportunistic capture.
-
-The specific objective is to obtain thermal mapping data that can help us identify heat signatures and surface temperature profiles, which might indicate any thermal anomalies or heat emissions in the region. This will contribute to our ongoing monitoring efforts without disrupting our core operations.
-
-Given the nature of this request, we're aiming to have all the data products ingested into our pipeline before tomorrow's evening timeframe, ensuring that they are ready for review and analysis by our team. We appreciate your understanding and cooperation in meeting this deadline.
-
-Thank you for your attention to this matter. If you require any additional information or have questions about this task, please feel free to reach out. We look forward to working together to achieve our mission goals.

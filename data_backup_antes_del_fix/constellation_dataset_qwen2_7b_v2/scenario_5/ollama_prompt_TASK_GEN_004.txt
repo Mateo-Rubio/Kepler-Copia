@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task that's part of our ongoing monitoring efforts in Colombia. Specifically, we're looking to capture high-resolution optical snapshots of Cumaral city using our VNIR sensor. This is a low priority importance request, so we understand it might need to be scheduled at your convenience or dropped if needed.
-
-Our objective here is to assess the chlorophyll absorption level across the region for vegetation analysis purposes. We're aiming to gather this data by tomorrow, in the morning, ensuring the products are ingested into our pipeline before that deadline. This task will serve as a background survey for us, helping us understand the landscape and its vegetation better.
-
-Please note that we're not under any urgent operational execution pressure for this task, but we do appreciate your prompt attention to ensure we can incorporate these data points into our ongoing studies without delay. Thank you for your cooperation in this matter.

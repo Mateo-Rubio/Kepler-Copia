@@ -1,7 +1,0 @@
-Good day! We're looking to gather thermal mapping data from Indonesia, specifically focusing on Kutai Timur region. Our priority for this task is medium importance, meaning it's part of our standard operational pipeline tracking with fixed parameters representing normal operational status.
-
-Our main objective is to conduct a TIR (Thermal Infrared) scan to capture heat signatures and surface temperature profiles for the area. This will help us detect thermal anomalies and map heat emissions accurately.
-
-We're targeting this task for three days from today, with a strict delivery deadline set for during the afternoon on that day. This data is crucial for our baseline pipeline tracking setup and must be ingested into the pipeline before the specified time to ensure timely processing and analysis.
-
-Thank you for your attention to this request. We appreciate your cooperation in meeting these operational guidelines and ensuring the data meets our quality standards.

@@ -1,3 +1,0 @@
-Good afternoon, mission planners. I'm reaching out on behalf of our Earth observation program to request a task that will capture a high-resolution optical snapshot of El Retorno, Colombia, with clear daylight photography capabilities. This is a low priority importance request, so please schedule it as a flexible background filler task. We aim to have the data ready by the day after tomorrow in the evening at the latest, ensuring the products are ingested into our pipeline before then. This will help us assess environmental conditions without any urgency constraints.
-
-Thank you for your attention and cooperation.

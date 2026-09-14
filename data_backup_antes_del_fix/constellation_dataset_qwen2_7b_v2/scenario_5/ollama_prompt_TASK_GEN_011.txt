@@ -1,5 +1,0 @@
-Good day to our automated satellite constellation planners. We're looking to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment over a specific area in the region of Italia, specifically within the city of Norte. This task is of medium importance and falls under our standard operational tasks, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Our priority is to ensure that these data products are ready for ingestion into our pipeline by tomorrow evening at the latest. We're treating this as a routine monitoring task that involves assessing soil moisture levels and delineating water body boundaries using the near-infrared spectral band, which provides crucial information on vegetation health and water management needs.
-
-Please coordinate with our team to allocate the necessary satellite assets and ensure we meet this deadline without compromising the quality of data. We appreciate your attention to detail and prompt execution in fulfilling this request. Thank you for your cooperation in maintaining our operational standards.

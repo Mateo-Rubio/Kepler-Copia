@@ -1,3 +1,0 @@
-Ensure that we conduct a thermal mapping to capture heat signatures and surface temperature profiles, with an absolute institutional priority for this standard operational tasking. We aim to have these critical data products ready by tomorrow morning at the latest, as part of our routine monitoring efforts in Norte city. This is essential for maintaining our current baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-```prompt

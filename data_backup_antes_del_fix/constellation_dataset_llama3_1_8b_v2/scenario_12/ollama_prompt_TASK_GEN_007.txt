@@ -1,3 +1,0 @@
-Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission:
-
-We require an absolute institutional priority for a thermal mapping task using a high-resolution optical snapshot to capture a heat signature and surface temperature profile over the region of Otanche in Colombia. This binding contract requirement involves a critical payload capture with a strict delivery deadline set for in three days in the morning at the latest. We need this data to be ingested into the pipeline before then, as it's a mandatory directive involving urgent operational execution and an un-preemptable mission lock.

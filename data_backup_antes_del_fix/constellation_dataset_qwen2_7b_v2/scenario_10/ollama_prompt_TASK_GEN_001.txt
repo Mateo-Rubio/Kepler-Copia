@@ -1,7 +1,0 @@
-We're tasked with capturing a high-resolution optical snapshot of Pajarito, Colombia, utilizing our VIS sensor for daylight photography and clear optical imagery. This is an absolute institutional priority, given its critical payload capture nature. We must ensure the products are ingested into the pipeline before the strict delivery deadline set for [target_day] overnight at the latest.
-
-This request involves a standard operational tasking with fixed parameters, representing our normal operational status. The imagery will provide detailed surface temperature profiles and thermal anomaly detection, crucial for understanding heat emissions from various sources in the region.
-
-Please note that this is a binding contract requirement involving a mandatory directive, which must be executed with urgency and without preemption. We are locking this mission to ensure its priority placement within our baseline pipeline tracking setup. Given the importance of this task, please be aware that we might need to drop or reschedule other background survey tasks at convenience.
-
-The deadline for delivering these data products is set for [target_day] overnight, so please prioritize this request accordingly. We appreciate your understanding and cooperation in meeting this tight deadline.

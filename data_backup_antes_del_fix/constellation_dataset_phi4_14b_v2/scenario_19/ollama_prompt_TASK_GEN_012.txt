@@ -1,3 +1,0 @@
-I would like to submit a standard operational tasking for an automated satellite constellation planner. The mission involves capturing near-infrared reflection data over Ecuatorial, Indonesia. This task is part of our baseline pipeline tracking setup with fixed parameters, focusing on assessing soil moisture levels and mapping water body boundaries.
-
-We need this data delivered by the day after tomorrow in the evening at the latest to ensure it is ingested into our workflow update seamlessly. Please proceed with scheduling this routine monitoring task as per the standard operational status.

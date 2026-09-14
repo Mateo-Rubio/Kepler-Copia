@@ -1,7 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with an urgent operational request on behalf of our institution. Our priority level is set to 'High Importance', denoting a binding contract requirement involving a critical payload capture that must be executed without any delay.
-
-We're focusing on a specific geographic location within Norte, which is a part of our region's operational area. The primary sensor we're utilizing for this mission is a high-resolution optical sensor, designed to provide us with daylight photography, clear optical imagery, and true-color visual documentation of the area.
-
-Our deadline for data availability is set for three days from now, with the strictest delivery deadline being 'overnight'. This means that by tomorrow's nightfall, we need the data products ingested into our pipeline before any other operations can proceed. The urgency here is paramount as this tasking involves capturing a heat signature or surface temperature profile of the area, which is essential for thermal anomaly detection and mapping heat emissions.
-
-Please ensure that the data meets our operational standards and adheres to our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your immediate attention to this request and look forward to receiving the data products as per the outlined deadline and operational requirements. Thank you for your cooperation in this matter.

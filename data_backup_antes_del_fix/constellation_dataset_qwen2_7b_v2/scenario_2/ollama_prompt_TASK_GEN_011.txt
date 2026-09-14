@@ -1,7 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with an urgent operational tasking from our institution for a critical payload capture involving our high-resolution optical snapshot mission. We're focusing on capturing daylight photography of the beautiful city of Fobello in Italia, which is of paramount importance to us.
-
-Our baseline pipeline tracking setup requires this standard operational tasking to be executed with fixed parameters representing normal operational status. The priority level here is high, emphasizing that this is a binding contract requirement involving a mandatory directive for our team. We need the data products ingested into the pipeline before our strict delivery deadline set for three days from now, specifically during the overnight block.
-
-Our primary sensor, VNIR, will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for the area. This task is part of our routine monitoring efforts aimed at understanding environmental changes in the region. We're looking forward to receiving this data by tomorrow's overnight period at the latest.
-
-Please ensure that this non-essential background filler task doesn't interfere with any higher priority missions. If necessary, we can drop or reschedule it for convenience without affecting our critical operations. Thank you for your prompt attention and cooperation in meeting this deadline. We appreciate your support in maintaining our operational status quo.

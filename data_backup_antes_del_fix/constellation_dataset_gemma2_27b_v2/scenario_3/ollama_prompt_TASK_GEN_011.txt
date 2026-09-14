@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture over Atessa, Italia. We need a high-resolution multispectral vegetation analysis of the area, needed by tomorrow morning at the latest. Ensure the products are ingested into the pipeline before then.

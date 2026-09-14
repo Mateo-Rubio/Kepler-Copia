@@ -1,5 +1,0 @@
-Good day to our mission planners. We're looking at an absolutely critical payload capture involving a high-resolution optical snapshot for daylight photography and true-color visual documentation of a specific area in Colombia. Our operational guidelines call for an authoritative tone as this is an institutional priority with a binding contract requirement. We aim to capture the heat signature and surface temperature profile using thermal mapping capabilities.
-
-For this task, we're employing a VNIR sensor to assess chlorophyll absorption levels and calculate the vegetation NDVI index for our area of interest in Tocaima, Colombia. The deadline for this data is set for today around mid-day, with products needing to be ingested into our pipeline before that time. We're treating this as an urgent operational execution and an un-preemptable mission lock.
-
-Please ensure our assets are allocated accordingly, considering the high importance of this task in our baseline pipeline tracking setup. This is a standard operational tasking with fixed parameters representing normal operational status and a workflow update. Thank you for your attention to this critical request.

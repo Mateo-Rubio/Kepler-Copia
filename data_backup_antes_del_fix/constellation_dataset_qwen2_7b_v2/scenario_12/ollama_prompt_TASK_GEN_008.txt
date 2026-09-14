@@ -1,7 +1,0 @@
-Hello there, automated satellite constellation planner! I'm reaching out with a task request for an Earth observation mission. We're looking to gather data using a Near-Infrared sensor for a low priority importance task, focusing on water body boundary mapping and soil moisture assessment in Norte. The geographical context is straightforward: Norte is our primary interest, as we don't have details about the country or city.
-
-The operational urgency here is paramount. We need this data by tomorrow evening at the latest. This isn't just a regular task; it's part of our background survey to understand environmental conditions better. While it's not an absolute institutional priority or a binding contract requirement, it's still important for us to capture this information within the constraints we've set.
-
-Please note that this request is flexible and can be dropped or rescheduled at your convenience if there are more pressing tasks coming in. We're just looking for a snapshot of soil moisture levels and water boundaries for Norte to assess potential impacts from recent weather conditions.
-
-Thank you for your attention! Looking forward to receiving the data products before our deadline. Have a great day!

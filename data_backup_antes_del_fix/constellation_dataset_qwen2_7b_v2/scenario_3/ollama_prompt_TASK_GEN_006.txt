@@ -1,7 +1,0 @@
-Good morning, satellite constellation planners. I'm reaching out with a standard operational tasking for your team today. We're looking to capture a high-resolution optical snapshot of Tanjung Saleh in Indonesia for daylight photography purposes. This involves clear optical imagery and true-color visual documentation that will help us assess the landscape under natural light conditions.
-
-Our priority level is set at medium importance, which means we'll be treating this as part of our baseline pipeline tracking setup with fixed parameters. The normal operational status applies here, and we're aiming for a routine monitoring task that's crucial to our ongoing efforts in environmental surveillance.
-
-Given the urgency of this request, it's imperative that we receive the data products by tomorrow evening at the latest. We need to ensure these are ingested into our pipeline before then, as per our strict delivery deadline set for "tomorrow evening". This is a standard operational task and does not extend the deadline in any way.
-
-Thank you for your attention and swift action on this matter. Let's make sure we capture the essence of Tanjung Saleh's beauty under natural light conditions while adhering to our operational guidelines. Have a great day ahead!

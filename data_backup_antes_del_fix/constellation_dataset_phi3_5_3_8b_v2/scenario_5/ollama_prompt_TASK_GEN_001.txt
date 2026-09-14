@@ -1,1 +1,0 @@
-Request an overview of Curití, Colombia's multispectral vegetation analysis using near-infrared reflection capabilities to assess chlorophyll absorption levels and surface reflectance. This standard operational tasking must be completed by the day after tomorrow around mid-day at the latest for integration into our regular monitoring pipeline tracking.

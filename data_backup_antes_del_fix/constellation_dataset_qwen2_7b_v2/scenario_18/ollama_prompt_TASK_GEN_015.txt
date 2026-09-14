@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with an operational tasking request for a low priority importance mission that needs to be executed efficiently and without delay. The objective is to capture a near-infrared reflection of the Ecuatorial region in Indonesia, specifically focusing on water body boundaries and soil moisture assessment. This will serve as a background survey to help discriminate gradients in these elements.
-
-Our deadline is set for the day after tomorrow with a strict delivery deadline for the data products by morning, ensuring they are ingested into our pipeline before then. This task is considered a non-essential background filler task, where we can drop or reschedule at convenience if needed.
-
-Thank you for your attention and cooperation in fulfilling this request promptly.

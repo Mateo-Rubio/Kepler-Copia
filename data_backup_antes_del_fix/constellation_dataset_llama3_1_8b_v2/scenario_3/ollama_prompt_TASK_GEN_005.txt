@@ -1,3 +1,0 @@
-We have a low-priority importance request for an opportunistic capture with a flexible schedule. We'd like to conduct a multispectral vegetation analysis using a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation in the near-infrared reflection range to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-The location details are as follows: we're targeting the region of Italy, specifically the city of Porto Recanati. We need the data products to be ingested into the pipeline before in three days in the evening at the latest.

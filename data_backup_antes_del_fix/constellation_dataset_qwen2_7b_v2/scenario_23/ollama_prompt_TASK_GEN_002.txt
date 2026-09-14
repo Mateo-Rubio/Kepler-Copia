@@ -1,5 +1,0 @@
-Good day to our automated satellite constellation planner. We're looking at a task that requires thermal mapping of Norte, which is a location in an unspecified country. The primary sensor we're utilizing for this mission is the TIR sensor, which will help us capture heat signatures and surface temperature profiles. This request falls under the category of medium importance, meaning it's part of our standard operational tasks with fixed parameters representing normal operational status.
-
-We aim to have these data products ready by tomorrow morning at the latest, ensuring they're ingested into the pipeline before then. This is a standard tasking operation for baseline pipeline tracking and should be treated as a routine monitoring activity.
-
-Thank you for your attention and please let us know if you need any further details or adjustments to this request.

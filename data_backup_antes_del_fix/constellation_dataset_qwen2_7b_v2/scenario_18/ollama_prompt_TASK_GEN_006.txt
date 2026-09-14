@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a low priority importance task for you to consider. The mission involves capturing a high-resolution optical snapshot of an area in Indonesia, specifically near the Ecuatorial region, using our VNIR sensor. This is akin to taking a detailed true-color visual documentation of the landscape during daylight hours.
-
-The purpose here is to conduct a multispectral vegetation analysis, focusing on assessing the chlorophyll absorption level and calculating the NDVI index to understand surface reflectance. This task isn't time-sensitive; we can afford to be flexible with scheduling and treat it as a non-essential background filler task.
-
-We're looking for this data by tomorrow's overnight block at the latest. Our objective is to gather thermal information about the area, which will help us in identifying heat signatures or thermal anomalies on the surface. We aim to ensure that the products are ingested into our pipeline before the deadline set for tomorrow's overnight period. 
-
-Please note that this request doesn't require any urgent operational execution and can be accommodated within your normal operational status or workflow update schedule. Should there be any need to reschedule or drop this task, feel free to do so at your convenience. Thank you for your attention to this request.

@@ -1,7 +1,0 @@
-Given the operational guidelines and the provided JSON metadata, we're tasked with a high-importance mission allocation for an absolute institutional priority involving a critical payload capture. The request is to observe and capture thermal mapping data in Colombia, specifically in Samacá, during an active radar scan using microwave surface imaging technology. The goal is to penetrate heavy weather conditions and capture ground geometry with precision.
-
-The primary sensor used will be the TIR (Thermal Infrared) sensor for thermal mapping purposes. This mission aims to detect heat signatures, map surface temperature profiles, and identify thermal anomalies in the region. The context is to provide a comprehensive thermal assessment of the area, which is crucial for understanding heat emissions and conducting various analyses.
-
-The deadline for delivering the data products is set for three days from now, with a strict delivery deadline during the afternoon on that day. This deadline ensures that the products are ingested into the pipeline before the specified time frame, adhering to the operational constraints without altering or extending the timeframe.
-
-To summarize, we're tasked with capturing high-resolution thermal images of Samacá, Colombia, using an active radar scan for cloud-penetrating capture and ground geometry mapping. The deadline is firm and must be met during the afternoon on the target day to meet the operational requirements and ensure timely data delivery.

@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out to request a task for an Earth observation mission using the Near-Infrared (NIR) sensor. Our objective is to capture high-resolution imagery of the city of Buenaventura in Colombia. The location we're focusing on combines the country's rich biodiversity with its urban landscape. We aim to assess soil moisture levels and delineate water body boundaries for environmental management purposes.
-
-Given the importance of this task, I'm labeling it as a low priority request but emphasizing the need for flexibility in scheduling. We understand that this might be a background survey or testbed tracking task, so please drop or reschedule it at your convenience if necessary.
-
-Our deadline for receiving the data products is set for today, around mid-day. This means we require the information to be ingested into the pipeline before the day ends. Please ensure the data meets our requirements for soil moisture assessment and water body boundary mapping. Thank you for your attention to this matter.

@@ -1,1 +1,0 @@
-This is a critical payload capture and an absolute institutional priority. I need a high-resolution multispectral scan of Norte using the VNIR sensor. This data is needed for vegetation analysis, including chlorophyll absorption level and NDVI index calculation. Ensure the products are ingested into the pipeline before in three days in the evening at the latest.

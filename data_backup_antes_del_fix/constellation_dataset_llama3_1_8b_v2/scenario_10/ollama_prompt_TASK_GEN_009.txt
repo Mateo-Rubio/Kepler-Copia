@@ -1,5 +1,0 @@
-Tasking Request: High-Resolution Optical Snapshot for Indonesia's Ecuatorial Region
-
-We require a high-resolution optical snapshot of the region in Indonesia, specifically around the city of Ecuatorial, to be captured using daylight photography. This is a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-The data must be ready by the day after tomorrow in the evening at the latest, ensuring the products are ingested into the pipeline before this strict delivery deadline.

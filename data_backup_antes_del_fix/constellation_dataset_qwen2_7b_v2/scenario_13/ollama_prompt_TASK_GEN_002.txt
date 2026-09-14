@@ -1,7 +1,0 @@
-Good day to you! I'm reaching out on behalf of an Earth-observation mission operator seeking to capture crucial data for our client's needs. We're focusing on the beautiful region of Moncalieri, Italy, a picturesque town nestled in the heart of the country.
-
-Our primary sensor requirement is a VNIR system, designed for detailed multispectral vegetation analysis. This means we're looking to assess chlorophyll absorption levels and calculate the NDVI index, as well as gather information on surface reflectance for our client's specific requirements. We aim to provide them with high-quality data that will help in their decision-making process.
-
-We understand the importance of timing in this matter and assure you that we are not aiming for any extensions or alterations to the deadline. Our request is straightforward: we need the data products by the target day, which is four days from now, at the latest. This means ensuring the products are ingested into our pipeline before the evening timeframe on that day. We're treating this task as a non-essential background filler, acknowledging that it can be dropped or rescheduled at convenience if needed.
-
-Thank you for your attention to this matter and please let us know if there's any further information we need to provide. We appreciate your cooperation in ensuring our client receives the data they require promptly and accurately.

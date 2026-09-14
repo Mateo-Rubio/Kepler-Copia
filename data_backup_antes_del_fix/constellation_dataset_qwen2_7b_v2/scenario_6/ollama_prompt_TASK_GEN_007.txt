@@ -1,9 +1,0 @@
-Good day to all satellite planners,
-
-I'm reaching out with a task request that's part of our standard operational pipeline tracking setup. We're looking to capture a high-resolution optical snapshot of the city of Zipaquirá, located in Colombia, using our VIS sensor. The goal is to obtain clear daylight photography and true-color visual documentation of the area.
-
-This request carries medium importance as it's a routine monitoring task that is part of our baseline workflow updates. We aim to ensure that the data products are ingested into our pipeline before the deadline set for the target day, which is in four days, with the strict delivery deadline being in the evening at the latest.
-
-Please prioritize this request and allocate necessary assets accordingly. We appreciate your cooperation and understanding in meeting these requirements.
-
-Thank you for your attention to this matter.

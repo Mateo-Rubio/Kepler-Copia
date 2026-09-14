@@ -1,7 +1,0 @@
-Good day to our satellite constellation planners,
-
-We're looking to capture a thermal mapping of the Indonesian region, focusing on the city of Malinau. Our objective is to assess heat signatures and surface temperature profiles for potential thermal anomalies or emissions. Given the importance of this task, we classify it as a low priority request with flexible scheduling requirements.
-
-The deadline for delivering these data products is set by the day after tomorrow, in the evening. We aim to ensure that the thermal mapping data is ingested into our pipeline before this time. Please note that this request falls under a non-essential background filler task, which can be dropped or rescheduled according to your convenience.
-
-Thank you for your attention and cooperation in this matter.

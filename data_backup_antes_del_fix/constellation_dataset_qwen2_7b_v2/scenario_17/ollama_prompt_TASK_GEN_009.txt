@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a task for our Earth observation mission. Our objective is to capture an active radar scan using microwave surface imaging technology, which will help us cloud-penetratingly capture ground geometry and gather essential data on the Indonesian region, specifically in the equatorial city of Ecuatorial. This task is classified as a low priority importance request, with flexible scheduling for opportunistic capture. We're treating it as a background survey or testbed tracking task.
-
-The deadline for delivering the data products to our user is set for three days from now, by the evening time slot. It's crucial that we ensure these products are ingested into our pipeline before the specified target day and evening period. This request aligns with our baseline pipeline tracking setup and represents normal operational status or a standard workflow update.
-
-Thank you for your attention to this matter. We appreciate your support in delivering the data as requested. If you have any questions or need further clarification, please don't hesitate to reach out.

@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a standard operational tasking request for a thermal mapping mission that needs to be executed promptly, as it aligns with our baseline pipeline tracking requirements. We're focusing on capturing the heat signature of an area located in Tuluá, Colombia. This is crucial for monitoring surface temperature profiles and detecting any thermal anomalies.
-
-Our primary sensor will be the TIR (Thermal Infrared) camera, which will provide us with essential data for assessing heat emissions from various surfaces. The urgency here stems from the fact that we need this data by today, around mid-day, at the latest. We're looking to ensure that the products are ingested into our pipeline before then.
-
-This request is part of our normal operational status and represents a fixed parameter in our workflow update. It's important to note that we have allocated resources for this task without any preemption, as it falls under our medium importance category.
-
-Thank you for your attention to this matter. I'm looking forward to receiving the results of this mission by tomorrow's overnight block. Please let me know if there are any questions or concerns regarding this request.

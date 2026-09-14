@@ -1,7 +1,0 @@
-Good day to all satellite operators and mission planners. I'm reaching out with a standard operational tasking request for a near-infrared (NIR) sensor mission, focusing on capturing data related to water body boundaries and soil moisture assessment in Norte, a region situated in an unspecified country. 
-
-The primary objective is to gather detailed information about the landscape through the analysis of near-infrared reflection patterns, which will help us in understanding the health of water bodies and the moisture content of soils. This task is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters.
-
-I'm requesting this mission allocation to be handled as a standard operational tasking, ensuring that the data products are ingested into our pipeline before the strict delivery deadline set for "the day after tomorrow" overnight. We aim to collect this data promptly and efficiently, contributing to our ongoing monitoring efforts without causing any delays or disruptions in our workflow.
-
-Thank you for your attention and cooperation in fulfilling this request. Please let me know if you need any further clarification or have questions about the details provided. I appreciate your timely response and assistance in making this mission a success.

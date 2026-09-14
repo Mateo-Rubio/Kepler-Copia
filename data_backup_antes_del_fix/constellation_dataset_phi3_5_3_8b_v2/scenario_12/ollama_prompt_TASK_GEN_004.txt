@@ -1,1 +1,0 @@
-Ensure that a thermal mapping of La Paz, Colombia is conducted using active radar scan with microwave surface imaging capabilities to capture ground geometry and detect any heat anomalies. This standard operational tasking must be completed by tomorrow nighttime at the latest for integration into our baseline pipeline tracking system.

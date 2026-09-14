@@ -1,7 +1,0 @@
-Good day! I'm reaching out from the Earth-observation mission control to request a task for our automated satellite constellation planner. We're focusing on an operational need in Colombia, specifically in the city of Murindó. Our primary sensor requirement is a high-resolution optical snapshot for daylight photography, aiming to capture clear and true-color visual documentation of the region.
-
-Given the priority level of this task being Low Importance, we're treating it as a flexible schedule "opportunistic capture" request, which can be dropped or rescheduled at convenience. This task falls under our background survey category, serving as a testbed tracking task.
-
-We're looking to acquire this data by the target day, which is in three days, with a strict delivery deadline set for around mid-day. The urgency here is not related to an orbital capture window but rather the operational need to have these products ingested into our pipeline before the specified time.
-
-Thank you for your attention and cooperation in ensuring we meet this deadline without altering or extending it. We appreciate your support in fulfilling this request efficiently.

@@ -1,5 +1,0 @@
-Good day! I'm reaching out with a request for an Earth observation mission that involves thermal mapping of a specific area in Malaysia. The region of interest is located near the city of Banting. We're focusing on capturing a heat signature for this location using thermal imaging technology, which will help us assess surface temperature profiles and detect any thermal anomalies.
-
-This task falls under our low priority importance category, meaning it's a flexible schedule request that we can adjust based on our operational availability. We understand that timing is crucial for the delivery of these data products, so we're aiming to have them ready by the day after tomorrow in the morning. Ensuring that the products are ingested into our pipeline before this deadline is essential for our workflow update.
-
-Thank you for your attention and cooperation in helping us complete this task efficiently. If you need any further information or assistance, please let us know. We appreciate your support in delivering high-quality data that meets our operational standards.

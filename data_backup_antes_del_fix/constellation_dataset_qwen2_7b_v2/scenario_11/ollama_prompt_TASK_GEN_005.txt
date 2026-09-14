@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner, we're requesting an immediate attention task for a critical payload capture involving thermal mapping operations. Our priority is high due to the nature of this mission being an institutional binding contract requirement. We aim to capture heat signatures and surface temperature profiles of a specific location in Latina, Italia, which is a part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-We're targeting tomorrow morning with a strict deadline set for delivering the thermal mapping data products by then. This task is not just any routine monitoring or background filler task; it's a high-priority, urgent operational execution that demands an authoritative approach to ensure the data is ready for ingestion into our pipeline before the deadline.
-
-Our primary sensor for this mission will be utilizing the TIR capability, which allows us to capture thermal anomalies and map heat emissions with precision. This operation requires a high-resolution optical snapshot for daylight photography and true-color visual documentation to support our analysis.
-
-Thank you for your immediate attention to this request. We appreciate your team's dedication to ensuring that our critical data needs are met in a timely and efficient manner.

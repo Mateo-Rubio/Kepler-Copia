@@ -1,5 +1,0 @@
-Good day to our automated satellite constellation planner, we're looking to conduct a standard operational tasking involving an active radar scan using microwave surface imaging. The objective is to capture cloud-penetrating data for Norte, a region in the country that's currently unnamed. Our request is of medium importance and requires adherence to fixed parameters representing normal operational status.
-
-The mission allocation priority reflects our baseline pipeline tracking setup, with 'the day after tomorrow' set as the strict delivery deadline by which we need the data products. The operation will take place in the evening timeframe, ensuring the products are ingested into the pipeline before that time. This task is part of our routine monitoring activities and should be executed without any preemption.
-
-We appreciate your attention to this request and look forward to receiving the data as per the outlined specifications. Thank you for your cooperation and understanding in respecting our deadline constraints.

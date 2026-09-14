@@ -1,1 +1,0 @@
-This is a low priority importance request for an opportunistic capture of Muara Asa, Indonesia using active radar scan. We need this data ingested into the pipeline before tomorrow overnight at the latest. Please drop or reschedule at your convenience if needed.

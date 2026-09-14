@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner, we're looking at a standard operational tasking for a near-infrared sensor observation in Colombia, specifically in El Playón. Our primary objective is to capture the surface moisture conditions of the region during the afternoon on this very day. This 'NIR' sensor will provide us with invaluable insights into soil moisture levels and water body boundaries, which are critical for agricultural monitoring and environmental management.
-
-We're treating this request as a standard baseline pipeline tracking task, ensuring that our assets adhere to fixed parameters and normal operational status. The deadline for this data delivery is set by today's afternoon period, meaning we need the data products ingested into our pipeline before the sun sets tonight. This 'NIR' observation is part of our routine monitoring efforts, contributing to a comprehensive understanding of the region's environmental conditions.
-
-Please prioritize this task as it falls under medium importance, reflecting its role in our ongoing operational activities and contractual obligations with our clients. We appreciate your cooperation in meeting this deadline and ensuring the data quality meets our standards for operational use.
-
-Thank you for your attention to this matter.

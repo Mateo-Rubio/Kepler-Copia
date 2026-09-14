@@ -1,8 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission focusing on a specific location in Colombia. Our objective is to capture detailed imagery of Mesetas using near-infrared (NIR) sensors for water body boundary mapping and soil moisture assessment. This is a low priority importance request, so please consider it as a flexible schedule background survey or testbed tracking task.
-
-We aim to gather this data by today, around mid-day, ensuring the products are ingested into our pipeline before then. I understand that this deadline represents the strict operational limit for data availability and not an orbital capture window. The imagery collected will contribute to our ongoing research on environmental changes in the area without impacting any urgent operational execution or contractual obligations.
-
-Thank you for your attention and cooperation. Please let me know if you need any additional information or clarification.
-
-Best regards,
-[Your Name]

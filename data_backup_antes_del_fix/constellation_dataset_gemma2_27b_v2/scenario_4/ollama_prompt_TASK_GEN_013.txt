@@ -1,1 +1,0 @@
-This is a binding contract requirement for near-infrared reflection capture over Tame, Colombia. We need a high-resolution survey of the region for water body boundary mapping and soil moisture assessment. This data is critical for ongoing project deliverables and must be ingested into the pipeline before tomorrow during the afternoon at the latest.

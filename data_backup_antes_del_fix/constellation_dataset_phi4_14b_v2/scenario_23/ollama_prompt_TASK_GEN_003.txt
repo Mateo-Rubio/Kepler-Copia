@@ -1,8 +1,0 @@
-Hello,
-
-I’d like to schedule a low-priority task focusing on thermal mapping in the Kapuas region of Indonesia. This task involves capturing heat signatures and surface temperature profiles using thermal infrared sensors. Given its non-essential nature, please feel free to drop or reschedule this task at your convenience.
-
-The data products are needed by today around mid-day at the latest to ensure they are ingested into our pipeline on time. Thank you for accommodating this flexible schedule request.
-
-Best regards,
-[Your Name]

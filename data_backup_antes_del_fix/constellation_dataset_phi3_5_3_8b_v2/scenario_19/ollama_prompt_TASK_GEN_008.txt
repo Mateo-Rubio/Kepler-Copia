@@ -1,2 +1,0 @@
-Ensure that an active radar scan is conducted today around midday to capture cloud-penetrating images of Norte, Italia. This standard operational tasking will provide a comprehensive view for our ongoing monitoring efforts within the region's baseline pipeline tracking setup. The data products must be ready by tomorrow afternoon at the latest and ingested into our system promptly to maintain continuity in our environmental surveillance operations.
-```

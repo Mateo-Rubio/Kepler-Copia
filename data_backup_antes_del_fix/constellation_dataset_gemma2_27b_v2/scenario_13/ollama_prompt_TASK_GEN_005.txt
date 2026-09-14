@@ -1,1 +1,0 @@
-We need a low priority, opportunistic capture of Norte using active radar scan. This is a non-essential background filler task with a flexible schedule. Please drop or reschedule at convenience.  Ensuring the products are ingested into the pipeline before tomorrow in the evening at the latest.

@@ -1,1 +1,0 @@
-This is a standard operational tasking for an active radar scan using microwave surface imaging over Antiguo ETCR La Guajira ("Mariana Páez") in Colombia. The goal is cloud-penetrating capture to obtain detailed ground geometry information.  Please ensure the products are ingested into the pipeline before today around mid-day at the latest.

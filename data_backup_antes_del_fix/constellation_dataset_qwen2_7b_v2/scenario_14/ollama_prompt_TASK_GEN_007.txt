@@ -1,7 +1,0 @@
-Hello there! I'm reaching out from the Earth-observation mission team to request a task for an upcoming mission. Our objective is to capture a high-resolution optical snapshot of Colombia's Bolívar region, using daylight photography to provide clear and detailed imagery. This will help us document the landscape and provide valuable visual data for our users.
-
-Given the nature of this request, I'll frame it as a low priority importance task with a flexible schedule for opportunistic capture. We understand that this might not be an urgent mission, but we're treating it as a non-essential background filler task that can be dropped or rescheduled at convenience.
-
-Our target day is four days from now, and we need the data by the evening of that day. This deadline is crucial for us to ensure the products are ingested into the pipeline before the set time. We're looking forward to receiving this data to continue our background survey and testbed tracking tasks.
-
-Thank you for your attention and assistance in fulfilling this request.

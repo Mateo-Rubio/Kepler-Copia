@@ -1,1 +1,0 @@
-We need a standard operational tasking for an active radar scan over Kubu Raya, Indonesia. This is a routine monitoring task to capture cloud-penetrating imagery of the ground geometry. Please ensure the products are ingested into the pipeline before in three days in the morning at the latest.  I can drop or reschedule this at convenience if needed.

@@ -1,1 +1,0 @@
-We need a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate surface reflectance in San Martín, Colombia. This is a non-essential background filler task with a flexible schedule; please drop or reschedule at your convenience. The data must be ready by the afternoon four days from now for ingestion into our monitoring pipeline.

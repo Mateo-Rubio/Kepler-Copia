@@ -1,1 +1,0 @@
-We have a low-priority importance task for you. We're looking to schedule an opportunistic capture of soil moisture assessment over Berau, Indonesia, using near-infrared reflection. This is a non-essential background filler task, so feel free to drop or reschedule it at your convenience. We need the data products ingested into the pipeline before tomorrow afternoon at the latest.

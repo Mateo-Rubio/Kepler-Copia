@@ -1,3 +1,0 @@
-I have a low-priority task for your consideration. We're interested in capturing thermal mapping data over the region of Apartadó, Colombia. The goal is to observe heat signatures and surface temperature profiles, which could be useful for detecting thermal anomalies. This request is quite flexible, so please feel free to drop or reschedule it at your convenience.
-
-The data products are needed by the day after tomorrow in the evening at the latest, ensuring they're ingested into the pipeline before that time. Thank you!

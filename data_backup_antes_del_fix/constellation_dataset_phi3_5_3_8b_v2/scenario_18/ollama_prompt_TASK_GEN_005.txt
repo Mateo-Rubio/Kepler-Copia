@@ -1,2 +1,0 @@
-The following task is a low priority importance, with an authoritative yet flexible approach to our Earth-observation mission. We aim for a high-resolution optical snapshot of Norte in Italy during tomorrow's morning hours. This request serves as a non-essential background filler task; therefore, it can be dropped or rescheduled at your convenience. The objective is true-color visual documentation to enhance our understanding and monitoring capabilities without immediate urgency. Ensure the products are ingested into the pipeline before tomorrow's morning deadline.
-```prompt

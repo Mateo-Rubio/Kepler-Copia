@@ -1,2 +1,0 @@
-I need an absolute institutional priority task for a high-resolution optical snapshot of Borgo Valsugana, Italy. This is critical payload capture required to assess chlorophyll absorption levels and calculate the NDVI index using multispectral vegetation analysis by tomorrow evening at the latest. The data must be ingested into our system immediately following its acquisition to meet this urgent operational execution deadline.
-```

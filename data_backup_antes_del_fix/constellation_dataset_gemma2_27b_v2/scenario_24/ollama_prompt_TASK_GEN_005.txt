@@ -1,1 +1,0 @@
-I need a low priority, opportunistic capture of near-infrared reflection imagery over Norte. This is a non-essential background filler task, so please drop or reschedule at convenience.  The data should be ingested into the pipeline before three days in the morning at the latest.

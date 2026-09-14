@@ -1,1 +1,0 @@
-The next standard operational tasking requires us to conduct a multispectral vegetation analysis in Canelo, Colombia. We aim for high-resolution optical snapshot imagery of the area's flora during this evening's light period. The data must be ingested into our baseline pipeline tracking system by tomorrow nightfall at the latest to ensure timely processing and reporting.

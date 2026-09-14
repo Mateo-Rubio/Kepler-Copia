@@ -1,1 +1,0 @@
-This is a standard operational tasking for multispectral vegetation analysis over Banyuasin, Indonesia. We need a VNIR capture to assess chlorophyll absorption levels and calculate the NDVI index. Please ensure the products are ingested into the pipeline before three days overnight at the latest.

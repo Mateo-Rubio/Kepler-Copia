@@ -1,2 +1,0 @@
-We need to schedule an SAR active radar scan over Poggi del Sasso, Italy, for tomorrow night's block. This task is a low priority importance with a flexible schedule; however, it must be completed by the day after tomorrow nighttime at the latest to ensure we have the data ready for analysis. If there are any conflicts or if rescheduling becomes necessary, please let us know as this will serve as an opportunistic capture and background survey task.
-```

@@ -1,2 +1,0 @@
-I need to set up a flexible schedule for an opportunistic capture task that involves an active radar scan using microwave surface imaging, targeting Suratá in Colombia. The objective is to penetrate through any heavy weather conditions and get a clear view of the ground geometry there. This isn't urgent but should be done within three days from now during tomorrow nighttime for data collection. Please ensure this task can be dropped or rescheduled at my convenience, as it serves more like a background survey to enrich our existing datasets.
-```prompt

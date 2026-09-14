@@ -1,8 +1,0 @@
-Good day, satellite constellation planner. I'm from an Earth observation mission and I need your assistance in capturing a near-infrared reflection for water body boundary mapping or soil moisture assessment as part of a low priority importance task. The goal is to assess gradients and gather essential data for our background survey.
-
-Our geographical context involves Norte city, but since the country information is not available, we'll focus on the broader region details provided in the metadata. We're aiming to capture this critical payload at the latest by the target day, which is four days from now, with a strict delivery deadline set for overnight that day. This data will ensure the products are ingested into our pipeline before the deadline.
-
-This request is framed as a flexible schedule task, allowing us to drop or reschedule it at convenience if needed. Kindly acknowledge receipt of this background survey tracking task and proceed with the capture accordingly. Thank you for your cooperation and understanding.
-
-Best regards,
-[Your Mission Operator]

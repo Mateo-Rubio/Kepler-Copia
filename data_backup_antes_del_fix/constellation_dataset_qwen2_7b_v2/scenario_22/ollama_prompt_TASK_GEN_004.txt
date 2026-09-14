@@ -1,9 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to capture high-resolution optical imagery of a critical area in Colombia, specifically focusing on the city of Uribe. This request is of absolute institutional priority due to its high importance and contractual requirements involving a mandatory directive.
-
-The primary sensor for this mission will be the near-infrared (NIR) band, which will help us assess soil moisture levels and discriminate gradients within the region. The imagery captured must be ready by the target day three days from now, with a strict delivery deadline set for overnight at the latest. This means that the products need to be ingested into our pipeline before the end of the night on the target day.
-
-The data collected will serve as a baseline pipeline tracking setup, representing normal operational status and standard workflow updates. It's a binding contract requirement that involves a critical payload capture, emphasizing an urgent operational execution and an un-preemptable mission lock.
-
-With this request, we aim to provide essential information for decision-making processes related to agricultural management and environmental monitoring in the region. The data will be used to assess soil moisture levels, which is crucial for optimizing water usage and crop health. 
-
-Please ensure that the satellite constellation prioritizes this mission to meet the deadline and deliver the data products as required. Thank you for your attention to this matter.

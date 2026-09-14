@@ -1,3 +1,0 @@
-We have a standard operational tasking for you: we need to capture near-infrared reflection data over the Ecuatorial region. This task involves assessing water body boundaries and soil moisture levels, which are crucial for our ongoing environmental monitoring efforts. It's part of our baseline pipeline tracking setup with fixed parameters, ensuring consistent workflow updates.
-
-Please ensure that this data is ready by the evening of the day after tomorrow at the latest. Your attention to this routine monitoring request will help maintain our normal operational status and support our commercial tasking objectives.

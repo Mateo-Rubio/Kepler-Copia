@@ -1,8 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for our commercial monitoring pipeline. We're looking to capture a high-resolution optical snapshot of the beautiful region in Italia, specifically focusing on the charming city of Sesta Godano. Our primary sensor requirement is a VIS sensor for daylight photography, aiming to gather clear optical imagery and true-color visual documentation of this picturesque area.
-
-Given the operational nature of our request, we're targeting delivery by the evening of the day three from today. This deadline is crucial for our baseline pipeline tracking setup, ensuring that our fixed parameters are met with normal operational status. We understand the importance of adhering to this deadline, as it represents a standard workflow update without any flexibility in timing.
-
-Please note, should there be any unforeseen circumstances or if you require additional resources, please feel free to contact us directly. Our team is flexible and can adjust our request based on your availability. Thank you for your attention to this matter, and we look forward to receiving the data products by the specified evening deadline.
-
-Best regards,
-[Your Name] - Earth Observation Mission Operator

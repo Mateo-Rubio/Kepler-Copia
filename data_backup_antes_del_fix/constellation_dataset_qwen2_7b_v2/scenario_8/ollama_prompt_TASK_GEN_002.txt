@@ -1,7 +1,0 @@
-As an Earth-observation mission operator, I'm reaching out to request a critical SAR tasking for the region around Gordona in Italia. Our mission involves conducting an active radar scan using microwave surface imaging technology, which will help us capture detailed ground geometry and cloud-penetrating data, essential for our baseline pipeline tracking setup.
-
-We're looking to acquire high-resolution imagery that will serve as a thermal mapping tool, allowing us to detect heat signatures and surface temperature profiles. This task is of low priority importance and is scheduled for the day after tomorrow around mid-day. We understand that there's a strict deadline for data delivery, which we aim to meet without any extensions.
-
-The SAR scan should be performed with fixed parameters, representing normal operational status. We're aware that this request might be treated as a background survey or testbed tracking task, and we're flexible in scheduling it at our convenience. However, we need the data products ingested into our pipeline before the deadline set for the day after tomorrow around mid-day.
-
-This is an opportunity to capture essential data that will contribute to our ongoing projects without disrupting any critical payload captures or contractual requirements. We appreciate your understanding and cooperation in ensuring this task is completed as per our operational guidelines.

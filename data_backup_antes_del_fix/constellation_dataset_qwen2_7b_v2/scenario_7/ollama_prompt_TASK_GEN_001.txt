@@ -1,8 +1,0 @@
-Good day to you! I hope this message finds you well. I'm reaching out on behalf of our Earth-observation mission, which requires your expert assistance in fulfilling a specific task. Our objective is to capture high-resolution optical imagery of the city of Foraquira, located in the beautiful country of Colombia. We aim to document the urban landscape and surrounding areas using a multispectral vegetation analysis technique, focusing on assessing chlorophyll absorption levels and calculating the NDVI index.
-
-This request falls under the category of a low priority importance task, which means we understand that it can be accommodated within your operational schedule at your convenience. However, it's crucial that we receive these data products by the specified deadline to ensure they can be integrated into our baseline pipeline tracking setup without any delays. Our target day for this task is in three days, and we need the imagery during the afternoon timeframe.
-
-We appreciate your flexibility and understanding regarding this request. If there are any changes or if you require additional information, please don't hesitate to get back to us. Thank you very much for your cooperation and support in making this mission a success!
-
-Best regards,
-[Your Name]

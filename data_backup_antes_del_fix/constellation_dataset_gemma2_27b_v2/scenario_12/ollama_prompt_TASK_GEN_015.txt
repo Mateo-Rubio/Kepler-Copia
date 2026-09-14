@@ -1,1 +1,0 @@
-This is a standard operational tasking for near-infrared reflection capture over Kutai Kartanegara, Indonesia. We need this data for water body boundary mapping and soil moisture assessment, ensuring the products are ingested into the pipeline before tomorrow in the evening at the latest.

@@ -1,1 +1,0 @@
-We need a standard operational tasking for thermal mapping of Ecuatorial, Indonesia. This is part of a routine monitoring workflow update with fixed parameters representing normal operational status. Please ensure the thermal mapping products are ingested into the pipeline before the day after tomorrow overnight at the latest.

@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a background survey aimed at capturing near-infrared reflection data for water body boundary mapping and soil moisture assessment. The primary sensor to be utilized here is the near-infrared (NIR) sensor.
-
-Our geographic context involves Colombia, specifically the AMCO area in the Area Metropolitana Centro Occidente region. The mission's deadline is set with strict urgency; we need the data products ingested into the pipeline by the day after tomorrow during the overnight period at the latest. This task is a non-essential background filler task that can be dropped or rescheduled at convenience.
-
-Thank you for your attention and cooperation in ensuring our operational needs are met within these parameters.

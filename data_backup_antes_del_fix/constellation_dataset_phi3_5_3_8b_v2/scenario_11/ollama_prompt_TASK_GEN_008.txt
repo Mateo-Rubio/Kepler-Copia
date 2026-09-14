@@ -1,1 +1,0 @@
-Ensure that an active radar scan using microwave surface imaging is conducted around Rome, Italy, tomorrow at approximately midday. This task forms a standard operational part of our baseline pipeline tracking and should be completed to maintain normal workflow efficiency. The data must be ready by tomorrow's mid-day block for seamless integration into our processing routine.

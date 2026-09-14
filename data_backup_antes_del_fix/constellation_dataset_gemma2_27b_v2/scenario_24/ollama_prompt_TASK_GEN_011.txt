@@ -1,3 +1,0 @@
-This is a low priority importance request for a near-infrared reflection scan of Campli, Italia. The goal is to capture data for water body boundary mapping and soil moisture assessment.  Ideally, this would be an opportunistic capture with a flexible schedule. Please drop or reschedule at convenience, treating it as a non-essential background filler task.
-
-Make sure the products are ingested into the pipeline before in four days overnight at the latest.

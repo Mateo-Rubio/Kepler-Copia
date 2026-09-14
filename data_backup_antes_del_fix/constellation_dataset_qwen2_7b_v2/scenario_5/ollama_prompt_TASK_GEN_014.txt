@@ -1,9 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with an urgent task that's been deemed a 'binding contract requirement' due to its 'High Importance'. This is an absolute institutional priority that requires immediate attention and must be executed without any preemption.
-
-Our operational focus is on the 'Norte', an area that doesn't specify a country but provides us with a city name. We're aiming for a 'true-color visual documentation' through a 'high-resolution optical snapshot' of this region, capturing its landscape in vivid detail.
-
-The primary sensor we're utilizing for this task is 'TIR', which will enable us to map thermal anomalies and surface temperature profiles, crucial for detecting heat emissions or any unusual heat signatures that could indicate potential issues or opportunities.
-
-We're setting a strict deadline for the data products to be ingested into our pipeline before tomorrow's 'around mid-day'. This deadline cannot be extended; we must ensure that our data is ready by this time to meet our operational needs.
-
-This task is part of a 'critical payload capture' operation, requiring immediate attention and prioritization. Please assign the necessary assets to capture this data promptly and deliver it as per the outlined specifications. Thank you for your understanding and swift action in this matter.

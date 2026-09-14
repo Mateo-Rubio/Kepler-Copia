@@ -1,8 +1,0 @@
-Good day to you! I'm reaching out from our Earth-observation mission control center, and I'm here to request a specific task for our automated satellite constellation planner. We're looking to capture high-resolution radar imagery of the region in Indonesia, specifically focusing on the city of Ecuatorial. Our primary objective is to perform an active microwave surface imaging scan that will help us understand ground geometry and penetrate heavy weather conditions.
-
-This task falls under our low priority importance category, meaning we're treating it as a flexible schedule background survey or testbed tracking task. We request this service with a deadline set for today's morning hours, ensuring the products are ingested into our pipeline before the day progresses further. Our goal is to obtain these thermal maps by capturing heat signatures and surface temperature profiles, which will be crucial for our ongoing research projects.
-
-Thank you for your attention to this matter. We appreciate your swift response in fulfilling our request. Should there be any questions or adjustments needed, please feel free to reach out. Have a great day!
-
-Best regards,
-[Your Name]

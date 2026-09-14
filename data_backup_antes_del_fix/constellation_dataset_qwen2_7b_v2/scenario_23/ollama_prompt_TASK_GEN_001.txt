@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a task for an operational mission that involves capturing near-infrared (NIR) data from Colombia, specifically in the city of Simití. This is a standard operational tasking that falls under our baseline pipeline tracking, with fixed parameters representing our normal operational status.
-
-Our priority level is set at medium importance, which means this request is part of our routine monitoring activities and should be handled as such - it's not an urgent or critical payload capture but rather a standard workflow update. We aim to ensure the products are ingested into our pipeline before the strict delivery deadline set for in four days, in the evening.
-
-Please note that this task carries no extended deadlines and falls under our baseline pipeline tracking setup with normal operational status. We appreciate your attention to this request and look forward to receiving the data products by their respective deadlines. Thank you for your cooperation and understanding.

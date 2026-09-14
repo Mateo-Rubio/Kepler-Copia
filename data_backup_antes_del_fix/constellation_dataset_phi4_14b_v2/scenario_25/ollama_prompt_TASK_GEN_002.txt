@@ -1,3 +1,0 @@
-I have a low-priority task for our satellite constellation planner. We're looking to capture thermal mapping data over the Norte region, focusing on surface temperature profiles and any potential thermal anomalies. This is a flexible schedule request with a non-essential background filler status, so feel free to drop or reschedule it at your convenience.
-
-We're using thermal infrared sensors for this task, aiming to map heat emissions in the area. The data products need to be ready by around mid-day in three days, ensuring they are ingested into our pipeline before that deadline. Please let me know if there are any adjustments needed.

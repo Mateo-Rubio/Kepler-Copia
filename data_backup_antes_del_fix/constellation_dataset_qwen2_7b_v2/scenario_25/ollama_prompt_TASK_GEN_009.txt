@@ -1,9 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with a task request for an operational priority level of Low Importance, which involves capturing thermal mapping data using our active radar scan capabilities, specifically tailored for the Indonesian region and focusing on the city of Malinau.
-
-Our objective is to assess surface temperature profiles across the area by collecting detailed microwave surface imagery that can penetrate heavy weather conditions. This task serves as a background survey to identify any thermal anomalies or heat emissions, providing valuable insights into environmental conditions.
-
-To ensure we meet our operational guidelines, I'd like to clarify that this request carries a flexible schedule for opportunistic capture. We aim to deliver the data products needed by the day after tomorrow during the afternoon, with a strict delivery deadline set for that date and time.
-
-Please note that while this task is not of critical importance, it's crucial for our baseline pipeline tracking setup and represents normal operational status. It's part of our routine monitoring activities aimed at updating our standard workflow without any urgent operational execution or contractual requirements involved.
-
-Thank you for your attention to this matter. We appreciate your support in helping us gather the necessary data to continue our research and environmental monitoring efforts. Please let me know if there are any further details you need, and we'll be happy to provide them promptly.

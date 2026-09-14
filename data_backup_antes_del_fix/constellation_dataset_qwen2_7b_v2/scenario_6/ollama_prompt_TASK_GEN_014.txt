@@ -1,9 +1,0 @@
-Good morning to all mission operators! I'm reaching out with an absolute institutional priority request for a critical payload capture involving our satellite constellation. We need to ensure that the data products are ingested into the pipeline before tomorrow's overnight block at the latest.
-
-Our objective is to conduct a near-infrared reflection analysis for water body boundary mapping and soil moisture assessment. This task involves observing the region of Italia, specifically focusing on the city of Val Masino. We aim to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation that will help us assess chlorophyll absorption levels or calculate a vegetation NDVI index.
-
-This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a binding contract requirement involving the use of our satellite constellation to perform an active radar scan using microwave surface imaging for cloud-penetrating capture and piercing heavy weather conditions. This will allow us to capture ground geometry while ensuring that thermal mapping is done accurately, capturing heat signatures and surface temperature profiles.
-
-Please note that this task carries a high level of importance, and we're treating it as a non-essential background filler task with a flexible schedule for opportunistic capture. We understand the urgency involved and request that this be handled with the utmost priority to ensure that our users receive the data products before tomorrow's overnight block. Thank you for your attention to this matter.
-
-Let's work together to meet this deadline and deliver the best possible service to our clients!

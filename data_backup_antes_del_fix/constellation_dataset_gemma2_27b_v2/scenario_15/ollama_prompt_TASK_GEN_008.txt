@@ -1,1 +1,0 @@
-Schedule a standard operational tasking for near-infrared reflection imagery over Piacenza, Italia. This routine monitoring task requires capturing water body boundary mapping and soil moisture assessment data, needed by in three days in the evening at the latest.

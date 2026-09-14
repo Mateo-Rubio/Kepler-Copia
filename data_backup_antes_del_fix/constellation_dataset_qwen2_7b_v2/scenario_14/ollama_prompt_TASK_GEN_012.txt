@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a highly realistic task based on the provided metadata for an Earth observation mission. Our objective is to capture thermal mapping data using a TIR sensor for a location in Ecuatorial city, which is situated in an area without a specific country tag. The priority level for this task is medium importance, indicating it's part of our standard operational pipeline tracking with fixed parameters.
-
-We aim to gather detailed thermal information about the region by conducting a thermal mapping scan before the products are ingested into the pipeline on the day after tomorrow, specifically in the morning. This request aligns with our baseline pipeline tracking setup and represents normal operational status.
-
-Please note that this task has a strict deadline for data availability; we need the data products by the target day at the latest. We appreciate your attention to this matter and look forward to receiving the thermal mapping data as per the outlined specifications. Thank you for your support in ensuring our mission's success.

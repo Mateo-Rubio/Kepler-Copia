@@ -1,8 +1,0 @@
-Hello there! I'm reaching out to request a thermal mapping task focusing on Kapuas Hulu, Indonesia. We're looking for a heat signature and surface temperature profile of the region, which will be crucial for identifying any thermal anomalies or emission patterns. This is a low priority importance task that doesn't have an extremely tight deadline but should be completed by the day after tomorrow during the afternoon at the latest. We aim to ensure that the data products are ingested into our pipeline before then.
-
-To execute this task, we'll be utilizing our thermal infrared sensor (TIR) for multispectral vegetation analysis, which will help us assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance. This will provide valuable insights into the region's environmental conditions without any specific urgency in terms of timing.
-
-Thank you for your attention to this request. We appreciate your understanding of the flexible schedule and look forward to receiving the data as soon as possible.
-
-Best regards,
-[Your Name]

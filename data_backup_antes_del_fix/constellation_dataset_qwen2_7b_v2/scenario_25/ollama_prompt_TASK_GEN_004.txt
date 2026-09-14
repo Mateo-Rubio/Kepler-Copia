@@ -1,7 +1,0 @@
-Good day to all satellite planners and mission operators. I'm reaching out with a new task request that requires your immediate attention. We're looking to capture high-resolution optical imagery for a critical payload in Colombia, specifically in the city of La Macarena. The mission's priority level is set at low importance, which means we're requesting this as a flexible schedule background filler task that can be dropped or rescheduled at convenience.
-
-Our primary sensor requirement is a VNIR system to conduct multispectral vegetation analysis. This involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index to understand surface reflectance. We aim to gather detailed information on the local flora, which will contribute to our ongoing environmental monitoring efforts.
-
-We're targeting the day after tomorrow for this task, with a strict delivery deadline set for the evening of that day. This means we need the data products ingested into our pipeline before the evening timeframe arrives. The deadline is crucial as it ensures timely analysis and decision-making processes based on the captured data.
-
-I appreciate your understanding of the urgency involved in this request. We're looking forward to your support in capturing these essential images for our background survey and testbed tracking task. Thank you very much for your cooperation and prompt attention to this matter.

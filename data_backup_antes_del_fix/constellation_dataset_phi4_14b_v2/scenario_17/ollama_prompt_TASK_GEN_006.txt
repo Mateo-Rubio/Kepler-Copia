@@ -1,3 +1,0 @@
-We have a standard operational tasking for a commercial satellite mission over Indonesia, specifically focusing on the city of Majangkan. The objective is to conduct an active radar scan using microwave surface imaging. This will allow us to capture cloud-penetrating imagery and obtain detailed ground geometry.
-
-This task is part of our baseline pipeline tracking setup with fixed parameters, reflecting normal operational status. We need this data delivered by tomorrow's overnight period at the latest to ensure it is ingested into the pipeline on time.

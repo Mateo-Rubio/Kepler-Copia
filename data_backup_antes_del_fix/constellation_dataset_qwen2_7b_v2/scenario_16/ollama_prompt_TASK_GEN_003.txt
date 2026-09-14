@@ -1,9 +1,0 @@
-Good day to all satellite planners and mission operators. I'm reaching out with a task that requires your expertise in capturing high-resolution optical imagery of Rokan Hilir, Indonesia. The region is known for its lush landscapes and diverse ecosystems, so we're particularly interested in assessing the health of the vegetation through multispectral analysis.
-
-The primary sensor to be utilized for this mission is VNIR, which will allow us to delve into the chlorophyll absorption levels and calculate the NDVI index to understand the vegetation's condition. This information is crucial for environmental monitoring and agricultural management.
-
-This task falls under the category of a low priority importance request, meaning that while we value your attention, it can be scheduled flexibly within our operational parameters. We're treating this as a non-essential background filler task that can be accommodated when resources are available without impacting our core operations.
-
-We need these data products by tomorrow morning at the latest, ensuring they're ingested into our pipeline before that deadline is met. This timeframe is critical for our internal processes and should not be extended beyond this point. We appreciate your understanding and prompt action in fulfilling this request.
-
-Thank you for your cooperation and look forward to a successful mission execution.

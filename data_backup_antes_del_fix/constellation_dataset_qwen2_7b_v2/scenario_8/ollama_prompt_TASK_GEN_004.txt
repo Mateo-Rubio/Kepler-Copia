@@ -1,7 +1,0 @@
-Good day to our satellite constellation planners. We're looking at a task for a low priority importance request that involves a VNIR sensor, focusing on a specific area in Colombia. The region we're observing is Ituango, which is part of the larger landscape in Colombia.
-
-Our goal here is to capture a snapshot of the area using VNIR technology, providing us with a multispectral vegetation analysis. We aim to assess the chlorophyll absorption level and calculate the NDVI index for the region, along with surface reflectance data. This task is a background survey that requires no strict operational urgency and can be scheduled at convenience.
-
-The request is for a dataset that will be needed by the day after tomorrow (in three days) during the overnight period. We're looking to ensure that the products are ingested into our pipeline before then, aligning with our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Thank you for your attention and understanding in fulfilling this task.

@@ -1,1 +1,0 @@
-Please conduct a near-infrared reflection survey over the region of Norte, Italia, using a standard operational tasking with fixed parameters representing normal operational status. This commercial tasking is part of a baseline pipeline tracking setup and should be completed as a routine monitoring task. The data products are needed by tomorrow in the evening at the latest.

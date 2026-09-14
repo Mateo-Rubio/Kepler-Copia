@@ -1,8 +1,0 @@
-Good day, esteemed satellite constellation planner. I am reaching out with a task request on behalf of our Earth observation mission to capture a near-infrared reflection dataset for water body boundaries and soil moisture assessment in the beautiful region of Italia, specifically focusing on the city of Calderara di Reno. This request carries a low priority importance, allowing us to drop or reschedule at your convenience if necessary. However, it's essential that we adhere to our operational guidelines.
-
-We aim to obtain this data by capturing near-infrared reflections, which will help us map water bodies and assess soil moisture levels. The deadline for delivering these data products is set for three days from now, ensuring they are ingested into our pipeline before the evening timeframe. This dataset will serve as a background survey or testbed tracking task to support our broader monitoring efforts.
-
-Thank you for your attention and cooperation in fulfilling this request. We appreciate your understanding of our operational constraints and the importance of meeting deadlines without altering them.
-
-Best regards,
-[Your Name]

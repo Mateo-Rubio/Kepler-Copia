@@ -1,5 +1,0 @@
-We're tasked with capturing a thermal mapping of Malaysia, specifically focusing on the equatorial region, using our thermal infrared sensor. Our primary objective is to identify heat signatures and surface temperature profiles for potential thermal anomalies that could indicate industrial activity or environmental changes. This task falls under a low priority importance request.
-
-Given the operational guidelines, we'll ensure this task is treated as a "non-essential background filler task" with a flexible schedule for opportunistic capture. We aim to deliver the data products needed by the day after tomorrow, overnight at the latest, adhering strictly to our deadline set for ingestion into the pipeline before that time.
-
-Please note that this is a background survey task and may be dropped or rescheduled at your convenience if more critical tasks arise. We appreciate your understanding in this matter.

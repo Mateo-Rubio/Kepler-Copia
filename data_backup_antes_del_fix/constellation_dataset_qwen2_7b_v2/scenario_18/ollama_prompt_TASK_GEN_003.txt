@@ -1,7 +1,0 @@
-Good day! I'm reaching out to request your assistance in capturing a low priority importance task, which falls under our opportunistic background survey category. The task involves using a multispectral vegetation analysis sensor, specifically the VNIR (near-infrared) type, to assess chlorophyll absorption levels and calculate the NDVI (Normalized Difference Vegetation Index) for an area of interest located in Singkep, Indonesia.
-
-The geographical context of this mission is set within Singkep, Indonesia. The task's operational urgency stems from its importance being categorized as low priority, which allows us to schedule it with a flexible timeline, treating it as a background survey or testbed tracking task.
-
-To clarify the operational timeframe, we need the high-resolution optical snapshot by the target day, which is four days ahead, with the strict delivery deadline set for that day overnight. The data products must be ingested into our pipeline before the specified time to ensure timely processing and analysis.
-
-Thank you for your attention and cooperation in fulfilling this background survey task. We appreciate your understanding of the operational guidelines and look forward to a successful mission execution.

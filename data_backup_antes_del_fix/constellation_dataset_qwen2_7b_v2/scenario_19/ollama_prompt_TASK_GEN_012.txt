@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a request for a standard operational tasking involving a near-infrared sensor. Our focus is on capturing a thermal mapping of the Ecuatorial region in Indonesia, which is crucial for assessing soil moisture levels and water body boundaries.
-
-We aim to acquire this data by ensuring that the products are ingested into our pipeline before the day after tomorrow's overnight period at the latest. This request falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Please note that this tasking involves standard operational procedures and is part of our routine monitoring activities. We appreciate your prompt attention to this matter, as it aligns with our commercial tasking requirements.
-
-Thank you for your cooperation and understanding in meeting these operational guidelines.

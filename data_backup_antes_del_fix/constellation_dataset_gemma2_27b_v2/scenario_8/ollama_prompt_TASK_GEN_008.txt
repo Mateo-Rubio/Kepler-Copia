@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture over Greve in Chianti, Italia. I need a high-resolution multispectral vegetation analysis snapshot of the area, needed by in four days during the afternoon at the latest.  Ensure the products are ingested into the pipeline before this deadline.

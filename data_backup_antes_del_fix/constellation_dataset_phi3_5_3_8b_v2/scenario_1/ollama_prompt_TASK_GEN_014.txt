@@ -1,1 +1,0 @@
-We have a standard operational tasking for tomorrow night to perform an active radar scan over Norte, with microwave surface imaging capabilities. This routine monitoring is part of our baseline pipeline tracking and requires normal operational status maintenance. Ensure the data products are ingested into the system before midnight tonight as per our fixed parameters schedule.

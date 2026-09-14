@@ -1,1 +1,0 @@
-We need a low priority importance SAR scan for cloud-penetrating capture of Air Itam, Indonesia. This task is flexible and can be dropped or rescheduled at your convenience. The data products are expected to be ready by the day after tomorrow in the morning, ensuring they're ingested into our monitoring pipeline with some leeway for timing adjustments.

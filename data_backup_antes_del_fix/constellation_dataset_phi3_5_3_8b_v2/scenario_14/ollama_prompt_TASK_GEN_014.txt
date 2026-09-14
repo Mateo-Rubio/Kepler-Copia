@@ -1,2 +1,0 @@
-We're looking to conduct a non-essential background filler task that involves near-infrared reflection for water body boundary mapping, ideally in Norte city during tomorrow's evening hours. Please ensure the data products are ingested into our system before four days from now, by nightfall, as this is not a pressing requirement but still within our operational scope to capture opportunistically.
-```prompt

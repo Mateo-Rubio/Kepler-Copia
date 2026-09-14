@@ -1,5 +1,0 @@
-We have a low-priority importance task for you, with a flexible schedule to capture data opportunistically. This is a non-essential background filler task that can be dropped or rescheduled at your convenience.
-
-The objective is to conduct near-infrared reflection analysis over Buenaventura, Colombia, focusing on water body boundary mapping and soil moisture assessment. We're looking for a flexible schedule that allows you to capture this data if possible.
-
-Please ensure the products are ingested into the pipeline before today around mid-day at the latest. Thank you for accommodating this background survey task in your workflow.

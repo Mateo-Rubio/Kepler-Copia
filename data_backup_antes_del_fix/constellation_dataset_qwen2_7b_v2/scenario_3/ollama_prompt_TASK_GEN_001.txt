@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner, we're looking to capture a detailed view of Tame, Colombia using our VNIR sensor in the morning light. We're treating this as a standard operational tasking that's part of our baseline pipeline tracking setup. The parameters are fixed and represent our normal operational status. 
-
-We're aiming for high-resolution optical imagery to assess the chlorophyll absorption levels and calculate the vegetation NDVI index, which will be crucial for understanding the health of the local flora. This is a routine monitoring task that involves capturing the surface reflectance under clear conditions.
-
-We need this data by tomorrow morning at the latest. We're setting a strict delivery deadline for tomorrow morning to ensure the products are ingested into our pipeline before then. Please note, this request carries medium importance and should be prioritized accordingly in your scheduling.
-
-Thank you for your attention to this task.

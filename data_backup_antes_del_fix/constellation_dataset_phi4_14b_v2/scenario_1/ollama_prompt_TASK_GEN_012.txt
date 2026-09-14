@@ -1,3 +1,0 @@
-I'd like to submit a low-priority task for your consideration. We're looking at capturing thermal mapping data over Bengkalis, Indonesia. This is primarily to observe heat signatures and surface temperature profiles in the area, which could be useful for detecting thermal anomalies. Given its flexible schedule, please feel free to drop or reschedule this task at your convenience as it's a non-essential background filler task.
-
-We're aiming for data delivery by evening in three days, ensuring that the products are ingested into the pipeline before then. Thank you!

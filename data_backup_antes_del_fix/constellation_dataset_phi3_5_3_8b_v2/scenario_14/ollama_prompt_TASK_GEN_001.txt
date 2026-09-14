@@ -1,2 +1,0 @@
-We're looking to conduct a non-essential background filler task that involves taking multispectral vegetation analysis images in Caparrapí, Colombia. This is not urgent but we would like these high-resolution optical snapshots for daylight photography taken over the course of tomorrow night's clear skies. Please ensure the products are ingested into our system no later than the day after tomorrow evening to keep up with our regular pipeline tracking updates.
-```

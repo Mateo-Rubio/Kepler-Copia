@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task for your team to capture thermal mapping data over Maní, Colombia, which is located in the heart of the country's vibrant landscape. This request carries low priority importance and should be treated as a flexible schedule background survey. We aim to assess heat signatures across the region, focusing on surface temperature profiles and thermal anomaly detection.
-
-The deadline for this data is set for today, with a strict delivery deadline by tomorrow's overnight block at the latest. This task involves capturing the heat emissions from various areas, which will help us in understanding heat patterns and potential issues that could impact the local environment or infrastructure.
-
-Please ensure that the data products are ingested into our pipeline before we reach tomorrow's morning hours. I appreciate your team's cooperation in delivering this task within the specified timeframe. Thank you for your understanding and prompt action on this matter.

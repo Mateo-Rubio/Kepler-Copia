@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture. We need a high-resolution optical snapshot of Kutai Barat, Indonesia. Ensure the products are ingested into the pipeline before three days during the afternoon at the latest.

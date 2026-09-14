@@ -1,1 +1,0 @@
-We're looking to conduct a multispectral vegetation analysis in Tatau, Malaysia, using high-resolution optical snapshot capabilities for daylight photography. This task is of low priority importance and can be scheduled flexibly; however, we need the data products ready by tomorrow evening at the latest as part of our routine monitoring pipeline tracking.

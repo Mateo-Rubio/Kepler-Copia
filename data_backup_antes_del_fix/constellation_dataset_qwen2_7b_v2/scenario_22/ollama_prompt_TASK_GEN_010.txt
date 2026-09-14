@@ -1,8 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out to request a critical task for an Earth observation mission that needs to be executed with utmost importance. Our focus is on thermal mapping of the region around Paimadó, Colombia, using our high-priority TIR sensor. This involves capturing detailed heat signatures and surface temperature profiles across the area to identify any thermal anomalies or emissions.
-
-Given the urgency, we require these data products by tomorrow evening at the latest, ensuring they are ingested into our pipeline before then. This task is a non-essential background filler, which can be dropped or rescheduled at your convenience if there's a more pressing operational need. 
-
-Please note that this request carries low priority importance, but it's still essential for our ongoing research and monitoring efforts. We appreciate your understanding and prompt attention to this matter. Thank you for your cooperation in ensuring these observations are captured within the specified timeframe.
-
-Best regards,
-[Your Name]

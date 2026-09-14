@@ -1,8 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with an important task request for an Earth observation mission. Our objective is to capture a high-resolution optical snapshot of the region in Colombia, specifically in the city of Cáchira, using our VIS sensor. We aim to document clear daylight photography and true-color visual details of this area. This request carries low priority importance, hence we're treating it as a flexible schedule task, a non-essential background filler for our pipeline tracking.
-
-We're setting a deadline for your team to deliver the data products by our target day, which is in four days, with a strict delivery deadline set for the evening of that day. This means ensuring that the products are ingested into our pipeline before the night falls on the target day. Your team's expertise will be greatly appreciated as we aim to capture the heat signature and surface temperature profile of this region.
-
-Thank you for your attention to this task, and we look forward to receiving the data products in due time. If there are any questions or concerns, please feel free to reach out. 
-
-Best regards,
-[Your Name]

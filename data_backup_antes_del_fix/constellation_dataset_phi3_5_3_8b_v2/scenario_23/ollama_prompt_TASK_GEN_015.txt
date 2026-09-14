@@ -1,2 +1,0 @@
-As an Earth-observation mission operator, I am tasking a routine monitoring operation with commercial interest to capture high-resolution optical snapshots of vegetation in Kepulauan Meranti, Indonesia. This standard operational tasking is part of our baseline pipeline tracking and requires the collection of multispectral vegetation analysis data during tomorrow's afternoon block. The results are expected within four days from today to ensure they can be integrated into our current workflow promptly.
-```prompt

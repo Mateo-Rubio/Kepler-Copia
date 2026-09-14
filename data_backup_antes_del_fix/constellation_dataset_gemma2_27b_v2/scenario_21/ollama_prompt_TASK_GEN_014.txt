@@ -1,1 +1,0 @@
-I need a low priority background thermal mapping task for Norte. This is a non-essential background filler task, so please drop or reschedule at convenience. I'm looking for a heat signature capture of the area, needed by tomorrow in the evening at the latest.

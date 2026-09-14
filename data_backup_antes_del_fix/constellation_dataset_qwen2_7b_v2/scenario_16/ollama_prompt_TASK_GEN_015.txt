@@ -1,5 +1,0 @@
-Good day to our automated satellite constellation planner. We're looking at a standard operational tasking involving Malaysia, specifically in the region of Kuning Selatan. The mission's primary sensor is a VIS camera, aimed at capturing high-resolution optical snapshots for daylight photography and true-color visual documentation. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Given the importance level of this request, it's designated as medium significance, meaning we're looking to ensure this task gets executed in a professional and straightforward manner. The deadline for delivering the data products is set for tomorrow morning, ensuring they are ingested into the pipeline before that time. This is not about altering the orbit but rather meeting our operational requirements with a standard workflow update.
-
-We appreciate your attention to detail and prompt action to meet this request. Thank you for your cooperation in maintaining our baseline pipeline tracking capabilities. Have a great day!

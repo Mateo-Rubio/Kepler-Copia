@@ -1,5 +1,0 @@
-Good day! I'm reaching out to request a low-priority importance task for our satellite constellation. We're aiming to conduct an opportunistic survey of Tatau, Malaysia, using a multispectral vegetation analysis with our VNIR sensor. Our goal is to assess the chlorophyll absorption levels and calculate the NDVI index for various surfaces.
-
-We're targeting the data capture for tomorrow evening, ensuring that the products are ingested into our pipeline before then. This request doesn't involve any critical payload capture or mandatory directives; it's more of a background survey task that can be adjusted for scheduling convenience if needed. We appreciate your understanding and cooperation in meeting this deadline.
-
-Thank you for your attention to this matter.

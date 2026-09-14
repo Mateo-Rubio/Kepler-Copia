@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner, we're looking at a low priority importance task that requires your immediate attention. The mission involves capturing an active radar scan of the Indonesian region, focusing on the city of Muara Asa. The primary objective is to obtain detailed microwave surface imaging for cloud-penetrating capture and ground geometry mapping.
-
-We're aiming for a standard operational tasking here, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is a flexible schedule background survey that doesn't need to be rushed but should be treated as a non-essential background filler task.
-
-The deadline for delivering the data products is set for tomorrow overnight. We need these SAR images by the latest by tomorrow's night time, ensuring they are ingested into our pipeline before then. This is an urgent operational execution that doesn't involve any un-preemptable mission lock or critical payload capture, but it's important to us nonetheless.
-
-Thank you for your understanding and swift action in fulfilling this task. We appreciate your cooperation in meeting the specified deadline and delivering high-quality data products.

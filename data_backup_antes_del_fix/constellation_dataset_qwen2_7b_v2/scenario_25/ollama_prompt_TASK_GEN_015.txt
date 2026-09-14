@@ -1,7 +1,0 @@
-Hello, automated satellite constellation planner. I'm submitting a request for an Earth observation mission with a low priority importance level. The task involves capturing high-resolution optical imagery of a location in Indonesia, specifically near the Ecuatorial city. We're aiming for daylight photography to document the landscape accurately and provide true-color visual information.
-
-This request is considered a non-essential background filler task, with a flexible schedule that allows us to drop or reschedule it at our convenience. We treat this as a background survey or testbed tracking task, which doesn't require immediate attention but should be executed efficiently when possible.
-
-The primary sensor for this mission is VIS (visual imagery), which will provide us with clear optical data necessary for our analysis. The deadline for delivering the data products is set for tomorrow's overnight block. We need to ensure that the products are ingested into the pipeline before the specified time, adhering to the strict deadline.
-
-Thank you for your understanding and cooperation in fulfilling this request.

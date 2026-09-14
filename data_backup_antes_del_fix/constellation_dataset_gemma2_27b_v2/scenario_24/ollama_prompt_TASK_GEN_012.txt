@@ -1,1 +1,0 @@
-This is a binding contract requirement for critical payload capture over Ecuatorial, Indonesia. We need a multispectral vegetation analysis of the region with a strict delivery deadline set for tomorrow overnight at the latest. Ensure the products are ingested into the pipeline before then.

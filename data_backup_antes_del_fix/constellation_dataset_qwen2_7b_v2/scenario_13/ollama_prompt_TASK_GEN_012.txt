@@ -1,3 +1,0 @@
-Good day, automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of the region in Indonesia, specifically around Bukit Anda, using our VIS sensor. This imagery should be true-color visual documentation that will help us understand the landscape and urban development there. As this is a standard operational tasking, we're aiming for fixed parameters and normal operational status. We need this data by the following day's overnight block at the latest, ensuring the products are ingested into our pipeline before then. This request aligns with our baseline pipeline tracking setup.
-
-Thank you for your attention to this matter.

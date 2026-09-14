@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out to request a task that involves capturing a near-infrared reflection of Norte city's surroundings on Earth. This will help us assess soil moisture levels and delineate water body boundaries for agricultural planning purposes. 
-
-Given the importance of this task, I would like to emphasize it as a low priority importance request with a flexible schedule for opportunistic capture. Although not critical, we do require that these data products are ingested into our pipeline before our target day arrives, which is in three days around mid-day at the latest. 
-
-Please note that due to the nature of this task, it's considered a non-essential background filler task and can be dropped or rescheduled as per your convenience. We appreciate your understanding and cooperation in ensuring these data are collected within the specified timeframe.
-
-Thank you for your attention.

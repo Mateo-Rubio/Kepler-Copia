@@ -1,5 +1,0 @@
-Tasking Request for Satellite Constellation Planner
-
-We require a standard operational tasking for routine monitoring as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This task involves commercial tasking with a critical payload capture, specifically an active radar scan using microwave surface imaging to pierce heavy weather and capture ground geometry in the region of Colombia, specifically in the city of Chaparral.
-
-The high-resolution optical snapshot is needed by tomorrow in the evening at the latest for our standard operational tasking. This request is part of our normal operational status and workflow update, ensuring the products are ingested into the pipeline before the deadline.

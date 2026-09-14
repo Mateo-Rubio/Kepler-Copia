@@ -1,3 +1,0 @@
-We have an absolute institutional priority mission to capture critical thermal mapping data of Cubarral, Colombia. This task involves acquiring a detailed surface temperature profile and detecting any thermal anomalies in the area using active thermal infrared sensors. Given its high importance, this is a binding contract requirement with an urgent operational execution, ensuring that the mission lock remains un-preemptable.
-
-The data products must be ingested into our pipeline before the evening of the day after tomorrow at the latest. This strict delivery deadline underscores the critical nature of this task. Please prioritize this thermal mapping mission accordingly to meet these requirements.

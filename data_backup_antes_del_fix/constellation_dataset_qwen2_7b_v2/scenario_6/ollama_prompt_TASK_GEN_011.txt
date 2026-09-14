@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. We're looking to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in the region of Schweiz/Suisse/Svizzera/Svizra, specifically focusing on the city of Rheinwald. This is a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Given the importance of this request, we're setting a strict delivery deadline for the data products to be ingested into our pipeline by the latest [target_day] at [target_diurnal_period]. This is not just a routine monitoring task but an integral part of our workflow update. We understand that this request falls under medium importance and might need to be scheduled with some flexibility, but we kindly request your attention to ensure it's completed within the set timeframe.
-
-Thank you for your cooperation in maintaining our operational standards and ensuring timely data delivery.

@@ -1,7 +1,0 @@
-Good day to our automated satellite constellation planner, we're looking to capture an active radar scan using microwave surface imaging for a cloud-penetrating capture of ground geometry. The mission targets the region of Indonesia, specifically the city of Kubu Raya. This task is marked as a low priority importance request with a flexible schedule, treating it as a non-essential background filler task that can be dropped or rescheduled at convenience.
-
-We're aiming to execute this "standard operational tasking" part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. The request is for a thermal mapping operation to capture heat signatures and surface temperature profiles, which will help us in thermal anomaly detection and mapping heat emissions.
-
-Our deadline is set for three days from now, with a strict delivery deadline set for the morning of that day. We're ensuring the products are ingested into the pipeline before then, making sure we meet this deadline without altering or extending it.
-
-Thank you for your attention to this task.

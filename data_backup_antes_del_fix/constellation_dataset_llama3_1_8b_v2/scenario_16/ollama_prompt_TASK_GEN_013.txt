@@ -1,3 +1,0 @@
-Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission.
-
-We require an absolute institutional priority to conduct thermal mapping using active microwave surface imaging to capture a heat signature and surface temperature profile in Samacá, Colombia. This critical payload capture is a binding contract requirement involving a mandatory directive with urgent operational execution and un-preemptable mission lock. The data must be ready by in three days around mid-day at the latest.

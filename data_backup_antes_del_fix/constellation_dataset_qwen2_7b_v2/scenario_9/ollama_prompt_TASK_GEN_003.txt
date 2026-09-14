@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. We're looking to capture thermal mapping data using our near-infrared sensor (NIR) in Indonesia, specifically in Bangka city. This is a low priority importance request with flexible scheduling, treating it as a non-essential background filler task.
-
-Our operational deadline is set for the day after tomorrow, with a strict delivery deadline of evening time. The data must be ready by then to ensure it can be ingested into our pipeline before the specified time frame. Please note that this request involves capturing surface temperature profiles and assessing soil moisture levels through near-infrared reflection.
-
-Thank you for your understanding and cooperation in meeting these requirements. We appreciate your timely response and look forward to receiving the data products as per our outlined specifications.

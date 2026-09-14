@@ -1,9 +1,0 @@
-Good day to our satellite constellation planners,
-
-Our Earth observation mission is seeking a highly prioritized task that aligns with our institutional binding contract requirements. We aim to capture a detailed and comprehensive view of Andina, Colombia, in the morning of the following day. Our objective is to secure a high-resolution optical snapshot for daylight photography, providing clear visual documentation of the region. This is an absolute necessity for our baseline pipeline tracking setup.
-
-We are looking for thermal mapping capabilities as well, to capture the heat signature and surface temperature profile of Andina. This will aid us in detecting any thermal anomalies and mapping heat emissions accurately. Our priority level indicates a mandatory directive that needs to be executed with urgency and without any preemption.
-
-To ensure optimal operational efficiency, we request the data products to be ingested into our pipeline before tomorrow's overnight block. The deadline for delivery is set for the morning of the following day, as per our operational guidelines. We appreciate your attention to this critical payload capture and look forward to receiving the data promptly.
-
-Thank you for your cooperation and understanding in meeting these requirements.

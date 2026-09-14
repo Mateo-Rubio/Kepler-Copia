@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission focusing on a specific location in Marola, Italia. Our primary sensor requirement is near-infrared (NIR), which will be used to map water body boundaries and assess soil moisture levels. This is a low priority importance request, meaning it has a flexible schedule and can be treated as a background survey or testbed tracking task.
-
-Our mission's geographic context is centered around Marola, Italia, with the deadline set for today during the afternoon. The operational urgency for delivering the data products is strict; we need them by today, specifically during the afternoon block at the latest. This ensures that the products are ingested into our pipeline before the deadline.
-
-I appreciate your attention to this task and look forward to receiving the requested data products as soon as possible. Thank you for your cooperation in managing our mission allocation priorities effectively.

@@ -1,5 +1,0 @@
-Good morning, satellite constellation planner. I'm reaching out with a task request that falls under our low priority importance category, which we're treating as a flexible schedule "background survey" or "testbed tracking task". Our objective is to capture a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation from Colombia, specifically in the city of Remedios. This request doesn't require any rush; we can drop or reschedule it at your convenience. 
-
-We're aiming to receive the data products by the day after tomorrow, with a strict delivery deadline set for that date's overnight block. This ensures the products are ingested into our pipeline before then. We appreciate your understanding and flexibility in accommodating this task.
-
-Thank you for your cooperation and assistance.

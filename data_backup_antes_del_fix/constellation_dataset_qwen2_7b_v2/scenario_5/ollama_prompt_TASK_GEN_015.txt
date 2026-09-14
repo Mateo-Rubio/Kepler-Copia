@@ -1,9 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with an absolute institutional priority task for tomorrow's afternoon period, which is critical to our operations. We're looking to capture a near-infrared reflection snapshot of the ecuatorial region in Indonesia, focusing on water body boundaries and soil moisture assessment for an upcoming project deadline.
-
-Our request involves a high-resolution optical snapshot of the area to assess the health of vegetation through chlorophyll absorption levels and calculate the NDVI index. This is essential for our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're aiming for clear optical imagery that will help us discriminate surface reflectance gradients.
-
-This task is part of a mandatory directive involving a critical payload capture, which we consider an urgent operational execution and an un-preemptable mission lock. We understand the importance of adhering to the deadline set for tomorrow's afternoon period, as it ensures the products are ingested into our pipeline before the specified time.
-
-Please ensure that the data products are ready by tomorrow's overnight block at the latest, meeting our strict delivery deadline set for tomorrow's afternoon. This will allow us to process and analyze the results in time for our upcoming project requirements.
-
-Thank you for your attention and swift action on this matter. We appreciate your expertise in handling such critical tasks with the utmost care and efficiency.

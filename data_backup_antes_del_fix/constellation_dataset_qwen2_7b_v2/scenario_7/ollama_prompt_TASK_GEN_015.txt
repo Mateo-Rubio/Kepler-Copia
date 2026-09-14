@@ -1,5 +1,0 @@
-We're looking to capture a high-resolution optical snapshot of Ecuatorial City, Indonesia, using our visible light imaging system. This is a standard operational tasking that falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status. We aim for clear optical imagery and true-color visual documentation of the region.
-
-The deadline for delivering this data product is set for three days from now, around mid-day. The products need to be ingested into our pipeline by then, ensuring they're available for analysis before the day ends. This request represents a medium importance task in our mission allocation priority framework and should be treated as part of our standard workflow update.
-
-Please note that this is a non-negotiable requirement and must be fulfilled within the specified timeframe to maintain our operational integrity and contractual obligations.

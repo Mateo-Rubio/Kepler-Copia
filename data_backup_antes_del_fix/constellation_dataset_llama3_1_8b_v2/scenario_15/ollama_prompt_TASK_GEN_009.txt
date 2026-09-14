@@ -1,5 +1,0 @@
-Tasking Request: Multispectral Vegetation Analysis in Indonesia
-
-We require a multispectral vegetation analysis over the region of Ecuatorial, Indonesia, utilizing near-infrared reflection to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This standard operational tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-The data must be ready by the day after tomorrow in the morning at the latest, ensuring the products are ingested into the pipeline before this deadline. Please allocate necessary resources to meet this requirement.

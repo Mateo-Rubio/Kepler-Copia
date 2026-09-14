@@ -1,1 +1,0 @@
-We have a standard operational tasking for high-resolution optical snapshot photography in Ecuatorial, Indonesia. This is part of our baseline pipeline tracking and requires multispectral vegetation analysis to assess chlorophyll absorption levels. The data must be ready by tomorrow's afternoon at the latest, ensuring it integrates seamlessly into our current workflow updates.

@@ -1,1 +1,0 @@
-This is a standard operational tasking for near-infrared reflection capture over San Joaquín, Colombia. The goal is to map water body boundaries and assess soil moisture gradients in the region. We need the data products ingested into the pipeline by tomorrow during the afternoon at the latest.

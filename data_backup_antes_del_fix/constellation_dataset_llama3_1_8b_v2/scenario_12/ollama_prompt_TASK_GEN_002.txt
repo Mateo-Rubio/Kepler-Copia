@@ -1,3 +1,0 @@
-Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner:
-
-Capture thermal mapping data using active microwave surface imaging to detect heat signatures and surface temperature profiles in the region of Campania, specifically targeting the city of Napoli, Italia. This is an absolute institutional priority, binding contract requirement involving a critical payload capture, and must be executed with an urgent operational execution and un-preemptable mission lock. The data products are needed by the day after tomorrow in the morning at the latest.

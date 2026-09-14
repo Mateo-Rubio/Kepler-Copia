@@ -1,5 +1,0 @@
-Tasking Request: Routine Monitoring of Vegetation Health in Italia
-
-We require a high-resolution multispectral snapshot of the vegetation health in the region of Arsiero, Italia, using VNIR sensors. This is a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-The data must be ready by in four days in the evening at the latest, ensuring the products are ingested into the pipeline before this deadline. We need to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance for this area.

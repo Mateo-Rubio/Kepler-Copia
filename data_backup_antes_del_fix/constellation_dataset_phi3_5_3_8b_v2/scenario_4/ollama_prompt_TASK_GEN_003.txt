@@ -1,3 +1,0 @@
-Request for a TIR thermal mapping of Banyuasin, Indonesia, with an absolute institutional priority to capture surface temperature profiles and heat signatures. This standard operational tasking is essential for understanding the local heating patterns and must be completed by tomorrow's mid-day deadline as part of our routine monitoring efforts.
-```prompt
-...your text here...

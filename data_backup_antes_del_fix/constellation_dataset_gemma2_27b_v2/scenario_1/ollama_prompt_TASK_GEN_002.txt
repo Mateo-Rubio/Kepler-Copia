@@ -1,1 +1,0 @@
-This is an absolute institutional priority tasking. We require a critical payload capture of the Calvi region in France using thermal mapping.  The data products are needed by tomorrow morning at the latest, ensuring they are ingested into the pipeline before then.

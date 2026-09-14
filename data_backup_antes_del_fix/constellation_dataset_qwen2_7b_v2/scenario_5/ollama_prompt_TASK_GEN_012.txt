@@ -1,5 +1,0 @@
-We're looking to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia, ideally for daylight photography or clear optical imagery, as part of our standard operational tasking. This is a commercial tasking requirement that needs to be handled with fixed parameters and represents our normal operational status. We aim to assess the chlorophyll absorption levels and calculate the vegetation NDVI index through multispectral vegetation analysis.
-
-Given the importance of this request, we're setting a strict delivery deadline for the data products by tomorrow evening at the latest. This ensures they can be ingested into our pipeline before the target day's overnight period begins. The thermal mapping aspect of this task involves capturing heat signatures and surface temperature profiles to detect thermal anomalies and map heat emissions accurately.
-
-With your expertise, we're confident that these requirements will be met with precision and efficiency, aligning with our baseline pipeline tracking setup and maintaining the integrity of our operational status. Thank you for your attention to detail and commitment to meeting deadlines.

@@ -1,5 +1,0 @@
-Good day, satellite constellation planners. We're looking to capture an active radar scan using microwave surface imaging technology for a cloud-penetrating capture of ground geometry. This task is part of our baseline pipeline tracking setup and represents normal operational status with fixed parameters. The request involves a low priority importance with a flexible schedule for opportunistic capture, making it a non-essential background filler task. 
-
-Our geographical context is centered around Air Itam in Indonesia. We're targeting the day after tomorrow, specifically around mid-day, to ensure the products are ingested into our pipeline before that time frame. Kindly note this deadline as an upper limit for data availability.
-
-Thank you for your attention and swift action on this task.

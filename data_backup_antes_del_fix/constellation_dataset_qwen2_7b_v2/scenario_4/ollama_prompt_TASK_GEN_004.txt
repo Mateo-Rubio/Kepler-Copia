@@ -1,7 +1,0 @@
-Good day to you! I'm reaching out with a standard operational tasking for an upcoming mission, which is quite important but not necessarily urgent. We're looking at a commercial task involving the capture of near-infrared data from the region of Colombia, specifically focusing on the city of San Carlos de Guaroa. The primary objective here is to assess soil moisture levels and water body boundaries in this area using near-infrared reflection.
-
-This request falls under our baseline pipeline tracking setup with fixed parameters that represent our normal operational status. As part of our routine monitoring activities, we aim to gather detailed information on the ground conditions without compromising other critical operations. We're aiming for a high-resolution snapshot that can provide us with valuable insights into the environmental state of this region.
-
-The deadline for delivering these data products is quite strict; we need them by the target day, which is four days from now, in the evening at the latest. This means we're looking to ensure that all the products are ingested into our pipeline before the specified time frame. We appreciate your attention to this task and hope to receive the data as per our requirements.
-
-Thank you for your cooperation and understanding in meeting these operational guidelines. If there are any questions or adjustments needed, please feel free to communicate with us promptly. Your assistance is greatly appreciated in ensuring our mission's success.

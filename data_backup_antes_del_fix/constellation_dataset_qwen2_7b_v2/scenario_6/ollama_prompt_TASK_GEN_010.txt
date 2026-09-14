@@ -1,9 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a standard operational tasking for our automated mission allocation system. Our focus is on a specific area in Colombia, specifically Medio Baudó, which falls under the jurisdiction of our priority level 2 mission allocation.
-
-The primary sensor we're utilizing for this operation is an active radar scan, employing microwave surface imaging technology to capture detailed ground geometry or cloud-penetrating data. This is crucial for understanding the landscape and terrain accurately, especially when dealing with adverse weather conditions.
-
-We're targeting tomorrow's data collection process, with a strict delivery deadline set for the morning hours. The operational context here is that we need the data products ingested into our pipeline by tomorrow's overnight block at the latest, ensuring they are available before the deadline of "tomorrow in the morning".
-
-This request is part of our baseline pipeline tracking setup, involving fixed parameters that represent normal operational status or a standard workflow update. We're looking for high-resolution imagery that can provide clear optical information or true-color visual documentation, which will be invaluable for various applications such as environmental monitoring, infrastructure assessment, and disaster response.
-
-Please ensure the data collection process adheres to these guidelines and meets our priority requirements. Thank you for your attention to this matter.

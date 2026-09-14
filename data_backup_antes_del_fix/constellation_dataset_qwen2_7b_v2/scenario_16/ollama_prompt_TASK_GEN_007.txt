@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out to request a high-resolution optical snapshot of Colombia's Páez region, captured in daylight photography or true-color visual documentation. This task is classified as a low priority importance request, with flexible scheduling for opportunistic capture, acting as a non-essential background filler task. We aim to assess the current state of the area without any strict deadlines affecting the outcome.
-
-Our operational guidelines dictate that we describe this request in a casual and highly flexible tone, treating it as a background survey or testbed tracking task. The primary sensor involved will be our VIS camera, capturing clear optical imagery for our purposes.
-
-The deadline for delivering these data products is set for four days from now, with the strictest delivery deadline being by the evening of that day. We understand that this timeframe represents the upper limit for data availability and ensures that the products are ingested into our pipeline before the specified time.
-
-Thank you for your attention to this task. If there are any concerns or questions regarding its execution, please feel free to reach out.

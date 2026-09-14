@@ -1,1 +1,0 @@
-This is a standard operational tasking for near-infrared reflection capture over the city of Norte. We need this data ingested into the pipeline before the day after tomorrow overnight at the latest.

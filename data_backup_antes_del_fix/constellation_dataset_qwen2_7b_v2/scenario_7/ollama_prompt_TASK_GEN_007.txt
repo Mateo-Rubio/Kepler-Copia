@@ -1,9 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task request for an urgent operational execution involving a critical payload capture under Priority 3 (High Importance). Our mission is to provide high-resolution optical snapshots of the region in Colombia, specifically focusing on the city of Valdivia, using an active radar scan for microwave surface imaging. This task aims to pierce through heavy weather conditions and capture ground geometry with cloud-penetrating capabilities.
-
-Our objective is to gather thermal mapping data to detect heat signatures and surface temperature profiles, as well as assess vegetation health through multispectral analysis and calculate the NDVI index and surface reflectance. The primary sensor requirement is a SAR system for this mission.
-
-We're setting a strict deadline for the data products to be ingested into our pipeline by the day after tomorrow, with a deadline set for overnight. This ensures that the data is ready before the target day's nightfall. Our request is for a standard operational tasking as part of our baseline pipeline tracking setup, representing normal operational status and a workflow update.
-
-Please note that this task carries an un-preemptable mission lock due to its high priority and contractual value, and it should be treated as an urgent operational execution with fixed parameters. We appreciate your swift attention and cooperation in meeting this deadline, as it is essential for our continued operations and contractual obligations.
-
-Thank you very much for your understanding and prompt action on this matter.

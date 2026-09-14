@@ -1,2 +1,0 @@
-We're looking to acquire a high-resolution optical snapshot of Puerto López in Colombia, around midday tomorrow. This is considered low priority and can be scheduled flexibly; however, it would be appreciated if this task could be completed by the upcoming overnight block for data integration into our regular monitoring pipeline. Please feel free to adjust or reschedule as needed without inconvenience.
-```prompt

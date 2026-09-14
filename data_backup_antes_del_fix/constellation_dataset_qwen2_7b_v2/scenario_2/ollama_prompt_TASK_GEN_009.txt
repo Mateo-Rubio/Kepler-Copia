@@ -1,8 +1,0 @@
-Good day! I'm reaching out from the Sintang region in Indonesia, where we're currently witnessing a unique environmental situation that requires immediate attention. Our priority is to capture detailed information about the soil moisture levels and water body boundaries for strategic planning purposes. We're utilizing our Near-Infrared (NIR) sensor to gather high-resolution data on these aspects, which will help us assess soil conditions and delineate water bodies accurately.
-
-Given the importance of this task, we classify it as a low priority importance request with a flexible schedule for opportunistic capture. Our operational objective is straightforward: to ensure that the data products are ready by the deadline set for the evening of the day three days from now. We're treating this as a background survey task where we can drop or reschedule at our convenience, but it's crucial that these data are available before the evening deadline.
-
-Thank you for your understanding and cooperation in handling this request promptly. We appreciate your support in ensuring that our mission objectives are met efficiently. If there are any questions or adjustments needed, please feel free to reach out. We look forward to receiving the data products on schedule.
-
-Best regards,
-[Your Name]

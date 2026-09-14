@@ -1,1 +1,0 @@
-Please perform a standard operational tasking for commercial purposes using the active radar scan functionality to capture microwave surface imaging during the afternoon of tomorrow. The location is Pesisir Selatan in Indonesia, and the data products should be ingested into the pipeline before tomorrow's afternoon deadline.

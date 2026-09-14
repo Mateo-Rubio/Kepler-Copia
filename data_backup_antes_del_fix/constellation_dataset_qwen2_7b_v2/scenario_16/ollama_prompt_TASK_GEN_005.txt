@@ -1,7 +1,0 @@
-Good day to our satellite constellation planners,
-
-We're reaching out with a task that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our interest lies in conducting a low-priority background survey using the VNIR sensor, focusing on multispectral vegetation analysis. This task aims to assess chlorophyll absorption levels and calculate the NDVI index for a specific area. The region of interest is Norte, which we'll describe as a part of an unnamed country, although the exact location details are not specified.
-
-Our operational deadline for this task is set for three days from now, with the data needed by the morning at the latest. We understand the urgency and will treat this request as a non-essential background filler task that can be scheduled or dropped at our convenience without affecting the overall workflow.
-
-Thank you for your attention to this matter.

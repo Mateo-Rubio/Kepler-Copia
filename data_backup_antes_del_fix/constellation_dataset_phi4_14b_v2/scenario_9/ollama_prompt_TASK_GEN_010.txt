@@ -1,3 +1,0 @@
-Hello, I have a task request for our satellite constellation planner. We're looking to conduct a low-priority importance mission focused on Puerto Wilches, Colombia. This is a flexible schedule task with an opportunistic capture approach, so please feel free to drop or reschedule it at your convenience. The primary objective is to perform multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate a vegetation NDVI index in the area.
-
-We're aiming for a non-essential background filler task that can be completed with a flexible schedule. Please ensure that the data products are ingested into the pipeline before the day after tomorrow's overnight period at the latest. Thank you!

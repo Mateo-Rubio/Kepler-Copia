@@ -1,7 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a critical payload capture from our Earth-observation mission. Our institutional priority is high for this task due to its importance and contractual obligations. We're focusing on a mandatory directive that requires us to assess the health of water bodies and soil moisture levels in the region of Colombia, specifically in the city of Guamal.
-
-Given the urgency of our request, we need this data by tomorrow's overnight block at the latest. Our primary sensor will be conducting near-infrared reflection analysis for water body boundaries and soil moisture assessment to discriminate gradients. We're aiming for a high-resolution optical snapshot to ensure clarity and accuracy in our findings.
-
-Please note that this tasking is a binding contract requirement involving a critical payload capture and should be treated with the utmost importance. Our baseline pipeline tracking setup requires fixed parameters, representing normal operational status and a workflow update. However, due to its low priority importance, we can drop or reschedule this task at your convenience if needed.
-
-Thank you for your attention to this matter. We appreciate your swift action in meeting our deadline and ensuring the products are ingested into our pipeline before tomorrow's overnight block. Your cooperation will greatly contribute to our operational efficiency and decision-making processes.

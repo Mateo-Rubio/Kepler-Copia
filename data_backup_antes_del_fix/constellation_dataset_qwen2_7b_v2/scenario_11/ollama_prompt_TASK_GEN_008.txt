@@ -1,7 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with an operational tasking request for a standard monitoring mission involving our primary sensor SAR. The objective is to conduct an active radar scan of the region named "Italia" with the city being "Roma". We aim to capture detailed microwave surface images that can pierce through heavy weather conditions, providing us with ground geometry data.
-
-Given the importance of this request, it falls under priority level 2, indicating a standard operational tasking within our baseline pipeline tracking setup. We are looking at fixed parameters for normal operational status and understand that this is part of our routine monitoring activities.
-
-We're targeting the 'target_day' set for tomorrow with the diurnal period being during the afternoon. The deadline for delivering the data products to the user is strictly set for that time, ensuring they can be ingested into the pipeline before it ends.
-
-Thank you for your attention to this request. We appreciate your coordination in meeting these operational guidelines and look forward to receiving the SAR data as per our requirements.

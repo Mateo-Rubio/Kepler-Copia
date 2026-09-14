@@ -1,3 +1,0 @@
-Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Suárez, Colombia, using our VIS sensor for daylight photography purposes. This task is part of our standard operational pipeline tracking setup with fixed parameters, representing normal operational status. The imagery needs to be ready by the target day at the latest, which falls within the overnight timeframe, ensuring the products are ingested into the pipeline before that deadline. Kindly proceed with this standard tasking request as scheduled.
-
-Thank you for your attention and assistance in fulfilling our baseline monitoring requirements.

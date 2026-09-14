@@ -1,7 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out to request a standard operational tasking involving an active radar scan using microwave surface imaging for cloud-penetrating capture and ground geometry mapping. This mission is designated as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-The geographical context involves Norte, which is located in an unspecified country. Our priority level is set at medium importance, indicating this request falls under standard operational tasks or commercial tasking that should be executed with due attention but not as an urgent requirement.
-
-We are targeting the day after tomorrow around mid-day for the delivery of the data products. This deadline is strictly set and cannot be extended; it's crucial that we adhere to this timeframe to ensure the products are ingested into our pipeline before the specified time.
-
-Thank you for your attention to this request. We appreciate your cooperation in ensuring this task is executed as per our guidelines and operational standards.

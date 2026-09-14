@@ -1,5 +1,0 @@
-Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request.
-
-Given the location in the Apennine region of Italy, specifically in Crespino, we require a high-priority tasking for thermal mapping to capture a heat signature and surface temperature profile using active microwave surface imaging. This is an absolute institutional priority, as it involves a critical payload capture and mandatory directive with urgent operational execution and un-preemptable mission lock.
-
-The data must be ready by tomorrow in the morning at the latest, ensuring the products are ingested into the pipeline before this deadline.

@@ -1,1 +1,0 @@
-Request a standard operational tasking for thermal mapping of Kutai Timur, Indonesia, to capture heat signatures and surface temperature profiles around mid-day in three days. Ensure the products are ingested into our data pipeline by this deadline for routine monitoring purposes.

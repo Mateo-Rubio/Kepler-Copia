@@ -1,7 +1,0 @@
-Good day, satellite constellation planner. I'm requesting your immediate attention for a task that involves capturing thermal emissions from a specific area in Indonesia, specifically within the city of Berau. The primary sensor to be utilized is the Near-Infrared (NIR) sensor for this low-priority importance task, which will help us assess soil moisture levels and water body boundaries.
-
-Our objective is to gather high-resolution data that can provide insights into the thermal signature of the region, which includes capturing heat emissions from various surfaces. This information is crucial for environmental monitoring and agricultural assessments. We aim to achieve this by conducting an active radar scan using microwave surface imaging capabilities provided by the NIR sensor.
-
-We are requesting the data products generated from this task to be ready by tomorrow evening at the latest. Our deadline is strictly set for tomorrow's evening block, ensuring that the data will be ingested into our pipeline before the specified time. This low-priority importance task can be treated as a background survey or testbed tracking task, with flexibility in scheduling if needed.
-
-Thank you for your understanding and cooperation in fulfilling this request promptly. We appreciate your support in meeting our operational needs.

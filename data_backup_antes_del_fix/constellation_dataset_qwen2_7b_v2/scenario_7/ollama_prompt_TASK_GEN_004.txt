@@ -1,5 +1,0 @@
-Hello there! I'm reaching out to request a critical task for our Earth observation mission. We're looking to capture thermal mapping data using the TIR sensor for a location in Huasanó, Colombia. This area is of high importance, so please consider this as a binding contract requirement involving a mandatory directive.
-
-We aim to gather detailed information about heat signatures and surface temperature profiles to detect any thermal anomalies. The purpose is to ensure that our data products are ingested into the pipeline before the deadline set for [target_day] in the evening at the latest. This task falls under our low priority importance, but we kindly request that you treat it as a background survey or testbed tracking task.
-
-We appreciate your understanding and flexibility regarding this request. If there's any need to drop or reschedule, please do so at your convenience. Thank you for your attention to this matter.

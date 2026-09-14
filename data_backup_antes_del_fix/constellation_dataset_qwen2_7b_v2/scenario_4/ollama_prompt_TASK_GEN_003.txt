@@ -1,7 +1,0 @@
-Good day to our satellite constellation planners. We're looking at a request for an urgent task that involves thermal mapping of Banyuasin, Indonesia, using our TIR sensor. The geographical context is clear: we're focusing on the city of Banyuasin within the country of Indonesia. The priority level for this mission allocation is medium importance, which means it's part of our standard operational tasks with fixed parameters representing normal operational status.
-
-The primary objective here is to capture a heat signature or surface temperature profile of the region during the afternoon of the day after tomorrow. This thermal mapping aims to detect any thermal anomalies and map heat emissions, providing critical insights into the area's thermal characteristics. The deadline for data availability is strictly set for the day after tomorrow during the afternoon period.
-
-This request is part of our baseline pipeline tracking setup and will contribute to our ongoing monitoring efforts. We're aiming for high-quality data products that can be ingested into our pipeline before the deadline, ensuring timely delivery to our clients. As this is a standard operational task, we appreciate your prompt attention and efficient execution to meet these requirements.
-
-Thank you for your cooperation in handling this mission with the utmost care and professionalism.

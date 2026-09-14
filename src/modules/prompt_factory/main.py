@@ -19,15 +19,25 @@ def prompt_factory_main(
     priority_categories: Optional[List[str]] = None,
     days_categories: Optional[List[str]] = None,
     hours_categories: Optional[List[str]] = None,
-    simulation_t0: Optional[datetime] = None
+    simulation_t0: Optional[datetime] = None,
     strategy: Optional[str] = None
 ) -> Dict[str, str]:
     if prompt_config is None:
         return {}
 
-    system_instruction = prompt_config.get("system_instruction_template", "")
-    if not system_instruction:
-        raise ValueError("The YAML configuration is missing the 'system_instruction_template' key.")
+    shared_header = prompt_config.get("shared_header", "")
+    strategies = prompt_config.get("strategies", {})
+    if not strategies:
+        raise ValueError("The YAML configuration is missing the 'strategies' key.")
+
+    strategy_name = strategy or prompt_config.get("active_strategy", "zero_shot")
+    strategy_cfg = strategies.get(strategy_name)
+    if not strategy_cfg:
+        raise ValueError(
+            f"Unknown prompting strategy '{strategy_name}'. "
+            f"Available: {sorted(strategies.keys())}"
+        )
+    is_two_stage = int(strategy_cfg.get("n_calls", 1)) == 2
 
     if not sensor_categories:
         sensor_categories = {
@@ -92,13 +102,13 @@ def prompt_factory_main(
 
     fixed_now_utc = simulation_t0 if simulation_t0 is not None else datetime.now(timezone.utc)
 
-    prompts_map = generate_ollama_semantic_prompt(
+    prompts_map, stage1_map = generate_ollama_semantic_prompt(
         targets=targets,
-        system_instruction_template=system_instruction,
         strategy_cfg=strategy_cfg,
+        shared_header=shared_header,
         model_name=model_name,
         temperature=temperature,
-        now_utc=fixed_now_utc
+        now_utc=fixed_now_utc,
     )
 
     dir_path = pathlib.Path(output_dir)
@@ -119,7 +129,17 @@ def prompt_factory_main(
         task = task_lookup.get(task_id)
         if task:
             task_string = build_single_task_string(task, fixed_now_utc)
-            full_prompt_sent = system_instruction.format(tasks_dataset=task_string)
+            if is_two_stage:
+                full_prompt_sent = strategy_cfg["template_stage2"].format(
+                    shared_header=shared_header,
+                    verified_temporal_phrase=stage1_map.get(task_id, ""),
+                    tasks_dataset=task_string,
+                )
+            else:
+                full_prompt_sent = strategy_cfg["template"].format(
+                    shared_header=shared_header,
+                    tasks_dataset=task_string,
+                )
 
             raw_sensor = task.required_sensors[0] if task.required_sensors else "VISUAL"
             expected_sensor = "VISUAL" if raw_sensor == "VIS" else raw_sensor
@@ -136,7 +156,7 @@ def prompt_factory_main(
             elif remaining_hours < 60:
                 day_tag = "the day after tomorrow"
             elif remaining_hours < 84:
-                day_tag = "in three days"+
+                day_tag = "in three days"
             else:
                 day_tag = "in four days"
 
@@ -178,6 +198,7 @@ def prompt_factory_main(
             processed_tasks_list.append({
                 "task_id": task_id,
                 "prompt_sent": full_prompt_sent,
+                "stage1_phrase": stage1_map.get(task_id, ""),
                 "generated_output": clean_text,
                 "ground_truth": {
                     "expected_sensor": expected_sensor,
@@ -221,6 +242,9 @@ def prompt_factory_main(
 
         combined_payload = {
             "timestamp_utc": fixed_now_utc.strftime('%Y-%m-%dT%H:%M:%SZ'),
+            "strategy": strategy_name,
+            "model": model_name,
+            "temperature": temperature,
             "scenario_metrics": scenario_summary,
             "tasks": processed_tasks_list
         }

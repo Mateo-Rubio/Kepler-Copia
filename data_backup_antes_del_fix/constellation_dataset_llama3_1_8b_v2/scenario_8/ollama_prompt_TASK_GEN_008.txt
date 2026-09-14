@@ -1,7 +1,0 @@
-Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner:
-
-To capture a high-resolution optical snapshot of the region using multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index, we require an absolute institutional priority tasking with a binding contract requirement involving a critical payload capture. The location of interest is the Tuscany region in Italy, specifically around Greve in Chianti, where we need to observe the local vineyards and assess their health.
-
-This tasking is a mandatory directive with an urgent operational execution and un-preemptable mission lock, requiring delivery of the data products by in four days around mid-day at the latest. We must ensure the products are ingested into the pipeline before this deadline to support our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-This task is a non-essential background filler task with a flexible schedule for opportunistic capture, and we can drop or reschedule it at convenience if needed. However, given its high priority, we must prioritize its execution and ensure timely delivery of the data products.

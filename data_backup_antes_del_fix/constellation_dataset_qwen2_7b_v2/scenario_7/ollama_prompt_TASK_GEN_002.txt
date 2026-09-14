@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. We're looking to execute a critical payload capture involving an absolute institutional priority for our Earth observation mission. Our objective is to obtain high-resolution optical snapshots of Campagnatico, located in the beautiful country of Italia, with a strong emphasis on capturing clear daylight photography and true-color visual documentation.
-
-We're utilizing a near-infrared sensor for this task, which will provide us with invaluable data on water body boundaries and soil moisture assessment. The operational deadline for delivering these data products is set by the day after tomorrow, in the evening at the latest. This request is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters.
-
-Please ensure that the products are ingested into our pipeline before the deadline is met, adhering to the strict delivery timeline we've established. We appreciate your attention to this matter and look forward to receiving the data as per our requirements. Thank you for your cooperation in handling this high-importance task.

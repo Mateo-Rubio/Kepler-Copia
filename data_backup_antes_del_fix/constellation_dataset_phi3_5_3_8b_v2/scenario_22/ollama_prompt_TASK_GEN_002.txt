@@ -1,2 +1,0 @@
-I'd like to schedule a non-essential background filler task for tomorrow evening, aiming to capture high-resolution optical snapshots of Frabosa Sottana in Italy. These images are needed by the following nighttime block at the latest and can be dropped or rescheduled as per convenience since they hold low operational importance.
-```prompt

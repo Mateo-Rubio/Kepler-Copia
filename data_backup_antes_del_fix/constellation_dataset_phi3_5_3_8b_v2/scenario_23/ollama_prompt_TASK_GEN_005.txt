@@ -1,2 +1,0 @@
-We need to schedule a standard operational tasking for Sesta Godano, Italy, focusing on acquiring high-resolution optical snapshots during the afternoon within three days. This routine monitoring is part of our baseline pipeline tracking and should be completed with fixed parameters representing normal operational status. Please ensure these images are ready by tomorrow's overnight period for integration into our data processing workflow.
-```

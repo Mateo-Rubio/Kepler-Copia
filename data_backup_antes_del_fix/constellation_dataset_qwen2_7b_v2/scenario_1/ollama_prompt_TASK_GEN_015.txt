@@ -1,7 +1,0 @@
-Good day to you, automated satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a task for tomorrow, specifically around mid-day. Our priority is set to low importance, which means we're looking at a flexible schedule for opportunistic capture and treating this as a background survey or testbed tracking task.
-
-Our target location is in Indonesia, near an area described as 'Ecuatorial'. We're focusing on thermal mapping using our TIR sensor for thermal anomaly detection and mapping heat emissions. The goal here is to capture a heat signature or surface temperature profile that will help us understand the thermal dynamics of the region.
-
-We're aiming for high-quality data products needed by tomorrow around mid-day at the latest, ensuring they are ingested into our pipeline before then. This task doesn't carry the urgency of a critical payload capture or mandatory directive but is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Thank you for your attention to this request. We appreciate your cooperation in meeting our deadline and look forward to receiving the data products as planned.

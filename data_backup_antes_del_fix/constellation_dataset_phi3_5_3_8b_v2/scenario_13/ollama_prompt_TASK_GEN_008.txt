@@ -1,2 +1,0 @@
-Ensure that we secure a low priority importance task for Norte, France, with an overnight deadline. We're looking to capture near-infrared reflection data during tomorrow nighttime to map water boundaries and assess soil moisture gradients. This background survey will help us understand the area's natural resources better, but please feel free to drop or reschedule at your convenience as it's not urgent.
-```prompt

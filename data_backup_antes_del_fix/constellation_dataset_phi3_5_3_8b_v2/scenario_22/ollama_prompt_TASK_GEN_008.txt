@@ -1,2 +1,0 @@
-We need to schedule a standard operational tasking for high-resolution optical snapshot daylight photography in Tre Fasci, Italy. This is part of our routine monitoring and should be completed within the next three days during the afternoon. Ensure this data integration aligns with our baseline pipeline tracking setup, adhering to fixed parameters that represent normal operational status. The products must be ingested into the system before the deadline set for tomorrow's overnight/nighttime block.
-```

@@ -1,7 +1,0 @@
-Good day to all satellite planners and mission operators. I'm reaching out with a standard operational tasking for our automated constellation planner, focusing on a specific region in Indonesia. Our objective is to capture high-resolution optical imagery of a location known as "Ecuatorial" within the country's borders. This is part of our baseline pipeline tracking setup, utilizing fixed parameters that represent our normal operational status.
-
-We're aiming for a daylight photography snapshot, ensuring clear optical imagery and true-color visual documentation. The mission is set with a strict deadline: we need the data by the target day at the latest, which falls in three days from now, with a specific diurnal period in mind - overnight. This means our products must be ingested into the pipeline before the night of that day.
-
-This request carries medium importance and is considered standard operational tasking, with no rush or urgency beyond what's already established in our contractual agreements. We're looking for routine monitoring and a routine capture of this area, as part of our ongoing commercial tasking activities.
-
-Please proceed with scheduling this task based on these guidelines, ensuring compliance with the priority level indicated and adhering to the deadline set for data delivery. Thank you for your attention to detail and adherence to operational procedures.

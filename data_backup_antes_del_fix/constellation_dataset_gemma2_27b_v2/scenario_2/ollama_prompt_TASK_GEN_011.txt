@@ -1,1 +1,0 @@
-This is a binding contract requirement for a critical payload capture over Fobello, Italia. We need multispectral vegetation analysis of the area, specifically chlorophyll absorption level and NDVI index calculation.  Ensure the products are ingested into the pipeline before three days overnight at the latest.

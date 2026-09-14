@@ -1,5 +1,0 @@
-Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our system. We're looking to capture an active radar scan using microwave surface imaging technology for cloud-penetrating capture of ground geometry. Our target area is Norte, which falls under an unspecified country, but we'll use the region name as our geographic context.
-
-The mission allocation priority for this task is medium importance. This means it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're aiming to deliver these data products by tomorrow night at the latest, ensuring they are ingested into the pipeline before that time frame. This request does not fall under high or low priority importance; it's a standard task that aligns with our ongoing workflow updates.
-
-Thank you for your attention and cooperation in fulfilling this satellite mission requirement.

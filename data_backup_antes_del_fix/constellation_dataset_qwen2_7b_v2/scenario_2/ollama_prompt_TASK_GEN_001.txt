@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a task request for an operational priority level of low importance, which involves capturing a thermal mapping dataset using our active radar scan capabilities, specifically designed to assess surface temperature profiles and identify thermal anomalies. This mission is part of a flexible schedule background survey, intended to provide insights into heat emissions across the region.
-
-Our geographic context is centered around Colombia, with a particular focus on the city of Génova. The data collection should be executed as soon as possible, with a strict delivery deadline set for today around mid-day, ensuring the products are ingested into our pipeline before the day ends. This task doesn't require immediate attention but serves as an essential background filler for our ongoing monitoring activities.
-
-Thank you for your understanding and cooperation in fulfilling this request.

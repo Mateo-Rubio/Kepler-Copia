@@ -1,5 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a request for an Earth observation task that's of low priority importance. This task involves capturing data using the VNIR sensor for a low-resolution optical snapshot, which will serve as true-color visual documentation of the region in Indonesia, specifically around the equatorial city of Ecuatorial. The purpose is to assess chlorophyll absorption levels and calculate the vegetation NDVI index.
-
-Given its low priority status, we're treating this as a background survey task that can be scheduled flexibly or dropped at our convenience. Our deadline for the data products is set for tomorrow morning. We need these results by tomorrow's overnight block at the latest to ensure they are ingested into our pipeline before the deadline.
-
-Thank you for your understanding and cooperation in managing this task within the constraints of our operational guidelines.

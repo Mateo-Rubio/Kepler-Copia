@@ -1,8 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution for a critical payload capture involving a high-resolution optical snapshot over Colombia, specifically focusing on the city of Cumaral. We're looking to gather daylight photography, clear optical imagery, and true-color visual documentation of this area during the afternoon session on the target day, which is four days from now.
-
-This request carries a high level of importance as it's part of our baseline pipeline tracking setup with fixed parameters, representing a binding contract requirement that involves mandatory directive and an absolute institutional priority. We're setting this as an urgent operational execution with an un-preemptable mission lock to ensure the data products are ingested into our pipeline before the deadline set for the afternoon session on the target day.
-
-Please note that this task is categorized under priority level 3, indicating a critical nature and requiring immediate attention. We appreciate your understanding of the strict deadline and the importance of delivering these data products in the allocated timeframe. If there's any issue or if you need more information about the capture conditions, please feel free to reach out. Thank you for your cooperation and swift action.
-
-Best regards,
-[Your Name]

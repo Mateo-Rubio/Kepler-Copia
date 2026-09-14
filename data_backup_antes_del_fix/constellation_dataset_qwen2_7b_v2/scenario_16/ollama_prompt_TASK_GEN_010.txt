@@ -1,7 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture highly realistic, detailed data using Near-Infrared (NIR) sensors over the region of Colombia, specifically focusing on the city of Pantanillo. This request carries high importance due to its priority level, which emphasizes an absolute institutional priority and a binding contract requirement.
-
-The primary goal involves obtaining "near-infrared reflection" data for water body boundary mapping and soil moisture assessment, which will help discriminate gradients in the area. We aim to capture this essential information during the daylight hours around mid-day today, ensuring that the products are ingested into our pipeline before the day ends at nightfall.
-
-This task is a critical payload capture with an urgent operational execution, indicating that it involves mandatory directives and must be given priority over other tasks. The deadline for delivering the data products is set for today, with a strict adherence to capturing the data around mid-day. This ensures that we meet our contractual obligations and baseline pipeline tracking requirements while maintaining normal operational status.
-
-In summary, this request is for a standard operational tasking involving the capture of near-infrared data over Pantanillo, Colombia, during daylight hours today. It's a high-priority mission with an urgent deadline to deliver the required data products by nightfall.

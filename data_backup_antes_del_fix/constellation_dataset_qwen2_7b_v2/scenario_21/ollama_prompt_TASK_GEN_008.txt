@@ -1,9 +1,0 @@
-Good day to all satellite mission planners, we're looking to capture a high-resolution multispectral vegetation analysis for the region of interest in Italia, specifically around the city of Norte. We aim to assess the chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance patterns. This is part of our standard operational tasking and will be included in our baseline pipeline tracking setup.
-
-We're focusing on a routine monitoring activity that involves fixed parameters and represents our normal operational status. The request is of medium importance, so you can consider it as a standard workflow update with no urgency beyond our baseline requirements.
-
-Our priority here is to ensure the data captures are as accurate as possible without compromising the integrity of our operational schedule. We understand there might be some flexibility in scheduling this task due to its nature as a background survey or testbed tracking task.
-
-The deadline for delivering these data products is set for tomorrow, specifically during the afternoon hours. We need these data by tomorrow afternoon at the latest, ensuring they are ingested into our pipeline before the target day's afternoon period ends.
-
-Thank you for your attention to this request, and we appreciate your cooperation in meeting our operational guidelines.

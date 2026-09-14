@@ -1,8 +1,0 @@
-Good day to our satellite constellation planners. We're looking at a high-priority mission involving the capture of thermal data from Malaysia, specifically in and around the city of Tatau. This task requires us to conduct a detailed near-infrared (NIR) reflection scan, focusing on water body boundaries and soil moisture assessment for operational purposes.
-
-Our objective is to obtain highly accurate thermal mapping that captures heat signatures and surface temperature profiles, which will aid in identifying potential anomalies or gradients in the area. The need for this data is urgent; we're aiming to deliver it by tomorrow around mid-day at the latest. This task carries significant weight as part of our baseline pipeline tracking setup.
-
-Please ensure that the products are ingested into our system before the deadline set for tomorrow's mid-day period, as meeting this requirement is a binding contract requirement involving a critical payload capture. We appreciate your swift attention to this matter and look forward to receiving the data promptly. Thank you for your cooperation in this high-importance task.
-
-Best regards,
-[Your Name]

@@ -1,7 +1,0 @@
-We're looking to capture a detailed, active radar scan using microwave surface imaging technology for cloud-penetrating capture and ground geometry assessment in the region of Indonesia, specifically focusing on the city of Beringin Jaya. This is part of our standard operational tasking, representing normal pipeline tracking with fixed parameters.
-
-Given the importance of this mission, we aim to ensure that all data products are available by tomorrow around mid-day at the latest. Our operational deadline is strictly set for this day and time, ensuring that these products will be ingested into our pipeline before then.
-
-This request is categorized under medium importance, meaning it's a standard operational task with normal priority in our baseline workflow. However, we understand the urgency associated with this deadline and are prepared to allocate resources accordingly to meet this requirement without any delays or preemption of other higher-priority tasks.
-
-Please proceed with the mission allocation, taking into account these operational guidelines for maximizing naturalness and validation accuracy in your dataset.

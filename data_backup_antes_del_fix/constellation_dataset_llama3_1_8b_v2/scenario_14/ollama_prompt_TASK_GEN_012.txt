@@ -1,1 +1,0 @@
-Please conduct a thermal mapping task using the thermal infrared sensor to capture a heat signature and surface temperature profile over Ecuatorial, with a strict delivery deadline set for the day after tomorrow overnight. This is a standard operational tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.

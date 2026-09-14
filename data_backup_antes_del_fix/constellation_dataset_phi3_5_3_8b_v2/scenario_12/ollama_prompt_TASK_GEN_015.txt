@@ -1,2 +1,0 @@
-Request for a standard operational tasking to capture multispectral vegetation analysis using near-infrared reflection in Kutai Kartanegara, Indonesia. The data products are needed by tomorrow evening at the latest and should be integrated into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
-```prompt

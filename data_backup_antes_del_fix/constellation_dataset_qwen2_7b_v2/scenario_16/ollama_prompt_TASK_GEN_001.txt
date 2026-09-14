@@ -1,9 +1,0 @@
-Good day, satellite constellation planner. I'm reaching out with a standard operational tasking request for a routine monitoring activity involving a VNIR sensor. Our focus is on Santander de Quilichao, Colombia, where we're planning to capture high-resolution optical snapshots for daylight photography purposes. This involves clear optical imagery and true-color visual documentation of the area.
-
-The priority level for this mission allocation is medium importance, implying that it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're treating this as a standard workflow update, ensuring that all necessary data is gathered in line with our standard procedures.
-
-We're aiming to have these data products ready by the target day, which is three days from now, with a strict delivery deadline set for the morning hours. This means we need the satellite constellation to deliver the captured images before the end of the night on the target day.
-
-Please note that this request is part of our ongoing monitoring activities and should be treated as such. It's not an urgent operational execution or a mandatory directive, but rather a routine task that fits into our current workflow. We appreciate your attention to detail and timely delivery of these data products.
-
-Thank you for your cooperation and understanding in this matter.

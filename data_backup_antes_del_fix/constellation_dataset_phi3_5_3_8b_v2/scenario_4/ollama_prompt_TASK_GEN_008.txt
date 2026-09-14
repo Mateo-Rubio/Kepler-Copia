@@ -1,2 +1,0 @@
-We're looking to capture near-infrared reflections for water body boundary mapping in Arnoldstein, Austria. This is a non-essential background filler task aimed at discriminating gradients and requires flexibility with the schedule. The data products are needed by in three days afternoon at the latest, ensuring they're ingested into our monitoring pipeline promptly for further analysis. Feel free to drop or reschedule this request at your convenience as it is of low priority importance.
-```
