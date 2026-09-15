@@ -1,0 +1,1 @@
+We need a low priority background filler task for thermal mapping of Tuluá, Colombia. This is an opportunistic capture for a non-essential workflow update, so please drop or reschedule at your convenience. The goal is to capture a heat signature and surface temperature profile. We're aiming to have the products ingested into the pipeline before three days overnight at the latest.

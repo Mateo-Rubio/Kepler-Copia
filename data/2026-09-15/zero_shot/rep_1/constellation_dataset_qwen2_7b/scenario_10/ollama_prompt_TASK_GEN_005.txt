@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planner,
+
+I'm reaching out to request a standard operational tasking for a near-infrared (NIR) observation of Norte, Brazil. Our objective is to capture the heat signature and surface temperature profile of this region with high accuracy. We aim to assess soil moisture levels and delineate water body boundaries using this data.
+
+Given the importance of this task, we're aligning it within our baseline pipeline tracking setup, ensuring that all parameters are set for normal operational status. This request is part of our routine monitoring activities aimed at providing valuable insights into environmental conditions.
+
+We understand the urgency associated with this request and emphasize that it falls under medium importance. Therefore, please be assured that this task will not interfere with any higher priority missions. We're requesting the data products to be ready by the day after tomorrow in the morning, ensuring they are ingested into our pipeline before this deadline.
+
+Thank you for your attention to this matter, and we look forward to receiving the requested data.
+
+Best regards,
+[Your Name]

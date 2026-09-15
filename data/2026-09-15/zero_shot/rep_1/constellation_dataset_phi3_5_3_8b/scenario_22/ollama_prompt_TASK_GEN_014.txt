@@ -1,0 +1,1 @@
+We have an opportunity to capture some high-resolution optical snapshots for daylight photography in Clauzetto, Italy. This is a low priority importance background filler task that we can drop or reschedule at our convenience. The data products are needed by the day after tomorrow overnight at the latest and should be ready to ingest into our pipeline before then.

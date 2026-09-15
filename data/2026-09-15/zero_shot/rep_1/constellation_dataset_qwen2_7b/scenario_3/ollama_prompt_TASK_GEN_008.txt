@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission that's scheduled to be completed in three days, with the data needed by overnight at the latest. The primary sensor required for this task is VNIR, which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index.
+
+The geographic context involves capturing imagery of Gazzola, a city located in the beautiful country of Italia. Despite being a low priority importance request, I want to ensure that this "background survey" task receives your attention promptly.
+
+Given the operational nature of this mission, please treat it as a non-essential background filler task and feel free to drop or reschedule at your convenience if necessary. However, I'd appreciate if you could accommodate this request within the constraints provided.
+
+Thank you for your understanding and cooperation. Looking forward to receiving the data products that will contribute to our ongoing research efforts.
+
+Best regards,
+[Your Name]

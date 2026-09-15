@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out to request a mission allocation for an operational task that requires your immediate attention. We're looking at a high-resolution active radar scan using microwave surface imaging technology in the region of Colombia, specifically around the city of Nóvita. The primary objective is to capture cloud-penetrating images with exceptional clarity and detail, which will be crucial for understanding ground geometry and topography.
+
+We're aiming for a standard operational tasking that falls within our baseline pipeline tracking setup. Our fixed parameters include the use of SAR technology, which will provide us with invaluable data for our ongoing projects. The mission's priority level is set at medium importance, indicating that while it's not an urgent requirement, it carries significant value and must be executed with precision.
+
+The deadline for this task is set for four days from now, around mid-day. This means we need the data products ingested into our pipeline before the day ends, ensuring timely delivery to our users. We understand the importance of adhering to this deadline as it's a binding contract requirement and part of our standard operational status.
+
+Please schedule this request accordingly, treating it as a routine monitoring task that complements our current workflow updates. We appreciate your cooperation in handling this mission with the same level of professionalism and dedication you're known for. Thank you for your attention to detail and commitment to meeting our needs.

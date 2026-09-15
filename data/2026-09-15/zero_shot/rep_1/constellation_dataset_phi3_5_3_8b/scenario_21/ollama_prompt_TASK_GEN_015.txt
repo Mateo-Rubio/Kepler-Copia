@@ -1,0 +1,1 @@
+We need a standard operational tasking to capture multispectral vegetation analysis in Solok, Indonesia. This routine monitoring is part of our baseline pipeline tracking and must be completed within four days by the morning timeframe for data ingestion into our system. Please ensure this fits seamlessly into our current workflow without disrupting other scheduled tasks.

@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Indonesia's Ecuatorial region using our VIS sensor. Our objective is to obtain clear daylight photography and true-color visual documentation of the area, ideally representing our standard operational tasking within our baseline pipeline tracking setup.
+
+Given the importance of this request, we classify it as medium priority (Priority Level 2). This task is part of our normal operational status and represents a fixed parameter in our workflow update process. We're aiming to deliver these data products by the day after tomorrow, with a strict delivery deadline set for the morning hours. Please ensure that the products are ingested into our pipeline before this time. 
+
+If there are any issues or delays beyond our control, please kindly drop or reschedule this task at your convenience as it is a non-essential background filler task. We appreciate your understanding and cooperation in meeting these requirements.
+
+Thank you for your attention to detail and for ensuring that our mission's priorities are met with the utmost care and urgency.

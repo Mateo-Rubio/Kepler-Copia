@@ -1,0 +1,5 @@
+Tasking Request: Thermal Mapping of Tuluá, Colombia
+
+We require a high-resolution thermal snapshot of Tuluá, Colombia for thermal anomaly detection and mapping heat emissions. This is a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The data must be ready by today in the evening at the latest to ensure timely ingestion into our pipeline.

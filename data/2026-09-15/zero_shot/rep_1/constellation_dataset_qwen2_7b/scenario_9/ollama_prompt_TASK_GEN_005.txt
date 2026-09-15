@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners! We're urgently requesting a critical payload capture for an absolute institutional priority task. This mission involves thermal mapping of a specific area in the region of Italia, specifically focusing on the city of Norte. Our objective is to gather comprehensive data on heat signatures and surface temperature profiles, which will be crucial for detecting thermal anomalies and mapping heat emissions.
+
+The operational context here is that we require this high-priority tasking to be executed with utmost efficiency and precision. We're looking to leverage our TIR sensor capabilities for this mission, aiming to capture detailed thermal maps that provide us with a deep understanding of the area's thermal dynamics.
+
+Given the nature of this request, we're setting a strict deadline for data delivery. The products must be ingested into our pipeline by the latest [target_day] in the morning. This means ensuring the data is ready by tomorrow's overnight block, adhering to the operational constraints set by our system.
+
+We appreciate your team's expertise and look forward to receiving this highly realistic and conversational English request translated from the raw physical simulation metadata provided. Thank you for your attention to detail and commitment to meeting our operational guidelines.

@@ -1,0 +1,12 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out to request a task for an Earth observation mission focusing on Colombia, specifically the city of San Martín. Given the importance of this task, I would classify it as having a low priority level but still requiring our attention. The primary sensor to be utilized in this operation will be the VNIR, which will allow us to conduct a detailed multispectral vegetation analysis.
+
+The objective is to capture high-resolution optical imagery that can help assess chlorophyll absorption levels and calculate the NDVI index for the area around San Martín. This information will be crucial for environmental monitoring and agricultural management. We aim to gather this data with a flexible schedule, treating it as a low priority importance request.
+
+We need this data by the target day, which is in four days, with a strict delivery deadline set for overnight. The products should ensure that they are ingested into our pipeline before the target day's overnight period. This will allow us to process and analyze the data promptly without compromising the quality or relevance of the information.
+
+Thank you for your attention to this task. We appreciate your cooperation in ensuring that we receive the data products on time so we can contribute effectively to our ongoing projects.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,3 @@
+We're looking to capture a thermal mapping of Cerasuolo, Italy, around midday tomorrow as part of our opportunistic survey efforts. This task is considered low priority and can be dropped or rescheduled at your convenience; however, we aim to have the heat signature data ready by then for review purposes.
+```prompt
+...your text here...

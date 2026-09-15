@@ -1,0 +1,9 @@
+Good day to our satellite constellation planning team,
+
+We're reaching out with a request for a low-priority importance task, which we'd like to treat as a flexible schedule opportunity. Our focus is on Colombia, specifically in the city of Cumaral, where we aim to capture a high-resolution optical snapshot during the afternoon of tomorrow for daylight photography and true-color visual documentation. This will help us assess chlorophyll absorption levels and calculate a vegetation NDVI index.
+
+Given the nature of this request, we understand that it might not be an urgent operational execution but rather a background survey or testbed tracking task. We're treating this as a non-essential background filler task where we can drop or reschedule at convenience. Our main priority is to ensure the data products are ingested into the pipeline before tomorrow's overnight block.
+
+Please let us know if you need any further details or have questions about our request.
+
+Thank you for your attention and cooperation.

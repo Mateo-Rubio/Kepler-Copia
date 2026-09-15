@@ -1,0 +1,5 @@
+Good day to you! I'm reaching out about an interesting opportunity to capture a multispectral vegetation analysis using our VNIR sensor. This will help us assess chlorophyll absorption levels and calculate the NDVI index for a specific area in Colombia, specifically Caramanta. We're looking for a high-resolution optical snapshot that can provide clear daylight photography and true-color visual documentation of the region.
+
+We're treating this as a low priority importance request with a flexible schedule for opportunistic capture. Considering our operational constraints, we would like to ensure the data products are ingested into our pipeline before our target day, which is in three days, specifically in the evening. Please note that this deadline is strict and cannot be extended.
+
+Thank you for your understanding and cooperation. We appreciate your attention to this matter and look forward to receiving your valuable insights on this task.

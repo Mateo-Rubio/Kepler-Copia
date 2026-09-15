@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of an Earth-observation mission with a task that requires your expertise and precision. Our objective is to capture thermal mapping data using near-infrared sensors for a location in Indonesia, specifically around the Ecuatorial region. The country's geographical specifics are quite crucial here, but we've opted to focus on the broader context due to the nature of our inquiry.
+
+Our mission allocation priority is set at low importance, which means this request can be treated as a flexible schedule task that fits into our background survey or testbed tracking tasks. We're looking for a thermal signature or surface temperature profile that could help us assess soil moisture levels and water body boundaries without any strict operational urgency.
+
+The deadline for this data availability is set quite strictly; we need the products ingested into our pipeline by the day after tomorrow, specifically overnight. This ensures that the data captured meets our baseline parameters without any extensions beyond this timeframe.
+
+Thank you for your attention to detail and cooperation in fulfilling this task. We appreciate your understanding of the operational guidelines we've outlined, which aim to maximize the naturalness and validation accuracy of our dataset. Should there be any questions or clarifications needed, please feel free to reach out. 
+
+Best regards,
+[Your Name]

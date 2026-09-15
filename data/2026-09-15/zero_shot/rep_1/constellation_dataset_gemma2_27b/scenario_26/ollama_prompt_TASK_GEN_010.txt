@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Puerto López, Colombia. We need a microwave surface image of the area, capable of piercing through any cloud cover for clear ground geometry capture. Please ensure the products are ingested into the pipeline before three days in the evening at the latest.

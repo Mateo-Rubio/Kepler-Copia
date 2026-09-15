@@ -1,0 +1,3 @@
+The following task is a low priority importance, with an opportunity for flexible scheduling. We're looking to capture an active radar scan using microwave surface imaging in Cimitarra, Colombia, primarily aimed at penetrating heavy weather conditions and mapping the ground geometry. This request can be arranged around our regular workflow updates or as a background survey task. The data is needed by the day after tomorrow evening at the latest for routine monitoring purposes within our baseline pipeline tracking setup. Please feel free to drop or reschedule this task at your convenience, understanding that it serves as non-essential filler and does not impact immediate operational priorities.
+```prompt
+...your text here...

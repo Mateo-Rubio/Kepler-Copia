@@ -1,0 +1,3 @@
+Ensure a thermal mapping is conducted over Cali, Colombia, capturing heat signatures and surface temperature profiles in high detail for environmental monitoring. This task requires standard operational tracking to be completed by tomorrow morning at the latest, with data ingested into our baseline pipeline promptly. The objective aligns with routine surveillance operations aimed at detecting thermal anomalies within the region's climate patterns.
+
+```prompt

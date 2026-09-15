@@ -1,0 +1,1 @@
+We have a standard operational tasking for a near-infrared reflection mission over Rokan Hulu, Indonesia. This routine monitoring is part of our baseline pipeline tracking, focusing on soil moisture assessment to discriminate gradients effectively. The data products must be ingested into the pipeline before tomorrow around mid-day at the latest.

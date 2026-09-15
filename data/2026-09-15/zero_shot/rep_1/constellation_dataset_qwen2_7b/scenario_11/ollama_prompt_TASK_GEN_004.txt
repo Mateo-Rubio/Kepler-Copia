@@ -1,0 +1,7 @@
+Hello from the automated satellite constellation planner! We're tasked with capturing a near-infrared reflection for water body boundary mapping and soil moisture assessment in Sácama, Colombia. Our operational guidelines suggest treating this as a low priority importance request, with a flexible schedule for opportunistic capture.
+
+The goal is to gather detailed data on water bodies and soil moisture conditions using a near-infrared sensor, which will help us assess gradients and provide valuable insights into the environmental state of the area. We aim to deliver these data products by the target day, which is three days from now, with a strict delivery deadline set for overnight at the latest.
+
+Please ensure that the satellite captures this information efficiently and delivers it within the specified timeframe. This task will contribute to our baseline pipeline tracking setup and can be treated as a non-essential background filler task, allowing for some flexibility in scheduling. Thank you for your cooperation!
+
+Let's proceed with the satellite mission allocation, taking into account the operational guidelines provided. We appreciate your attention to detail and adherence to the outlined procedures.

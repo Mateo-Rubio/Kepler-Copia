@@ -1,0 +1,13 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out to request a low-priority importance task for an Earth observation mission. The goal is to capture a multispectral vegetation analysis of the region around Moncalieri, Italy, using our VNIR sensor. This involves assessing the chlorophyll absorption level and calculating the NDVI index to better understand surface reflectance patterns.
+
+Our objective is to obtain high-quality data that will serve as a background survey for future research projects. We aim to gather this information in four days, with a strict delivery deadline set for the morning of the target day. This task falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that this request has a flexible schedule and can be dropped or rescheduled at your convenience if there are more pressing tasks ahead. We appreciate your understanding and look forward to collaborating on this non-essential background filler task.
+
+Thank you for your attention, and we're looking forward to receiving the data products before the deadline is met.
+
+Best regards,
+
+[Your Name]

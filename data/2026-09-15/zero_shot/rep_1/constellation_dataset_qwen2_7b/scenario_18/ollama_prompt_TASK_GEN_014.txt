@@ -1,0 +1,20 @@
+Good day to all Earth observation mission planners,
+
+We are requesting your expert attention for a highly prioritized task involving thermal mapping operations in Resiutta, Italia. The urgency of this mission cannot be overstated as it falls under an absolute institutional priority, representing a binding contract requirement for critical payload capture.
+
+Our primary sensor requirement is the TIR (Thermal Infrared) instrument to capture heat signatures and surface temperature profiles across the region. This task aims to identify thermal anomalies and map heat emissions with precision, essential for our ongoing research into environmental changes and urban heat island effects in Resiutta.
+
+The geographical context of our mission is set within Resiutta, Italia, a location rich in cultural heritage and industrial development. We are keen on obtaining high-resolution thermal imagery that can provide detailed insights into the thermal dynamics of this area without being obscured by cloud cover or atmospheric disturbances.
+
+We need the data products needed by the target day, which is four days from now, with a strict delivery deadline set for the morning. This ensures that our team can ingest these products into the pipeline before the deadline, allowing us to analyze and interpret the data promptly.
+
+This task is not just another routine monitoring activity; it's a critical part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters. We understand the importance of adhering to deadlines and will treat this as a non-essential background filler task if necessary, noting that we may drop or reschedule at convenience.
+
+We appreciate your swift attention to this matter and look forward to receiving the data products that will contribute significantly to our understanding of Resiutta's thermal characteristics. 
+
+Thank you for your cooperation in ensuring that our mission objectives are met with the highest level of accuracy and urgency.
+
+Best regards,
+
+[Your Name]
+[Your Position]

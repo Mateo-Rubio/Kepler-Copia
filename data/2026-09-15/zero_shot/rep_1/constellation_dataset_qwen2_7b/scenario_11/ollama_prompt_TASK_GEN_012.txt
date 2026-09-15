@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking that we've deemed important for our baseline pipeline tracking. Our focus is on Indonesia, specifically the equatorial region, where we're looking to capture an active radar scan using microwave surface imaging technology. The goal here is to penetrate heavy weather conditions and gather detailed ground geometry data.
+
+We're aiming to achieve this by conducting an "active radar scan" using "microwave surface imaging" as soon as possible. This tasking requires a high level of precision and detail, which is why we've set it at medium importance. We require the data by tomorrow's overnight block at the latest, ensuring that our products are ingested into the pipeline before the deadline.
+
+This request represents a standard operational task for our satellite constellation planners, involving normal operational status and fixed parameters. Our team understands the importance of adhering to this deadline, as it's crucial for maintaining our baseline pipeline tracking setup with "normal operational status".
+
+Thank you for your attention to this matter, and we look forward to receiving the data products in a timely manner.
+
+Best regards,
+[Your Name]

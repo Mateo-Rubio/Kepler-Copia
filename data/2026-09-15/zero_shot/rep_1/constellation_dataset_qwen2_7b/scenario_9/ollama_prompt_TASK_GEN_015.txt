@@ -1,0 +1,7 @@
+Good day! I'm reaching out to request a low priority importance task for an opportunistic capture involving a VNIR sensor. Our mission aims to assess chlorophyll absorption levels and calculate the vegetation NDVI index in the region of Indonesia, specifically near the Ecuatorial city. This request is framed as a background survey or testbed tracking task with a flexible schedule.
+
+The primary objective is to gather high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation. This data will help us understand the current state of vegetation in the area, providing crucial information for environmental monitoring and management.
+
+Given the nature of this task, we're treating it as a non-essential background filler, which means that if there are more pressing tasks or unforeseen circumstances, the scheduling can be adjusted accordingly. We aim to capture these data products by tomorrow, ensuring they are ingested into our pipeline before the overnight block. This deadline is strict and cannot be extended.
+
+Thank you for your attention and cooperation in fulfilling this request.

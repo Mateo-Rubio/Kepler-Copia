@@ -1,0 +1,16 @@
+Good day to our satellite constellation planning team,
+
+We're reaching out with a standard operational tasking for an important imagery capture mission. Our focus is on Indonesia, specifically the city of Mamuju, where we're looking to gather high-resolution optical snapshots for daylight photography and clear optical imagery.
+
+Our primary sensor requirement involves capturing the essence of this region in its natural state under clear skies, which will serve as true-color visual documentation for our ongoing environmental monitoring project. The urgency here is not about timing but ensuring that the data aligns with our operational pipeline tracking setup, with fixed parameters representing normal operational status.
+
+We're requesting this capture to be executed around mid-day on the target day, which is in four days from today. This means we need the data products by then, with a strict delivery deadline set for the specified time slot to ensure they are ingested into our pipeline before that timeframe. 
+
+This request is part of our baseline workflow update, and while it's not an absolute institutional priority or a binding contract requirement, it does carry significant value in our commercial tasking and routine monitoring efforts.
+
+Please note that this is a standard operational task with a flexible schedule for opportunistic capture. We're treating it as a background survey or testbed tracking task where we can drop or reschedule at convenience if necessary.
+
+Thank you for your attention to this matter, and we look forward to your confirmation of the task's successful execution.
+
+Best regards,
+[Your Name]

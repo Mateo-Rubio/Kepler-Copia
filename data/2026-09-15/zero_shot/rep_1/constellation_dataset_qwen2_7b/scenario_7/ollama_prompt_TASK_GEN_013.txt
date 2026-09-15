@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out to request an urgent task allocation for a high-priority mission involving our primary sensor, the SAR system. We're focusing on the region of Colombia, specifically Medio San Juan city, where we aim to capture an active radar scan using microwave surface imaging technology.
+
+The objective is to penetrate heavy weather conditions and gather detailed ground geometry data for this area. This task is considered a critical payload capture with an un-preemptable mission lock due to its high importance. We're looking to execute this operation in the morning of the day after tomorrow, ensuring that the data products are ready by then.
+
+This request is part of an institutional priority, involving a binding contract requirement that necessitates immediate attention and action. We're treating this as an urgent operational execution with the highest level of authority and contractual value. Our baseline pipeline tracking setup includes fixed parameters for normal operational status and workflow updates.
+
+Please allocate the necessary resources to fulfill this mission promptly and ensure the data is delivered by the deadline set for tomorrow morning. Thank you for your immediate attention to this high-priority task.

@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of San Pablo, Colombia around midday in four days. This will serve as an opportunistic filler task for our baseline pipeline tracking. Please ensure the imagery is ready by then and feel free to drop or reschedule at your convenience if necessary.
+```prompt

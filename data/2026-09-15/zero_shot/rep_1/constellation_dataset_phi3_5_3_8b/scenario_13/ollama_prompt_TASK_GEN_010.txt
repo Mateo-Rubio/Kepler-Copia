@@ -1,0 +1,2 @@
+We have a standard operational tasking scheduled for tomorrow's morning to capture multispectral vegetation analysis in Puerto Rico, Colombia. This routine monitoring is part of our baseline pipeline tracking and must be completed within three days from now. Please ensure the data products are ingested into the system before this deadline.
+```

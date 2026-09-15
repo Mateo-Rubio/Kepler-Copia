@@ -1,0 +1,14 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Atessa"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "during the afternoon"
+}
+
+The request should be framed as an absolute institutional priority with a critical payload capture and mandatory directive, involving a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of the region of Atessa in Italy, needed by tomorrow afternoon at the latest.

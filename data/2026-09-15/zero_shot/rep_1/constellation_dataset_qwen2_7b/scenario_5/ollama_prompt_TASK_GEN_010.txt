@@ -1,0 +1,12 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out with a task request for an Earth observation mission, focusing on an area of interest in Colombia. Specifically, I'm looking at Buenaventura, a city nestled within this beautiful country. Our objective is to capture near-infrared (NIR) data that will help us map water body boundaries and assess soil moisture levels, which is crucial for our ongoing environmental monitoring project.
+
+Given the importance of our work, this request carries a low priority importance level, allowing us to be flexible with scheduling while ensuring the task is still completed promptly. The deadline for delivering the data products is set for today, with the strict requirement that they should be ingested into our pipeline before the evening timeframe. This means we need the data ready by tomorrow's overnight block.
+
+We aim to obtain a high-resolution optical snapshot of the region during daylight hours as well, but this secondary task is not as critical as capturing the near-infrared data. We understand that this might require some flexibility in scheduling, so please drop or reschedule this background survey or testbed tracking task at your convenience.
+
+Thank you for your attention and cooperation in ensuring our mission objectives are met with the highest level of accuracy and efficiency possible.
+
+Best regards,
+[Your Name]

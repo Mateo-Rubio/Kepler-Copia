@@ -1,0 +1,3 @@
+We're looking to schedule an active radar scan using microwave surface imaging in Uribe, Colombia, with a low priority importance. We aim to capture cloud-penetrating images and assess ground geometry within the next three days by tomorrow morning at the latest. This task will serve as opportunistic survey data collection that can be dropped or rescheduled according to operational convenience.
+```prompt
+...your text here...

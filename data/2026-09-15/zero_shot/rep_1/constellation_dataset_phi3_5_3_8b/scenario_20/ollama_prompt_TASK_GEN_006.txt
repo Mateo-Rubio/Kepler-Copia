@@ -1,0 +1,2 @@
+We require a thermal mapping of Sekadau, Indonesia, to capture heat signatures and surface temperature profiles during tomorrow's afternoon. This task is part of our standard operational tracking setup with fixed parameters representing normal operational status. The data must be ready for ingestion into the pipeline by the end of the day after tomorrow afternoon at the latest.
+```

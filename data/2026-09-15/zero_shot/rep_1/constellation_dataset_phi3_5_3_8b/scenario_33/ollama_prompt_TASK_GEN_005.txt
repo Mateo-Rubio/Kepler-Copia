@@ -1,0 +1,2 @@
+We need a SAR radar scan of Arezzo, Italy, for cloud-penetrating capture and ground geometry analysis. This is a non-essential background filler task that can be dropped or rescheduled at our convenience, with the understanding that it's not urgent but still beneficial. Please ensure this task aligns with our standard operational tracking setup, aiming for completion in three days by tomorrow morning to maintain our workflow update timeline.
+```prompt

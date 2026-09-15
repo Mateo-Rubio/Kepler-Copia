@@ -1,0 +1,1 @@
+Please task the satellite to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture during the afternoon of tomorrow. This is a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data must be ready by tomorrow's afternoon at the latest.

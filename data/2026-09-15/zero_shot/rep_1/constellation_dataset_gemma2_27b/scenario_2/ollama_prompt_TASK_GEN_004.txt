@@ -1,0 +1,1 @@
+Schedule a low priority, opportunistic capture of the Nóvita region in Colombia using active radar scanning.  We need this data ingested into the pipeline before in four days around mid-day at the latest. I'd like to drop or reschedule this task at your convenience.

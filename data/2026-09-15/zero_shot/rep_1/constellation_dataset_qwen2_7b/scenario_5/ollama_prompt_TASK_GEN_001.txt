@@ -1,0 +1,5 @@
+Good day! We're tasked with a standard operational task for our satellite constellation. The mission involves capturing high-resolution multispectral vegetation analysis data using VNIR sensors over Colombia, specifically in the city of Curití. Our primary objective is to assess the chlorophyll absorption levels and calculate the NDVI index along with surface reflectance for this region.
+
+This request is part of our baseline pipeline tracking setup with fixed parameters, representing our normal operational status. We're aiming to deliver these data products by the day after tomorrow, in the evening at the latest. This deadline is crucial for updating our background survey and ensuring the information is promptly available for further analysis.
+
+We appreciate your understanding and cooperation in meeting this requirement. If any issues arise or if there's a need for adjustments, please let us know so we can make necessary arrangements without compromising the quality of our service. Thank you!

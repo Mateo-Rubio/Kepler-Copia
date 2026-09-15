@@ -1,0 +1,1 @@
+Ensure that a thermal mapping task is scheduled for Norte, capturing heat signatures during tomorrow's overnight period. This non-essential background filler task can be dropped or rescheduled at your convenience, with the aim of detecting any potential thermal anomalies and establishing a surface temperature profile within our Earth observation satellite constellation.

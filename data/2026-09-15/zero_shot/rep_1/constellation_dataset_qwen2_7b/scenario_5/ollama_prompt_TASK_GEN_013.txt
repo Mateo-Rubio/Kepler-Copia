@@ -1,0 +1,5 @@
+Good day, satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Andina, Colombia, using our visible light sensor. This is an absolute institutional priority, as it involves capturing critical data for environmental monitoring and disaster response in the region. With the deadline set by tomorrow's afternoon at the latest, we aim to provide clear optical imagery that will help us document the area accurately, ensuring no cloud cover obstructs our view.
+
+We're deploying this mission with a sense of urgency, as it's part of our baseline pipeline tracking setup for commercial tasking and routine monitoring. The data products need to be ingested into our system before we move forward with any other tasks. Given the importance of this request, please treat it as an un-preemptable mission lock, ensuring that no other tasks will interfere with its execution.
+
+Thank you for your attention to this matter. We appreciate your swift action in meeting our deadline and delivering the data products as required.

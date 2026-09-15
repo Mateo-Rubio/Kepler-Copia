@@ -1,0 +1,3 @@
+I have a low-priority task that I'd like to schedule for an opportunistic capture. We're looking at Norte, and while we don't have specific country details, this should still be manageable. The focus is on using near-infrared reflection capabilities to map water body boundaries or assess soil moisture levels in the area.
+
+This is a non-essential background filler task, so please feel free to drop or reschedule it at your convenience. However, I would appreciate it if we could ensure the data products are ingested into the pipeline before morning in four days. Thank you for accommodating this flexible schedule!

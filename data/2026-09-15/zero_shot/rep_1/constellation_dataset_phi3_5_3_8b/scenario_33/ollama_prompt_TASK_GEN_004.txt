@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflection for water body boundary mapping in Zetaquira, Colombia. This is a non-essential background filler task scheduled for tomorrow morning at the latest. Please ensure that this data can be ingested into our pipeline before then, as it will not affect any critical operational timelines. Feel free to drop or reschedule if necessary due to its low priority importance.
+```

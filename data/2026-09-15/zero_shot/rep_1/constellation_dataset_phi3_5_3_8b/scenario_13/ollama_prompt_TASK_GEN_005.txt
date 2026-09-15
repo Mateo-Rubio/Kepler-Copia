@@ -1,0 +1,2 @@
+We need a flexible schedule for an opportunistic capture task in Norte, focusing on active radar scanning using microwave surface imaging to penetrate any heavy weather conditions and accurately map the ground geometry. This background survey is not urgent but must be ready by tomorrow's morning block at the latest. Please ensure this does not interfere with our immediate priorities, as it can be rescheduled or dropped if necessary.
+```prompt

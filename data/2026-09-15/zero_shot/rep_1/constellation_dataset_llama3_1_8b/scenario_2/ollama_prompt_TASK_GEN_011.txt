@@ -1,0 +1,1 @@
+Obtain a high-resolution optical snapshot of the vegetation health in Fobello, Italia, using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index by the morning in three days at the latest.

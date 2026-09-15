@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission that needs to be executed within the next three days, by tomorrow's overnight period at the latest. The operation involves capturing data using a VNIR sensor over San Martín, Colombia, which is part of our flexible schedule for opportunistic capture tasks.
+
+Our objective is to perform a multispectral vegetation analysis to assess the chlorophyll absorption level and calculate the NDVI index, as well as surface reflectance. This task falls under our low priority importance request, where we explicitly note that it can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+Please ensure that the products are ingested into the pipeline before our deadline set for [target_day] overnight period. We appreciate your understanding of this operational context and look forward to your confirmation on the execution of this mission allocation.
+
+Thank you,
+[Your Name]

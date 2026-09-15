@@ -1,0 +1,1 @@
+This is a low priority importance tasking for opportunistic capture. We need thermal mapping of the industrial area near Bontang, Indonesia.  Please ensure the products are ingested into the pipeline before three days in the evening at the latest. Drop or reschedule at convenience if other tasks require higher priority.

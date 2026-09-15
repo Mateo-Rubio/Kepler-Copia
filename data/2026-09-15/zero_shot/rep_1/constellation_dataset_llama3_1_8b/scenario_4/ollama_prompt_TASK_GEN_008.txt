@@ -1,0 +1,1 @@
+We need to conduct a near-infrared reflection survey for soil moisture assessment and water body boundary mapping in Arnoldstein, Austria, with a flexible schedule for opportunistic capture. This task is of low priority importance and can be dropped or rescheduled at convenience. We aim to have the data products ingested into the pipeline before in three days overnight.

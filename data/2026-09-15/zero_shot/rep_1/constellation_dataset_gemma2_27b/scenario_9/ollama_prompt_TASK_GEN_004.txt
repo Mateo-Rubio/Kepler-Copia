@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need thermal mapping of the city of San Martín in Colombia. Ensure the products are ingested into the pipeline before the day after tomorrow during the afternoon at the latest.

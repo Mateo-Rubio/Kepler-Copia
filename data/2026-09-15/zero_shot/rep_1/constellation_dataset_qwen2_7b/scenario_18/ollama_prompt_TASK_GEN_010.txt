@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm reaching out with a task request that involves capturing thermal data from Colombia, specifically focusing on the city of Concepción. Given its importance for our ongoing monitoring efforts, this request is marked as having low priority importance.
+
+The primary sensor we're utilizing in this mission is Thermal Infrared (TIR), which will enable us to capture heat signatures and surface temperature profiles across the region. Our goal is to gather detailed thermal mapping data that can help us detect any anomalies or heat emissions efficiently.
+
+Considering the operational guidelines, I'd like to ensure that the data products are ready by tomorrow during the afternoon at the latest. This deadline is critical for our baseline pipeline tracking setup, as it represents a standard workflow update without any deviation from our normal operational status.
+
+Please note that this task is part of a non-essential background filler task and can be dropped or rescheduled at your convenience if there are more pressing matters to attend to. Our objective is to perform opportunistic capture for this background survey, treating it as a testbed tracking task.
+
+Thank you for your attention to this matter, and I look forward to receiving the data products that will contribute to our understanding of the region's thermal dynamics. Please let me know if you require any additional information or clarification on this request.

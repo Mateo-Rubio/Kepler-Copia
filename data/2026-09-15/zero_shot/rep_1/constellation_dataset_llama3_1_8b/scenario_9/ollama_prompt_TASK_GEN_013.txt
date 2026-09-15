@@ -1,0 +1,3 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner:
+
+We require an absolute institutional priority tasking to capture high-resolution optical snapshots of the region using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. The location is in Colombia, specifically in Cumaral. This critical payload capture must be executed as part of a binding contract requirement with a strict delivery deadline set for in four days overnight at the latest.

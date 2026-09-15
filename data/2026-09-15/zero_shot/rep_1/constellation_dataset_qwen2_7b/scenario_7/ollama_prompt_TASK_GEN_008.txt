@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Quincinetto, Italia, ideally in the evening, three days from today. This is a low priority importance task, with flexible scheduling for opportunistic capture. We aim to document clear optical imagery and true-color visual documentation of the area, which would be an excellent testbed tracking task for our systems. We're not in a rush for this data; it's more about gathering information than meeting an urgent deadline.
+
+Please ensure that the products are ingested into our pipeline before the specified evening timeframe on the target day. If there are any issues with capturing the imagery or if the conditions aren't optimal, please drop or reschedule this task at your convenience. We appreciate your understanding and flexibility in handling this background survey request.
+
+Thank you for your assistance in this matter.

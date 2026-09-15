@@ -1,0 +1,2 @@
+Request a non-essential background filler task for multispectral vegetation analysis in Nunchía, Colombia, with an objective to assess chlorophyll absorption levels or calculate the Normalized Difference Vegetation Index (NDVI). The data products are needed by the day after tomorrow around mid-day at the latest. Please drop or reschedule this task according to convenience as it's of low priority importance.
+```

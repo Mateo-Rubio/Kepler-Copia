@@ -1,0 +1,5 @@
+Hello there, satellite constellation planner! I'm reaching out to request an operational task from your team. We're looking for a high-resolution optical snapshot of Blera, which is nestled in the beautiful countryside of Italia. The imagery should be clear and true-color visual documentation that captures every detail of this picturesque town. Our objective is to assess its landscape and urban development through daylight photography.
+
+This request carries a low priority importance, so we're treating it as a flexible schedule task for opportunistic capture. We understand that this might not be an urgent mission, but we would appreciate if you could schedule the satellite capture in your pipeline with a non-essential background filler task mindset. We aim to have these data products ready by the target day, which is in four days, with a strict delivery deadline set for the morning. This ensures they are ingested into our pipeline before that time.
+
+Thank you for your understanding and cooperation! We appreciate your support in making this survey possible.

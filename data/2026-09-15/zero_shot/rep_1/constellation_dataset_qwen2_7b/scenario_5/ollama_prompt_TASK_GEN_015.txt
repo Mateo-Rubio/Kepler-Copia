@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. We're in urgent need of an absolute institutional priority task involving a critical payload capture for our client in Indonesia, specifically focusing on the equatorial city of Ecuatorial. The mission's priority level is marked as 'High Importance', reflecting its binding contract requirement and the necessity for an "urgent operational execution" that cannot be pre-empted.
+
+Our primary sensor requirement is a Near-Infrared (NIR) observation to map water body boundaries and assess soil moisture levels, essential for understanding environmental conditions. The operational objective here is to capture detailed information on water bodies and soil moisture content, which will contribute significantly to our client's decision-making process.
+
+We're requesting this task to be executed with the strictest deadline set for "tomorrow overnight", meaning the data products must be ingested into the pipeline before the start of tomorrow's night. This deadline is a critical parameter that cannot be altered or extended; it marks the upper limit for data availability.
+
+This request is part of our standard operational tasking, representing a commercial tasking with fixed parameters that are integral to our baseline pipeline tracking setup. The 'High Importance' priority level underlines its status as a "critical payload capture" and "mandatory directive", emphasizing its importance in maintaining normal operational status and updating our workflow.
+
+Please ensure this mission is allocated the highest priority and executed accordingly, as it involves a "critical payload capture" essential for our client's requirements. Your swift action in fulfilling this task will be greatly appreciated. Thank you.

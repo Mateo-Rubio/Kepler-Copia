@@ -1,0 +1,7 @@
+Tasking Request for Satellite Constellation Planner
+
+We require a standard operational tasking for commercial purposes, involving routine monitoring as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is for a standard workflow update.
+
+The location of interest is the city of Roma in Italia, where we need to capture an active radar scan using microwave surface imaging for cloud-penetrating capture, piercing heavy weather or capturing ground geometry, as part of our multispectral analysis.
+
+This tasking is needed by tomorrow in the evening at the latest. It is a standard operational tasking with a strict delivery deadline set for tomorrow in the evening.

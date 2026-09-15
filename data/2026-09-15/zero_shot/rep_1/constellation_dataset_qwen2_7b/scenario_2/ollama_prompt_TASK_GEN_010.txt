@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a request for an operational tasking that involves capturing a near-infrared (NIR) reflection snapshot of a specific location in Colombia. Our target area is the city of Cimitarra, which is known for its lush landscapes and agricultural fields. The primary objective here is to map water body boundaries and assess soil moisture levels, which are crucial for ongoing environmental monitoring and agricultural management.
+
+Given the importance of this task, we're designating it as a low priority importance request, indicating that while it's essential, we understand there might be some flexibility in scheduling. We recognize that this is a background survey or testbed tracking task that doesn't require immediate attention but should be accommodated within your operational pipeline.
+
+We're looking for a high-quality near-infrared image that can provide us with detailed information on water bodies and soil moisture content. This will help us understand the current conditions and make informed decisions about resource allocation and environmental conservation efforts.
+
+Please ensure that the products are ingested into our pipeline before today's afternoon, as we need this data by then to meet our internal deadlines. We appreciate your cooperation and understanding in meeting this deadline, as it is critical for our ongoing monitoring activities.
+
+Thank you for your attention to this matter, and we look forward to receiving the requested imagery in due course.
+
+Best regards,
+[Your Name]

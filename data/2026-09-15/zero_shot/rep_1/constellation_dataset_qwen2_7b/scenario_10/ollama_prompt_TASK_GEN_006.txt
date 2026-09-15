@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. We're looking to capture a detailed view of Simabur, Indonesia's urban landscape using our VNIR sensor for a standard operational tasking. Our interest lies in assessing the chlorophyll absorption levels across various vegetation patches within this region, which will help us calculate the vegetation NDVI index and surface reflectance. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're aiming to deliver these data products by the target day, three days from now, in the morning at the latest. This deadline is critical for ensuring timely updates in our workflow and maintaining standard performance metrics. Our request holds medium importance, aligning with our commercial tasking requirements.
+
+Please ensure that the data is ready before the target day and in the specified diurnal period to meet our operational needs without any delays. We appreciate your cooperation in meeting this deadline and look forward to receiving the captured data as soon as possible.
+
+Thank you for your attention to this matter.

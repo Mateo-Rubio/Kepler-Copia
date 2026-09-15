@@ -1,0 +1,2 @@
+We're looking to gather multispectral vegetation data from San Martín, Colombia, using high-resolution optical snapshots for daylight photography. This is a non-essential background filler task with a flexible schedule; please drop or reschedule at your convenience. Ensure the products are ingested into our pipeline before four days overnight to maintain workflow efficiency.
+```

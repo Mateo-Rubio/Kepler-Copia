@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Tame, Colombia, using our VNIR sensor for daylight photography purposes. This is part of our standard operational tasking and will be treated with the importance it deserves. Our baseline pipeline tracking setup demands fixed parameters that represent normal operational status.
+
+We need this imagery by tomorrow's evening at the latest, ensuring the products are ingested into the pipeline before then. With a strict delivery deadline set for tomorrow evening, we're confident this request will align well within our routine monitoring activities without causing any disruptions to our baseline workflow updates.
+
+Thank you for your attention and please let us know if there are any questions or adjustments needed in this request.

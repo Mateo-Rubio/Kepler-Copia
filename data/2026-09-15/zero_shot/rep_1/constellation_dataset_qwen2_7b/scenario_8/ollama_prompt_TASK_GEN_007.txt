@@ -1,0 +1,7 @@
+We're tasked with capturing a thermal mapping of the Tuluá region in Colombia, focusing on its heat signature and surface temperature profiles. This is a standard operational tasking that involves using our thermal imaging sensor to gather crucial data for detecting thermal anomalies and mapping heat emissions.
+
+Given the importance of this mission, we aim to deliver the results by tomorrow evening at the latest, ensuring they are ingested into our pipeline before then. Our primary objective is to provide high-resolution thermal imagery that will help us understand the thermal dynamics of the area without being hindered by cloud cover or other atmospheric conditions.
+
+With a priority level of medium importance and fixed parameters set for this task, we're committed to delivering this data as part of our baseline pipeline tracking setup. We'll be using standard operational phrases and procedures to ensure that this request is treated with the appropriate level of professionalism and urgency, while maintaining normal operational status within our workflow.
+
+We appreciate your understanding and cooperation in meeting this deadline, which is critical for our ongoing monitoring and analysis efforts. Thank you for considering this request.

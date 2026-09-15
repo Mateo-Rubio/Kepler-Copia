@@ -1,0 +1,11 @@
+Good day! I'm reaching out on behalf of an Earth-observation mission operator, requesting a highly realistic and conversational English task for our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a single request that maximizes naturalness and validation accuracy.
+
+Our geographic context involves capturing a high-resolution optical snapshot over Pura Sajau, Indonesia. This location is chosen because of its unique landscape and potential environmental significance, which requires a true-color visual documentation for further analysis.
+
+The mission allocation priority level for this task is set at low importance. We're treating it as a non-essential background filler task with a flexible schedule, allowing us to drop or reschedule it at our convenience. This request aligns well within our baseline pipeline tracking setup, acting as a background survey or testbed tracking task.
+
+The primary sensor involved in this observation is VIS (visual imagery), which will provide us with daylight photography, clear optical imagery, and true-color visual documentation of the region. This data will help us assess various environmental factors and make informed decisions based on the gathered information.
+
+The relative timeframes for this request are critical. We need the data products by the day after tomorrow, specifically overnight at the latest. This deadline is set to ensure that our pipeline ingests these products before the specified time, adhering strictly to our operational guidelines without altering or extending the deadline.
+
+Thank you for your attention and understanding in processing this request promptly and efficiently. We look forward to receiving the data that will contribute to our ongoing efforts in environmental monitoring and research.

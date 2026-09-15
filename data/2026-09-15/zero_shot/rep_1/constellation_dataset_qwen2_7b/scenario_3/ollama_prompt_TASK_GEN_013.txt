@@ -1,0 +1,11 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our mission to request a highly prioritized task due to its critical nature and contractual obligations. Our objective is to capture detailed data related to soil moisture assessment for a specific area in Colombia, focusing on Santa Rosa del Sur city.
+
+We're utilizing the Near-Infrared (NIR) sensor to gather information about soil moisture levels, which will help us understand gradients and patterns across the region. The data collection should be executed as an active radar scan using microwave surface imaging technology, allowing for cloud-penetrating capture of ground geometry even under heavy weather conditions.
+
+The location we're focusing on is Santa Rosa del Sur, a city in Colombia that, while not being a landmark, is situated within the country's rich agricultural landscape. This task is of utmost importance and requires an authoritative approach to ensure its successful execution.
+
+The deadline for this task is set for four days from now, with a strict delivery deadline by the time of overnight/nighttime block on the target day. We are treating this as an urgent operational execution that cannot be pre-empted or rescheduled. Our priority level reflects the binding contract requirement involving a critical payload capture.
+
+Please ensure that the data products are ingested into our pipeline before the specified deadline to meet our operational requirements. This task is essential for background surveying and will contribute to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention and swift action in fulfilling this request. We appreciate your cooperation in delivering the highest quality data products on time.

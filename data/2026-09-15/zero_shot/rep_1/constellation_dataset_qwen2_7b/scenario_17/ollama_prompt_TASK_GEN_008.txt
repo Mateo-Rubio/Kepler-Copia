@@ -1,0 +1,9 @@
+Good day to our satellite constellation planners, we're looking at a medium importance task for our team in Italia, specifically Giugliano in Campania. The mission allocation priority is set to 'standard operational tasking', which means this request falls into the baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor requirement is an active radar scan using microwave surface imaging, designed to capture cloud-penetrating data that pierces through heavy weather conditions or reveals ground geometry. This mission aims to provide us with a detailed view of the area around mid-day on the day three days from today.
+
+We're looking for high-resolution imagery that can be used for critical decision-making processes. The deadline for delivering this data is set by the target day at the latest, ensuring that the products are ingested into our pipeline before the specified mid-day timeframe. This task is part of our routine monitoring efforts and will contribute to our ongoing baseline pipeline tracking setup.
+
+Please note that this mission is considered standard operational tasking with normal parameters and does not require any pre-emptive action or urgent execution. The priority level indicates a 'medium importance' request, allowing for flexible scheduling but emphasizing the need to prioritize this task within the established deadline.
+
+Thank you for your attention, and we look forward to receiving the required data products by the specified timeframe.

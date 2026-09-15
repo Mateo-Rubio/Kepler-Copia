@@ -1,0 +1,1 @@
+Ensure we have a low priority importance task scheduled for tomorrow night, aiming to capture near-infrared reflections primarily for water body boundary mapping around Sácama in Colombia. This is an opportunistic capture that can be dropped or rescheduled at our convenience, serving as a background survey and not urgent institutional requirement.

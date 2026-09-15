@@ -1,0 +1,13 @@
+Good day to our satellite constellation team,
+
+We're reaching out with a standard operational tasking for our commercial tracking pipeline. Our focus is on capturing thermal data using near-infrared (NIR) sensors, which will help us assess soil moisture levels and map water body boundaries around the region of Schweiz/Suisse/Svizzera/Svizra, specifically in the city of Rheinwald.
+
+The primary objective is to obtain high-resolution optical snapshots for daylight photography and true-color visual documentation, complemented by the thermal mapping capabilities provided by our NIR sensor. We aim to capture these data points at mid-day on the target day, which is four days from now, ensuring the products are ingested into the pipeline before the deadline set for that day.
+
+This request falls under a standard operational status with fixed parameters representing normal operational tasks. We kindly ask that you prioritize this task appropriately within your workflow updates and consider it as part of our baseline pipeline tracking setup.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products in due time.
+
+Best regards,
+
+[Your Name]

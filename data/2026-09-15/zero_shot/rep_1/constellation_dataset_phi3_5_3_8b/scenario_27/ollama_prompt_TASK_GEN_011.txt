@@ -1,0 +1,1 @@
+We need to schedule a thermal mapping session over Norte, France in three days during the afternoon. This routine monitoring task is part of our baseline pipeline tracking and requires standard operational attention for surface temperature profile analysis by then latest. Ensure these data products are ingested into the workflow before the deadline.

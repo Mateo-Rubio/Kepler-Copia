@@ -1,0 +1,10 @@
+Good day to all satellite planners and operators,
+
+I'm reaching out with a standard operational tasking request for a high-resolution optical snapshot of Zipaquirá, Colombia. This daylight photography mission aims to capture clear optical imagery and true-color visual documentation of the area, which is part of our baseline pipeline tracking setup. The request involves fixed parameters representing normal operational status and will be treated as a routine monitoring activity.
+
+Please ensure that the data products are ingested into the pipeline by the target day, which is in four days, with a strict delivery deadline set for the morning of that day. This tasking is part of our standard workflow update and does not require any special considerations.
+
+Thank you for your attention to this request. We appreciate your professional handling of this standard operational task.
+
+Best regards,
+[Your Name]

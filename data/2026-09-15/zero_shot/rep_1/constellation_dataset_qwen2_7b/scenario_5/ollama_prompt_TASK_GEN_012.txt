@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planners,
+
+We're looking to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia, specifically focusing on daylight photography and clear optical imagery. This is part of our standard operational tasking for baseline pipeline tracking, ensuring we have fixed parameters representing our normal operational status.
+
+Given the importance of this request, it falls under priority level 2, which means it's a standard operational task with a fixed schedule that doesn't allow for any preemption or delay. We aim to deliver the data products by tomorrow night at the latest, ensuring they're ingested into the pipeline before we reach our target day.
+
+Please note that the deadline we've set is strictly "tomorrow overnight" and cannot be extended under any circumstances. This task is crucial for our ongoing monitoring efforts and is part of our standard workflow updates.
+
+Thank you for your attention to this matter, and we look forward to the successful execution of this mission.
+
+Best regards,
+[Your Name]

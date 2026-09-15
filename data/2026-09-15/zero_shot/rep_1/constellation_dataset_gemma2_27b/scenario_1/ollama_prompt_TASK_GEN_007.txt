@@ -1,0 +1,1 @@
+This is a low priority importance request for opportunistic capture of near-infrared reflection data over Mesetas, Colombia. I need this data ingested into the pipeline before this evening at the latest.

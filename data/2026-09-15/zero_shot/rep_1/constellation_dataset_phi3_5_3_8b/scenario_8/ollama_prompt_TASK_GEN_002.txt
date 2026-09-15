@@ -1,0 +1,2 @@
+Ensure that we conduct an active radar scan using microwave surface imaging in Gordona, Italy, to capture ground geometry and penetrate through any heavy weather. This task is of low priority importance; therefore, it can be scheduled flexibly with a strict delivery deadline set for the day after tomorrow evening at the latest. If necessary, this background survey may need to be dropped or rescheduled according to convenience.
+```

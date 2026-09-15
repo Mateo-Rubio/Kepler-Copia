@@ -1,0 +1,12 @@
+Good day, satellite mission planner,
+
+I'm reaching out with a task request for an Earth observation mission that requires your expertise and assistance. We're looking to capture data using a Near-Infrared (NIR) sensor for a specific location in Norte, which is part of our broader monitoring efforts.
+
+The geographic context here involves Norte, though we're not specifying the exact city as it's not available. Our primary objective is to gather information about water body boundaries and soil moisture levels, essential for our ongoing environmental studies.
+
+Given the priority level of this task, I'm treating it as a low importance request with a flexible schedule. We're looking to capture this data opportunistically, ensuring that the products are ingested into our pipeline before we need them by the target day in the morning at the latest. This means we're aiming to have the data ready by tomorrow's overnight block.
+
+Please proceed with your standard operational tasking for this request and let me know if you require any additional information or resources to execute this mission successfully. Thank you for your attention and cooperation.
+
+Best regards,
+[Your Name]

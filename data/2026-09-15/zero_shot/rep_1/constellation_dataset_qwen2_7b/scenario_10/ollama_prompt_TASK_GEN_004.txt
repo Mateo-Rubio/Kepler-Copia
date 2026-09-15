@@ -1,0 +1,12 @@
+Hello there,
+
+I'm reaching out from the Earth Observation Mission Control Center to request your expertise in capturing a high-resolution optical snapshot of San Vicente del Caguán, Colombia. This is a low priority importance task that requires no rush for delivery; you can drop or reschedule it at your convenience as a background survey or testbed tracking task.
+
+The primary objective is to gather clear daylight photography and true-color visual documentation of the area for our baseline pipeline tracking setup with fixed parameters representing normal operational status. Our goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index, as well as surface reflectance.
+
+We're targeting the day after tomorrow, ensuring that the products are ingested into the pipeline before around mid-day. This deadline is strictly non-negotiable, so please ensure that your satellite constellation is ready for this task by then.
+
+Thank you for your understanding and cooperation in fulfilling this request.
+
+Best regards,
+Earth Observation Mission Operator

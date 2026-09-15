@@ -1,0 +1,14 @@
+Good day, our satellite constellation team,
+
+We're reaching out with a task request that's of low priority importance, which we're scheduling as a background survey. We're looking to capture an active radar scan using microwave surface imaging technology to gather data for a specific area in Indonesia, specifically the region of Kubu Raya, which is located within the country.
+
+Our objective involves cloud-penetrating capture, allowing us to gather ground geometry information without being hindered by heavy weather conditions. This task aims to assess the physical landscape accurately and efficiently.
+
+We're targeting this request for a delivery deadline set for three days from now, with a strict requirement that the data products are ingested into our pipeline before the evening timeframe on that day. This ensures that we can promptly process and analyze the information without any delays.
+
+Please note that this task is part of a flexible schedule and may be dropped or rescheduled at your convenience if needed. We appreciate your cooperation in ensuring this request aligns with your operational priorities and deadlines.
+
+Thank you for your understanding and support in fulfilling our needs. We look forward to receiving the data products as per our agreed-upon timeframe.
+
+Best regards,
+[Your Name]

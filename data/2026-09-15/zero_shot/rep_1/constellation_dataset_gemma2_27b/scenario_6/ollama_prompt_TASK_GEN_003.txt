@@ -1,0 +1,1 @@
+We need a low priority, opportunistic capture of thermal mapping data over Malinau, Indonesia. This is a non-essential background filler task and can be dropped or rescheduled at your convenience.  Please ensure the products are ingested into the pipeline before the day after tomorrow overnight at the latest.

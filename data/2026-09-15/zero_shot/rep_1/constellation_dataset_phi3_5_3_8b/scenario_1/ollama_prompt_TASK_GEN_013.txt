@@ -1,0 +1,2 @@
+The next scheduled overnight window is approaching, and I'm looking to gather near-infrared reflection data for water body boundary mapping in Santa Rosa del Sur, Colombia. This task has a low priority importance; it can be dropped or rescheduled at my convenience as part of our routine survey operations. The high-resolution optical snapshot needed by the day after tomorrow overnight is essential for updating our current baseline pipeline tracking setup with fixed parameters.
+```prompt

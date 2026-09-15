@@ -1,0 +1,2 @@
+Ensure that we conduct a thermal mapping session in Norte, taking advantage of the warmth signatures emitted by the ground to detect any unusual heat patterns. This task is recognized as low priority importance; therefore, it can be scheduled flexibly and should ideally be completed within three days during the evening hours at the latest. If necessary due to unforeseen circumstances, please feel free to postpone this background survey or testbed tracking task until a more suitable time arises.
+```

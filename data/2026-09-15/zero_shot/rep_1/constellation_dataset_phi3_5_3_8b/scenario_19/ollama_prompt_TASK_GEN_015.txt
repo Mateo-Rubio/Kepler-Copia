@@ -1,0 +1,2 @@
+We need a thermal mapping task for Desa Muaro Sentajo in Indonesia, aiming to capture heat signatures and surface temperature profiles. This is part of our routine monitoring with fixed parameters representing normal operational status. The data must be ready by tomorrow's afternoon at the latest, ensuring it integrates seamlessly into our baseline pipeline tracking setup.
+```

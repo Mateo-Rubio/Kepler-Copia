@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Otanche, Colombia. We need cloud-penetrating capture using microwave surface imaging to assess ground geometry. Please ensure the products are ingested into the pipeline before tomorrow's overnight/nighttime block at the latest.

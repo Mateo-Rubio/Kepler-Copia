@@ -1,0 +1,3 @@
+I would like to request a satellite task for capturing near-infrared reflection imagery over Bangka Selatan, Indonesia. This mission is part of our standard operational tasking and involves routine monitoring as part of our baseline pipeline tracking. The objective is to assess soil moisture levels and discriminate gradients, which is essential for our ongoing environmental analysis.
+
+Please ensure that the data products are delivered with a strict deadline set for three days from now in the morning. This will allow us to integrate the information into our workflow update seamlessly. Thank you for your attention to this task.

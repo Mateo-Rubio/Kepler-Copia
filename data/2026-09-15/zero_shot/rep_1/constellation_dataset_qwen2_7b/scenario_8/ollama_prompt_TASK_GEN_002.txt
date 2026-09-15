@@ -1,0 +1,11 @@
+```prompt
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an operational mission that needs to be handled with utmost importance. The geographical context involves a location in the beautiful country of Italia, specifically the city of Gordona. Our mission objective is centered around capturing an active radar scan using microwave surface imaging technology, aiming to penetrate heavy weather conditions or capture ground geometry details.
+
+The primary sensor requirement is for a SAR (Synthetic Aperture Radar) system, which will be employed for this task. The operational need is to ensure that the data products are ready by the day after tomorrow, in the evening at the latest. This deadline represents an absolute institutional priority and constitutes a binding contract requirement involving a critical payload capture.
+
+Given the nature of the mission, it's important to note that this request carries a low priority importance. It's a flexible schedule task that can be accommodated as a background survey or testbed tracking task, with the understanding that it can be dropped or rescheduled at convenience if necessary. The goal is to gather essential data that will contribute to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention and cooperation in ensuring this mission is executed according to these guidelines. We appreciate your understanding of the strict deadline and look forward to receiving the data products by the specified day and time. Please feel free to reach out if any further details are needed or if there are questions about the technical requirements.
+
+Best regards,
+[Your Name]

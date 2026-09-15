@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a task for a specific area of interest in Italia, specifically in Bossico. The operational context is quite important, as this involves the utilization of our SAR sensor for an active radar scan, which will provide us with microwave surface imaging capabilities to capture essential data that can penetrate through heavy weather conditions or reveal ground geometry.
+
+Given the nature of this task, we're looking to capture a detailed snapshot of the region during the morning hours on the day after tomorrow. The primary objective is to ensure that our data products are ready for ingestion into the pipeline by the end of the overnight block following the target day, adhering strictly to our deadline set for [target_day] [target_diurnal_period].
+
+This request falls under a low priority importance category, allowing for a flexible schedule where we can drop or reschedule this task at convenience if necessary. We appreciate your understanding and prompt action in fulfilling this background survey task.
+
+Thank you for your attention.

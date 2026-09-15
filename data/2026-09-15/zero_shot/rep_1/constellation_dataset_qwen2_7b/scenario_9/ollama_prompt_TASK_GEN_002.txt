@@ -1,0 +1,5 @@
+Good day to all satellite planners and mission operators. I'm reaching out with a request for a low priority importance task, which is part of our baseline pipeline tracking setup. The operational context involves capturing high-resolution optical imagery for Norte City, which unfortunately doesn't have a specific country tag. We're aiming for daylight photography, clear optical imagery, and true-color visual documentation to support our ongoing monitoring efforts.
+
+We're looking to conduct this "non-essential background filler task" with flexible scheduling, treating it as an opportunistic capture. The request is straightforward: we need a snapshot of the region in the morning light, ensuring that all data products are ingested into the pipeline before the target day's overnight block, which means we're strictly aiming for delivery by tomorrow night at the latest.
+
+Thank you for your attention to this background survey task. We appreciate your cooperation and understanding in managing our operational priorities effectively.

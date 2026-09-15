@@ -1,0 +1,3 @@
+Hello, I would like to submit a task request for an Earth-observation mission focused on Murung Raya, Indonesia. This is a low-priority importance request with a flexible schedule, so please feel free to drop or reschedule it at your convenience. The objective is to capture thermal mapping data for assessing surface temperature profiles and detecting any thermal anomalies in the area. We're looking for a heat signature analysis using thermal imaging.
+
+This task can be treated as a background survey or a testbed tracking task. Please ensure that the data products are ingested into the pipeline before the evening of the day after tomorrow at the latest. Thank you!

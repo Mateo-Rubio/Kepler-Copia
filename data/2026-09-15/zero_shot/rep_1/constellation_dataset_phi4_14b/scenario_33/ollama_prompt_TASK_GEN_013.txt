@@ -1,0 +1,3 @@
+I'd like to submit a low-priority task for an opportunistic capture using active radar scanning. The focus is on Puerto López, Colombia, where we aim to utilize microwave surface imaging for cloud-penetrating captures that can reveal ground geometry. This is a non-essential background filler task, so please feel free to drop or reschedule it at your convenience.
+
+We're looking to complete this as a flexible schedule task, ensuring the products are ingested into the pipeline before mid-day in three days.

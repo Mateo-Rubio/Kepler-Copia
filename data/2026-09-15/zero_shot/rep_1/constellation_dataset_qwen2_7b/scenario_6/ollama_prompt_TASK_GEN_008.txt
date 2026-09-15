@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture an active radar scan using microwave surface imaging technology for cloud-penetrating capture and ground geometry mapping in the region of France, specifically around Petreto-Bicchisano city. As this request holds a low priority importance, it can be treated as a flexible schedule background survey or testbed tracking task.
+
+The objective is to obtain high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation to support our ongoing monitoring activities. This will help us assess the current environmental conditions and gather essential data for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're aiming to deliver these data products by tomorrow's overnight block at the latest, ensuring they are ingested into our pipeline before the deadline set for "tomorrow overnight". This request is part of our routine monitoring efforts and should not be preempted by higher priority tasks. Please schedule this task with a non-essential background filler status.
+
+Thank you for your attention to this matter.

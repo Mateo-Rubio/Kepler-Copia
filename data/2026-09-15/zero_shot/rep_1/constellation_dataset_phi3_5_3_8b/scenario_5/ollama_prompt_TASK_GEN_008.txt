@@ -1,0 +1,1 @@
+Ensure a SAR active radar scan is conducted over Norte, Brazil, capturing microwave surface imagery to penetrate any cloud cover and accurately map ground geometry. This standard operational tasking must be completed by the day after tomorrow's overnight period for integration into our baseline pipeline tracking system.

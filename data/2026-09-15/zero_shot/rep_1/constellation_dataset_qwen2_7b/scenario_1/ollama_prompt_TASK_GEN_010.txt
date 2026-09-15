@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an upcoming mission that involves capturing data using a VNIR sensor in Colombia, specifically in the city of El Castillo. This task is classified as a low priority importance request and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our objective is to assess chlorophyll absorption levels through multispectral vegetation analysis for this location. We aim to gather detailed information on the health and density of vegetation in the region, which will be crucial for future agricultural planning and environmental monitoring efforts.
+
+The request is for a "background survey" that can be accommodated with a flexible schedule, treating it as an opportunistic capture task. We would appreciate your assistance in scheduling this mission for a day within the next three days, during the afternoon period. This ensures that the products are ingested into our pipeline before the specified deadline.
+
+Thank you for your understanding and support in fulfilling this request. We look forward to your cooperation in delivering the data products as per our operational guidelines.
+
+Best regards,
+[Your Name]

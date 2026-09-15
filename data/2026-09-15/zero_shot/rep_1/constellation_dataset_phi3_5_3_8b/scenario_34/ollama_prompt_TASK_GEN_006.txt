@@ -1,0 +1,3 @@
+Hey there, I need to schedule a low priority importance task for an Earth-observation satellite pass. We're aiming for some high-resolution optical snapshots of Ecuatorial city in Indonesia during the upcoming overnight block four days from now. These images are mainly for daylight photography and will help us with true-color visual documentation. Since this is not urgent, feel free to drop or reschedule at your convenience if something comes up. Just make sure we've got these pictures ready by the deadline set for tomorrow nighttime. Thanks!
+```prompt
+...your text here...

@@ -1,0 +1,1 @@
+We require a standard operational tasking to acquire an active radar scan using microwave surface imaging in La Cumbre, Colombia. This is part of our routine monitoring and should be completed within the next four days by mid-day at the latest. Please ensure this data integration aligns with our baseline pipeline tracking setup for continuous operational status assessment.

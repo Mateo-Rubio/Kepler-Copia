@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflection from water bodies in Ramiseto, Italy, as part of our routine monitoring. We need this data by tomorrow morning at the latest for our standard pipeline tracking updates. Please ensure that these opportunistic captures are scheduled flexibly and can be dropped or rescheduled if necessary.
+```

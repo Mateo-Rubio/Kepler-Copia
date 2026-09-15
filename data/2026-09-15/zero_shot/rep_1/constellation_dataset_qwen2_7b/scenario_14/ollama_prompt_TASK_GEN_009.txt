@@ -1,0 +1,5 @@
+We're tasked with capturing a detailed view of Ecuatorial City, located in Indonesia, using an active radar scan. This involves penetrating through any heavy weather conditions to provide us with a clear understanding of the ground geometry. The primary objective is to conduct thermal mapping, which will help us identify heat signatures and surface temperature profiles across the region.
+
+This request is categorized as 'low priority importance', allowing for a flexible schedule that can be adjusted as needed. We understand that this task might be treated as a 'background survey' or 'testbed tracking task'. We aim to complete this mission by ensuring that all data products are ingested into our pipeline no later than the day after tomorrow, during the afternoon.
+
+Your immediate attention to this operational guideline ensures that we adhere to the strict deadline set for delivering the required data. We appreciate your cooperation in meeting this requirement without altering or extending the deadline.

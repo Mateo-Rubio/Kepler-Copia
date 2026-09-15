@@ -1,0 +1,2 @@
+Ensure that we gather thermal mapping data in Norte tomorrow during the early hours of the day, with a strict delivery deadline set for then. This low priority importance task will provide us with heat signature details and surface temperature profiles needed by the morning at the latest. Please remember to drop or reschedule this background survey if it conflicts with higher-priority assignments.
+```

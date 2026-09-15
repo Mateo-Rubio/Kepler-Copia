@@ -1,0 +1,1 @@
+We need a thermal mapping to capture heat signatures and surface temperature profiles in Norte, with a strict delivery deadline set for tomorrow's evening. This standard operational tasking is part of our routine monitoring setup, aimed at assessing the area's thermal anomalies and emissions before they are ingested into our data pipeline.

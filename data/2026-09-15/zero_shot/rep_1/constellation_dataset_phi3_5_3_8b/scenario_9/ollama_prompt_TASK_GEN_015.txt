@@ -1,0 +1,2 @@
+Return tomorrow's overnight block with a low priority importance, and I need you to conduct an opportunistic capture for multispectral vegetation analysis. This task is essentially a background survey aimed at assessing chlorophyll absorption levels or calculating the NDVI index to understand surface reflectance. The data products are expected by tomorrow night at the latest without any urgency, so feel free to drop this request if necessary and reschedule it according to your convenience.
+```prompt

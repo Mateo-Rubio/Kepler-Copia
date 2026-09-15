@@ -1,0 +1,8 @@
+Good day, satellite constellation planner. I'm reaching out to request a high-resolution optical snapshot of Puerto Libertador, Colombia. Our objective is to capture clear daylight photography and true-color visual documentation of this beautiful coastal city in Colombia. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture.
+
+We're aiming to have the data products delivered by the target day, which is in three days around mid-day, ensuring they are ingested into our pipeline before then. This is part of a background survey task where we can drop or reschedule at convenience if necessary. The imagery will be used for general monitoring and updating our baseline pipeline tracking.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting the deadline set for the data availability.
+
+Best regards,
+[Your Name]

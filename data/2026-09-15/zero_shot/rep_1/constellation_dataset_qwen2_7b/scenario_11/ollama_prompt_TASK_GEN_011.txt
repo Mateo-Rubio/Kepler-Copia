@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a standard operational tasking for our automated mission allocation system. Our primary sensor requirement is the VNIR, which we're using for a multispectral vegetation analysis in Tagliole, Italia. We aim to capture the chlorophyll absorption level and calculate the NDVI index for this area to understand surface reflectance characteristics.
+
+Our geographical context is centered around the beautiful city of Tagliole in the picturesque country of Italia. Given the importance of this task, I'm treating it as a routine monitoring activity that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that this request carries a medium level of importance and should be handled accordingly. We're looking for data products to be ready by tomorrow night at the latest, ensuring they are ingested into our pipeline before the deadline set for "in three days overnight". We appreciate your attention to this critical payload capture and understand the need for coordination within our team to meet these requirements efficiently.
+
+Thank you for your cooperation in making this task a success. Let's work together to deliver high-quality data products that meet our baseline standards while adhering to our operational guidelines.

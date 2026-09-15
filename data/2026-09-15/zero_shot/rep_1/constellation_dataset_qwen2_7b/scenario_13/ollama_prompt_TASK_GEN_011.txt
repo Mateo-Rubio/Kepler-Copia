@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request that involves capturing essential data for our ongoing Earth observation mission. We're focusing on a specific area in Italy, specifically the region around Quaregna Cerreto. Our objective is to gather detailed information about water bodies and soil moisture levels using near-infrared (NIR) sensors.
+
+We're looking for high-quality imagery that will provide us with the necessary data to assess water body boundaries and soil moisture conditions. This task falls under the category of a low priority importance request, which means it can be accommodated within our flexible schedule. We understand the urgency of this request and wish to clarify that we're treating this as a background survey or testbed tracking task.
+
+We require these data products by today during the afternoon at the latest. We're setting a strict delivery deadline for these data to ensure they are ingested into our pipeline before the target day's afternoon timeframe. This is not an extension of the deadline but rather a clear indication of when we need the information to be ready for analysis.
+
+Thank you for your attention and cooperation in ensuring that this request is handled with the appropriate level of care and urgency. We appreciate your support in providing us with the necessary data to continue our mission effectively.

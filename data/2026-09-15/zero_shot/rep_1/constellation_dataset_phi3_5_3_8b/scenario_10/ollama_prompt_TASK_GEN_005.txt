@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for multispectral vegetation analysis using near-infrared reflection in Norte, with an aim to assess chlorophyll absorption levels and calculate the NDVI index. This is part of our routine monitoring setup within the baseline pipeline tracking system. The data products must be ready by tomorrow morning at the latest to ensure they are ingested into the pipeline on schedule.
+```

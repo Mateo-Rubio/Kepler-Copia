@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're looking at a high-importance task for our Earth observation mission, involving thermal mapping in Colombia. Specifically, we're focusing on Samacá, a city nestled within the vast landscapes of this beautiful country.
+
+Our primary sensor requirement is TIR, which will enable us to capture thermal signatures and map heat emissions across the region. This process is crucial for identifying temperature patterns, detecting anomalies, and understanding surface heat profiles. The data collected will provide valuable insights into environmental conditions, urban heat islands, and potential issues requiring immediate attention.
+
+To ensure we meet our institutional priority, we're requesting that this mission be executed with the utmost urgency. We need the data products by the target day, which is three days from now, at the latest. This deadline is set to guarantee that the information is ingested into our pipeline before the overnight timeframe on the specified date.
+
+We understand the importance of adhering to this deadline and appreciate your team's commitment to delivering high-quality data within these strict parameters. Our request is an absolute binding contract requirement, involving a critical payload capture that must be treated with the highest level of operational execution.
+
+Thank you for your attention to this matter, and we look forward to receiving the thermal mapping data on time.
+
+Best regards,
+[Your Name]

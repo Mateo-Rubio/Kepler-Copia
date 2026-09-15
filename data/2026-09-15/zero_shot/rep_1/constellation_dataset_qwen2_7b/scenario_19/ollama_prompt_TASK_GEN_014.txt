@@ -1,0 +1,14 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out to request a task from your team, focusing on an important operational mission involving the 'VNIR' sensor. This request is categorized under medium importance, meaning it's part of our standard operational tasks and should be handled with professional attention.
+
+Our geographic context involves a location in 'Italia', specifically near the city of 'Norte'. This area requires detailed analysis through the 'VNIR' sensor to assess vegetation health and calculate the NDVI index for environmental monitoring purposes. The goal is to capture high-resolution optical snapshots as daylight photography or true-color visual documentation to provide insights into the region's flora.
+
+I'm setting a strict deadline for this task, which needs to be completed by three days from now during the afternoon period. This timeframe represents our operational deadline for data availability, ensuring that the products are ingested into our pipeline before the day ends.
+
+Please note that this task is part of our baseline pipeline tracking setup with fixed parameters and should be treated as a routine monitoring activity. We appreciate your team's support in executing this mission allocation promptly and efficiently.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products that will contribute to our ongoing environmental studies.
+
+Best regards,
+[Your Name]

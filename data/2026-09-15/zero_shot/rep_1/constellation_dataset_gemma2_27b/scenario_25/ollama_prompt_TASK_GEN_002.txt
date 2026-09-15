@@ -1,0 +1,1 @@
+This is a low priority importance task for opportunistic capture. We need thermal mapping of the area around Norte, with a flexible schedule for data acquisition.  Please ensure the products are ingested into the pipeline before three days in the evening at the latest. I can drop or reschedule this task at convenience.

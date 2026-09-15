@@ -1,0 +1,4 @@
+We have an absolute institutional priority to conduct a high-resolution optical snapshot for true-color visual documentation of Melgar, Colombia. This task is critical payload capture that requires immediate attention and un-preemptable mission lock. The data must be ready by tomorrow morning at the latest, ensuring it's ingested into our processing pipeline promptly to meet this urgent operational execution deadline set for three days from now.
+```prompt
+
+This request integrates all provided JSON metadata into a conversational English tasking that adheres to the specified guidelines and conveys the urgency and importance of the mission allocation priority, while also detailing the physical objectives associated with the VNIR sensor. The relative timeframe is framed in natural language without using raw timestamps or countdown metrics, aligning with the operational vocabulary alignment requirement.

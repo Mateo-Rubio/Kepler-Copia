@@ -1,0 +1,10 @@
+Good day,
+
+I'm reaching out to request a task from your automated satellite constellation planner. Our mission involves capturing an active radar scan using microwave surface imaging technology, which will help us understand the ground geometry and penetrate heavy weather conditions. This is a low priority importance request, but we kindly ask that you schedule it with a flexible schedule for opportunistic capture. Please note that this task falls under a non-essential background filler task, where we explicitly mention that it can be dropped or rescheduled at your convenience.
+
+The geographical context of our mission involves the region in Indonesia, specifically near an ecuatorial city. Our primary objective is to obtain data by the target day, which is four days from now, with a strict delivery deadline set for overnight at the latest. We're aiming to ensure that the products are ingested into the pipeline before the specified time.
+
+Thank you for your attention and cooperation in ensuring this task is completed according to our guidelines.
+
+Best regards,
+[Your Name]

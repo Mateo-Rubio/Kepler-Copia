@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner, we're looking to capture a detailed radar scan of the Ecuatorial region in Indonesia using our SAR sensor. The operational objective is to gather microwave surface imaging data that will penetrate heavy weather conditions, providing us with essential ground geometry information. This task is marked as a low priority importance request, allowing for flexible scheduling and treating it as a background survey or testbed tracking task.
+
+We aim to have the raw data products ready by the target day, which is in three days, with a strict delivery deadline set for that day's morning hours. This means ensuring the products are ingested into our pipeline before the overnight block of that day. Our goal is not to extend this deadline but to meet it as precisely as possible.
+
+Thank you for your attention and cooperation in fulfilling this request.

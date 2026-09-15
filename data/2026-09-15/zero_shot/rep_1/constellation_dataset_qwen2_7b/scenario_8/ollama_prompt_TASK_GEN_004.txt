@@ -1,0 +1,12 @@
+Good day! I'm reaching out to request a low-priority importance task for an observational mission focused on the region of Colombia, specifically the city of Ituango. This is part of our routine monitoring activities that are considered background survey tasks with flexible scheduling options.
+
+The primary sensor we're utilizing for this mission is the VNIR system, which will provide us with valuable data for assessing chlorophyll absorption levels and calculating the vegetation NDVI index. Our goal is to capture high-resolution optical snapshots during daylight hours, offering clear optical imagery and true-color visual documentation of the area.
+
+Please note that this task has been allocated with a low priority importance and should be treated as a non-essential background filler task. We understand that there might be opportunities to drop or reschedule this request at your convenience, considering it as a testbed tracking task.
+
+We're aiming to deliver the data products by the target day, which is in three days, with a strict delivery deadline set for the morning of that day. Our objective is to ensure that these products are ingested into our pipeline before the specified time, adhering strictly to our operational guidelines without altering or extending this deadline.
+
+Thank you for your understanding and cooperation in fulfilling this request. We appreciate your support in maintaining our baseline pipeline tracking with fixed parameters representing normal operational status.
+
+Best regards,
+[Your Name]

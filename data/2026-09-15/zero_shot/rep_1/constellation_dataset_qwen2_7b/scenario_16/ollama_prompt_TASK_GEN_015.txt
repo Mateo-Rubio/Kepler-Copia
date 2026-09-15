@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for tomorrow's evening timeframe, which is crucial for our baseline pipeline tracking setup. We're looking to capture high-resolution optical imagery of Kuning Selatan, Malaysia, using a routine monitoring approach.
+
+Our primary sensor requirement is a visible light camera for daylight photography and clear optical imagery, which will help us document the area with true-color visual details. This request carries normal operational status and represents our standard workflow update.
+
+Please ensure that the data products are ready for ingestion into our pipeline by tomorrow evening at the latest, adhering to the strict deadline set for this task. We appreciate your attention to this matter and look forward to receiving the captured imagery as soon as possible.
+
+Thank you for your swift action and cooperation in fulfilling this operational need.

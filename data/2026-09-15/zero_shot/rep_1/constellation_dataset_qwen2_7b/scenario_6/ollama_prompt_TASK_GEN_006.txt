@@ -1,0 +1,5 @@
+Good day! I'm reaching out to request a standard operational tasking involving a near-infrared sensor for a routine monitoring purpose. Our focus is on capturing data related to water body boundaries and soil moisture assessment in the region of Rokan Hulu, Indonesia. The mission aims to gather valuable insights through near-infrared reflection analysis to help us understand the environmental conditions accurately.
+
+Given the importance of this task, we need to ensure that the data is ready for ingestion into our pipeline by tomorrow's mid-day period at the latest. This deadline is crucial as it aligns with our operational planning and ensures timely access to the information required for our baseline pipeline tracking setup.
+
+We appreciate your attention to detail and expertise in managing our satellite constellation. Your cooperation in meeting this request will be greatly appreciated, as it contributes to maintaining our standard workflow updates and operational status. Thank you for your understanding and prompt action on this matter.

@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission. The context involves Indonesia, specifically Kutai Kartanegara, where we need to capture high-resolution optical imagery of the region using a VNIR sensor. This is a low priority importance request, which means it can be scheduled flexibly and treated as a background survey or testbed tracking task.
+
+The primary objective here is to assess chlorophyll absorption levels for vegetation analysis. We're aiming to gather data that will help us understand surface reflectance and the NDVI index, contributing to our ongoing research on environmental conditions in the area.
+
+Given the nature of this request, we're looking at delivering the data products by tomorrow's overnight block, ensuring they are ingested into the pipeline before the deadline set for today's overnight period. This is a non-essential background filler task that doesn't require immediate attention or urgent operational execution.
+
+Thank you for your understanding and cooperation. We appreciate your assistance in fulfilling this request as efficiently as possible.

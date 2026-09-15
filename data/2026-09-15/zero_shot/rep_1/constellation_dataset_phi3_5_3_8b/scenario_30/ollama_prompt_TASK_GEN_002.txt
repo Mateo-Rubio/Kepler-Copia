@@ -1,0 +1,2 @@
+We're looking to capture high-resolution optical snapshots for daylight photography of Peroj city in Hrvatska, with a flexible schedule. The data is needed by tomorrow morning at the latest, ensuring it can be ingested into our pipeline promptly after collection. This task serves as non-essential background filler and may need to drop or reschedule according to convenience.
+```

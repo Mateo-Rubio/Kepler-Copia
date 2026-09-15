@@ -1,0 +1,12 @@
+Hello there,
+
+I'm reaching out from an Earth-observation mission operator, and I have a task for you to perform. We're looking to capture high-resolution optical imagery of Suka Maju, located in Indonesia, using our Visible Imaging Sensor (VIS). Our objective is to document the area with clear daylight photography, providing true-color visual documentation that will be essential for our baseline pipeline tracking.
+
+As this request falls under Priority 1, it's important that you understand its significance. It's a low priority importance task, but we're treating it as such an opportunity to conduct a flexible schedule background survey. We're not in a rush for the deadline; however, there's a non-essential background filler task nature to this request. We kindly ask that you drop or reschedule this at your convenience if any other tasks have higher priority.
+
+The operational timeframe is tight, but we're not altering or extending the deadline. We need the data products by the target day in three days, preferably in the morning. This means ensuring the products are ingested into our pipeline before the target day's overnight block to meet the strict delivery deadline set for us.
+
+Thank you very much for your understanding and cooperation in this matter. We appreciate your attention to detail and adherence to these operational guidelines. Looking forward to your response.
+
+Best regards,
+An Earth-observation mission operator

@@ -1,0 +1,10 @@
+Hello there! I'm reaching out to request a thermal mapping operation for an area of interest located in Colombia, specifically around the city of Paya. Given its importance, I'd like to classify this task as having low priority importance, allowing for flexible scheduling if necessary.
+
+The primary sensor needed for this mission is the TIR (Thermal Infrared Sensor), which will help us capture heat signatures and surface temperature profiles. We're aiming for high-resolution data that will allow us to detect thermal anomalies and map heat emissions accurately.
+
+Our deadline for receiving these data products is tomorrow, during the afternoon period. This means we need the data ready by the end of the day, ensuring they can be ingested into our pipeline before the sun sets. Please note that this is a non-essential background filler task, which can be dropped or rescheduled at your convenience if needed.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting our deadline and providing us with the required data as soon as possible. If there are any questions or concerns regarding this task, please feel free to reach out. 
+
+Best regards,
+[Your Name]

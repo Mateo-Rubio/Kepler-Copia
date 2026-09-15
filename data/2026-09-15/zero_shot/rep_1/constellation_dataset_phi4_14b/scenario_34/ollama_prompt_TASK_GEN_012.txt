@@ -1,0 +1,3 @@
+We have an absolute institutional priority to conduct a mission over the Ecuatorial region. This task involves capturing near-infrared reflection data for water body boundary mapping and soil moisture assessment, which is critical for our operational objectives. Given its high importance, this is a binding contract requirement with a mandatory directive for urgent operational execution. The mission lock is un-preemptable, ensuring that this critical payload capture is prioritized above all else.
+
+The data products must be ingested into the pipeline before the overnight block in three days at the latest. This strict delivery deadline is non-negotiable to meet our operational needs and contractual obligations.

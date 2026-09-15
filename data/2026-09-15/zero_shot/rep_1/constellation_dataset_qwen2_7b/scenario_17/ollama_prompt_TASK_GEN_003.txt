@@ -1,0 +1,12 @@
+Hello, automated satellite constellation planner. I'm reaching out to request a task for an Earth observation mission that involves capturing data using Near-Infrared (NIR) sensors. The objective is to assess soil moisture and water body boundaries in the region of Berau, Indonesia, which is a low-priority importance task.
+
+Given the operational guidelines, I'll describe this request as a flexible schedule "background survey" with no strict deadline constraints. We're not in a rush for this data; it can be scheduled at your convenience or dropped if there are more pressing tasks.
+
+The geographical context involves Berau, Indonesia, which is part of the vast and diverse Indonesian archipelago. Since there's no explicit landmark provided, we'll focus on capturing the essence of this region for our analysis.
+
+As for the temporal parameters, we're looking to obtain the data products by tomorrow's overnight block at the latest. This means ensuring that the satellite imagery and analysis are ready before the deadline set for "tomorrow overnight" to allow for timely pipeline ingestion and processing.
+
+Thank you for your understanding and cooperation in fulfilling this task request. We appreciate your expertise in managing the constellation and delivering the most accurate data possible based on our requirements.
+
+Best regards,
+[Your Name]

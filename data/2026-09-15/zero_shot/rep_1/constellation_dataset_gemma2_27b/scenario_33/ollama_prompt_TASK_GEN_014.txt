@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. I need an active radar scan of Norte using microwave surface imaging. This data is needed by tomorrow in the evening at the latest, ensuring the products are ingested into the pipeline before then.

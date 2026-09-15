@@ -1,0 +1,3 @@
+We have an absolute institutional priority task involving a critical payload capture over the region of Lalap, Indonesia. This mission is a binding contract requirement to perform multispectral vegetation analysis using VNIR sensors. Our goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index for this area. The task demands urgent operational execution with an un-preemptable mission lock due to its high importance.
+
+Please ensure that the high-resolution optical snapshot, capturing true-color visual documentation, is completed with a strict delivery deadline set for tomorrow morning at the latest. This will ensure the products are ingested into the pipeline before the specified time.

@@ -1,0 +1,5 @@
+Good day to all satellite planners, I'm reaching out with a standard operational tasking for our Earth observation mission. Our focus is on capturing high-resolution optical imagery of Suárez, Colombia, which is an essential part of our baseline pipeline tracking setup. The operational objective here is to gather clear daylight photography and true-color visual documentation that will provide us with detailed surface information.
+
+We're looking to execute this tasking around mid-day within the three days timeframe we've set for ourselves. This request carries a medium importance level, implying that while it's not an urgent matter, it holds significant value in our regular monitoring activities. We aim to ensure the data products are ready for ingestion into our pipeline before the deadline is met.
+
+Please proceed with the standard procedures for this tasking, and we appreciate your attention to detail and adherence to our operational guidelines. Thank you for your cooperation in delivering these important data points.

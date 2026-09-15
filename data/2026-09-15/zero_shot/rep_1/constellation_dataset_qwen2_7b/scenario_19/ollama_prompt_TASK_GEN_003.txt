@@ -1,0 +1,9 @@
+We have a high-priority task from an important client requiring thermal mapping of the Ecuatorial region in Indonesia. The mission involves capturing heat signatures and surface temperature profiles due to the presence of critical infrastructure and potential environmental hazards. Our primary sensor, TIR, will be used for this essential task.
+
+The client needs us to deliver the data products by the end of the three-day deadline, with a strict delivery date set for [target_day] overnight at the latest. This deadline is not related to an orbital capture window but rather the time frame within which we must ensure the products are ingested into our pipeline.
+
+This task is considered an absolute institutional priority and involves a binding contract requirement for critical payload capture. It is imperative that this mission receives an urgent operational execution without any preemption, as it pertains to a mandatory directive involving normal operational status or baseline pipeline tracking setup with fixed parameters representing standard workflow updates.
+
+Given the nature of this request, please ensure that all operational parameters are optimized for maximum efficiency and that the team is aware of the importance of adhering to the deadline. We must treat this task with the utmost urgency and professionalism, as it directly impacts our contractual obligations and client satisfaction. Let's make sure that this "non-essential background filler task" does not affect our primary responsibilities and that we can drop or reschedule it at convenience if necessary.
+
+Let's get started on this mission allocation immediately to ensure that we meet the client's expectations and maintain our high standards of service.

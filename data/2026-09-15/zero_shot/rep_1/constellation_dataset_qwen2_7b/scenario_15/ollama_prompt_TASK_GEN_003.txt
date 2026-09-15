@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our satellite fleet. Our mission involves capturing an active radar scan using microwave surface imaging technology to penetrate heavy weather conditions and capture ground geometry. The objective is clear: we need a cloud-penetrating capture that will provide us with invaluable insights into the terrain.
+
+The geographical context of this mission is set in Ecuatorial city, which is located within our region of interest. Please note that the country details are not available for this specific task, so we're focusing on the city's location to ensure precise targeting.
+
+The priority level for this task is medium importance, indicating that it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is essential for maintaining our standard workflow update and ensuring the continuity of our monitoring activities.
+
+We're looking to execute this mission by the day after tomorrow, with a strict delivery deadline set for around mid-day. This means we need the data products ingested into our pipeline before that timeframe to meet our internal processing requirements. The urgency is critical as we aim to deliver these insights promptly to our clients without any delays.
+
+Thank you for your attention and cooperation in ensuring this mission's successful execution. We appreciate your efforts in meeting our deadlines and providing us with the high-quality data we rely on for operational decisions.
+
+Best regards,
+[Your Name]

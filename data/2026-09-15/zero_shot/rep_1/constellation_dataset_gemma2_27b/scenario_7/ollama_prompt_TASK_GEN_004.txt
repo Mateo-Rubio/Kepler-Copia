@@ -1,0 +1,1 @@
+We need a low priority background filler task for thermal mapping of Huasanó, Colombia.  This is an opportunistic capture for heat signature analysis and can be dropped or rescheduled at convenience.  Please ensure the products are ingested into the pipeline before in three days overnight at the latest.

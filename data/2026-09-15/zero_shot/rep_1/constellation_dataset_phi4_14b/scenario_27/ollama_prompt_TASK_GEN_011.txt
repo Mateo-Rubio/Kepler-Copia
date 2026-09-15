@@ -1,0 +1,3 @@
+We have a standard operational tasking for a thermal mapping mission over the region of Norte in France. This routine monitoring is part of our baseline pipeline tracking setup with fixed parameters, reflecting normal operational status. We aim to capture a detailed heat signature and surface temperature profile using active thermal infrared scanning techniques.
+
+The data products from this mission are needed by afternoon in three days at the latest. Please ensure that these thermal anomaly detection results are ingested into our pipeline before the specified deadline.

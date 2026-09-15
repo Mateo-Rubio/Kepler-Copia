@@ -1,0 +1,8 @@
+Good day to our satellite constellation planners. We're tasked with capturing a comprehensive view of the city of Piacenza, located in the beautiful country of Italia, using our near-infrared (NIR) sensor. The primary objective is to gather detailed information on water body boundaries and soil moisture assessment for this region, which will be crucial for environmental monitoring and agricultural planning.
+
+Given its medium importance, we're treating this request as a standard operational tasking. The deadline for delivering the data products is set for three days from today, with a strict requirement that they must be ingested into our pipeline by the morning of the target day. This means we need to ensure the data is ready for analysis by the time the sun rises on the day after the deadline.
+
+We appreciate your attention to this task and look forward to receiving the high-quality data products that will help us achieve our operational goals. If you have any questions or require additional information, please feel free to reach out. Thank you for your cooperation and timely execution of this mission.
+
+Best regards,
+[Your Name]

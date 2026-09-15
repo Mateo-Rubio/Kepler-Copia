@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis today in the evening from our position over Puerto Rico. This is a low priority importance task with a flexible schedule, so please drop or reschedule at your convenience. The data will be used for assessing chlorophyll absorption levels and calculating surface reflectance indices. We need to have this ready by tomorrow's nighttime block, ensuring the products are ingested into our monitoring pipeline promptly.
+```

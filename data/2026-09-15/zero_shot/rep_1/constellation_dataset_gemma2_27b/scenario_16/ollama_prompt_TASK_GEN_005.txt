@@ -1,0 +1,1 @@
+We need a low priority, opportunistic capture of multispectral vegetation analysis data over the city of Norte. This is a non-essential background filler task with a flexible schedule that can be dropped or rescheduled at convenience. Please ensure the products are ingested into the pipeline before in three days during the afternoon at the latest.

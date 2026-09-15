@@ -1,0 +1,3 @@
+I have a low-priority task that I'd like to schedule with some flexibility. We're looking for thermal mapping over Santa Helena del Opón in Colombia, focusing on capturing heat signatures and surface temperature profiles. This is more of an opportunistic capture, so feel free to drop or reschedule it at your convenience as it's not essential.
+
+We need this data delivered by the overnight period in three days. Please ensure the products are ingested into the pipeline before then. Thank you!

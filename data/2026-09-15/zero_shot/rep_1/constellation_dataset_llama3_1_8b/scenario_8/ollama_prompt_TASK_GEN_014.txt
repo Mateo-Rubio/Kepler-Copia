@@ -1,0 +1,1 @@
+We need a standard operational tasking for multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption level and calculate a vegetation NDVI index in Norte, needed by tomorrow during the afternoon at the latest.

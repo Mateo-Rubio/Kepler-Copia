@@ -1,0 +1,1 @@
+Ensure that a multispectral vegetation analysis is conducted using near-infrared reflection to assess chlorophyll absorption levels and calculate surface reflectance. This standard operational tasking must be completed by the day after tomorrow in the morning, with products ingested into our monitoring pipeline promptly to maintain routine tracking accuracy.

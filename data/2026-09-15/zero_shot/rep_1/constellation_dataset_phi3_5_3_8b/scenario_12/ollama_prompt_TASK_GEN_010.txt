@@ -1,0 +1,2 @@
+The following task is a non-essential background filler scheduled for tomorrow's overnight/nighttime block, aiming to capture near-infrared reflection primarily for water body boundary mapping. Please drop or reschedule at your convenience as this has flexible timing and lower priority importance. Ensure the products are ingested into our data pipeline before tomorrow morning deadline.
+```

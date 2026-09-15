@@ -1,0 +1,12 @@
+Good day to all Earth observation mission operators and planners! I hope this message finds you well. I am reaching out with a task request that requires your immediate attention due to its low priority importance, but still necessitates careful handling to ensure timely delivery.
+
+The objective here involves capturing thermal data for a specific region in Colombia, focusing on the city of Mesetas. We aim to assess soil moisture levels and water body boundaries using near-infrared (NIR) sensors. The goal is to obtain high-resolution imagery that will help us understand the environmental conditions and potential water resources in this area.
+
+Given the nature of this request, we are seeking a flexible schedule for the capture task, as it serves as a background survey or testbed tracking task. We understand that you may have other priorities, but we kindly ask that you consider this request and allocate resources accordingly.
+
+The deadline for delivering the data products is set for today, with a strict delivery deadline of tonight's evening period. This means the products should be ingested into our pipeline before the sun sets tonight. We appreciate your cooperation in meeting this deadline to ensure that our analysis team can proceed with their work efficiently.
+
+Thank you for your attention to this matter. If you have any questions or need further clarification, please don't hesitate to reach out. We look forward to collaborating with you on this task.
+
+Best regards,
+[Your Name]

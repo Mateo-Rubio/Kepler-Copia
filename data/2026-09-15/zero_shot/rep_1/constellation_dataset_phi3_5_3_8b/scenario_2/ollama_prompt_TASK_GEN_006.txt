@@ -1,0 +1,3 @@
+We're looking to get a multispectral vegetation analysis done, focusing on chlorophyll absorption levels and surface reflectance, for Ecuatorial city in Indonesia. This is a low priority task with flexible scheduling; it can be dropped or rescheduled at our convenience. Please ensure the data products are ready by tomorrow afternoon's block, as we need them by then at the latest to keep up with our regular workflow updates.
+```prompt
+...your text here...

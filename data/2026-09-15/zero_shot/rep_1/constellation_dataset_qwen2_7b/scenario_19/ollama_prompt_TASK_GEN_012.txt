@@ -1,0 +1,3 @@
+Good day! We're looking to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in Ecuatorial, Indonesia. This task is considered a standard operational tasking with fixed parameters as part of our baseline pipeline tracking setup. Our focus is on ensuring the data products are ingested into the pipeline before the day after tomorrow's morning, with a strict delivery deadline set for that time frame. We appreciate your understanding and flexibility in accommodating this request.
+
+Thank you for your attention to this matter.

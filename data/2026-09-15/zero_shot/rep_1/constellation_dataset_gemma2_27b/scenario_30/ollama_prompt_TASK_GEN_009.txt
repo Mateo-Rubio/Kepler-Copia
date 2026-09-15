@@ -1,0 +1,1 @@
+This is a critical payload capture for Gilirang, Indonesia. We need an active radar scan of the area overnight in three days.  Please ensure the products are ingested into the pipeline before then.

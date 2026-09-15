@@ -1,0 +1,8 @@
+Good day! I'm reaching out on behalf of our Earth-observation mission, requesting a task to capture high-resolution multispectral vegetation data using VNIR sensors over Cossogno, Italia. Our objective is to assess the chlorophyll absorption levels and calculate the NDVI index for the region's vegetation surfaces.
+
+Given that this task carries low priority importance, we're looking for a flexible schedule where the capture can be executed at your earliest convenience, allowing us to drop or reschedule it as per your operational needs. We aim to have these data products ready by four days from now, in the morning, ensuring they are ingested into our pipeline before the deadline is met.
+
+Thank you for considering our request, and we appreciate your understanding of our operational guidelines and constraints. Please let us know if you need any further information or clarification on this task.
+
+Best regards,
+[Your Name]

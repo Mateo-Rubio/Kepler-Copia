@@ -1,0 +1,3 @@
+We're looking to capture a high-resolution optical snapshot of Cantagallo, Colombia during around midday in three days. This is a non-essential background filler task that can be dropped or rescheduled at our convenience; we aim to have the data ready for review by then without rushing.
+```prompt
+...your text here...

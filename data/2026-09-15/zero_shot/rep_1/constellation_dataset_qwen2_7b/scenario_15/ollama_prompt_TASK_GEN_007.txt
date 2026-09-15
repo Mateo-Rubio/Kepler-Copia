@@ -1,0 +1,12 @@
+Good day to you! I'm reaching out on behalf of our Earth-observation mission operator, requesting a highly prioritized task from your automated satellite constellation planner. Our objective is to capture essential thermal mapping data for the region of Colombia, specifically focusing on Bolívar city. This critical payload capture involves understanding heat signatures and surface temperature profiles, which is vital for our ongoing projects.
+
+We're treating this as an absolute institutional priority, a binding contract requirement involving a mandatory directive. The urgency here is paramount, as we're dealing with a deadline that's set for three days from now, specifically in the evening. This means we need our data products by then at the latest, ensuring they are ingested into our pipeline before the sun goes down on that day.
+
+This task falls under the category of "thermal anomaly detection" and mapping heat emissions, which is crucial for our upcoming analysis and decision-making processes. We're looking to leverage your constellation's capabilities to provide us with the most accurate thermal mapping possible, so we can ensure that every detail is captured in the most efficient manner.
+
+Please note, this request carries a high importance level and requires immediate attention. We understand the operational status here is "urgent operational execution" and an "un-preemptable mission lock". Our team stands ready to collaborate closely with your team to achieve these objectives seamlessly.
+
+Thank you for your understanding and swift action in fulfilling this critical task. We appreciate your commitment to meeting our deadline, and we're looking forward to receiving the data products that will significantly contribute to our ongoing projects.
+
+Best regards,
+[Your Name]

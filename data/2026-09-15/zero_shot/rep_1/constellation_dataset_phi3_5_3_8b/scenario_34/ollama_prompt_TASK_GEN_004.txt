@@ -1,0 +1,3 @@
+We're looking to capture thermal mapping of the Colombian city of Vegachí today during the afternoon, with a flexible schedule in mind. This task is considered low priority importance and can be dropped or rescheduled at our convenience. The objective is to obtain a heat signature for surface temperature profiling and potential anomaly detection within the area. Please ensure that we have this thermal data ready by tomorrow's overnight/nighttime block, as per usual workflow updates.
+```prompt
+...your text here...

@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a standard operational tasking request for an upcoming mission involving the observation of Bukit Mabong in Malaysia using our Near-Infrared (NIR) sensor. This is a critical payload capture that requires us to assess soil moisture levels and water body boundaries with high precision.
+
+Our primary objective is to gather near-infrared reflection data to accurately map out water bodies and assess soil moisture conditions, which will be essential for agricultural planning and environmental monitoring in the area. We aim to achieve this by conducting an active radar scan using microwave surface imaging technology, piercing through any heavy weather or cloud cover to capture ground geometry.
+
+The urgency of this mission cannot be overstated; we need the data products delivered by the day after tomorrow during the afternoon at the latest. This deadline is not negotiable, as it's a binding contract requirement involving a critical payload capture that represents our baseline pipeline tracking with fixed parameters. We understand the importance of adhering to this timeline, ensuring the products are ingested into our pipeline before the specified time.
+
+Thank you for your attention and support in making this operational task a success. We appreciate your cooperation in meeting these requirements promptly.

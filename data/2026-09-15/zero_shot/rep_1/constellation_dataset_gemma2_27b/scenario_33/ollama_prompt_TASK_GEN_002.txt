@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Norte, Italia. We need a microwave surface imaging capture during the afternoon tomorrow at the latest, ensuring the products are ingested into the pipeline before then.

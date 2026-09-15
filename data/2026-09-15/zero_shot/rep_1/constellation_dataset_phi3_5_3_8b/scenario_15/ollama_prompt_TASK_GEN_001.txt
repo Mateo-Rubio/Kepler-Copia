@@ -1,0 +1,2 @@
+Ensure that we schedule a low priority importance task for Remedios, Colombia, aiming to capture high-resolution optical snapshots during tomorrow's afternoon. These images are needed by the day after tomorrow afternoon at the latest as part of our routine monitoring efforts. Please remember that this is not an urgent operational execution; however, it would be appreciated if we could drop or reschedule at your convenience to maintain a flexible schedule for opportunistic capture.
+```

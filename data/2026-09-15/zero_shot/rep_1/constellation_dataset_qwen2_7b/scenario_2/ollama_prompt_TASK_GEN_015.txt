@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out with a standard operational tasking for a commercial monitoring requirement involving near-infrared (NIR) sensor data capture. Our focus is on Indonesia, specifically the city of Bangka Selatan, where we aim to gather crucial information about water body boundaries and soil moisture assessment.
+
+As part of our baseline pipeline tracking setup, we're requesting an active radar scan using microwave surface imaging to pierce heavy weather conditions or capture ground geometry. This operation is essential for our ongoing environmental monitoring program and will help us better understand the local ecosystem dynamics.
+
+We're looking forward to receiving the data products by the latest in three days during the morning hours. This deadline is critical as it ensures the products are ingested into our pipeline before the day's end, allowing for timely analysis and decision-making processes.
+
+Thank you for your attention to this standard operational tasking. We appreciate your professional handling of this routine monitoring activity.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Lentigione, Italy, in the clear daylight for true-color visual documentation. This is a low priority importance task with a flexible schedule; please drop or reschedule at your convenience. The data needs to be ready by tomorrow morning at the latest, ensuring it can be ingested into our regular workflow update without disrupting other operations.
+```

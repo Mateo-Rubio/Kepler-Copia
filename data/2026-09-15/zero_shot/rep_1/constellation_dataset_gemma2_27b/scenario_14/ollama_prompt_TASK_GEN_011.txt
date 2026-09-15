@@ -1,0 +1,1 @@
+This is a low priority importance task for opportunistic capture of multispectral vegetation analysis imagery over Montaquila, Italia. I need this captured as a non-essential background filler task and ingested into the pipeline before tomorrow overnight at the latest.  Feel free to drop or reschedule at your convenience.

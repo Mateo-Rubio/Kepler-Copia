@@ -1,0 +1,5 @@
+I would like to submit a standard operational tasking for our satellite constellation planner. The mission involves capturing near-infrared reflection data over San Pablo, Colombia. This task is part of our routine monitoring efforts and falls under a baseline pipeline tracking setup with fixed parameters.
+
+The objective is to perform water body boundary mapping and assess soil moisture levels in the area. Please ensure that this commercial tasking is executed as part of our normal operational workflow update.
+
+We need the data products to be ready by tomorrow evening at the latest, ensuring they are ingested into the pipeline before this strict delivery deadline. Thank you for your cooperation.

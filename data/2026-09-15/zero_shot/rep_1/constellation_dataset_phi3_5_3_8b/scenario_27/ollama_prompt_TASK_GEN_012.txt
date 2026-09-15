@@ -1,0 +1,4 @@
+We're looking to capture a thermal map of Kapuas Hulu, Indonesia, during tomorrow's overnight block. This is a non-essential background filler task that can be dropped or rescheduled at our convenience. Please ensure the heat signature data products are ingested into the pipeline before then for additional flexibility in monitoring and analysis.
+```prompt
+
+Note: The provided text integrates all the specified elements from the JSON metadata, following the operational guidelines to create a conversational English request without using raw technical terms or timestamps. It also reflects the low priority level with appropriate phrasing about flexibility and convenience in scheduling.

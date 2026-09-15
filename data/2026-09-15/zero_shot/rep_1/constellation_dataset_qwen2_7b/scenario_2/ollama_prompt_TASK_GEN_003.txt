@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at an urgent task involving Indonesia, specifically the equatorial region, which is a critical payload capture for our operations. Given the importance of this mission, we require an active radar scan using microwave surface imaging technology. Our goal is to pierce through heavy weather conditions and capture detailed ground geometry. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture.
+
+The deadline for delivering the data products is today, in the evening, by the latest. We're aiming for this specific timeframe to ensure the products are ingested into our pipeline before the set target day and diurnal period. Please note that our focus here is on meeting the operational deadline rather than seeking an extended orbital capture window.
+
+Thank you for your attention to this matter. We appreciate your team's commitment to fulfilling our requirements in a timely manner.

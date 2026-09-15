@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner, we're looking at an urgent operational tasking request for today. The mission involves a high-resolution active radar scan using microwave surface imaging technology, to capture cloud-penetrating data for a specific area in Colombia. Specifically, we're focusing on the city of Génova. The primary objective is to assess ground geometry and extract detailed information about the region's surface features.
+
+Given the critical nature of this request, it falls under our low priority importance category, which means we're treating this as a flexible schedule task that can be dropped or rescheduled at convenience. However, there's an absolute deadline for data availability set for today, with the products needing to be ingested into the pipeline before tonight's overnight block. This ensures that the data will be ready for immediate processing and analysis by our team.
+
+Thank you for your attention to this task. We appreciate your cooperation in ensuring timely delivery of these essential data products.

@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a low priority importance task involving a VNIR sensor for a daylight photography mission in Colombia, specifically focusing on El Paujil. This is not an essential background filler task, but rather a flexible schedule opportunity to assess chlorophyll absorption levels and surface reflectance for a testbed tracking task.
+
+We're aiming for a clear optical imagery snapshot of the region, with the requirement that the data products are ingested into our pipeline before tomorrow's overnight block. Our deadline is set for the products to be ready by tomorrow's nighttime hours at the latest. Please ensure this urgent operational execution aligns with your scheduling capabilities without altering or extending the deadline.
+
+Thank you for your attention and cooperation in fulfilling this request.

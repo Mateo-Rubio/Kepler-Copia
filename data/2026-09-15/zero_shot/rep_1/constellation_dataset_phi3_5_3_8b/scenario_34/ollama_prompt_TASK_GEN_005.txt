@@ -1,0 +1,1 @@
+Ensure a thermal mapping of Lenzumo, Italy, to capture heat signatures for surface temperature profiling and anomaly detection. This is part of our standard operational tasking, needed by tomorrow morning at the latest, with products ingested into the pipeline before that time frame.

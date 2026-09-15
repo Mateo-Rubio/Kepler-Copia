@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're looking to capture a near-infrared reflection snapshot of the beautiful city of Vigonza, located in the picturesque country of Italia. Our mission is part of a standard operational tasking and represents a normal operational status within our baseline pipeline tracking setup.
+
+Our request involves assessing soil moisture levels through near-infrared reflection, which will help us map water body boundaries and evaluate soil conditions effectively. We need this data by the day after tomorrow in the evening at the latest, ensuring that the products are ingested into our pipeline before then.
+
+Please prioritize this request as it's part of our commercial tasking and is considered to have a medium importance level. While we understand that it might not be an urgent operational execution, it's important for us to have these data points for our routine monitoring and background survey tasks.
+
+Thank you for your attention to this matter, and we look forward to receiving the data as per our request.

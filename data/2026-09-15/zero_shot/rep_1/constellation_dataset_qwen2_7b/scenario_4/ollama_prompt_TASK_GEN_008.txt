@@ -1,0 +1,5 @@
+Hello there, satellite constellation planner! I'm reaching out with a request for an Earth observation mission that needs to be handled with flexibility and opportunism. Our objective is to capture a near-infrared reflection snapshot of Arnoldstein, located in the picturesque country of Österreich, by the time it's overnight three days from now. This task is tagged as low priority importance, which means you can drop or reschedule it at your convenience, treating it as a background survey or testbed tracking task.
+
+The goal here is to assess soil moisture levels and delineate water body boundaries using near-infrared reflection data. We aim for a clear and detailed image that will help us understand the environmental conditions without the need for urgency or strict operational execution. Our priority is not about the deadline but ensuring the products are ingested into our pipeline before Arnoldstein's overnight period on the target day.
+
+Thank you for considering this request. If you have any questions or need further clarification, feel free to reach out. We appreciate your understanding and flexibility with this low-priority task.

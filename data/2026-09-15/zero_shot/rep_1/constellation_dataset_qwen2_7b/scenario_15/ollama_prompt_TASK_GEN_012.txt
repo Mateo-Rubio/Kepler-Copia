@@ -1,0 +1,10 @@
+Good day to our automated satellite constellation planner. We're looking into a standard operational tasking for tomorrow, specifically during the afternoon timeframe. Our mission involves utilizing an active radar scan using microwave surface imaging technology to capture cloud-penetrating data on a location in Ecuatorial, Indonesia. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our priority level indicates this request as medium importance, meaning it's essential but not urgent compared to higher-priority tasks. We aim to gather this data for commercial purposes and routine monitoring, ensuring the products are ingested into the pipeline before tomorrow's overnight block.
+
+Given our operational guidelines, we've chosen to focus on the 'SAR' primary sensor for this task as it allows us to capture ground geometry and essential features even under heavy weather conditions. This will provide invaluable insights for our ongoing projects requiring detailed surface mapping.
+
+Thank you for your attention and please ensure that the data is ready by tomorrow afternoon, as we adhere strictly to the deadline set for data availability. We appreciate your cooperation in meeting this requirement.
+
+Best regards,
+[Your Name]

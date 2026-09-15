@@ -1,0 +1,2 @@
+We're looking to gather a multispectral vegetation analysis of Singkep, Indonesia, focusing on chlorophyll absorption levels and surface reflectance. This task is considered low priority importance with a flexible schedule, so it can be rescheduled at our convenience. We aim to have the data ready by tomorrow's morning block for integration into our regular monitoring workflow.
+```prompt

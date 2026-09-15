@@ -1,0 +1,12 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that involves capturing data using a near-infrared (NIR) sensor. Our objective is to gather information about a location in Norte, which doesn't have specific country or city details provided. The request has been categorized as low priority importance, meaning it can be accommodated within our flexible schedule.
+
+The primary goal here is to assess soil moisture and water body boundaries using the near-infrared reflection capabilities of the sensor. This task is part of a background survey that will help us understand environmental conditions without impacting our core operational tasks.
+
+We're aiming to have the data products ready by the target day, which is four days from now, with the strict delivery deadline set for the morning of that day. This ensures that the information can be ingested into our pipeline before the day ends, allowing for timely analysis and decision-making based on the data collected.
+
+Please note that this request is a non-essential background filler task and should be treated as such. If there are any scheduling conflicts or if it's more convenient to reschedule or drop this task later on, please do so without compromising our operational priorities.
+
+Thank you for your attention and cooperation in fulfilling this request. We look forward to receiving the data products that will contribute to our ongoing monitoring efforts.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,1 @@
+We require a low priority importance task for opportunistic thermal mapping capture using a flexible schedule. The goal is to conduct thermal anomaly detection and mapping heat emissions in Mamuju, Indonesia, as part of a background survey. We need the data products to be ingested into the pipeline before the day after tomorrow around mid-day.

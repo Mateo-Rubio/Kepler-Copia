@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request for an observational mission that involves capturing data on vegetation health and land use in Puerto Wilches, Colombia. Our primary sensor will be the VNIR, which will allow us to assess chlorophyll absorption levels and calculate the NDVI index across the region's surfaces.
+
+The context here is quite important as it pertains to understanding the environmental conditions and agricultural status of this area. We're aiming for a high-resolution optical snapshot that will provide clear visual documentation of the region during daylight hours, ensuring we capture the most accurate and detailed imagery possible.
+
+We're treating this request as a low priority importance task with a flexible schedule. This means that while we aim to have the data ready by the day after tomorrow in the morning, we understand that there might be some flexibility in the timeline if necessary. Our main focus is on having the data available before our strict deadline set for the day after tomorrow's morning hours.
+
+We appreciate your attention to this request and look forward to receiving the data products that will help us further our understanding of Puerto Wilches' environmental conditions. Thank you for your cooperation and understanding in meeting our requirements.
+
+Best regards,
+[Your Name]

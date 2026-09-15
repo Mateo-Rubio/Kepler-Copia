@@ -1,0 +1,3 @@
+I am submitting a standard operational tasking for our satellite constellation planner. We need a near-infrared reflection capture over Kabupaten Padang Lawas Utara, Indonesia. This task involves water body boundary mapping and soil moisture assessment, which are crucial for our baseline pipeline tracking setup. The mission should be executed with fixed parameters under normal operational status, as part of our routine monitoring workflow update.
+
+Please ensure the data products are ingested into the pipeline before tomorrow morning at the latest. Thank you.

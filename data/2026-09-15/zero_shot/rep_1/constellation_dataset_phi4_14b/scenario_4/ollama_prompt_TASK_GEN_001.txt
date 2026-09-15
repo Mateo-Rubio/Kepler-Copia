@@ -1,0 +1,3 @@
+I'd like to submit a low-priority importance request for an opportunistic capture over Calamar, Colombia. This is a non-essential background filler task that can be flexibly scheduled or rescheduled at convenience. The primary objective is to conduct a multispectral vegetation analysis using near-infrared reflection, focusing on assessing chlorophyll absorption levels and calculating a vegetation NDVI index.
+
+The data products from this task should be ready by the evening in three days, ensuring they are ingested into the pipeline before that time. This flexible schedule allows for opportunistic capture, so please feel free to drop or reschedule this task as needed.

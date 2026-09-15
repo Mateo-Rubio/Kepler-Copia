@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're in need of a low priority importance task that involves thermal mapping for a heat signature assessment and surface temperature profiling. This mission is focused on Bengkalis, Indonesia, which is part of our ongoing background survey activities.
+
+Our request is for an active radar scan using microwave surface imaging technology to capture ground geometry, piercing through heavy weather conditions. The primary objective is to conduct this "cloud-penetrating capture" as part of a routine monitoring task within our baseline pipeline tracking setup.
+
+We're looking at a simple, flexible schedule where we can drop or reschedule this task at our convenience. This is a non-essential background filler task that doesn't require an urgent operational execution but should still adhere to normal operational status and standard workflow updates.
+
+The deadline for the data products to be ingested into our pipeline is set for three days from now, with a strict delivery deadline set for the morning of that day. We aim to ensure that all heat emissions are mapped accurately by then without any extensions.
+
+Thank you for your attention to this low priority importance request. We appreciate your cooperation in meeting these operational guidelines and delivering the data products as per our requirements.

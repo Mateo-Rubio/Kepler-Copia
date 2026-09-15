@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a standard operational tasking for our satellite constellation. Our mission involves capturing an active radar scan using microwave surface imaging technology. The objective is to penetrate heavy weather conditions and capture ground geometry with precision.
+
+Our geographical context involves Norte city, although the country information is not available. We're focusing on the region details provided in the metadata. The priority level of this task is set at medium importance, signifying it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for delivering the data products is set for the day after tomorrow, with a strict delivery deadline scheduled for the evening. This means we need the products ingested into our pipeline before the night falls on that day.
+
+This request is not an urgent operational execution or an un-preemptable mission lock. It's part of our standard workflow update and commercial tasking requirements. We appreciate your team's flexibility in scheduling this task, as it's classified as a low priority importance request with a flexible schedule for opportunistic capture.
+
+Thank you for your attention to these details. We look forward to receiving the SAR data that will help us assess ground geometry under challenging weather conditions. Please let us know if you need any further information or clarification on our requirements.
+
+Best regards,
+[Your Name]

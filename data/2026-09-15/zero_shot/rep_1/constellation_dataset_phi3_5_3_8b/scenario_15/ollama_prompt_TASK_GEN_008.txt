@@ -1,0 +1,1 @@
+Ensure that multispectral vegetation analysis is conducted in Piacenza, Italy, using near-infrared reflection to assess chlorophyll absorption levels and calculate a surface reflectance index. This standard operational tasking must be completed within three days from now during the morning hours for integration into our ongoing baseline pipeline tracking system.

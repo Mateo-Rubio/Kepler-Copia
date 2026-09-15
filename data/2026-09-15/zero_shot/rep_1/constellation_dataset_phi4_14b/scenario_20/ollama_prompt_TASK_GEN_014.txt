@@ -1,0 +1,3 @@
+We have an absolute institutional priority task for the satellite constellation planner. This mission involves a critical payload capture over Isola del Gran Sasso d'Italia, Italy. The objective is to conduct an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of ground geometry in this region. Given the high importance of this task, it requires urgent operational execution with an un-preemptable mission lock.
+
+The data products from this mission must be ingested into our pipeline before tomorrow's overnight period at the latest. This strict delivery deadline is non-negotiable and ensures that we meet our binding contract requirements for this essential operation.

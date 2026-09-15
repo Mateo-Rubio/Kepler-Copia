@@ -1,0 +1,3 @@
+Request Task for Earth Observation Satellite Constellation Planner:
+
+We require a standard operational tasking to be scheduled as part of our baseline pipeline tracking. This involves an active radar scan using microwave surface imaging, aimed at penetrating cloud cover and capturing detailed ground geometry in Norte city. The data is needed by the day after tomorrow overnight for integration into our monitoring systems. Please arrange this as a routine capture within our normal operational parameters.

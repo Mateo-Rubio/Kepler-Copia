@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot for daylight photography of Istmina, Colombia. This task is considered low priority and can be scheduled flexibly. The data products are needed by in four days overnight at the latest, so please ensure they're ready for ingestion into our processing pipeline before then. Feel free to drop or reschedule this background survey if necessary, as it doesn't impact our immediate operational workflow.
+```

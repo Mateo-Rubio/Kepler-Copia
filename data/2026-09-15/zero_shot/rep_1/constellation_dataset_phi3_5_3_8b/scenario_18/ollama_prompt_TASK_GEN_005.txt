@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Norte, Italy during tomorrow nighttime for true-color visual documentation. This is considered a low priority importance task with a flexible schedule; however, we need the data by then at the latest to ensure it can be integrated into our regular monitoring routine without disrupting our current workflow setup. Please drop or reschedule this background survey if necessary, as it's not critical but will still contribute valuable information for our baseline pipeline tracking.
+```prompt

@@ -1,0 +1,1 @@
+This is a binding contract requirement for an immediate thermal mapping task. We need a high-resolution heat signature of the area around Mak Teduh, Indonesia. The data must be ingested into the pipeline before today during the afternoon at the latest.

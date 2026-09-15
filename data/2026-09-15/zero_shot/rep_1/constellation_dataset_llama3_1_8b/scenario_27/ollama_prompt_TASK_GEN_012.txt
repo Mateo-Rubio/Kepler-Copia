@@ -1,0 +1,1 @@
+We have a low priority importance request for a thermal mapping task using the TIR sensor. We'd like to capture a heat signature and surface temperature profile over the region of Kapuas Hulu in Indonesia, which is a remote area in the western part of Borneo island. The data should be ready by the day after tomorrow during the afternoon at the latest.

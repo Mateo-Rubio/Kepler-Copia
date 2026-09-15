@@ -1,0 +1,1 @@
+We need a standard operational tasking to capture multispectral vegetation analysis in Bagno a Ripoli, Italia. This routine monitoring is part of our baseline pipeline tracking and must be completed by tomorrow morning at the latest for integration into our workflow update. Please ensure this data collection aligns with normal operational status parameters.

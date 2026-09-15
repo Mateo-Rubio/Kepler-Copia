@@ -1,0 +1,1 @@
+We need to conduct a multispectral vegetation analysis in Kapit, Malaysia, focusing on near-infrared reflection this evening. This standard operational tasking is part of our routine monitoring pipeline tracking and must be completed today with the data products ready for ingestion into the system by tonight's overnight block.

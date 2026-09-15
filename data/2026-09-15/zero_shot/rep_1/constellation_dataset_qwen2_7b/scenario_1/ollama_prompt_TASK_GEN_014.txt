@@ -1,0 +1,12 @@
+Good day to all satellite operators and mission planners. I am reaching out with a standard operational tasking request for a SAR (Synthetic Aperture Radar) scan on behalf of our commercial tracking pipeline. The geographical focus is Norte, although detailed country information is unavailable. Our priority level is set at medium importance, indicating this is part of our baseline workflow update.
+
+The primary objective involves an active microwave surface imaging mission to capture cloud-penetrating data that will provide us with a comprehensive view of ground geometry, essential for our ongoing projects. This scan is crucial for updating our mapping database and ensuring we maintain high-quality imagery for decision-making processes.
+
+We are targeting the delivery deadline for this task by tomorrow, around mid-day at the latest. This ensures the products are ingested into our pipeline before the set deadline, adhering to our operational standards without compromising on data quality or timeliness.
+
+Please note that while this request carries a medium priority level, we appreciate your flexibility in scheduling and execution. We understand that unforeseen circumstances may require adjustments, but we kindly request that you accommodate this task within your capabilities.
+
+Thank you for your attention and cooperation. We look forward to receiving the SAR data products that will contribute to our ongoing efforts in providing accurate and timely information for our clients.
+
+Best regards,
+[Your Name]

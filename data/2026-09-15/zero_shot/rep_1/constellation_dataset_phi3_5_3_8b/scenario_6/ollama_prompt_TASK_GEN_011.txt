@@ -1,0 +1,3 @@
+Please initiate a standard operational tasking for multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and calculate surface reflectance. This routine monitoring is part of our baseline pipeline tracking, set to be completed around mid-day four days from now. The data must be ready by tomorrow's midday block at the latest for integration into our processing queue.
+
+```prompt

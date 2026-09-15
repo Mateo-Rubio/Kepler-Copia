@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+I'm reaching out with a standard operational tasking for a routine monitoring activity involving the Arsiero region in Italia. The primary sensor required is the VNIR, which will be used for multispectral vegetation analysis. Our goal is to assess the chlorophyll absorption levels and calculate the NDVI index along with surface reflectance data.
+
+The mission's priority level is set at medium importance, indicating that this request fits into our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're looking for a "flexible schedule" for the "opportunistic capture" of this task, treating it as a "background survey" or "testbed tracking task".
+
+The deadline for this data delivery is quite strict, set for four days from now in the morning. This means we need the data products ingested into our pipeline before that specific morning timeframe. We're aiming to provide high-resolution optical snapshots for daylight photography and clear optical imagery as part of our true-color visual documentation efforts.
+
+Thank you for your attention and cooperation in ensuring this task is executed according to our guidelines. We appreciate your swift action in meeting this deadline.
+
+Best regards,
+[Your Name]

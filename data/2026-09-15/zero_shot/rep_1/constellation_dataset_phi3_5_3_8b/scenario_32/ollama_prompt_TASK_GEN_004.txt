@@ -1,0 +1,1 @@
+Initiate a standard operational tasking to conduct an active radar scan using microwave surface imaging in El Piñal, Colombia. This is part of our routine monitoring aimed at capturing ground geometry and cloud-penetrating data. We need the processed information by three days from now in the evening for integration into our baseline pipeline tracking system.

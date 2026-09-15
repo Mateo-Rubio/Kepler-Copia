@@ -1,0 +1,10 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out with a task request that requires your immediate attention. Our team is tasked with capturing a high-resolution optical snapshot of the city of Istmina, located in Colombia, for daylight photography purposes. This true-color visual documentation will serve as essential background survey data for our ongoing project.
+
+Given the importance of this request, I'm marking it as a low priority task with flexible scheduling requirements. We understand that this might be considered an opportunistic capture and will treat it as such, noting that we can drop or reschedule this task at our convenience if necessary. However, we would appreciate your cooperation in ensuring that this data is collected within the next four days, ideally during the overnight period to meet our deadline.
+
+Thank you for your understanding and quick response. We look forward to receiving the data products before the specified time frame so they can be ingested into our pipeline promptly.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,9 @@
+Good day to our satellite constellation planners. We're looking to capture a low priority importance task, which involves a routine monitoring of a region in Colombia that we've designated as an opportunistic background survey. The specific area of interest is the city of Ibagué, where we aim to perform a multispectral vegetation analysis using VNIR sensors.
+
+Our objective is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for this region. This will help us understand the health and productivity of the local flora, which is crucial for environmental studies and agricultural planning.
+
+The deadline for this task is set with strict urgency; we need the data products by the day after tomorrow, specifically during the overnight period. We're aware that this deadline marks the upper limit for data availability, ensuring that the products are ingested into our pipeline before the designated time.
+
+Please proceed to schedule this task as a background survey or testbed tracking task, and kindly note that it can be dropped or rescheduled at your convenience if needed. We appreciate your cooperation in meeting this deadline and look forward to receiving the valuable insights from this observational mission.
+
+Thank you for your attention.

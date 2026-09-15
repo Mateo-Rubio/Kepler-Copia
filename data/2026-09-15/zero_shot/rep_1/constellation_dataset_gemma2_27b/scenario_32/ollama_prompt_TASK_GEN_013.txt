@@ -1,0 +1,1 @@
+This is a low priority importance request for a VNIR multispectral vegetation analysis scan over Belén de Umbría, Colombia. We're looking for opportunistic capture of this area with a flexible schedule, and would be happy to drop or reschedule at your convenience. Please ensure the products are ingested into the pipeline before tomorrow evening at the latest.

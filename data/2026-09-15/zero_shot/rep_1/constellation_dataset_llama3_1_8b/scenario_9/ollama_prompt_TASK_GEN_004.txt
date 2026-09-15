@@ -1,0 +1,16 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "San Martín"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Here is the final natural user request:
+
+"Capture a high-resolution thermal map of San Martín, Colombia, by the end of the afternoon on the day after tomorrow. This is an absolute institutional priority, as it involves a critical thermal anomaly detection and heat signature mapping task that requires urgent operational execution and an un-preemptable mission lock."

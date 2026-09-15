@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with an important task for tomorrow morning, which is a standard operational tasking within our baseline pipeline tracking setup. We're looking to perform an active radar scan using microwave surface imaging to capture ground geometry and cloud-penetrating data for Tanjung Jabung Timur, Indonesia. This is part of our routine monitoring activities with fixed parameters representing normal operational status.
+
+Our deadline is set for tomorrow morning, ensuring the products are ingested into the pipeline before that time. The request falls under low priority importance, allowing for a flexible schedule where we can drop or reschedule at convenience if needed. I appreciate your attention to this background survey task and look forward to receiving the data products as soon as possible.
+
+Thank you for your cooperation and please let me know if you need any further information or clarification.

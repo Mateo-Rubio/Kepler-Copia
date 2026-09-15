@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Montepulciano, Italia. We need a high-resolution optical snapshot of the region needed by tomorrow around mid-day at the latest. Ensure the products are ingested into the pipeline before this deadline.

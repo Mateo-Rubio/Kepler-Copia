@@ -1,0 +1,1 @@
+Please execute a standard operational tasking for commercial purposes, capturing high-resolution multispectral vegetation analysis using a VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index over the region of Indonesia, specifically in the city of Setiris. Ensure the products are ingested into the pipeline before today overnight.

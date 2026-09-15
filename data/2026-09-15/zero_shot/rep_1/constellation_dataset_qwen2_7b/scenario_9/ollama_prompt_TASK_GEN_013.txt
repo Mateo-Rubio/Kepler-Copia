@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent request that falls under the category of 'High Importance'. Our operational guidelines dictate an authoritative tone as we're dealing with a 'critical payload capture', which is a binding contract requirement involving a 'mandatory directive' for us. This tasking is absolutely essential and must be executed as soon as possible.
+
+Our focus is on the region of Colombia, specifically within the city of Cumaral. We aim to capture high-resolution optical snapshots using our VNIR sensor, which will serve as daylight photography, clear optical imagery, or true-color visual documentation. The goal here is to assess the chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance.
+
+The deadline for this tasking is set for 'in four days', with a strict delivery deadline being 'overnight'. This means that we need the data products ingested into the pipeline before the next overnight block. We understand the urgency and appreciate your team's commitment to meeting these requirements.
+
+Thank you for your attention to this matter, and we look forward to your swift response and cooperation in fulfilling this task.
+
+Best regards,
+[Your Name]

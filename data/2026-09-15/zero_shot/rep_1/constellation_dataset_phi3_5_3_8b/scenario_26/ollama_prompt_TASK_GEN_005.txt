@@ -1,0 +1,3 @@
+We're looking to schedule a non-essential background filler task for tomorrow around midday in San Biagio di Callalta, Italy. Could you arrange an opportunistic capture using multispectral vegetation analysis? This is not urgent but would be great if possible; please drop or reschedule at your convenience as we're aiming to ingest the products before tomorrow midday block.
+```prompt
+</TEXT>

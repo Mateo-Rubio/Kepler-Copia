@@ -1,0 +1,3 @@
+We're looking to capture a multispectral vegetation analysis in Caramanta, Colombia, using high-resolution optical snapshots for daylight photography. This is a low priority importance task with a flexible schedule that can be dropped or rescheduled at our convenience. We aim to have the data ready by tomorrow's evening block, ensuring it becomes part of our routine monitoring without disrupting our current workflow.
+```prompt
+</TEXT>

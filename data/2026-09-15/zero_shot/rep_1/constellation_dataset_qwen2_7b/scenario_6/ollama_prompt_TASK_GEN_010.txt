@@ -1,0 +1,12 @@
+Good day,
+
+I'm reaching out to request a standard operational tasking involving an active radar scan using microwave surface imaging technology. Our focus is on capturing cloud-penetrating imagery of Medio Baudó, Colombia, during the afternoon of tomorrow. This mission is part of our baseline pipeline tracking setup and represents a fixed set of parameters that ensure normal operational status.
+
+The primary objective is to gather high-resolution data that will help us understand ground geometry and potentially detect any anomalies that might be obscured by heavy weather conditions. With this request, we aim to capture essential details that will contribute to our ongoing monitoring efforts in the region.
+
+As per our priority level, this task holds medium importance, and while it's not an absolute institutional priority or a binding contract requirement, it is crucial for maintaining a comprehensive overview of our operational statuses. We are committed to delivering the data products by tomorrow afternoon at the latest, ensuring they are ingested into our pipeline before the deadline.
+
+Thank you for your attention to this request. Should there be any questions or adjustments needed, please do not hesitate to reach out. Your cooperation in meeting this deadline is greatly appreciated.
+
+Best regards,
+[Your Name]

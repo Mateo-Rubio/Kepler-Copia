@@ -1,0 +1,7 @@
+Good day to you, satellite constellation planner. I'm reaching out regarding a task that's been flagged as of high importance for our operations team. Our focus is on a critical payload capture involving thermal mapping over the region of Colombia, specifically in the city of Puerto López. We're aiming to gather detailed information about heat signatures and surface temperature profiles, which will be crucial for thermal anomaly detection and mapping heat emissions.
+
+Our deadline for this task is set for the day after tomorrow, with a strict delivery deadline for our data products being in the morning. We understand that this might fall within the overnight timeframe, but we need to ensure that the products are ingested into our pipeline before then.
+
+This request is tagged as a "standard operational tasking" under our baseline pipeline tracking setup, representing normal operational status and fixed parameters. It's part of our ongoing efforts to maintain a comprehensive overview of our territory's thermal dynamics. We're looking forward to receiving your confirmation on this task and appreciate your prompt attention to this matter.
+
+Thank you for your cooperation in facilitating this mission allocation. Please let us know if there are any specific instructions or considerations you need to take into account for this particular request.

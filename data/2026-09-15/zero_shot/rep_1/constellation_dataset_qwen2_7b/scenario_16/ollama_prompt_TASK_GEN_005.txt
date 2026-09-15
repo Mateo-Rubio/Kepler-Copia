@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request that's quite important to us. Our mission involves using a VNIR sensor for a vegetation analysis in Norte, which is part of our baseline pipeline tracking setup. We're looking to assess the chlorophyll absorption levels and calculate the NDVI index for this area.
+
+Considering the nature of our request, I'd classify it as a low priority importance task with a flexible schedule for opportunistic capture. We're treating this as a non-essential background filler task where we can drop or reschedule at our convenience. The goal is to gather data that will serve as a background survey or testbed tracking task.
+
+The deadline for delivering the data products is set for three days from now, with a strict delivery deadline of during the afternoon. We need to ensure that the products are ingested into the pipeline before the deadline is met, adhering to our operational guidelines and not extending the deadline.
+
+Thank you for your attention to this matter. Please let me know if you need any further information or clarification on this request.

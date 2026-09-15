@@ -1,0 +1,2 @@
+I'd like to schedule a non-essential background filler task for multispectral vegetation analysis using near-infrared reflection in Gazzola, Italy. This is aimed at assessing the chlorophyll absorption level and calculating the surface reflectance index. The data products are needed by three days from now overnight to update our baseline pipeline tracking with a flexible schedule. Please ensure this task can be dropped or rescheduled at your convenience as it holds low priority importance for us.
+```

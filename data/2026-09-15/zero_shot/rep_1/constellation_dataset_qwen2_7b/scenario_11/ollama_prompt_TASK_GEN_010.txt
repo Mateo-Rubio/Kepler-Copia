@@ -1,0 +1,12 @@
+Good day to all satellite planners,
+
+I'm reaching out with an important task request that involves thermal mapping in Colombia, specifically focusing on Victoria. Our objective is to capture a heat signature and surface temperature profile of the region using thermal infrared (TIR) sensors. This high-resolution optical snapshot will serve as true-color visual documentation for our ongoing project.
+
+Given the nature of this task, I'm designating it with a low priority importance, which means that we're treating this as a flexible schedule background survey or testbed tracking task. We understand that there might be other higher-priority tasks currently on your queue, so we're willing to drop or reschedule this request at your convenience.
+
+We aim to have the data products ingested into our pipeline before the target day, which is in four days, with a strict delivery deadline set for the morning. This ensures that we can incorporate the information into our baseline pipeline tracking setup without any delays.
+
+Thank you for your attention and cooperation in this matter. We appreciate your understanding and flexibility as we navigate through our operational priorities.
+
+Best regards,
+[Your Name]

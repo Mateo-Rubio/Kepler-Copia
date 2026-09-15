@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're looking to task your system with a standard operational tasking for tomorrow's overnight period. We're focusing on an active radar scan using microwave surface imaging technology over the city of Otanche in Colombia. Our goal is to capture cloud-penetrating imagery that will provide us with critical ground geometry details, essential for our ongoing project.
+
+We understand this request falls under medium importance and operates within normal operational status parameters. We're looking for fixed parameters that align with our baseline pipeline tracking setup. This task involves a standard workflow update where the SAR sensor will be utilized to ensure we have comprehensive coverage of the area before the deadline set for tomorrow's overnight period at the latest.
+
+Please note, this is not an urgent operational execution or an un-preemptable mission lock situation but rather part of our routine monitoring activities. We appreciate your timely processing and delivery of the data products needed by tomorrow's overnight block to ensure they are ingested into our pipeline before the deadline set for us.
+
+Thank you for your attention to this matter, and we look forward to receiving the results that will contribute to our ongoing efforts.

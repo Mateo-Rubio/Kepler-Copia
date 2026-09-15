@@ -1,0 +1,2 @@
+We're looking to gather a multispectral vegetation analysis in Porto Recanati, Italy, focusing on chlorophyll absorption levels and calculating the NDVI index for surface reflectance. This is considered a low priority task with flexible scheduling; however, we aim to have this data ready by tomorrow morning at the latest as part of our routine monitoring efforts. Please arrange for an opportunistic capture during the next available clear daylight window within three days from now.
+```prompt

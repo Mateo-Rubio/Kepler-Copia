@@ -1,0 +1,2 @@
+We're looking to conduct a multispectral vegetation analysis in Singkep Barat, Indonesia, aiming for high-resolution optical snapshot imagery during tomorrow morning's clear light window. This task is of low priority importance and can be scheduled flexibly; however, we need the data ready by tomorrow morning at the latest to ensure it integrates smoothly into our regular workflow update without disrupting any fixed parameters or baseline tracking setup. Please arrange for an opportunistic capture that aligns with this deadline.
+```prompt

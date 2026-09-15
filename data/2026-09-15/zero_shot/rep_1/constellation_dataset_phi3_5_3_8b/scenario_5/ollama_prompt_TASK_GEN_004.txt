@@ -1,0 +1,2 @@
+We're scheduling a non-essential background filler task for tomorrow during the afternoon to capture multispectral vegetation analysis in Cumaral, Colombia. This will allow us to assess chlorophyll absorption levels and calculate surface reflectance indices. Please note that this is not urgent; feel free to drop or reschedule at your convenience as we have a flexible schedule for such opportunistic tasks.
+```

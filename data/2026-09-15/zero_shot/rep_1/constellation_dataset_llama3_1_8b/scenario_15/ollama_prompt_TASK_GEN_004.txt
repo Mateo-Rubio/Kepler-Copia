@@ -1,0 +1,1 @@
+We need a thermal mapping task to capture a heat signature and surface temperature profile in Bugalagrande, Colombia, with a flexible schedule for opportunistic capture. This is a low-priority importance request, and we're happy to drop or reschedule it at our convenience if needed. We'd like the data products to be ready by tomorrow evening at the latest.

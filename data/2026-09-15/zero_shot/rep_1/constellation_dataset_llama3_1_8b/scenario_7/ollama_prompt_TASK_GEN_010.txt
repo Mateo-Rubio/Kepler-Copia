@@ -1,0 +1,1 @@
+Please conduct a standard operational tasking for multispectral vegetation analysis using VNIR, focusing on Pantanillo in Colombia. This commercial tasking is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The products should be ingested into the pipeline before in three days in the morning at the latest.

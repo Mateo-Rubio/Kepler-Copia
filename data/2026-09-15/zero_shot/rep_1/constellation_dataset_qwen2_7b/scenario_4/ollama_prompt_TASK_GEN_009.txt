@@ -1,0 +1,5 @@
+Good day, satellite constellation planners. We're looking to capture a comprehensive view of Rokan Hilir, Indonesia, using our VNIR sensor in the morning light within three days. As this task is part of our baseline pipeline tracking, we aim for high-resolution optical imagery that will help us assess the chlorophyll absorption levels and surface reflectance. This request holds medium importance as it's a standard operational tasking aligned with our normal workflow updates.
+
+Please ensure that the data products are ready by the specified day and time frame, specifically in the morning light, to meet our deadline for ingestion into the pipeline before the day's end. We appreciate your cooperation in meeting this requirement.
+
+Thank you for your attention to this matter.

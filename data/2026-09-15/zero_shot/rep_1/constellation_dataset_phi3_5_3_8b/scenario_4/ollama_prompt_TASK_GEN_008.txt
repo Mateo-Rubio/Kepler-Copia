@@ -1,0 +1,2 @@
+Request for a low priority importance tasking with an NIR sensor to capture near-infrared reflection for water body boundary mapping in Arnoldstein, Austria. We're looking at opportunistic captures that can be dropped or rescheduled as needed. The data is required by tomorrow night at the latest to fill out our background survey and track any changes over time effectively.
+```prompt

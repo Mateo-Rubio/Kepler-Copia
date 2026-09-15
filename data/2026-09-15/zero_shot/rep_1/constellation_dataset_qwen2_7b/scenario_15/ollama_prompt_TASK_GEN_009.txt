@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. We're looking to capture a thermal mapping of an ecologically sensitive area located in Indonesia's equatorial region. This task involves using near-infrared sensors for water body boundary mapping and soil moisture assessment. We aim to provide critical insights into the environmental conditions and potential anomalies that could impact our understanding of the ecosystem.
+
+The operational context is highly important, as it pertains to a baseline pipeline tracking setup with fixed parameters representing normal operational status. This task is part of our standard workflow update process.
+
+We require this data by the day after tomorrow in the evening at the latest. The deadline for data availability is strictly set for this time, ensuring that the products are ingested into our pipeline before then. We appreciate your understanding and prompt action in meeting these requirements.
+
+Thank you for your attention to detail and adherence to our operational guidelines.

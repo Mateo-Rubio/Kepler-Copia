@@ -1,0 +1,6 @@
+Good day, automated satellite constellation planner. We're tasked with capturing a high-resolution thermal mapping of La Paz, Colombia, using our TIR sensor. Our priority is medium importance, meaning this task is part of our standard operational pipeline tracking with fixed parameters. We aim to deliver the data products by tomorrow, around mid-day, as per our strict deadline. This thermal mapping will help us detect heat signatures and surface temperature profiles, which are critical for our ongoing projects.
+
+We appreciate your attention to this request and look forward to receiving the data in time for our internal processing and analysis. Thank you for your cooperation and understanding regarding the operational constraints.
+
+Best regards,
+[Your Name]

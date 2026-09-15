@@ -1,0 +1,5 @@
+Good day to our satellite mission planners! We're looking to capture a high-resolution optical snapshot of Ecuatorial, Indonesia, using our VIS sensor. We aim to obtain clear daylight imagery and true-color visual documentation for this location. Due to the importance of this task, we classify it as a low priority background filler request, which can be scheduled flexibly or rescheduled at your convenience.
+
+We're targeting this mission for delivery by three days from now, with a strict deadline set for overnight. This means our data products must be ingested into the pipeline before the next day's nightfall to ensure timely processing and analysis. We appreciate your understanding of this operational constraint.
+
+Thank you for your attention to this matter. We look forward to receiving the captured data soon.

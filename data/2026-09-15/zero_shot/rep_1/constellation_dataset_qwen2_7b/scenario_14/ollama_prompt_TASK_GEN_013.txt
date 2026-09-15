@@ -1,0 +1,7 @@
+Good day! I'm reaching out to request a mission from your satellite constellation, as per our baseline pipeline tracking setup. Our low priority importance task involves capturing an active radar scan using microwave surface imaging technology for cloud-penetrating capture of ground geometry in Suratá, Colombia. This is part of our routine monitoring efforts.
+
+Given the operational guidelines, I'm framing this request as a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". We're looking to assess the impact of heavy weather conditions on the terrain and infrastructure in Suratá. The request is for a thermal mapping operation that will help us identify any heat signatures or anomalies in the area.
+
+Our deadline for receiving the data products is set for three days from now, with a strict delivery deadline set for "around mid-day". We aim to ensure the products are ingested into our pipeline before then, aligning with our normal operational status or workflow update requirements. This task is not considered an urgent operational execution but falls under our standard mission allocation priority.
+
+Thank you for your attention to this matter. If there are any specific technical details you need from us, please let me know, and we'll provide them accordingly.

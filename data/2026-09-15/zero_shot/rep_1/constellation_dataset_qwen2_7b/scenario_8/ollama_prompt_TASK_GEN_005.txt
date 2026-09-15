@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm reaching out to request a high-resolution optical snapshot of Premilcuore, Italia, which is set for acquisition in the morning of the day after tomorrow. Our objective is to capture clear daylight imagery that will serve as true-color visual documentation for our ongoing project.
+
+As this task falls under priority level 1, we emphasize its low importance but require it to be executed with flexibility and convenience. We understand that this request might be considered a non-essential background filler task, which can be dropped or rescheduled at your discretion if it conflicts with more urgent tasks.
+
+The primary sensor for this mission will be our VIS camera, tasked with providing us with high-quality daylight photography of the region. The imagery should capture the essence of Premilcuore's landscape and urban environment, allowing us to assess its current state without the interference of clouds or weather conditions.
+
+We are strictly adhering to the deadline specified for data delivery, which is set for the day after tomorrow in the morning. Our team will ensure that the products are ingested into our pipeline before this time frame elapses. We appreciate your understanding and cooperation in meeting this requirement.
+
+Thank you for your attention to this matter. We look forward to receiving your confirmation on this task's execution.

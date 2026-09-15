@@ -1,0 +1,4 @@
+Good day! I'm reaching out as an Earth-observation mission operator to request a highly realistic and detailed image of the region in question. Specifically, we're looking at the area encompassing the city of Norte within the beautiful country of Italia. Our primary sensor requirement is for high-resolution optical imagery, which will provide us with a clear visual snapshot that captures the essence of daylight photography or true-color visual documentation. This is a low priority importance task, so please treat it as a flexible schedule background survey or testbed tracking task. We aim to have this data by the day after tomorrow, in the evening, ensuring the products are ingested into our pipeline before then. Thank you for your attention and cooperation!
+
+Best regards,
+[Your Name]

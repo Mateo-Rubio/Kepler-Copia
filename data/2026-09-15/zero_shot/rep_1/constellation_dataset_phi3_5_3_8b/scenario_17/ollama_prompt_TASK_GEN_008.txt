@@ -1,0 +1,2 @@
+We need to schedule a SAR radar scan over Giugliano in Campania, Italy, aiming for high-resolution microwave surface imaging that can penetrate adverse weather conditions. This task is part of our standard operational tracking and should be completed within the next three days by around midday. The data must be ready by then to ensure it's integrated into our routine monitoring pipeline on time.
+```

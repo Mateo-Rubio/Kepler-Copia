@@ -1,0 +1,5 @@
+Tasking Request for Thermal Mapping and Surface Temperature Profiling in Indonesia
+
+We require a low-priority importance task to capture thermal mapping data using a high-resolution thermal snapshot for thermal anomaly detection and heat signature profiling over the region of Pangalaseang, Indonesia. This is a non-essential background filler task with a flexible schedule for opportunistic capture, and we can drop or reschedule at convenience if needed.
+
+The data products should be ready by today in the evening at the latest.

@@ -1,0 +1,1 @@
+I need a standard operational tasking to capture an active radar scan using microwave surface imaging in Norte, France. This is part of our routine monitoring and should be completed by the day after tomorrow overnight for integration into our baseline pipeline tracking system. Ensure this completes within the specified deadline for data delivery.

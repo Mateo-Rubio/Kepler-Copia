@@ -1,0 +1,3 @@
+We need a low priority importance SAR scan for cloud-penetrating capture of the Ecuatorial city in Indonesia, with an aim to assess ground geometry. This task is set as non-essential background filler and can be dropped or rescheduled at convenience. The data must be ready by tomorrow's afternoon deadline.
+```prompt
+...your text here...

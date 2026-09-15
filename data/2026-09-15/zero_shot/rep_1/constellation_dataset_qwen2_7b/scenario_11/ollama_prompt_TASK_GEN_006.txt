@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're requesting a standard operational tasking for a routine monitoring activity in Indonesia, specifically targeting the city of Setiris. This mission involves utilizing the VNIR sensor for multispectral vegetation analysis on a critical payload capture basis. The objective is to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+Given the importance of this task, we aim to capture high-resolution optical snapshots during daylight photography or clear optical imagery that will serve as true-color visual documentation of the area. We understand the urgency associated with this request and are setting a strict delivery deadline for the data products by tomorrow's overnight block at the latest.
+
+Please note that this is part of our baseline pipeline tracking setup, featuring fixed parameters representing normal operational status. We appreciate your prompt attention to this standard tasking, ensuring that the satellite constellation is efficiently allocated to fulfill our commercial tasking requirements.
+
+Thank you for your cooperation and understanding in managing this timely request.
+
+Best regards,
+[Your Name]

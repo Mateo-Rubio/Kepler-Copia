@@ -1,0 +1,3 @@
+We have an absolute institutional priority mission to execute in Indonesia, specifically over the city of Ecuatorial. This task involves a critical payload capture using active radar scanning with microwave surface imaging capabilities. The objective is to achieve a cloud-penetrating capture that can pierce through heavy weather conditions and accurately map ground geometry.
+
+This mission is a binding contract requirement and must be treated as an un-preemptable mission lock with urgent operational execution. The data products are needed by tomorrow morning at the latest, ensuring they are ingested into the pipeline before this strict delivery deadline.

@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planners,
+
+I'm reaching out with an urgent request on behalf of our institution, as this task falls under our highest priority category. We're looking to capture a crucial piece of data that requires immediate attention due to its high importance and contractual obligations.
+
+Our focus is on the region of Malaysia, specifically targeting the area around Bukit Mabong. This area presents a complex landscape with varying terrain and potential for critical infrastructure development. The primary sensor needed for this mission is an active radar scan, utilizing microwave surface imaging capabilities. The goal here is to penetrate through heavy weather conditions, providing us with detailed ground geometry data that can't be obtained through traditional optical methods.
+
+The operational deadline for this task is set by today's overnight period, meaning we need the data products ingested into our pipeline before tomorrow's nightfall at the latest. This is not just a standard operational task; it's an absolute institutional priority that involves capturing a 'critical payload' and adhering to binding contractual requirements.
+
+Please ensure that the SAR data meets our high standards for quality, as this will be used for decision-making processes that impact future developments in the region. We appreciate your understanding of the urgency involved and look forward to your timely response and support.
+
+Thank you very much,
+[Your Name]

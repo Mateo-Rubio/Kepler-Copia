@@ -1,0 +1,22 @@
+Good day! I'm reaching out on behalf of an Earth-observation mission operator to request a highly realistic and conversational English task. The objective is to translate raw physical simulation metadata into a single, detailed request for the automated satellite constellation planner.
+
+Geographically, we're focusing on Puerto Rico, Colombia, which is a part of our operational region. The primary sensor required for this task is VNIR, designed for multispectral vegetation analysis. This means capturing details about chlorophyll absorption levels and calculating the vegetation NDVI index along with surface reflectance.
+
+The mission allocation priority is medium importance, indicating that this request is part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status. We're looking to conduct this routine monitoring as part of our baseline pipeline tracking setup.
+
+Regarding the temporal parameters, we have a strict deadline set for the delivery of products by the target day, which is three days from now, specifically in the morning. This deadline represents the upper limit for data availability and ensures that the products are ingested into the pipeline before the specified time.
+
+To summarize, our request is as follows:
+
+"Hello Satellite Constellation Planner,
+
+I'm reaching out to request a detailed VNIR multispectral vegetation analysis task focusing on Puerto Rico, Colombia. Please conduct an assessment of chlorophyll absorption levels and calculate the NDVI index along with surface reflectance for this area.
+
+This task falls under our standard operational status and is part of our baseline pipeline tracking setup. We're looking to complete this task by the target day, which is three days from now, in the morning. This deadline represents the upper limit for data availability and ensures that the products are ingested into the pipeline before the specified time.
+
+Thank you for your attention and cooperation in ensuring timely delivery of these critical data products."
+
+Best regards,
+
+[Your Name]
+Earth-observation Mission Operator"

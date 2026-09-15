@@ -1,0 +1,2 @@
+I'd like to schedule a low priority importance task for tomorrow afternoon in San Vicente del Caguán, Colombia. We aim to capture high-resolution optical snapshots during the mid-day period for daylight photography and true-color visual documentation as part of our routine monitoring efforts. Please ensure that this data is ingested into our pipeline before tomorrow's afternoon deadline. This task can be dropped or rescheduled at your convenience, so feel free to adjust if necessary.
+```

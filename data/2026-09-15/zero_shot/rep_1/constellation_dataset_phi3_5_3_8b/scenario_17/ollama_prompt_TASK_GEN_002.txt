@@ -1,0 +1,2 @@
+Ensure that a multispectral vegetation analysis is conducted in Vigonza, Italy, using near-infrared reflection capabilities to assess chlorophyll absorption levels and calculate the NDVI index by the evening of the day after tomorrow as part of our standard operational tasking. This routine monitoring will contribute to our baseline pipeline tracking for vegetation health assessment.
+```

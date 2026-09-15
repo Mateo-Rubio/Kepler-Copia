@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out to request a high-resolution optical snapshot of France, specifically focusing on the city of Sotta. This task is part of a low priority importance background filler task and can be scheduled with a flexible schedule for opportunistic capture. Our objective is to assess clear daylight photography or true-color visual documentation of this area.
+
+The primary sensor we're utilizing for this mission is the VIS sensor, which will provide us with high-quality optical imagery that captures the essence of the region during the day. This task is not essential but adds valuable information to our baseline pipeline tracking setup.
+
+We're aiming to receive the data products by the target day, which is in four days, with a strict delivery deadline set for overnight at the latest. This ensures that the products are ingested into our pipeline before the deadline, allowing us to process and analyze them efficiently.
+
+Thank you for your attention to this matter, and I look forward to your confirmation of this request.

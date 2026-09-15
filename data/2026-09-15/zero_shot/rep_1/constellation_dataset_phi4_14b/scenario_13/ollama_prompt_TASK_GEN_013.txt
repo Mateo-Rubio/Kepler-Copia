@@ -1,0 +1,3 @@
+We have a standard operational tasking for you involving a multispectral vegetation analysis over Campo Capote in Colombia. This mission is part of our baseline pipeline tracking, ensuring we maintain normal operational status with fixed parameters. We're looking to capture chlorophyll absorption levels and calculate the NDVI index for the area.
+
+The data products are needed by tomorrow morning at the latest, so please ensure they are ingested into the pipeline before that time. Thank you for your cooperation in this routine monitoring task.

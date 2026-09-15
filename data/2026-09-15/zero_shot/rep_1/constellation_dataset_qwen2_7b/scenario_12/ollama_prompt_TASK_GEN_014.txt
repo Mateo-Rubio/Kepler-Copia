@@ -1,0 +1,8 @@
+Good day, esteemed satellite constellation planner. I'm reaching out to request a specialized Earth observation mission with an emphasis on thermal mapping capabilities. Our focus is on capturing detailed heat signatures and surface temperature profiles for the region known as Norte. Given its strategic importance, this task is classified as having low priority importance.
+
+Our operational objective necessitates a "thermal anomaly detection" to identify any unusual heat emissions or patterns that may be critical for our ongoing project. The imagery collected will serve as a "background survey" and will aid in our decision-making process without requiring immediate attention. We understand that this task might not be essential for your pipeline, so we kindly request you to drop or reschedule it at your convenience.
+
+The deadline for delivering the data products is set for the day after tomorrow during the afternoon, ensuring they are ingested into our system before then. We appreciate your understanding and flexibility in accommodating this "non-essential background filler task" as part of our ongoing Earth observation efforts. Thank you for your cooperation and prompt attention to this request.
+
+Best regards,
+[Your Name]

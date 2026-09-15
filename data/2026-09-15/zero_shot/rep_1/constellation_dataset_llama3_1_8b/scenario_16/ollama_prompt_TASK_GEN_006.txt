@@ -1,0 +1,5 @@
+Tasking Request for Multispectral Vegetation Analysis in Indonesia
+
+We require a high-priority standard operational tasking for multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and calculate the NDVI index. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The location of interest is Mulya Bakti, Indonesia, where we aim to capture a high-resolution optical snapshot for true-color visual documentation. We need the data products to be ingested into the pipeline before in three days overnight, ensuring timely delivery and integration into our operational workflows.

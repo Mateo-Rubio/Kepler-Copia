@@ -1,0 +1,7 @@
+Good day to you, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our satellite fleet, which falls under our commercial tracking pipeline setup. The mission allocation priority is set at medium importance, signifying a binding contract requirement involving a critical payload capture.
+
+Our objective is to gather near-infrared reflection data from the region of Colombia, specifically focusing on the city of Canelos. We aim to capture the heat signature and surface moisture assessment for this area. Our target day for delivering these data products is the day after tomorrow, with a strict deadline set for the morning hours. This ensures that our products are ingested into the pipeline before the deadline.
+
+Please proceed with the active radar scan using microwave surface imaging capabilities to penetrate heavy weather conditions and capture ground geometry accurately. We appreciate your attention to this task and look forward to receiving the data in line with our operational guidelines.
+
+Thank you for your cooperation.

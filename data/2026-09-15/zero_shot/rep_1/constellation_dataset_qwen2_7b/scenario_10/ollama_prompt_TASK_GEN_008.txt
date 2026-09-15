@@ -1,0 +1,11 @@
+Hello satellite constellation planner,
+
+I'm reaching out regarding an operational tasking request for a high-resolution optical snapshot of a region in Italia, specifically focusing on the city of Norte. The imagery we're seeking aims to capture clear daylight photography and true-color visual documentation of the area.
+
+Given the nature of our baseline pipeline tracking requirements, this request is categorized as a standard operational task with fixed parameters, representing normal operational status. We understand that there are no immediate deadlines for this tasking; however, we kindly request that the data products be ready by the following overnight block at the latest. This means that the satellite constellation should ensure the products are ingested into our pipeline before the target day and overnight period.
+
+We appreciate your attention to this matter and look forward to receiving the captured data in accordance with our specifications.
+
+Best regards,
+
+[Your Name]

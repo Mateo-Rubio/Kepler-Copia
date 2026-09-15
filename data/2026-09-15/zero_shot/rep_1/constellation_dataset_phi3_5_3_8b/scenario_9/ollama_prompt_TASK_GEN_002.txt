@@ -1,0 +1,2 @@
+In four days, by tomorrow's morning, I need a high-resolution optical snapshot for daylight photography to capture true-color visual documentation of Norte city. This is a low priority importance task with flexible scheduling; please drop or reschedule at your convenience as it serves as background survey and testbed tracking. Ensure the products are ingested into our pipeline before this deadline.
+```prompt

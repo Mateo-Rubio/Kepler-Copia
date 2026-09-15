@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request to capture an active radar scan using microwave surface imaging technology for an area of interest located in Sanggau, Indonesia. This request carries low priority importance and can be scheduled flexibly as a background survey or testbed tracking task.
+
+The goal is to obtain cloud-penetrating imagery that captures ground geometry and terrain details with high precision, ideally needed by the day after tomorrow in the morning at the latest. This thermal mapping will help us assess land use patterns and surface temperature profiles without being influenced by atmospheric conditions.
+
+Please note that this request falls under a non-essential background filler task with no strict deadline constraints beyond the delivery date set for the day after tomorrow's morning block. Kindly ensure the products are ingested into our pipeline before then, allowing us to incorporate them into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention and cooperation in fulfilling this request. I look forward to your confirmation on the task allocation and any updates regarding its progress.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis around mid-day in three days, aiming for high-resolution optical snapshots that will help us assess chlorophyll absorption levels and calculate the NDVI index. This task is of low priority importance; we can drop or reschedule at our convenience. The data products are needed by then to ensure they're ingested into our pipeline for routine monitoring, with a strict delivery deadline set for that timeframe.
+```prompt

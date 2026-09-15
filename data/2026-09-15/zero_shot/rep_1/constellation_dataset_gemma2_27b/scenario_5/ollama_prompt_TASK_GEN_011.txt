@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection capture over Northern Italy. We need high-resolution imagery to map water body boundaries and assess soil moisture gradients in the region. Please ensure the products are ingested into the pipeline before tomorrow morning at the latest.

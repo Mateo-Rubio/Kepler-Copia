@@ -1,0 +1,1 @@
+This is a low priority importance task for opportunistic capture. We need thermal mapping of Ecuatorial, Malaysia.  The goal is to capture a heat signature and surface temperature profile. Please ensure the products are ingested into the pipeline before the day after tomorrow in the morning at the latest. Feel free to drop or reschedule this task at your convenience.

@@ -1,0 +1,5 @@
+I'd like to submit a low-priority task for a thermal mapping mission over Mamuju, Indonesia. This task involves capturing a surface temperature profile and detecting any thermal anomalies in the area. Given its flexible schedule, it can be treated as a non-essential background filler task, with the opportunity to drop or reschedule at convenience.
+
+The goal is to obtain thermal data using a TIR sensor, which will help us map heat emissions and identify any unusual thermal patterns. Please ensure that this task is integrated into the workflow as a background survey or testbed tracking task.
+
+We need the data products delivered by the day after tomorrow around mid-day at the latest. Thank you for accommodating this request within your operational capabilities.

@@ -1,0 +1,3 @@
+I'd like to submit a low-priority task for a flexible schedule, focusing on an opportunistic capture. The mission involves conducting multispectral vegetation analysis over Ecuatorial in Indonesia. This task aims to assess the chlorophyll absorption levels and calculate a vegetation NDVI index using VNIR capabilities.
+
+Given its low priority status, this is a non-essential background filler task that can be dropped or rescheduled at convenience. However, I do need the data products to be ready by the day after tomorrow's overnight period. Please ensure the products are ingested into the pipeline before then.

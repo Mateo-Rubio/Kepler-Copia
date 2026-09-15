@@ -1,0 +1,14 @@
+Good day to our satellite constellation team,
+
+I'm reaching out with a task that requires your immediate attention. Our operational guidelines dictate that we handle requests based on their priority level, geographic context, sensors and physical objectives, and relative timeframes.
+
+Our request pertains to Indonesia, specifically the city of Pangkalan Bun. We're aiming for a high-resolution optical snapshot of this area using our primary sensor - the VIS system. This is akin to capturing a true-color visual documentation of the region during daylight hours, allowing us to obtain clear optical imagery that serves as a valuable resource for our ongoing monitoring efforts.
+
+Given the nature of our request, we've classified it under a low priority importance category. This means that while it's crucial, it doesn't necessitate an urgent operational execution or an un-preemptable mission lock. We understand that there might be more pressing tasks at hand and are flexible with scheduling this task. We're treating this as a non-essential background filler task, which can be dropped or rescheduled as per your convenience.
+
+We're requesting the data by the target day, which is four days from now, with the strict delivery deadline set for overnight. This means that we need the products ingested into our pipeline before the end of the night on that day to ensure timely processing and distribution.
+
+Thank you for your understanding and cooperation in this matter. We appreciate your prompt attention to this task.
+
+Best regards,
+[Your Name]

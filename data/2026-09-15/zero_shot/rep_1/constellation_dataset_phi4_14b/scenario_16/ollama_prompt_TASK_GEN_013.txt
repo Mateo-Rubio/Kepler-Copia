@@ -1,0 +1,3 @@
+We have an absolute institutional priority task requiring a critical payload capture over Samacá, Colombia. This mission involves conducting thermal mapping to detect surface temperature profiles and potential thermal anomalies. The objective is to capture a comprehensive heat signature using thermal infrared imaging.
+
+This high-importance task is a binding contract requirement, necessitating urgent operational execution with an un-preemptable mission lock. Please ensure that the data products are ingested into the pipeline before the overnight block in three days at the latest.

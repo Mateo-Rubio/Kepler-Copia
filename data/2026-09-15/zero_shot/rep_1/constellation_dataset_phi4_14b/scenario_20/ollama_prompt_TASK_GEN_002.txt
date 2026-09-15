@@ -1,0 +1,3 @@
+I would like to submit a standard operational tasking for our satellite constellation planner. The focus is on capturing near-infrared reflection data over the region known as Norte. This mission involves assessing soil moisture levels and mapping water body boundaries, which are crucial for our environmental studies.
+
+Please ensure this request is treated as part of our baseline pipeline tracking with fixed parameters, representing a normal operational status update. I need the data products to be delivered with a strict deadline set for tomorrow evening at the latest. Thank you.

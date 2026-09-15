@@ -1,0 +1,7 @@
+Good morning! I'm reaching out with an urgent request on behalf of our satellite constellation planning team. We're tasked with capturing a highly critical payload for a binding contract requirement involving a "critical payload capture" or a "mandatory directive". This mission allocation is of the highest importance, and we need to ensure it's treated as an "absolute institutional priority" or a "binding contract requirement".
+
+Our target region is Colombia, specifically the city of San José del Guaviare. We're focusing on capturing detailed near-infrared (NIR) data to assess soil moisture levels and water body boundaries, which will be crucial for environmental monitoring.
+
+We need this data by the day after tomorrow, with a strict delivery deadline set for overnight. This means that we must ensure the products are ingested into our pipeline before the target day's overnight block. Our goal is to provide the most accurate thermal mapping possible for surface temperature profiles and thermal anomaly detection.
+
+Please prioritize this request as it involves a "critical payload capture" or a "mandatory directive". We appreciate your cooperation in meeting this deadline, as it is essential for our operational status and contractual obligations. Thank you for your immediate attention to this matter.

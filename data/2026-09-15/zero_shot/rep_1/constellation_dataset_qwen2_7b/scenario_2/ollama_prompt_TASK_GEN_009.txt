@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out regarding an important task for our Earth observation mission. We're focusing on a region in Indonesia, specifically the city of Sintang, which is crucial for monitoring environmental conditions and assessing soil moisture levels.
+
+Our primary sensor requirement is the Near-Infrared (NIR) band, which will help us in mapping water body boundaries and conducting soil moisture assessments. This task is of low priority importance, allowing for a flexible schedule with drop or rescheduling at convenience if necessary. However, it's essential that we capture this data as part of our opportunistic background survey tasks.
+
+The deadline for this task is set for three days from now, with a strict delivery deadline being overnight. We aim to ensure the products are ingested into the pipeline before the target day's overnight period. This will enable us to analyze and incorporate these data points into our ongoing environmental monitoring efforts efficiently.
+
+Thank you for your attention to this matter. Please let me know if there are any further details required or if adjustments need to be made to our request.

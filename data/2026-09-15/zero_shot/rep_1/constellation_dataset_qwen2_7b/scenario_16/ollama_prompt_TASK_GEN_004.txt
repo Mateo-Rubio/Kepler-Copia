@@ -1,0 +1,7 @@
+We're tasked with capturing a critical payload for an absolute institutional priority involving a mandatory directive from our client in Colombia, specifically focusing on the city of Guamal. Our primary sensor requirement is near-infrared (NIR), which will be used to assess soil moisture and water body boundaries with high precision.
+
+Given the urgency, we need this data by tomorrow morning at the latest, ensuring that our products are ingested into the pipeline before the deadline set for that day. This request carries a high importance level, implying an urgent operational execution and an un-preemptable mission lock.
+
+We're looking to gather detailed information on soil moisture levels and delineate water bodies with accuracy, which will be crucial for our client's operational planning. The data we collect will be essential for making informed decisions based on the environmental conditions in Guamal, Colombia, and must adhere to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please allocate the necessary satellite assets immediately for this task to guarantee timely delivery and meet our contractual obligations. This is a high-priority mission that requires your full attention and expertise to ensure the successful capture and delivery of the data products.

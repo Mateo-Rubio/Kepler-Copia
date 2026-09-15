@@ -1,0 +1,1 @@
+We need a standard operational tasking to capture multispectral vegetation analysis in Lebrija, Colombia. This routine monitoring should provide insights into chlorophyll absorption levels and surface reflectance using near-infrared reflection capabilities. The data products are required by tomorrow evening at the latest for integration into our regular workflow tracking system.

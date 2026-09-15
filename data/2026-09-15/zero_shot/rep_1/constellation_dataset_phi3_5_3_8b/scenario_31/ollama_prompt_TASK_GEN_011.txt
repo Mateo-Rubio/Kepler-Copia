@@ -1,0 +1,2 @@
+We're looking to conduct a thermal mapping over Radicondoli, Italy, in the evening time frame of the day after tomorrow. This task is classified as low priority importance and can be scheduled flexibly. Please ensure that this background survey or testbed tracking task aligns with our current workload and drop or reschedule at your convenience if necessary. The goal here is to capture a heat signature, surface temperature profile, or thermal anomaly detection for analysis purposes.
+```

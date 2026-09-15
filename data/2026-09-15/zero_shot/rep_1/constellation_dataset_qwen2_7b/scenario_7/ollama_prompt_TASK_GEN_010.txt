@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a standard operational tasking for a routine monitoring activity involving a VNIR sensor in Colombia. Specifically, we're looking at the area around Pantanillo city, focusing on capturing high-resolution optical snapshots of daylight photography and clear optical imagery for our baseline pipeline tracking setup.
+
+The mission is tagged with a priority level of medium importance, which means it's part of our normal operational status but with fixed parameters representing our standard workflow update. We're aiming to ensure that the data products are ingested into our pipeline before the target day, which is in three days, and ideally by the morning timeframe.
+
+This request falls under our commercial tasking category and involves assessing chlorophyll absorption levels or calculating a vegetation NDVI index for surface reflectance purposes. Please note that this task carries normal operational status but with flexibility in scheduling, treating it as a background survey or testbed tracking task.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting the deadline set for data availability by [target_day] [target_diurnal_period]. If there are any questions or if we need to adjust the parameters, please let us know. Have a great day!
+
+Best regards,
+[Your Name]

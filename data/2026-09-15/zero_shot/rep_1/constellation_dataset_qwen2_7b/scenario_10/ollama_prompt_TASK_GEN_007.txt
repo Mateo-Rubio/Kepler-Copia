@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners! We're looking at an essential background survey task for Apartadó, Colombia. This is a low priority importance request with a flexible schedule for opportunistic capture, so feel free to drop or reschedule at your convenience. The mission involves thermal mapping using the TIR sensor to capture heat signatures and surface temperature profiles.
+
+Our objective is to ensure that the products are ingested into the pipeline before the target day's overnight block, which means we need the data by the day after tomorrow's night time. This task serves as a testbed tracking task and doesn't require an urgent operational execution or an un-preemptable mission lock.
+
+Thank you for your attention to this background survey request. We appreciate your cooperation in meeting our deadline set for the products' availability. If you have any questions, please reach out. Have a great day!

@@ -1,0 +1,12 @@
+Hello there,
+
+I'm looking to capture a thermal map of Correggioli, a charming town nestled in the beautiful region of Italia. The primary objective is to assess heat signatures and surface temperatures, which will help us identify any potential anomalies or patterns in the town's infrastructure and environment.
+
+With this request being marked as Priority 1, I understand that it carries low importance but requires flexibility in scheduling. Given the nature of our operations, I'm treating this task as a "non-essential background filler" that can be adjusted based on our current workflow priorities. However, for the sake of completeness and to ensure we're thorough in our monitoring efforts, I'd still like to proceed with capturing this thermal map.
+
+The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline of "in the evening". This means that we need to have everything processed and ready by then, ensuring the products are ingested into our pipeline before the evening falls. I appreciate your understanding in adhering to this deadline.
+
+Thank you for your attention to this task.
+
+Best regards,
+[Your Name]

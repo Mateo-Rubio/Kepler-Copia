@@ -1,0 +1,1 @@
+This is a low priority importance task for opportunistic capture. We need multispectral vegetation analysis over Calamar, Colombia.  Specifically, we're looking to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This data is needed by in three days in the evening at the latest. Please drop or reschedule this task at your convenience if necessary.

@@ -1,0 +1,2 @@
+Ensure we secure high-resolution optical snapshots of Pantanillo's water bodies tonight, as these are critical for our near-infrared reflection analysis. This task is an absolute institutional priority and must be completed today in the evening to meet our strict delivery deadline. The data products will be ingested into our pipeline before tomorrow nightfall, underscoring their urgent operational execution requirement.
+```prompt

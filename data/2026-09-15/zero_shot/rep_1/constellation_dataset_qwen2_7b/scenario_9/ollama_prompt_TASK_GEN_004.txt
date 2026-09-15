@@ -1,0 +1,13 @@
+Subject: High Importance Thermal Mapping Task for San Martín, Colombia
+
+Priority: Absolute Institutional Priority
+
+We are tasked with conducting a critical payload capture involving thermal mapping in San Martín, Colombia. This mission is part of our baseline pipeline tracking setup and represents a standard operational tasking with fixed parameters that reflect normal operational status.
+
+Our primary sensor will be the TIR (Thermal Infrared) system, which will enable us to capture heat signatures and surface temperature profiles for thermal anomaly detection and mapping heat emissions. The goal is to provide high-resolution optical snapshots of the area during daylight photography or true-color visual documentation.
+
+The deadline for delivering the data products is set for the day after tomorrow, during the afternoon. This means that we need to ensure the products are ingested into the pipeline before the specified time on the target day. We will adhere strictly to this deadline without altering or extending it.
+
+Please note that this task is an urgent operational execution and an un-preemptable mission lock due to its high importance and contractual requirements involving a mandatory directive for capturing thermal data.
+
+We appreciate your understanding and cooperation in meeting this critical deadline.

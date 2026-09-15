@@ -1,0 +1,10 @@
+Good day to all satellite mission planners,
+
+I'm reaching out with a standard operational tasking request for a critical area in Indonesia, specifically focusing on Majangkan. We're looking to conduct an active radar scan using our SAR technology, which involves capturing the intricate details of the region's surface geometry, even through heavy weather conditions. This is part of our baseline pipeline tracking setup and represents a normal operational status.
+
+Our priority here is medium importance, implying that this request is part of our routine monitoring efforts but doesn't require an urgent operational execution. We're aiming to capture this data around mid-day tomorrow, ensuring the products are ingested into our pipeline by then. This task doesn't fall under any contractual obligations or critical payload capture requirements and can be considered as a standard workflow update.
+
+Please ensure that the data is ready for us by tomorrow's mid-day at the latest. We appreciate your attention to this request and look forward to receiving the results in line with our operational standards.
+
+Thank you,
+[Your Name]

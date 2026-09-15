@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region surrounding Rome, Italy, utilizing our high-resolution SAR sensor. Our request falls under medium importance, aligning with our standard operational tasking and commercial requirements.
+
+Our priority is to ensure that this "active radar scan" using microwave surface imaging provides us with cloud-penetrating capture capabilities, allowing us to gather ground geometry data even under heavy weather conditions. This mission is part of our baseline pipeline tracking setup, where fixed parameters represent normal operational status.
+
+The specific task involves capturing a thermal signature or mapping heat emissions across the region, ensuring we cover all critical areas for our ongoing project. Additionally, we aim to perform multispectral vegetation analysis and assess chlorophyll absorption levels or calculate the NDVI index to understand surface reflectance accurately.
+
+We're setting a strict deadline for this request, needing the data by tomorrow evening at the latest. This ensures that our products are ingested into the pipeline before the specified target day and time, adhering to our operational guidelines.
+
+Thank you for your attention to this matter. We appreciate your team's expertise in delivering high-quality data that meets our project's needs. If there are any questions or adjustments needed, please feel free to communicate with us directly. 
+
+Best regards,
+[Your Name]

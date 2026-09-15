@@ -1,0 +1,8 @@
+Hello there, satellite constellation planner! I'm reaching out with a task request for an Earth observation mission that's crucial for our ongoing project. We're looking to capture high-resolution optical imagery of Porto Recanati, Italy, which is nestled along the picturesque coastline in the heart of the country. This request falls under the category of low priority importance and doesn't have any strict deadlines attached to it.
+
+We aim to assess the chlorophyll absorption levels across the region using our VNIR sensor for a vegetation analysis. This will help us understand the health and productivity of local ecosystems, which is part of our ongoing research efforts. The imagery should be ready by three days from now, in the morning, ensuring that we can incorporate it into our baseline pipeline tracking setup without any delays.
+
+Thank you for your attention to this task. It's a great opportunity to showcase our satellite constellation's capabilities in capturing detailed environmental data. We're flexible with scheduling and can accommodate this request as a background survey or testbed tracking task if needed. Looking forward to your positive response!
+
+Best regards,
+[Your Name]

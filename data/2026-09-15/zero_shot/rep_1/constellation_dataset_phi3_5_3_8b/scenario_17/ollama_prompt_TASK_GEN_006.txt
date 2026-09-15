@@ -1,0 +1,2 @@
+Ensure a SAR active radar scan is scheduled for tomorrow around midday over Majangkan, Indonesia. This tasking falls under standard operational tracking and will contribute to our routine monitoring capabilities by penetrating cloud cover and capturing detailed ground geometry. The data products must be ready for ingestion into the pipeline no later than the following day's mid-day block, adhering strictly to this delivery deadline.
+```

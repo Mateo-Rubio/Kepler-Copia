@@ -1,0 +1,54 @@
+```prompt
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission.
+
+The task involves translating the provided JSON metadata into a natural language request. The goal is to create a conversational and realistic request that accurately reflects the operational context and requirements.
+
+To begin, we will interpret the geographic context of the mission. The location details indicate that the target region is in Colombia, specifically in the city of Bolívar. We will combine these details to describe the location naturally.
+
+Next, we will determine the mission allocation priority based on the 'priority_level' key. In this case, the priority level is 3, indicating a high importance mission. We will use an authoritative and explicit tone to frame this request as an "absolute institutional priority" involving a "critical payload capture" or "mandatory directive".
+
+Moving on to the sensors and physical objectives, we will interpret the 'primary_sensor' key. The primary sensor is TIR (Thermal Infrared), which we will explain as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+Finally, we will determine the relative timeframes based on the 'target_day' and 'target_diurnal_period' keys. The target day is in three days, and the target diurnal period is in the evening. We will weave these details into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Here is the final natural user request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission.
+
+The task involves translating the provided JSON metadata into a natural language request. The goal is to create a conversational and realistic request that accurately reflects the operational context and requirements.
+
+To begin, we will interpret the geographic context of the mission. The location details indicate that the target region is in Colombia, specifically in the city of Bolívar. We will combine these details to describe the location naturally.
+
+Next, we will determine the mission allocation priority based on the 'priority_level' key. In this case, the priority level is 3, indicating a high importance mission. We will use an authoritative and explicit tone to frame this request as an "absolute institutional priority" involving a "critical payload capture" or "mandatory directive".
+
+Moving on to the sensors and physical objectives, we will interpret the 'primary_sensor' key. The primary sensor is TIR (Thermal Infrared), which we will explain as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+Finally, we will determine the relative timeframes based on the 'target_day' and 'target_diurnal_period' keys. The target day is in three days, and the target diurnal period is in the evening. We will weave these details into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Here is the final natural user request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission.
+
+The task involves translating the provided JSON metadata into a natural language request. The goal is to create a conversational and realistic request that accurately reflects the operational context and requirements.
+
+To begin, we will interpret the geographic context of the mission. The location details indicate that the target region is in Colombia, specifically in the city of Bolívar. We will combine these details to describe the location naturally.
+
+Next, we will determine the mission allocation priority based on the 'priority_level' key. In this case, the priority level is 3, indicating a high importance mission. We will use an authoritative and explicit tone to frame this request as an "absolute institutional priority" involving a "critical payload capture" or "mandatory directive".
+
+Moving on to the sensors and physical objectives, we will interpret the 'primary_sensor' key. The primary sensor is TIR (Thermal Infrared), which we will explain as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+Finally, we will determine the relative timeframes based on the 'target_day' and 'target_diurnal_period' keys. The target day is in three days, and the target diurnal period is in the evening. We will weave these details into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Here is the final natural user request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission.
+
+The task involves translating the provided JSON metadata into a natural language request. The goal is to create a conversational and realistic request that accurately reflects the operational context and requirements.
+
+To begin, we will interpret the geographic context of the mission. The location details indicate that the target region is in Colombia, specifically in the city of Bolívar. We will combine these details to describe the location naturally.
+
+Next, we will determine the mission allocation priority based on the 'priority_level' key. In this case, the priority level is 3, indicating a high importance mission. We will use an authoritative and explicit tone to frame this request as an "absolute institutional priority" involving a "critical payload capture" or "mandatory directive".
+
+Moving on to the sensors and physical objectives, we will interpret the 'primary_sensor' key. The primary sensor is TIR (Thermal Infrared), which we will explain as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+Finally, we will determine the relative timeframes based on the 'target_day' and 'target_diurnal_period' keys. The target day is in three days, and the target diurnal period

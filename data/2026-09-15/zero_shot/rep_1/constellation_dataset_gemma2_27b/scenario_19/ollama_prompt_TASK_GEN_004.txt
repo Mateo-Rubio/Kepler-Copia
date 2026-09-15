@@ -1,0 +1,1 @@
+We need a standard operational tasking for a microwave surface imaging capture of Antiguo ETCR La Guajira ("Mariana Páez") in Colombia. This is a routine monitoring task as part of our baseline pipeline tracking setup with fixed parameters. Please ensure the products are ingested into the pipeline before today in the evening at the latest.

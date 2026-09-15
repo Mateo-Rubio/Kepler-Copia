@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need an active radar scan of San Vicente del Caguán, Colombia, using microwave surface imaging.  The data products are needed by in three days around mid-day at the latest.

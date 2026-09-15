@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a standard operational tasking for a commercial monitoring project involving the Indonesian region, specifically focusing on Pekanbaru city. Our mission is to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment. This request carries medium importance, aligning with our baseline pipeline tracking setup and maintaining fixed parameters representing normal operational status.
+
+Our primary goal is to obtain high-quality data products that will provide us with critical insights into water body boundaries and soil moisture levels in Pekanbaru. We aim for a clear optical snapshot of the area during daylight hours, ensuring accurate and detailed imagery for our analysis.
+
+Given the nature of this project, we are setting a strict delivery deadline for the data products, which must be ingested into our pipeline before the day after tomorrow in the morning. This timeframe is crucial to ensure timely analysis and decision-making based on the collected data.
+
+Thank you for your attention to this task. We appreciate your cooperation in meeting these requirements and providing us with the necessary information by the specified deadline. If there are any concerns or adjustments needed to meet our operational guidelines, please feel free to communicate them promptly. 
+
+Best regards,
+[Your Name]

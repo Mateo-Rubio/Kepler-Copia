@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a low priority importance task that needs to be handled with flexibility and convenience. Our focus is on thermal mapping for an area of interest located in the region of Colombia, specifically around Puerto Wilches. The primary sensor required for this mission is the TIR, aimed at capturing thermal anomalies and heat signatures across the region.
+
+The operational deadline for this task is set for tomorrow evening, with a strict delivery deadline of "tomorrow evening" at the latest. We're looking to ensure that the products are ingested into our pipeline before this time frame expires. This request serves as a non-essential background filler task and can be scheduled accordingly.
+
+Thank you for your attention and understanding in handling this low priority importance task efficiently.

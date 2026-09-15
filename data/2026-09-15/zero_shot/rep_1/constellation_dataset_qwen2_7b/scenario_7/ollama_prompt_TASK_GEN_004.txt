@@ -1,0 +1,7 @@
+Good day, satellite constellation planners. I'm reaching out on behalf of our Earth observation mission to request a task that will provide us with thermal mapping data for Huasanó, Colombia. Our priority is low importance, so we're looking for this as a flexible schedule "background survey" or "testbed tracking task". We aim to capture the heat signature and surface temperature profile for this area.
+
+Our primary sensor requirement is Thermal Infrared (TIR), which will help us assess thermal anomalies and map heat emissions. This data will be crucial for our ongoing project, and we're treating it as a non-essential background filler task.
+
+We need this data by tomorrow's overnight block, ensuring the products are ingested into our pipeline before that deadline. Huasanó is located in Colombia, and we're excited to receive the results from your satellite constellation.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting our operational guidelines and delivering the data as requested.

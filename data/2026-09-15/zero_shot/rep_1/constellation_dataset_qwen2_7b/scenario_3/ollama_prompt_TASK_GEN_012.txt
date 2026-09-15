@@ -1,0 +1,16 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out on behalf of our organization, requesting your immediate attention for a high-priority task that involves capturing essential data using Near-Infrared (NIR) sensors. This request pertains to a specific region in Indonesia, focusing on the city of Malinau.
+
+Our objective is to gather critical information about surface moisture levels and water body boundaries by conducting a detailed near-infrared reflection analysis. This will enable us to assess soil moisture conditions accurately, which is vital for agricultural planning and environmental monitoring purposes.
+
+The geographical context is as follows: we are targeting a specific area within Indonesia, with the city of Malinau serving as our primary reference point. The task requires an active radar scan to ensure that we can capture essential data even through heavy weather conditions or cloud cover.
+
+Given the nature of this mission, we classify it as a binding contract requirement with high importance. We need this data by the target day, which is three days from now, in the evening at the latest. This deadline is non-negotiable and represents our operational readiness to ingest the products into our pipeline before the specified time.
+
+Please note that this task falls under our baseline pipeline tracking setup with fixed parameters, representing normal operational status. However, due to its high priority, we are requesting immediate attention and prioritization in your mission allocation process.
+
+We appreciate your understanding of the urgency involved and look forward to your cooperation in ensuring timely delivery of the data products. Thank you for your attention and support in this matter.
+
+Best regards,
+[Your Name]

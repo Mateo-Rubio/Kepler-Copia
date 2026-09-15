@@ -1,0 +1,1 @@
+This is a low priority importance request for an overnight thermal mapping survey of Ecuatorial, Indonesia. We need this data ingested into the pipeline before tonight at the latest. The goal is to capture a heat signature and surface temperature profile of the area.  Feel free to drop or reschedule this task at your convenience if needed.

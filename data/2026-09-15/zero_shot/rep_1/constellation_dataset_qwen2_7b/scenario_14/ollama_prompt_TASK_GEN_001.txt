@@ -1,0 +1,3 @@
+Good day, satellite constellation planner. I'm reaching out to request a task that will capture high-resolution optical imagery of Caparrapí, Colombia. This is a low priority importance request with a flexible schedule for opportunistic capture. The goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index using multispectral vegetation analysis.
+
+The deadline for this data product is set for the day after tomorrow during the afternoon. We aim to ensure that the products are ingested into the pipeline before the specified time. This task is labeled as a non-essential background filler task, where we explicitly note to drop or reschedule at our convenience. Thank you for your attention and cooperation in fulfilling this request.

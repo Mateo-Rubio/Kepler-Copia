@@ -1,0 +1,16 @@
+Translate the following task into a conversational English request for an Earth-observation mission:
+
+Task: Translate the raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+Metadata:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "landmark": "Christ the Redeemer"
+  },
+  "priority_level": 1,
+  "target_day": "next week",
+  "target_diurnal_period": "afternoon"
+}

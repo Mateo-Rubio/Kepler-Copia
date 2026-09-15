@@ -1,0 +1,3 @@
+We have an absolute institutional priority to capture critical thermal mapping data over the region of Norte. This mission is a binding contract requirement, involving a high-priority task for thermal anomaly detection and surface temperature profiling. We need an urgent operational execution with an un-preemptable mission lock to ensure this data is captured using microwave surface imaging, specifically targeting thermal emissions.
+
+The imagery must be ready by tomorrow evening at the latest, ensuring the products are ingested into the pipeline before that time. This is crucial for our ongoing analysis and cannot be rescheduled or delayed under any circumstances.

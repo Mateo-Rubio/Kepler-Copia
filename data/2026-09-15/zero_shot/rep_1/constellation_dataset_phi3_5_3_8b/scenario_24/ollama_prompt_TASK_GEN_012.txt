@@ -1,0 +1,2 @@
+We have an absolute institutional priority for a high-resolution optical snapshot of multispectral vegetation in Ecuatorial, Indonesia. This task involves assessing chlorophyll absorption levels and calculating the NDVI index to monitor surface reflectance. The data must be ready by tomorrow's mid-day at the latest, ensuring immediate integration into our critical payload capture workflow for comprehensive environmental analysis.
+```

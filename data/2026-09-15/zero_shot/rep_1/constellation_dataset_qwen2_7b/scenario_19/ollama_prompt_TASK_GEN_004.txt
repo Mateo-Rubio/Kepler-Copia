@@ -1,0 +1,12 @@
+Good day to all satellite planners,
+
+I'm reaching out with a standard operational tasking request for a radar scan using our advanced Synthetic Aperture Radar (SAR) system. Our focus is on the region of Colombia, specifically targeting the city of Antiguo ETCR La Guajira, also known as "Mariana Páez". This location requires detailed surface imaging, particularly for its unique geographical features and potential environmental changes.
+
+We're aiming to capture this data in an active radar scan that can penetrate through heavy weather conditions, ensuring we obtain clear microwave surface images. The primary objective is to gather precise ground geometry information, which will be crucial for our ongoing monitoring efforts in this area.
+
+With a priority level of medium importance, this task falls under the baseline pipeline tracking setup with fixed parameters that represent our normal operational status. We're looking at delivering this data by today's evening timeframe, ensuring that the products are ingested into our pipeline before tonight's overnight block.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting this deadline and look forward to receiving the SAR data as soon as possible.
+
+Best regards,
+[Your Name]

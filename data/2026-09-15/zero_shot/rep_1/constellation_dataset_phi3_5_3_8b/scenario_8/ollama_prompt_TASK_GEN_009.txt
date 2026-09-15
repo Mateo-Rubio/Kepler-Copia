@@ -1,0 +1,1 @@
+We need to schedule a standard operational tasking for Mamuju, Indonesia, aiming to capture high-resolution optical snapshots around mid-day within four days. This will ensure the products are ingested into our baseline pipeline tracking setup in time for routine monitoring and analysis.

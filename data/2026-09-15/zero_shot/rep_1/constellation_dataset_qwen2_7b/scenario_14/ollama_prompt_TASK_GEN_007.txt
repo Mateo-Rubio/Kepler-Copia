@@ -1,0 +1,5 @@
+Please prepare a high-resolution optical snapshot of Bolívar, Colombia, focusing on daylight photography. This task involves capturing clear optical imagery and true-color visual documentation essential for our baseline pipeline tracking setup. Given its low priority importance, this request can be treated as a flexible schedule background survey or testbed tracking task.
+
+The deadline to deliver the data products is set for four days from now, with a strict delivery deadline at overnight. Ensure that the products are ingested into our pipeline before then, adhering to the operational guidelines and not altering or extending this deadline.
+
+Thank you for your attention to this non-essential background filler task.

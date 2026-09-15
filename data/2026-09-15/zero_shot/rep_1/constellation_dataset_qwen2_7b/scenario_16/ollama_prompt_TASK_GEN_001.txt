@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a standard operational tasking for our commercial monitoring pipeline. Our focus will be on an area of interest located in Colombia, specifically Santander de Quilichao, where we aim to capture high-resolution optical imagery using a VNIR sensor. This is part of our baseline tracking setup and involves fixed parameters that represent our normal operational status.
+
+Our goal is to obtain a clear optical snapshot, true-color visual documentation, and assess the chlorophyll absorption level across the region. We're looking for multispectral vegetation analysis to ensure we capture the essence of the environment accurately.
+
+Given the importance of this request, we have set a strict delivery deadline for our data products. We need these by the target day in three days, at the latest, during the evening period. This ensures that the products are ingested into our pipeline before the deadline is met.
+
+Please proceed with the tasking and let us know if you have any questions or require further details. Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

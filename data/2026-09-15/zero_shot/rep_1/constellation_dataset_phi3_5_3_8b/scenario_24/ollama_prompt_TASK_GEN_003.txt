@@ -1,0 +1,2 @@
+Please arrange for a thermal mapping session over Ecuatorial tonight to capture heat signatures and surface temperature profiles. This is a non-essential background filler task, so please drop or reschedule at your convenience if necessary. Ensure the data products are ingested into our system by tomorrow nighttime as per the operational deadline.
+```prompt

@@ -1,0 +1,12 @@
+Good day to all satellite operators,
+
+I'm reaching out with a task request for an essential background survey focusing on the beautiful city of Grottaferrata, located in the picturesque country of Italia. The primary sensor required is an active radar scan, utilizing microwave surface imaging capabilities to capture ground geometry and penetrate heavy weather conditions.
+
+Our mission aims to gather critical data during the afternoon hours of tomorrow, ensuring that the products are ingested into our pipeline before the deadline set for the day's overnight block. This request carries a low priority importance, allowing for flexible scheduling and opportunistic capture at your convenience.
+
+The data we're seeking is essential for baseline pipeline tracking and will contribute to our understanding of the area's unique landscape. Kindly note that this task is classified as a non-essential background filler, which means it can be dropped or rescheduled according to your operational schedule without compromising our overall workflow.
+
+Thank you for your attention and cooperation in fulfilling this request. We appreciate your dedication to providing us with the most accurate and detailed information possible.
+
+Best regards,
+[Your Name]

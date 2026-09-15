@@ -1,0 +1,5 @@
+Hello there! I'm reaching out to request a thermal mapping task for a specific area in Indonesia, particularly focusing on the Ecuatorial region. The objective is to capture the heat signature and surface temperature profile of this location using our TIR sensor. This is a low priority importance request, so we can treat it as a non-essential background filler task. We're looking for a flexible schedule that allows us to drop or reschedule at our convenience if needed. 
+
+The deadline for delivering the data products is set for tomorrow evening, ensuring they are ingested into our pipeline before then. This is crucial for our background survey purposes and will help us assess heat emissions in the region. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you very much for your attention to this matter.

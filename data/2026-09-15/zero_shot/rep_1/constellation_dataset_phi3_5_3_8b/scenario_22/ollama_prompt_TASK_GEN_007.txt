@@ -1,0 +1,1 @@
+We have an opportunity to conduct a flexible schedule SAR scan in Sesquilé, Colombia, aiming for cloud-penetrating capture and ground geometry analysis. This is a non-essential background filler task that can be dropped or rescheduled at our convenience. The data products are needed by in three days overnight at the latest to ensure they're ingested into the pipeline before then.

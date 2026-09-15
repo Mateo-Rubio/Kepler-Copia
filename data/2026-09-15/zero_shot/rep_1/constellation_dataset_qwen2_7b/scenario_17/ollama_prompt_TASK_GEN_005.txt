@@ -1,0 +1,11 @@
+We're tasked with capturing a critical thermal mapping of Norte, focusing on its heat signature and surface temperature profile. This high-resolution optical snapshot is essential for thermal anomaly detection and heat emission mapping. Given the urgency, we're treating this as an absolute institutional priority, requiring a binding contract commitment involving a mandatory directive for our satellite constellation.
+
+Our primary sensor is the TIR, which will provide us with invaluable data on the heat signature across the region. The operational deadline is set for the day after tomorrow, with a strict delivery deadline of overnight. This means we need to ensure that all the data products are ingested into the pipeline before the day after tomorrow's overnight block.
+
+Considering the nature of our mission allocation priority, this tasking is considered high importance, implying an urgent operational execution and an un-preemptable mission lock. We're leveraging our advanced capabilities for thermal mapping, which will provide us with detailed information on surface temperatures and heat emissions.
+
+With the country details being unavailable, we're focusing on the city of Norte, which will be the primary geographic context for our observations. The operational status is marked as standard, with fixed parameters representing normal operational status or a routine monitoring task within our baseline pipeline tracking setup.
+
+We're aware that this request carries significant weight and will require optimal scheduling to ensure timely delivery. Given the importance and the deadline constraints, we're treating this as a non-essential background filler task that can be dropped or rescheduled at convenience if necessary. However, it's important to note that this is a critical piece of our workflow update, so we're prioritizing its execution with the utmost care.
+
+Let's proceed with the tasking and ensure that we meet the deadline for data availability. Our team will work diligently to capture the thermal mapping data of Norte, adhering to the operational guidelines provided. We're confident in our capabilities to deliver accurate and timely results that meet the requirements set forth by this high-priority mission allocation.

@@ -1,0 +1,2 @@
+We have an absolute institutional priority to conduct a thermal mapping mission over Colombia, specifically in Útica. This task involves capturing heat signatures and surface temperature profiles urgently needed by tomorrow night at the latest. It's critical payload capture that must be executed with immediate effect as part of our binding contract requirement. Ensure all data products are ingested into the pipeline before this strict deadline to maintain operational integrity.
+```

@@ -1,0 +1,3 @@
+We're looking to schedule a flexible SAR scan for Norte, with an emphasis on capturing microwave surface imagery that can penetrate heavy weather. This task is of low priority importance and should be completed within the next three days overnight window. Please ensure this data collection aligns with our standard operational tasks, but understand it's not urgent; feel free to drop or reschedule at your convenience if needed before then.
+```prompt
+...your text here...

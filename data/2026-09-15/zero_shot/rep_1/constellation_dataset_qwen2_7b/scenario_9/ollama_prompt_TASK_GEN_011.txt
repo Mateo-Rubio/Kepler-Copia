@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planners. I'm reaching out on behalf of an Earth observation mission with a task that requires your expertise and swift action. Our focus is on Slovenia, particularly the city of Norte, where we're looking to capture thermal mapping data to identify heat signatures and surface temperature profiles.
+
+As this request carries low priority importance, it's important to note that it's a flexible schedule task designed as a background survey or testbed tracking task. We understand that this might not be an absolute institutional priority or a binding contract requirement, but we do require the data to be captured within our timeframe to ensure it can be integrated into our baseline pipeline tracking setup.
+
+The primary sensor involved is TIR, which will enable us to perform thermal mapping, capturing heat emissions and thermal anomalies. This task doesn't have a strict deadline for how close we need to be to the actual capture window; rather, we're aiming for the data products to be available by the target day at the latest, which is "in three days" with a strict delivery deadline set for that day's overnight period.
+
+We appreciate your attention to this task and look forward to receiving the data products before the deadline. Thank you for considering our request. If there are any questions or adjustments needed, please feel free to reach out.

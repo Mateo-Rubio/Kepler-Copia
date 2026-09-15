@@ -1,0 +1,2 @@
+In three days' time, with a strict delivery deadline set for tomorrow morning, we need to schedule an active radar scan using microwave surface imaging. This is for cloud-penetrating capture and precise ground geometry mapping over the city of Ecuatorial in Indonesia. While this task has low priority importance, it's essential that we aim to have these data products ready by tomorrow morning at the latest. Please adjust your current workflow or reschedule as per convenience, treating this as a non-essential background filler task with a flexible schedule.
+```prompt

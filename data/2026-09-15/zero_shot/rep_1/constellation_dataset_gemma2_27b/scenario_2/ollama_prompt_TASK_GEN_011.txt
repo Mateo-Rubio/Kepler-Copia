@@ -1,0 +1,1 @@
+This is an absolute institutional priority tasking. We require a critical payload capture of multispectral vegetation analysis over Fobello, Italia.  We need high-resolution imagery to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Ensure the products are ingested into the pipeline before in three days in the morning at the latest.

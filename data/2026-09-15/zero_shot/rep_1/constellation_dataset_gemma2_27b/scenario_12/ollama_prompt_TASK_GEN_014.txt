@@ -1,0 +1,1 @@
+Schedule a low priority background filler task for thermal mapping of Norte. We need the heat signature data ingested into the pipeline before the day after tomorrow during the afternoon at the latest.  Feel free to drop or reschedule this task at your convenience.

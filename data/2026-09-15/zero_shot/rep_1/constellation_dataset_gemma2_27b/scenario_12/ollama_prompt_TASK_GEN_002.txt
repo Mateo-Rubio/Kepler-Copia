@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need thermal mapping of Naples, Italia, in the evening of the day after tomorrow at the latest. Ensure the products are ingested into the pipeline before then.

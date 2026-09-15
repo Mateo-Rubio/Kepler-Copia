@@ -1,0 +1,10 @@
+Good morning, satellite constellation planners. I'm reaching out with a straightforward task that requires your attention. We're looking to capture an active radar scan of the Indonesian region, specifically focusing on the city of Air Itam. Our objective is to gather detailed microwave surface imagery for this area, which will help us understand ground geometry and penetrate any heavy weather conditions.
+
+This request carries a low priority importance, allowing for some flexibility in scheduling. We're treating it as a background survey or testbed tracking task that doesn't need immediate attention but should still be handled efficiently. Our main goal is to ensure we have the data ready by the day after tomorrow, with a strict delivery deadline set for the evening of that day.
+
+We're not aiming for any specific time slot during the day; our primary concern is ensuring the products are ingested into the pipeline before the deadline. This task doesn't involve capturing critical payload or mandating any urgent operational execution but serves as a routine monitoring activity part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your understanding and cooperation in fulfilling this request. We appreciate your professionalism and prompt service in handling such tasks.
+
+Best regards,
+[Your Name]

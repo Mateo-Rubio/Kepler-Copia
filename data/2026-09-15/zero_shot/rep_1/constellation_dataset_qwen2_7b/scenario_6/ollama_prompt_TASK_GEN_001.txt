@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves observing a specific location in Colombia, specifically San Vicente del Caguán. This area requires our attention due to its high importance—priority level 3, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The operational urgency is paramount; thus, we must ensure that the data products are ingested into the pipeline before the target day's mid-day period at the latest.
+
+For this mission, we're utilizing an active radar scan using microwave surface imaging capabilities. This technique allows us to pierce through heavy weather conditions and capture ground geometry with precision. The primary sensor is tasked with capturing a detailed image of the region around mid-day on the specified target day.
+
+In summary, our request is as follows:
+
+"Please allocate resources for a standard operational tasking involving an active radar scan using microwave surface imaging techniques in San Vicente del Caguán, Colombia. This mission carries high importance and requires urgent operational execution due to its critical nature. The data must be ready by the target day's mid-day period at the latest, ensuring that our products are available for immediate use."
+
+This request aligns with our operational guidelines, integrating natural language, emphasizing the urgency and importance of the task, and providing clear instructions on how to proceed with the satellite constellation planning."

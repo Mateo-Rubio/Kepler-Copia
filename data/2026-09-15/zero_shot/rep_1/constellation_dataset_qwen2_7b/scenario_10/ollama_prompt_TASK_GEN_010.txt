@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm requesting a task for an operational mission involving the Colombian city of Chaparral, which is located in the region of Cundinamarca. The mission's priority level is set at medium importance, indicating a standard operational tasking that requires our attention without compromising other baseline pipeline tracking activities.
+
+The primary sensor for this mission will be an active radar system (SAR), designed to perform microwave surface imaging for cloud-penetrating capture and ground geometry assessment. This radar scan aims to provide us with critical data on the region's topography and surface conditions, which are essential for various applications such as urban planning, disaster management, and infrastructure development.
+
+Our objective is to obtain high-quality data products that will serve as a foundation for our ongoing projects in the area. We need these data by tomorrow morning at the latest, ensuring they are ingested into our pipeline before the deadline set for the target day. This request carries the importance of meeting our operational standards and contractual obligations without any compromise on quality or delivery time.
+
+Please schedule this task with the utmost priority to ensure that we capture the necessary information within the specified timeframe. Any delays could impact our ability to fulfill subsequent requirements, so please treat this as a standard operational tasking with fixed parameters representing normal operational status.
+
+Thank you for your attention and prompt action in executing this mission.

@@ -1,0 +1,1 @@
+Please conduct a near-infrared reflection task for water body boundary mapping and soil moisture assessment in Kapit, Malaysia. This is a standard operational tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need the data products to be ingested into the pipeline by today in the evening at the latest.

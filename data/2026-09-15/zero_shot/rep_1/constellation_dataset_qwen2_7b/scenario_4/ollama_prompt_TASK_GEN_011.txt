@@ -1,0 +1,12 @@
+Hello satellite constellation planner,
+
+I'm reaching out to request a TIR sensor mission allocation for an area of interest located in Hrvatska, specifically within the Primorsko-goranska županija region. The primary objective is to conduct thermal mapping to capture heat signatures and surface temperature profiles across this specific area.
+
+Given its low priority level, this task can be scheduled with a flexible timeline, allowing for opportunistic capture at your convenience. However, we do emphasize the importance of delivering the data products by the deadline set for three days from now, during the afternoon period. This ensures that the thermal anomaly detection and mapping heat emissions are completed before the specified target day.
+
+Please note that adhering to this deadline is crucial as it aligns with our operational requirements and does not extend beyond the strict time frame defined by your system. We appreciate your understanding and cooperation in meeting this request within the stipulated timeframe.
+
+Thank you for your attention to this matter, and we look forward to receiving your confirmation of the task allocation.
+
+Best regards,
+[Your Name]

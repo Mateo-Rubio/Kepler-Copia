@@ -1,0 +1,29 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+The task involves capturing high-resolution optical snapshots of a region in Colombia using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This is an absolute institutional priority, as it represents a critical payload capture and mandatory directive for a binding contract requirement involving a critical payload capture. The data must be ready by tomorrow overnight at the latest.
+
+The location details involve the country Colombia and the city Andina, which will be used to describe the region naturally.
+
+This task has a high importance level, so the tone should be authoritative, explicit, and commanding.
+
+The primary sensor is VNIR, which should be explained as a "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+
+The target day is tomorrow, and the target diurnal period is overnight, which means the data must be ready by tomorrow overnight at the latest.
+
+The task should be framed as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+
+The final natural user request is:
+
+"Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+The task involves capturing high-resolution optical snapshots of a region in Colombia using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This is an absolute institutional priority, as it represents a critical payload capture and mandatory directive for a binding contract requirement involving a critical payload capture. The data must be ready by tomorrow overnight at the latest.
+
+The location details involve the country Colombia and the city Andina, which will be used to describe the region naturally.
+
+This task has a high importance level, so the tone should be authoritative, explicit, and commanding.
+
+The primary sensor is VNIR, which should be explained as a "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+
+The target day is tomorrow, and the target diurnal period is overnight, which means the data must be ready by tomorrow overnight at the latest.
+
+The task should be framed as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".

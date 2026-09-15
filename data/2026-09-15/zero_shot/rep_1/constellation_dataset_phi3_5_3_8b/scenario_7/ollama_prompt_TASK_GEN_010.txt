@@ -1,0 +1,2 @@
+We have a standard operational tasking for tomorrow's morning to conduct multispectral vegetation analysis in Pantanillo, Colombia. This routine monitoring is part of our baseline pipeline tracking and requires the collection of high-resolution optical snapshots during daylight hours. The data products must be ingested into the system before three days from now by tomorrow morning to maintain our workflow efficiency.
+```

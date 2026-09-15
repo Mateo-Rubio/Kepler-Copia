@@ -1,0 +1,5 @@
+Good day to all satellite operators and planners. I'm reaching out with a task request that needs to be handled with flexibility, as it's a low priority importance matter but still requires attention. The mission involves capturing data using a VNIR sensor for a specific area in Italy, specifically under Monte Giovanni XXIII. This is part of an opportunistic survey that doesn't have a strict deadline but should ideally be completed by tomorrow around mid-day at the latest.
+
+The goal here is to assess the chlorophyll absorption level and calculate the vegetation NDVI index along with surface reflectance for this region. It's crucial to capture these details to help understand the health of the vegetation in the area without any delay. I appreciate your understanding and cooperation in scheduling this task appropriately, ensuring that it doesn't interfere with more critical operations.
+
+Thank you for your attention, and I look forward to receiving the data products before tomorrow around mid-day. If there are any questions or if you need further clarification, please don't hesitate to reach out.

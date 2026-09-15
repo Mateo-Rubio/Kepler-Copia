@@ -1,0 +1,11 @@
+Good day,
+
+We are currently tasked with an absolute institutional priority to capture a critical payload using our satellite constellation. This mission involves thermal mapping of a specific region, which is described as a combination of Colombia and the city of Otanche. The primary sensor involved will be the TIR sensor, aiming to gather thermal data for this area.
+
+The operational objective is to assess heat signatures and surface temperature profiles to detect any thermal anomalies that may occur in the region. This task requires us to perform an active radar scan using microwave surface imaging capabilities, which will help us penetrate heavy weather conditions or capture ground geometry with precision.
+
+Our deadline for delivering these data products is set for three days from now, by the evening time frame. We must ensure that the products are ingested into our pipeline before the target day's evening period. This deadline is strictly non-negotiable and represents the upper limit for data availability.
+
+Please note, this task is part of a binding contract requirement involving a critical payload capture. It demands an urgent operational execution and cannot be pre-empted or rescheduled. Therefore, we are treating this as an "urgent operational execution" with un-preemptable mission lock.
+
+Thank you for your attention to this matter, and we look forward to your support in ensuring the successful completion of this task.

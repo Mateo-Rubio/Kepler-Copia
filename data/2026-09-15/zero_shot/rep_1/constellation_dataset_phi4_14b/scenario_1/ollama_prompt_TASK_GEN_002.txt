@@ -1,0 +1,5 @@
+We have an absolute institutional priority task for our satellite constellation planner. This mission involves a critical payload capture over Calvi, France, with a mandatory directive to obtain thermal mapping data. The objective is to capture a detailed surface temperature profile and detect any thermal anomalies in the area. Given the high importance of this task, it requires urgent operational execution and an un-preemptable mission lock.
+
+The satellite must perform this active radar scan using microwave surface imaging techniques to ensure cloud-penetrating capture, even in challenging weather conditions. This is crucial for assessing ground geometry and heat emissions accurately.
+
+Please ensure that the data products are ingested into our pipeline before tomorrow evening at the latest. The delivery deadline is strict, and we rely on your timely execution of this high-priority mission.

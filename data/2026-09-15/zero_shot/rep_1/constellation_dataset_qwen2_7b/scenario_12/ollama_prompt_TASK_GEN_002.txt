@@ -1,0 +1,16 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out with a high-priority task request that falls under our institutional commitments and contractual obligations. We're looking to capture critical data for a specific region, which is the beautiful country of Italia, specifically focusing on the vibrant city of Napoli.
+
+Our primary sensor requirement is Thermal Infrared (TIR), which will enable us to map thermal signatures and detect any heat anomalies across the area. This is crucial for understanding surface temperature profiles and identifying potential hotspots that could be of significant interest or concern.
+
+The operational urgency here is paramount, as we need this data by the day after tomorrow, with a strict delivery deadline set for the evening of that day. We're aiming to ensure that our products are ingested into the pipeline before then, to meet our baseline tracking requirements and maintain our operational status.
+
+This task is an absolute institutional priority, involving a mandatory directive that demands an urgent operational execution. We're looking for a highly realistic and conversational English request that integrates these operational guidelines naturally, without using raw technical system tags or coordinate arrays.
+
+Let's work together to deliver this mission with the highest level of professionalism and efficiency, ensuring that we meet our contractual commitments and provide the necessary data products on time.
+
+Thank you for your attention and cooperation in this matter. We appreciate your swift action and look forward to receiving confirmation on this task request.
+
+Best regards,
+[Your Name]

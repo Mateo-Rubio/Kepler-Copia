@@ -1,0 +1,3 @@
+We have a standard operational tasking for a multispectral vegetation analysis in the northern region of Italy. This task involves assessing chlorophyll absorption levels and calculating NDVI indices to monitor vegetation health. The mission is part of our baseline pipeline tracking and should be executed with fixed parameters, reflecting normal operational status.
+
+The imagery is required by the afternoon in three days at the latest. Please ensure the products are ingested into the pipeline before this deadline. This task is essential for maintaining our routine monitoring workflow.

@@ -1,0 +1,1 @@
+We need a standard operational tasking for an active radar scan of Belaga, Malaysia. This is part of our routine monitoring pipeline and involves cloud-penetrating capture using microwave surface imaging. The data products are needed by the day after tomorrow overnight at the latest.

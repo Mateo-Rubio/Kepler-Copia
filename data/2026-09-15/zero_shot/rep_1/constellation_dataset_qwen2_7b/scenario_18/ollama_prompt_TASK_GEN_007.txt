@@ -1,0 +1,10 @@
+Good day, satellite constellation planners. I'm reaching out with a standard operational tasking request for a high-resolution optical snapshot of Planadas, Colombia. Given its location in the heart of the South American continent, we aim to capture clear daylight photography and true-color visual documentation of this vibrant city under the Colombian sun.
+
+As our priority level is set at medium importance, we understand that this is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. However, we must emphasize that this request carries a sense of urgency, aligning with our institutional standards for routine monitoring activities.
+
+Given the primary sensor is VIS (visual imagery), we are looking to capture the essence of Planadas through its natural beauty and urban landscape, ensuring our data products are ready by tomorrow evening at the latest. This deadline is critical for our internal processes and user requirements, so please ensure that the satellite constellation is prepared accordingly.
+
+Our request is straightforward: a VIS scan of Planadas, Colombia, with an emphasis on capturing the essence of its daytime scene, to be delivered in time for our operational pipeline before tomorrow evening. We appreciate your team's attention to detail and adherence to these guidelines. Thank you for your cooperation and swift action in fulfilling this task.
+
+Best regards,
+[Your Name]

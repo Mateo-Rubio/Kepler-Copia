@@ -1,0 +1,12 @@
+Good day, satellite constellation planners. We're requesting a mission allocation for an urgent task based on our operational guidelines. The primary sensor involved is VNIR, which we'll be using to conduct multispectral vegetation analysis in the region of Greve in Chianti, Italia. Our goal here is to assess chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance.
+
+We're looking for a high-resolution optical snapshot that captures true-color visual documentation during daylight photography, providing clear optical imagery of the area. This task carries a high importance level, requiring an "absolute institutional priority" or a "binding contract requirement". We need this critical payload capture by tomorrow's overnight block at the latest, ensuring the products are ingested into our pipeline before then.
+
+This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a standard operational tasking that involves a routine monitoring activity. However, due to its high priority level, we must emphasize that this mission lock is un-preemptable and must be executed promptly.
+
+Please schedule this "non-essential background filler task" as a low priority importance request. We understand that it can be dropped or rescheduled at convenience if necessary. This task serves as a background survey or testbed tracking task for our ongoing research projects.
+
+Thank you for your attention to this matter and please ensure the data products are ready by our deadline set for the target day, which is in four days with a strict delivery deadline set for overnight. We appreciate your cooperation in meeting these requirements promptly.
+
+Best regards,
+[Your Name]

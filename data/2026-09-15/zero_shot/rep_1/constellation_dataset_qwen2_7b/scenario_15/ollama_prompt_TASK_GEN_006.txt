@@ -1,0 +1,7 @@
+Good day to you. I'm reaching out from the Earth-observation mission team, tasked with a unique and important request for our satellite constellation planner. Our objective is to capture essential data using the VNIR sensor on the day after tomorrow, in the morning. We're looking at an area located in the beautiful country of Indonesia, specifically the city of Sintang. The purpose of this mission is to conduct a thorough assessment of vegetation health through multispectral analysis, aiming to determine the chlorophyll absorption level and calculate the NDVI index for a comprehensive surface reflectance evaluation.
+
+This task falls under our low priority importance category, which means we're flexible with scheduling. It's a non-essential background filler task that can be dropped or rescheduled at your convenience. We're treating this as a background survey or testbed tracking task, ensuring it doesn't interfere with our primary operational priorities. 
+
+We understand the urgency of this request and are committed to delivering the data products by the target day and time. The deadline for these products is set for the day after tomorrow in the morning. We're confident that our team will deliver accurate thermal mapping data that captures heat signatures, surface temperature profiles, or thermal anomalies as needed. 
+
+Thank you for your attention to this matter, and we look forward to collaborating with you on this task. If there are any questions or further information you need, please do not hesitate to reach out.

@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a near-infrared reflection snapshot of Norte, focusing on water body boundaries and soil moisture assessment. This task is part of our standard operational pipeline tracking with fixed parameters, representing normal operational status.
+
+Our priority for this mission allocation is medium importance, as it involves monitoring critical environmental conditions that are essential for our ongoing projects. We require the data products to be ready by tomorrow during the afternoon at the latest, ensuring they're ingested into the pipeline before then.
+
+Please ensure we receive the data within these parameters, as it's crucial for our background survey and testbed tracking task. Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

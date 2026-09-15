@@ -1,0 +1,1 @@
+We need a thermal mapping task to capture a heat signature and surface temperature profile in Norte, with a flexible schedule for opportunistic capture. This is a low priority importance request, and we can drop or reschedule it at convenience if needed. We need the data products to be ready by tomorrow morning at the latest.

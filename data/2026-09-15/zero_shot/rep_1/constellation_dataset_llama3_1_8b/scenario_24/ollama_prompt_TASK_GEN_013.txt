@@ -1,0 +1,5 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission operator to submit to an automated satellite constellation planner.
+
+The objective is to capture a high-resolution optical snapshot of the region using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. The location is in Colombia, specifically in the city of Melgar.
+
+This task is an absolute institutional priority, involving a critical payload capture and mandatory directive for urgent operational execution and un-preemptable mission lock. The data must be ready by in three days in the morning at the latest.

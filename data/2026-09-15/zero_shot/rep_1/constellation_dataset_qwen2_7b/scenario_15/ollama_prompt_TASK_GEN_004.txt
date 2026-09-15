@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a highly realistic and detailed thermal mapping task for an area in Colombia, specifically focusing on the region around the city of Bugalagrande. The primary sensor required for this mission is TIR, which will help us capture a heat signature or surface temperature profile to detect any thermal anomalies and map heat emissions accurately.
+
+Given the importance of this task, I'm treating it as a low priority importance request with a flexible schedule for opportunistic capture. However, it's crucial that we adhere to the deadline set for data availability. We need the thermal mapping data by tomorrow evening at the latest, ensuring that the products are ingested into our pipeline before then.
+
+Please note that this task falls under a background survey category and can be dropped or rescheduled as per your convenience. I appreciate your understanding and flexibility in managing this non-essential background filler task.
+
+Thank you for your attention to this request.
+
+Best regards,
+[Your Name]

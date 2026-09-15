@@ -1,0 +1,1 @@
+We need to schedule a standard operational tasking for high-resolution optical snapshot imagery of Tre Fasci, Italy. This is part of our routine monitoring and should be completed within three days overnight at the latest. Please ensure this data is ready for pipeline integration by then.

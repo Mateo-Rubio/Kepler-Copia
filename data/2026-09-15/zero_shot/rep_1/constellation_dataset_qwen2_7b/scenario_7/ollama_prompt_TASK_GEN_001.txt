@@ -1,0 +1,8 @@
+Good day to our Earth observation mission planners. I'm reaching out with a task that requires your expertise and attention. We're looking to capture a detailed view of Foraquira, Colombia, using the VNIR sensor for a low priority importance request. The goal is to assess the chlorophyll absorption levels across the region, which will help us calculate the vegetation NDVI index and surface reflectance.
+
+The request is not time-sensitive, but we do have a deadline in mind. We need the data by the day after tomorrow, ensuring that it's ingested into our pipeline before the overnight period starts. This task is considered a background survey, and while it doesn't require immediate attention, we appreciate your prompt handling of this request.
+
+Thank you for your understanding and cooperation in fulfilling this mission. We're looking forward to receiving the data products that will contribute to our ongoing research efforts.
+
+Best regards,
+[Your Name]

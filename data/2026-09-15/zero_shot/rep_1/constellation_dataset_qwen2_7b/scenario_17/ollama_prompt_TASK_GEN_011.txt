@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out to request a low priority importance task for an Earth observation mission involving near-infrared (NIR) sensors. Our focus is on capturing the heat signature of Grumino, Italy, which is located in the beautiful region of Italia. The objective here is to assess soil moisture levels and delineate water body boundaries using this technology.
+
+The operational context is straightforward: we need these data products by tomorrow evening at the latest. Given that our priority level is Low Importance, we're treating this as a non-essential background filler task with a flexible schedule for opportunistic capture. We understand that this might be a testbed tracking task and are prepared to drop or reschedule it based on our convenience.
+
+Please ensure that the products are ingested into our pipeline before tomorrow evening to meet our operational requirements. Thank you for your attention and cooperation in delivering these data as requested. We appreciate your timely support in fulfilling our mission objectives.

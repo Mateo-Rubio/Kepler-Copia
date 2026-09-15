@@ -1,0 +1,1 @@
+This is a low priority importance request for a multispectral vegetation analysis task. We need a VNIR capture over Foraquira, Colombia.  Please aim for an opportunistic capture with a flexible schedule. I'd like to drop or reschedule at convenience. Ensuring the products are ingested into the pipeline before in three days overnight at the latest.

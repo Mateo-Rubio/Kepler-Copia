@@ -1,0 +1,10 @@
+Good day,
+
+We're looking to capture an active radar scan using our SAR sensor for a critical payload capture in Muara Asa, Indonesia. Our objective is to obtain detailed microwave surface imaging that can penetrate heavy weather conditions and reveal ground geometry. We aim to gather this data as part of a background survey tasking with flexible scheduling, recognizing its low priority importance.
+
+Our deadline for delivering the data products is set for tomorrow, around mid-day, ensuring they are ingested into our pipeline before this time frame. This request aligns with our baseline pipeline tracking setup and represents normal operational status within our standard workflow update.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

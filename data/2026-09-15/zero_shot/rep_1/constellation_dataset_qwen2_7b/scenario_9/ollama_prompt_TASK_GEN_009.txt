@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission focusing on Indonesia, specifically in the equatorial region of Ecuatorial city. The primary sensor required for this task is Thermal Infrared (TIR), which will be used to capture thermal mapping data to identify heat signatures and surface temperature profiles across the area.
+
+This task carries low priority importance, as it is part of a flexible schedule designed for opportunistic capture or background survey tasks. We're looking to complete this mission by ensuring that all data products are ingested into our pipeline before the target day, which is in three days, around mid-day. This deadline represents the strict upper limit for delivering the data to us.
+
+Thank you for your attention and assistance in fulfilling this request. We appreciate your cooperation in meeting this deadline.
+
+Best regards,
+[Your Name]

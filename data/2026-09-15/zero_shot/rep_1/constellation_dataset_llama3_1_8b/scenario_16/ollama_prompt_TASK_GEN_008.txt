@@ -1,0 +1,1 @@
+We require a low-priority importance task for opportunistic capture, with a flexible schedule for a multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance over the region of Cossogno in Italia. The data must be ready by in four days in the morning at the latest.

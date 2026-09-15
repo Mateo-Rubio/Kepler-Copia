@@ -1,0 +1,3 @@
+We're looking to schedule a non-essential background filler task for Norte, with an emphasis on near-infrared reflection techniques. This is aimed at water body boundary mapping and soil moisture assessment tasks. We need the data ready by four days from now in the morning latest, ensuring we have it ingested into our monitoring pipeline before this deadline. Feel free to drop or reschedule as needed for convenience.
+```prompt
+...your text here...

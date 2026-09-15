@@ -1,0 +1,3 @@
+I have a low-priority task for your consideration. We're looking to conduct a near-infrared reflection survey over the AMCO region in Colombia, specifically focusing on soil moisture assessment and water body boundary mapping. This is an opportunistic capture, so please feel free to drop or reschedule it at your convenience as it's a non-essential background filler task.
+
+The data products are needed by the day after tomorrow around mid-day at the latest, ensuring they're ingested into our pipeline before that time. Thanks for accommodating this flexible schedule!

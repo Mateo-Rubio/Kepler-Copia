@@ -1,0 +1,5 @@
+Good morning, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance but still requires our attention. This request involves capturing thermal mapping data using the TIR sensor to assess surface temperature profiles and detect thermal anomalies in Malaysia, specifically in the equatorial region around the city of Ecuatorial. 
+
+As this is a 'low priority importance' task, it carries the flexibility to be scheduled at your convenience as a 'background survey' or 'testbed tracking task'. However, given its operational context, we do have a strict deadline for data availability that needs to be met by the day after tomorrow in the morning. 
+
+Please ensure that the data products are ingested into the pipeline before we reach that deadline, which is set for the day after tomorrow in the morning. We understand this task doesn't carry the urgency of higher priority missions but requires careful attention nonetheless. Thank you for your understanding and cooperation in managing this request efficiently.

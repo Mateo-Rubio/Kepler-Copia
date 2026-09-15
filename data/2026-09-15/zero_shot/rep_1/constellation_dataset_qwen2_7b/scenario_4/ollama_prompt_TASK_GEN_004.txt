@@ -1,0 +1,7 @@
+Good day! I'm reaching out as an Earth-observation mission operator to request a standard operational tasking involving the capture of near-infrared (NIR) data from our satellite constellation. Our objective is to gather critical information on soil moisture levels and water body boundaries in the region of San Carlos de Guaroa, Colombia.
+
+We're looking for high-resolution optical snapshots that provide clear imagery for daylight photography and true-color visual documentation of the area, which will be essential for our baseline pipeline tracking setup. This task aligns with normal operational status and represents fixed parameters for standard workflow updates.
+
+Our priority is set to medium importance, meaning this request falls within our commercial tasking or routine monitoring activities. We understand that there's no close deadline for this mission; however, we have a strict delivery deadline set for the data products being ingested into our pipeline before the target day, which is in four days and overnight at the latest.
+
+We appreciate your attention to this request and look forward to receiving the data products that will help us maintain our operational status and continue our routine monitoring activities effectively. Thank you for your cooperation!

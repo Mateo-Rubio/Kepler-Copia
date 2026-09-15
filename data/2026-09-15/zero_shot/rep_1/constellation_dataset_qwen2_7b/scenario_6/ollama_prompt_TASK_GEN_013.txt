@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent institutional priority request for a critical payload capture. Our mission involves a high-resolution optical snapshot of the region in Colombia, specifically focusing on Tocaima. The purpose is to conduct a detailed assessment of vegetation health using multispectral imaging techniques, which involves capturing the chlorophyll absorption levels and calculating the NDVI index along with surface reflectance data.
+
+As per our contractual obligations, we require this data by today's evening at the latest. This request falls under the category of standard operational tasks, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're looking for an active radar scan using microwave surface imaging capabilities to penetrate heavy weather conditions and capture ground geometry.
+
+This is a mandatory directive that involves cloud-penetrating capture, ensuring we can discern the thermal anomalies and map heat emissions accurately. Our team is committed to handling this request with utmost priority, ensuring the products are ingested into our pipeline before today's evening deadline.
+
+Thank you for your immediate attention and cooperation in fulfilling this requirement.
+
+Best regards,
+[Your Name]

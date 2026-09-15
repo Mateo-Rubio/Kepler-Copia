@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Ecuatorial city during this evening's clear skies. This is a low priority importance task with flexible scheduling, needed by the day after tomorrow evening at the latest. Feel free to drop or reschedule it as convenience allows; treat it as an opportunistic background filler task for true-color visual documentation.
+```prompt

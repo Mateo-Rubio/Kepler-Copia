@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a standard operational tasking for our baseline pipeline tracking setup involving a routine monitoring of vegetation health in Campo Capote, Colombia. The mission is to capture the multispectral vegetation analysis using VNIR sensors, focusing on assessing chlorophyll absorption levels and calculating the NDVI index for the area.
+
+The deadline for this data is set for tomorrow morning, ensuring that the products are ingested into our pipeline before the day breaks. It's a standard operational task with fixed parameters representing normal operational status. We understand this request might not require an urgent operational execution but please note we value consistency and reliability in our data delivery.
+
+Thank you for your attention to this matter. Please let us know if there are any specific adjustments needed or if there's any additional information required for the successful execution of this task.

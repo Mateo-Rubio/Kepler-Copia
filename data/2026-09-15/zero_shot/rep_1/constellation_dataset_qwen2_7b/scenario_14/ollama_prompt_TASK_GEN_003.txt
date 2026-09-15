@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a thermal mapping of Indonesia's Murung Raya region using our TIR sensor for a low priority importance task. This involves assessing surface temperature profiles and detecting any thermal anomalies. The goal is to obtain heat emission data to help us understand the local environmental conditions better.
+
+We require this "background survey" by the day after tomorrow, in the evening at the latest. This task falls under our non-essential background filler tasks that can be scheduled according to your operational convenience. We're flexible on when it's captured but need to ensure that the data products are ingested into our pipeline before the deadline.
+
+Thank you for your attention and cooperation in making this happen.

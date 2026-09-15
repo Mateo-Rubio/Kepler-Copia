@@ -1,0 +1,7 @@
+Good day! I'm reaching out to request a specific task for our automated satellite constellation planner. We're aiming to capture an active radar scan using microwave surface imaging technology, focusing on cloud-penetrating capture capabilities and ground geometry analysis in the region of Indonesia, specifically around the Ecuatorial city. This is a low priority importance request, so we're treating it as a flexible schedule task for opportunistic capture.
+
+The goal here is to assess the heat signature and surface temperature profile, as well as thermal anomaly detection and mapping heat emissions across the region. We're looking for high-quality data products that will serve as a valuable resource for our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
+
+The deadline for delivering these data products is set for tomorrow during the afternoon. Our strict delivery deadline is set for [target_day] [target_diurnal_period], ensuring the products are ingested into the pipeline before that time frame. This task is labeled as a non-essential background filler task where we explicitly note to drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
+
+Thank you for your attention and cooperation in fulfilling this request. We appreciate your timely response and look forward to receiving the data products that align with our operational guidelines and requirements.

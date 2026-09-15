@@ -1,0 +1,7 @@
+Good morning! I'm reaching out to request a low priority importance task for an Earth observation mission. Our objective is to perform a near-infrared reflection survey to assess soil moisture levels and water body boundaries in Santa Rosa del Sur, Colombia. This background survey aims to provide valuable insights into the local environmental conditions without imposing any strict operational constraints.
+
+Given the nature of this request, we understand that it might be scheduled for a more flexible timeframe, allowing us to drop or reschedule at our convenience if necessary. We're looking to capture this data as part of an opportunistic tasking process, ensuring that the information is gathered efficiently and without disrupting other critical operations.
+
+Our deadline for receiving these data products is set for the day after tomorrow, with a strict delivery deadline marked by the overnight period. This means we need to ensure that all the products are ingested into our pipeline before the end of the night, meeting the operational requirements without exceeding the designated timeframe.
+
+Thank you for your attention and cooperation in fulfilling this task request. We appreciate your understanding and flexibility in accommodating our needs while respecting the operational constraints. Please let us know if there's anything else we can provide to facilitate this process further.

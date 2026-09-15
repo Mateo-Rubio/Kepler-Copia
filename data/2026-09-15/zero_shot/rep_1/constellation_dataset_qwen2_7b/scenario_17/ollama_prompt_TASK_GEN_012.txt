@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. We're looking to capture a detailed image of Ecuatorial City in Indonesia using our radar system for an active surface scan. This task is part of our standard operational pipeline tracking setup and carries normal operational status.
+
+Given the importance of this request, we aim to ensure that the data products are ingested into the pipeline before the target day, which falls four days from now, ideally during the morning hours. We're not dealing with tight deadlines for this task but rather wish to maintain a baseline level of monitoring and asset contractual value.
+
+We're utilizing our SAR system for this mission, which will provide us with microwave surface imaging capabilities, allowing us to capture ground geometry even through heavy weather conditions. This data will be crucial for our cloud-penetrating capture needs.
+
+Thank you for your attention to this matter. We appreciate your team's dedication to providing the necessary imagery promptly and efficiently. Please let us know if there are any scheduling conflicts or if adjustments need to be made to accommodate this task request.

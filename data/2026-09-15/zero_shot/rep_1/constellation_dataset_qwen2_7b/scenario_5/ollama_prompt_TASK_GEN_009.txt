@@ -1,0 +1,9 @@
+Good morning, satellite constellation planners. I'm reaching out to request a critical payload capture for an urgent operational execution involving the Indonesian region, specifically focusing on the city of Berau. Our priority is high importance, which necessitates an authoritative and explicit tone reflecting an absolute institutional priority.
+
+Our mission allocation involves thermal mapping using the TIR sensor, with the goal of capturing a heat signature across the area to identify surface temperature profiles and detect any thermal anomalies. This task requires a high-resolution optical snapshot for daylight photography, ensuring clear visual documentation that can aid in assessing heat emissions from various sources.
+
+The deadline for delivering the data products is set for the day after tomorrow, specifically by the evening, with a strict delivery deadline to ensure they are ingested into our pipeline before then. We understand this deadline represents a strict operational requirement and not an orbital capture window.
+
+As this request carries low priority importance, we acknowledge that it may be treated as a flexible schedule task, allowing for opportunistic capture or rescheduling at your convenience. However, please note that this is a non-essential background filler task that complements our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention to this matter and for accommodating the needs of our mission within the specified timeframe. Please let us know if you require any additional information or have questions about this request.

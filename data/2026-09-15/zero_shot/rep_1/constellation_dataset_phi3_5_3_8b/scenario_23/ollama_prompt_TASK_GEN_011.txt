@@ -1,0 +1,2 @@
+We're looking to capture multispectral vegetation analysis in Oderzo, Italy, using high-resolution optical snapshot techniques for true-color visual documentation. This is a low priority importance task with flexible scheduling; please drop or reschedule at your convenience as it serves as non-essential background filler. The data products are needed by the day after tomorrow in the morning at the latest, ensuring they're ingested into our monitoring pipeline before this deadline.
+```prompt

@@ -1,0 +1,10 @@
+Hello there! I hope this message finds you well. I'm reaching out to request a task from your automated satellite constellation planner for an Earth observation mission focusing on a specific region in Italia, specifically in the Norte area. The primary sensor we're utilizing for this operation is the Near-Infrared (NIR) sensor, which will be employed for mapping water bodies and assessing soil moisture levels.
+
+Given the importance of this task, I'd like to emphasize that it falls under a 'low priority importance' category, allowing for a flexible schedule where we can drop or reschedule at our convenience if needed. This task is more akin to a 'background survey' or a 'testbed tracking task' in nature.
+
+The deadline for this mission is set for the data products to be ingested into the pipeline before the target day, which is three days from now, with the strict delivery deadline being in the evening. We're aiming for a 'high-resolution optical snapshot' of the region using the NIR sensor capabilities to capture detailed information on water body boundaries and soil moisture assessment.
+
+Thank you for your attention to this matter. Should you have any questions or need further clarification, please feel free to reach out. Looking forward to your confirmation and the successful execution of this mission.
+
+Best regards,
+[Your Name]

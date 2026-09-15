@@ -1,0 +1,2 @@
+We're looking to gather near-infrared reflection data for water body boundary mapping in Carmen del Darién (Curbaradó), Colombia, as part of our routine monitoring. This task is set as a low priority importance with flexible scheduling and needs the high-resolution optical snapshot by tomorrow evening at the latest to ensure timely integration into our standard pipeline tracking workflows. Please arrange for this background survey or testbed tracking task to be completed, but feel free to drop or reschedule it according to your convenience if necessary.
+```prompt

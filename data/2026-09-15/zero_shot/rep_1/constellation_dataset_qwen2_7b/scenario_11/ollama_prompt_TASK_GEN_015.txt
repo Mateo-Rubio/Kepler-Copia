@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Ecuatorial, Indonesia, with daylight photography capabilities for clear, true-color visual documentation. Our mission is part of the standard operational tasking and falls under commercial tasking requirements.
+
+We aim to gather this data by tomorrow's evening timeframe, ensuring the products are ingested into the pipeline before then. This request represents a standard baseline pipeline tracking setup with fixed parameters that reflect normal operational status.
+
+Please note, our priority level for this mission allocation is medium importance, which means it's part of our routine monitoring activities and does not require urgent operational execution or an un-preemptable mission lock. It's a standard workflow update that doesn't impact any critical payload capture or contractual obligations.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting the deadline set for tomorrow evening. If there are any issues or adjustments needed, please feel free to communicate with us directly. Have a great day!

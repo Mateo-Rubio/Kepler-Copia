@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need a high-resolution optical snapshot of Città di Castello, Italia. Ensure the products are ingested into the pipeline before four days overnight at the latest.

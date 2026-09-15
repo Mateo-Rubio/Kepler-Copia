@@ -1,0 +1,7 @@
+Good day to you! I'm reaching out with an operational request for a standard monitoring task involving multispectral vegetation analysis. Our focus is on capturing the chlorophyll absorption levels and calculating the NDVI index for our area of interest in Colombia, specifically near San Gil. This involves taking a high-resolution optical snapshot during daylight photography to provide clear visual documentation of the region.
+
+We're looking at a specific day that's just around the corner, when we need your satellite constellation to deliver this data by the day after tomorrow during the afternoon timeframe. This task is part of our baseline pipeline tracking setup with fixed parameters, representing our normal operational status.
+
+Please note that while this request holds importance for us, it falls under medium priority and can be accommodated within our flexible schedule. We appreciate your understanding and look forward to receiving the data products before the deadline set for the day after tomorrow during the afternoon. If there are any delays or if you need further clarification, please feel free to reach out.
+
+Thank you very much for your attention to this matter.

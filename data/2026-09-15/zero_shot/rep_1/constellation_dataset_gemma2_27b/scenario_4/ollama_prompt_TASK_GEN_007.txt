@@ -1,0 +1,1 @@
+This is a low priority importance request for an opportunistic capture of high-resolution optical imagery over Área en litigio, Colombia.  We'd like to get this captured as a non-essential background filler task and drop or reschedule at convenience. Please ensure the products are ingested into the pipeline before tomorrow overnight at the latest.

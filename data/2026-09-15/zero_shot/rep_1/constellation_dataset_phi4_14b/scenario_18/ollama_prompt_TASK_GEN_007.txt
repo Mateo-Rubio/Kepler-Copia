@@ -1,0 +1,1 @@
+We have a standard operational tasking for a high-resolution optical snapshot over Planadas, Colombia. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need clear optical imagery in the evening of tomorrow at the latest to ensure the products are ingested into the pipeline before that time.

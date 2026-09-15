@@ -1,0 +1,11 @@
+```prompt
+Good day, automated satellite constellation planner. I'm reaching out on behalf of an Earth observation mission to request a task for tomorrow's data collection. Our priority is quite low but still important, so please consider this as a non-essential background filler task that can be scheduled at your convenience.
+
+We're looking to capture thermal mapping data of the region around Mamuju, Indonesia, which falls under our 'the day after tomorrow' deadline, specifically around mid-day. The primary sensor for this task will be TIR, aimed at capturing heat signatures and surface temperature profiles. This is crucial for monitoring heat emissions and identifying any thermal anomalies in the area.
+
+Please note that we're not rushing this request; it's more of a background survey or testbed tracking task. We understand if there are other higher priority missions that need to be completed first, and we're flexible with scheduling. If possible, please ensure that the data products are ready for ingestion into our pipeline before 'the day after tomorrow' around mid-day.
+
+Thank you for your attention and cooperation in this matter. We appreciate your understanding of our operational guidelines and look forward to receiving your confirmation.
+
+Best regards,
+[Your Name]

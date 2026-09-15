@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection imaging over Lebrija, Colombia. We need to capture data for water body boundary mapping and soil moisture assessment in the region. Please ensure the products are ingested into the pipeline before tomorrow evening at the latest.

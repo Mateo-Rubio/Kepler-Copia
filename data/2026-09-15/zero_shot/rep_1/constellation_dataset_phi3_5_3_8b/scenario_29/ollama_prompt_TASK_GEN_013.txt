@@ -1,0 +1,2 @@
+We have an absolute institutional priority to capture high-resolution optical snapshots of Aipe, Colombia's vegetation using multispectral analysis by tomorrow night. This critical payload capture is necessary for assessing chlorophyll absorption levels and calculating the NDVI index with utmost urgency. The data must be ready and ingested into our processing pipeline no later than tonight to meet this binding contract requirement.
+```

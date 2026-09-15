@@ -1,0 +1,2 @@
+The following task is a non-essential background filler scheduled for the day after tomorrow overnight, focusing on near-infrared reflection to map water body boundaries and assess soil moisture gradients. Please ensure that this data is ingested into our pipeline before the nighttime block of the day after tomorrow concludes.
+```prompt

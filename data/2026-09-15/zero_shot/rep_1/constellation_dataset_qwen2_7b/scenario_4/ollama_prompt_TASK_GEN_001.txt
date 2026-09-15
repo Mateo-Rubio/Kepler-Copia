@@ -1,0 +1,7 @@
+Good day to all satellite planners and mission operators. I am reaching out with a task request that requires your immediate attention for an observational mission. Our focus is on conducting a detailed multispectral vegetation analysis in the region of Colombia, specifically within the city of Calamar. Given the importance of this task, we are considering it as a low priority importance request, which means we would appreciate some flexibility in scheduling but understand that it might be dropped or rescheduled at your convenience.
+
+The primary sensor for this mission is the VNIR (Visible Near-Infrared), which will help us assess the chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance. We aim to capture high-quality images that can provide valuable insights into vegetation health and land use.
+
+The operational deadline for this task is set for three days from now, with a strict delivery deadline falling in the evening. This means we need the data products ingested into our pipeline before the evening of the target day to ensure timely processing and analysis.
+
+Thank you for your understanding and cooperation. We appreciate your efforts in delivering accurate and timely data that will support our ongoing research and monitoring activities.

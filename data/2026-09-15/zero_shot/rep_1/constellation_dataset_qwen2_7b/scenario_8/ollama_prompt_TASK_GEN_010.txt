@@ -1,0 +1,7 @@
+Good day! I'm reaching out from the Earth-observation mission operations team to request a standard operational tasking for a routine monitoring activity. Our focus is on the region of Colombia, specifically in the city of Trujillo. We're utilizing the VNIR sensor to conduct a multispectral vegetation analysis, aiming to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+This mission is part of our baseline pipeline tracking setup with fixed parameters that represent normal operational status. The request involves capturing high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation. We're looking forward to piercing through any cloud cover using microwave surface imaging capabilities provided by the SAR sensor.
+
+Our priority is set at medium importance, indicating a standard operational task with an un-preemptable mission lock. The deadline for delivering the data products is set for the day after tomorrow during the overnight block. We aim to ensure that all the products are ingested into our pipeline before the specified target day and diurnal period, adhering strictly to the deadline.
+
+Please proceed with the capture of this task as part of our regular workflow update. Thank you very much for your attention and cooperation in meeting this requirement.

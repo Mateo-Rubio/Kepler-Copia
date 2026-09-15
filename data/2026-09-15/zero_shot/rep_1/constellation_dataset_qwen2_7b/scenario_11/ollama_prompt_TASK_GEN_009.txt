@@ -1,0 +1,13 @@
+Good day to our satellite constellation team,
+
+We're reaching out for a standard operational tasking involving thermal mapping of a critical location in Indonesia. Specifically, we're focusing on Kutai Timur city, which is part of the vast and diverse Indonesian archipelago. Our request pertains to capturing thermal signatures of the area using our TIR sensor, aiming to assess heat emissions and surface temperature profiles.
+
+This task carries a medium importance level, signifying that it's part of our regular baseline pipeline tracking activities with fixed parameters in place. We're looking for high-quality thermal imagery needed by the specified target day, in this case, three days from now, at the latest in the evening. This deadline is crucial to ensure timely data ingestion into our pipeline before the set target day.
+
+Please note that this request doesn't compromise on quality or accuracy; it's a standard operational task requiring your expertise and precision. We appreciate your attention to detail and prompt delivery as always. If any challenges arise, please communicate with us promptly so we can find alternative arrangements if necessary.
+
+Thank you for your cooperation and dedication to our mission. We look forward to receiving the thermal mapping data in due course.
+
+Best regards,
+[Your Name]
+[Your Position]

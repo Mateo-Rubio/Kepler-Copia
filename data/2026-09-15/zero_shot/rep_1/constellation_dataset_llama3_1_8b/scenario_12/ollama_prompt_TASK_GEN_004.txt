@@ -1,0 +1,1 @@
+Please execute a thermal mapping task using the TIR sensor to capture a heat signature and surface temperature profile over La Paz, Colombia, by tomorrow around mid-day. This is a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.

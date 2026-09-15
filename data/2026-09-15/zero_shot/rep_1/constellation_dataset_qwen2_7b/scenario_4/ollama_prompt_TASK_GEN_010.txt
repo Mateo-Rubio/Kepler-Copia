@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Prado, Colombia, using our VIS sensor for daylight photography and clear optical imagery. This is a standard operational tasking that's part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. The request involves assessing the chlorophyll absorption level and calculating the vegetation NDVI index for this location.
+
+We need these data products by the day after tomorrow in the morning at the latest. This request carries a medium importance priority level, which means it's part of our standard workflow update with a binding contract requirement. We aim to deliver the thermal mapping and surface temperature profile, ensuring heat emissions are captured accurately.
+
+Please ensure the products are ingested into our pipeline before the day after tomorrow in the morning, as per our strict deadline. If there are any issues or delays, please inform us immediately so we can adjust our plans accordingly. Thank you for your attention to this matter.

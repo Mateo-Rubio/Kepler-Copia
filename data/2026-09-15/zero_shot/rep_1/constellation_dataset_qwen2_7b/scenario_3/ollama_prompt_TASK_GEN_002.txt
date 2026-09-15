@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out from our Earth-observation mission control center to request a highly prioritized task involving the capture of a critical payload using the VNIR sensor. Our objective is to obtain high-resolution optical snapshots of the region known as Ghedi in Italia, which is of paramount importance for our baseline pipeline tracking setup.
+
+The imagery we're looking for will serve as daylight photography, offering clear optical imagery and true-color visual documentation that will be crucial for our ongoing projects. The mission's priority level is set to 'High Importance', meaning this task carries the weight of an absolute institutional priority or a binding contract requirement involving a critical payload capture. We are dealing with a mandatory directive that necessitates urgent operational execution and an un-preemptable mission lock.
+
+We're targeting the delivery deadline for these data products by the third day, with a strict delivery deadline set for overnight at the latest. This ensures the products are ingested into our pipeline before the specified target day. We understand the importance of adhering to this timeframe as it represents the upper limit for data availability and is not an orbital capture window.
+
+Please note that we're operating under flexible scheduling, treating this request as a low priority importance task with a 'flexible schedule' for opportunistic capture. We explicitly label it as a non-essential background filler task, where our operator notes to drop or reschedule at convenience. This task can be treated as a background survey or testbed tracking task.
+
+Thank you for your attention and swift action in fulfilling this request. We appreciate your cooperation in ensuring that our Earth-observation mission objectives are met with the utmost efficiency and accuracy.

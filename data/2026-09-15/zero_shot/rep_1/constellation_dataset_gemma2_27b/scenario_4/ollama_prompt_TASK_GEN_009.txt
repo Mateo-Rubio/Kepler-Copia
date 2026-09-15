@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Rokan Hilir, Indonesia. We need a high-resolution VNIR scan to assess chlorophyll absorption levels and calculate the vegetation NDVI index in that region. Please ensure the products are ingested into the pipeline before three days in the morning at the latest.

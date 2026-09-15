@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Betulia, Colombia, aiming for high-resolution optical snapshots of chlorophyll absorption levels and surface reflectance. This is a low priority task with flexibility in scheduling; however, we need the data ready by four days from now overnight to ensure it can be included in our regular workflow updates without any urgency complications.
+```

@@ -1,0 +1,2 @@
+We're looking for a low priority importance task with flexible scheduling, aiming to capture near-infrared reflection for water body boundary mapping or soil moisture assessment in Norte. This is an opportunistic capture that can be dropped or rescheduled at our convenience. The data products are needed by tomorrow night at the latest, ensuring they're ready before this time frame expires.
+```prompt

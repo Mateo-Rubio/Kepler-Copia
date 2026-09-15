@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection imaging over Ecuatorial, Indonesia. I need this data for water body boundary mapping and soil moisture assessment. Please ensure the products are ingested into the pipeline before today in the evening at the latest.

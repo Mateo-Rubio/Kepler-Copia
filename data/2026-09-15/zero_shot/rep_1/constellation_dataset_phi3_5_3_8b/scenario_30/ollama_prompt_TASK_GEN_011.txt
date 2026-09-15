@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for tomorrow in the morning, focusing on a SAR-based active radar scan over Chiusi, Italy. This will enable cloud-penetrating capture and precise ground geometry mapping as part of our routine monitoring efforts within the baseline pipeline tracking setup. Please ensure that the data products are ingested into the system before tomorrow morning's deadline to maintain our workflow efficiency.
+```

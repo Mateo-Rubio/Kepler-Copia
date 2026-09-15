@@ -1,0 +1,3 @@
+We have an urgent mission requirement for a thermal mapping task over Indonesia, specifically targeting the region of Ecuatorial. This is a binding contract requirement with absolute institutional priority, necessitating a critical payload capture using our thermal imaging capabilities. The objective is to obtain a detailed heat signature and surface temperature profile that will aid in detecting any thermal anomalies.
+
+This task is of high importance and must be executed with an un-preemptable mission lock. The data products are required by the overnight period in three days at the latest, ensuring they are ingested into our pipeline before this strict deadline. Please prioritize this request accordingly to meet our operational execution needs.

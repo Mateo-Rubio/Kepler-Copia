@@ -1,0 +1,2 @@
+We're scheduling a low priority importance task for tomorrow during the afternoon, aiming to capture thermal mapping over Paya in Colombia. This is an opportunistic capture focused on obtaining heat signatures and surface temperature profiles as part of our routine monitoring. The data products are expected by then but please drop or reschedule at your convenience; this can serve as a background survey for now.
+```prompt

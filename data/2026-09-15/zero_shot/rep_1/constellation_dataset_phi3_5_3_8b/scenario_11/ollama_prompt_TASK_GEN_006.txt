@@ -1,0 +1,2 @@
+We need a standard operational tasking today for high-resolution optical snapshot daylight photography in Setiris, Indonesia. This is part of our baseline pipeline tracking and should be completed with fixed parameters representing normal operations. The data must be ready by tonight's overnight block at the latest to ensure it integrates smoothly into our workflow update.
+```prompt

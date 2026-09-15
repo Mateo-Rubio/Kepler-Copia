@@ -1,0 +1,1 @@
+Ensure a multispectral vegetation analysis is conducted in Norte, capturing chlorophyll absorption levels and calculating the NDVI index for surface reflectance. This low priority importance task requires a flexible schedule but must be completed by tomorrow morning at the latest to ensure the products are ingested into our monitoring pipeline on time.

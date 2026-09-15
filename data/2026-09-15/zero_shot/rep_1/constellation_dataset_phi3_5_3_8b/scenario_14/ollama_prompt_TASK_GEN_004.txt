@@ -1,0 +1,1 @@
+We need to schedule a standard operational tasking for high-resolution optical snapshot photography in Suárez, Colombia. This is part of our baseline pipeline tracking and should be completed around mid-day within three days from now. Please ensure the data products are ingested into the system before this deadline.

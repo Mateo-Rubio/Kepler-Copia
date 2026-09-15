@@ -1,0 +1,3 @@
+I'd like to schedule a low-priority task for capturing near-infrared reflection data over the Norte region. The goal is to assess soil moisture levels and map water body boundaries, providing us with valuable environmental insights. This request is flexible, so please feel free to drop or reschedule it at your convenience if necessary.
+
+The data should be ready by tomorrow around mid-day at the latest to ensure timely ingestion into our pipeline. Thank you for accommodating this background survey task within your operational workflow.

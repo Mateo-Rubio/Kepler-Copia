@@ -1,0 +1,1 @@
+This is an absolute institutional priority tasking for a critical payload capture over Aguazul, Colombia. We need a multispectral vegetation analysis of the region, capturing chlorophyll absorption levels and calculating the vegetation NDVI index. This data is needed by tomorrow morning at the latest, ensuring the products are ingested into the pipeline before then.

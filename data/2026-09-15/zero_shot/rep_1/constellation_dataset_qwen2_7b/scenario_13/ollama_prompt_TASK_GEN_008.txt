@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're tasked with capturing a near-infrared reflection for water body boundary mapping and soil moisture assessment over Norte, France, which is located in the beautiful region of France. This request carries a low priority importance but requires a flexible schedule for opportunistic capture. Please note that we aim to drop or reschedule this task as convenient.
+
+The deadline for delivering the data products is set for "the day after tomorrow" around mid-day, ensuring the products are ingested into our pipeline before then. We appreciate your understanding and flexibility in managing this background survey task within the constraints provided.
+
+Thank you for your cooperation and look forward to receiving the results promptly.

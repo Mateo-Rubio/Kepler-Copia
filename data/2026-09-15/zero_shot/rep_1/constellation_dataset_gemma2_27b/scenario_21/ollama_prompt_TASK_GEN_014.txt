@@ -1,0 +1,1 @@
+We need a low-priority thermal mapping task focused on Norte. This is a non-essential background filler task and can be dropped or rescheduled at convenience.  The goal is to capture a heat signature for the area, ideally with the products ingested into the pipeline before tomorrow in the morning at the latest.

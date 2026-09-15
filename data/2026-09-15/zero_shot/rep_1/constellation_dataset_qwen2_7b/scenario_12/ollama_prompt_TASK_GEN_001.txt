@@ -1,0 +1,10 @@
+Hello constellation planner,
+
+I'm reaching out to request a task for an Earth observation mission focused on Colombia, specifically in the city of San José del Guaviare. Our primary sensor requirement is near-infrared (NIR), which we aim to use for mapping water bodies and assessing soil moisture levels. This is a low priority importance request, so please consider it as a flexible schedule task that can be dropped or rescheduled at your convenience.
+
+The operational deadline for this mission is set for tomorrow's overnight period, meaning the data products must be ingested into our pipeline before we hit daybreak. We're looking to capture thermal anomalies and map heat emissions across the region using thermal mapping capabilities (TIR), as well as assess chlorophyll absorption levels in vegetation with multispectral analysis (VNIR).
+
+We appreciate your attention to this background survey task and look forward to receiving the data products as soon as possible.
+
+Best regards,
+[Your Name]
