@@ -172,7 +172,7 @@ def _call_ollama(
     prompt: str,
     model_name: str,
     temperature: float,
-    num_predict: int = 700,
+    num_predict: int = 1200,
     repeat_penalty: float = 1.05,
     echo: bool = True,
 ) -> str:
@@ -225,7 +225,7 @@ def generate_ollama_semantic_prompt(
     now_utc: Optional[datetime] = None,
     model_name: str = "llama3.1:8b",
     temperature: float = 0.4,
-    num_predict: int = 700,
+    num_predict: int = 1200,
     repeat_penalty: float = 1.05,
 ) -> Tuple[Dict[str, str], Dict[str, str]]:
     """
