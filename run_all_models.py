@@ -52,6 +52,34 @@ from src.modules.prompt_factory.main import prompt_factory_main
 
 RUN_DATE = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+# Instante de referencia CONGELADO para el Request Generator.
+#
+# El fix del Capitulo 2 elimino la discrepancia entre dos relojes (epoca del
+# TLE vs. hora del sistema) estableciendo un unico punto de referencia
+# compartido entre generacion y validacion. Aqui se conserva esa propiedad,
+# pero ademas se fija el valor: si se dejara en datetime.now(), dos corridas
+# lanzadas a horas distintas calcularian un 'expected_hour' distinto para las
+# mismas tareas, y las celdas del experimento dejarian de ser comparables.
+# Las franjas diurnas son bloques de 3 a 7 h, asi que un desfase de un par de
+# horas basta para cambiar la clase objetivo.
+#
+# Se sobreescribe con --generation-now.
+DEFAULT_GENERATION_NOW = "2026-01-15T12:00:00Z"
+GENERATION_NOW_UTC = None  # se fija en main()
+
+
+def parse_generation_now(value: str) -> datetime:
+    """Acepta 'YYYY-MM-DDTHH:MM:SSZ' o 'YYYY-MM-DD HH:MM:SS'."""
+    text = value.strip().replace("Z", "+00:00")
+    try:
+        parsed = datetime.fromisoformat(text)
+    except ValueError:
+        raise argparse.ArgumentTypeError(
+            f"Formato de fecha no valido: '{value}'. "
+            "Usa por ejemplo 2026-01-15T12:00:00Z"
+        )
+    return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+
 
 def build_scenario_dir(strategy: str, rep: int, dataset_name: str, idx: int) -> pathlib.Path:
     """data/<fecha>/<estrategia>/rep_<k>/<modelo>/scenario_<n>/"""
@@ -235,10 +263,11 @@ def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
     tf = t0 + timedelta(seconds=total_required_duration_s)
 
     # Reloj propio para la generación de lenguaje natural, independiente de
-    # la epoca del TLE (ver el fix aplicado a src/main.py). Se captura una
-    # sola vez para este escenario y se comparte entre generación y
-    # ground_truth.
-    generation_now_utc = datetime.now(timezone.utc)
+    # la epoca del TLE (ver el fix aplicado a src/main.py). Es un instante
+    # FIJO compartido por toda la corrida, no la hora del sistema: eso es lo
+    # que hace que dos estrategias ejecutadas en momentos distintos tengan
+    # exactamente el mismo ground_truth y sean comparables.
+    generation_now_utc = GENERATION_NOW_UTC or datetime.now(timezone.utc)
 
     if sim_cfg.get("semantic_enabled", True):
         prompt_cfg = task_cfg.get("prompt_generation", {})
@@ -300,6 +329,10 @@ def main():
     parser.add_argument("--continue-without-missing", action="store_true",
                          help="Si algún modelo no está descargado, continuar solo con los "
                               "disponibles en vez de detener la ejecución por completo")
+    parser.add_argument("--generation-now", type=str, default=DEFAULT_GENERATION_NOW,
+                         help="Instante de referencia UTC congelado para el Request "
+                              "Generator, ej. 2026-01-15T12:00:00Z. Debe ser IDENTICO "
+                              "en todas las corridas que se vayan a comparar entre si.")
     parser.add_argument("--rep", type=int, default=1,
                          help="Numero de repeticion (k). Cada k escribe en su propia "
                               "carpeta rep_<k>/ para no sobrescribir la anterior.")
@@ -307,7 +340,11 @@ def main():
                         choices=["zero_shot", "few_shot", "chain_of_thought", "chaining"])
     args = parser.parse_args()
 
-    global FAILURE_LOG_PATH
+    global FAILURE_LOG_PATH, GENERATION_NOW_UTC
+    GENERATION_NOW_UTC = parse_generation_now(args.generation_now)
+    print(f"[CLOCK] Instante de referencia congelado: "
+          f"{GENERATION_NOW_UTC.strftime('%Y-%m-%dT%H:%M:%SZ')}")
+
     FAILURE_LOG_PATH = pathlib.Path(
         f"run_all_models_failures_{RUN_DATE}_{args.strategy}_rep{args.rep}.json")
 
