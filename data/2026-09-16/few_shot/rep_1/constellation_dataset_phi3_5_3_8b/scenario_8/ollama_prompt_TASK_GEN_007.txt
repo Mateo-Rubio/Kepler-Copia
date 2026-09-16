@@ -1,0 +1,1 @@
+This is a standard operational tasking for Tuluá in Colombia, as part of our routine monitoring with fixed parameters. We require an active radar scan using microwave surface imaging to capture the ground geometry regardless of weather conditions. The delivery deadline is set for today in the evening at the latest.

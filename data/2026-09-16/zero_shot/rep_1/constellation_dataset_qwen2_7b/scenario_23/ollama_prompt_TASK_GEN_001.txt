@@ -1,0 +1,8 @@
+Hello, automated satellite constellation planner. I'm requesting a standard operational tasking for a near-infrared (NIR) sensor observation. Our focus is on Colombia, specifically the charming coastal town of Simití. We're aiming for a high-resolution optical snapshot to capture detailed imagery of the area, ideally showcasing clear daylight photography or true-color visual documentation that highlights the unique landscape and urban features.
+
+This request carries medium importance as it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The task involves assessing soil moisture levels through near-infrared reflection, which will aid in water body boundary mapping and soil analysis. We aim to capture this data in a timely manner, ensuring the products are ingested into our pipeline before our strict delivery deadline set for four days from now, specifically overnight at the latest.
+
+Please proceed with the task allocation, ensuring that the data is ready by tomorrow's overnight block to meet our operational requirements. Thank you for your attention to detail and adherence to our guidelines.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,10 @@
+Good day! I'm reaching out on behalf of our Earth-observation mission to request a task from your automated satellite constellation planner. We're looking to capture high-resolution optical imagery of Banyuasin, Indonesia for a commercial tasking operation that's part of our baseline pipeline tracking setup.
+
+We aim to conduct a multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index. This mission is of medium importance, with fixed parameters representing normal operational status. We're focusing on capturing the thermal signature of the area around mid-day in three days, ensuring the products are ingested into our pipeline before that time.
+
+This request is a standard operational tasking and should be treated as such, with no need for an urgent operational execution or un-preemptable mission lock. However, we appreciate your prompt attention to this task given its importance within our baseline workflow.
+
+Thank you for considering our request. We look forward to receiving the data products by the deadline set for the target day and mid-day period. Please let us know if any further information is needed for this mission.
+
+Best regards,
+[Your Name]

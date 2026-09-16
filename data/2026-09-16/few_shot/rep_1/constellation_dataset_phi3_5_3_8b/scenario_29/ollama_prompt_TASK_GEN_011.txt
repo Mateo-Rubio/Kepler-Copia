@@ -1,0 +1,3 @@
+Log a commercial tasking for Venaco in France as part of our baseline pipeline tracking with fixed parameters. We aim to capture multispectral vegetation analysis in three days from now, specifically during the morning hours, to assess chlorophyll absorption levels and calculate an NDVI index along with surface reflectance for agricultural monitoring purposes.
+
+```prompt

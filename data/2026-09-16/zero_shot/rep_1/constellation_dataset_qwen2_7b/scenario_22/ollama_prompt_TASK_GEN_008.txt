@@ -1,0 +1,17 @@
+Good day to our automated satellite constellation planner,
+
+I'm reaching out from a critical operational standpoint, requesting your immediate attention for an important Earth observation task. The mission involves capturing detailed imagery of a specific geographic area, which is located in the beautiful country of Italia, specifically around the town of Tre Fasci.
+
+Our primary sensor requirement is for high-resolution optical photography, aiming to gather clear and true-color visual documentation of this region during daylight hours. This task is part of our standard operational pipeline tracking setup and represents a 'medium importance' request according to our priority levels.
+
+The geographical context is straightforward: we're focusing on a specific area within the region named 'Tre Fasci', relying on the details provided in the location metadata for a more precise location description.
+
+We're setting a strict deadline for this task, needing the data by the target day, which is three days from now, with the requirement that the imagery be ready during the overnight period. This means we're looking at capturing the essence of this area under darkness, ensuring that our satellite assets deliver the imagery before sunrise on the fourth day.
+
+Please note that this task is part of our baseline pipeline tracking setup and represents a 'standard operational tasking'. We're not dealing with an urgent deadline in terms of timing but rather focusing on delivering quality data products to our users within the specified timeframe.
+
+Thank you for your attention to this matter. We appreciate your expertise in managing our satellite constellation and ensuring that our Earth observation missions are executed efficiently and effectively.
+
+Best regards,
+
+[Your Name]

@@ -1,0 +1,1 @@
+Schedule a low priority importance task for opportunistic capture of multispectral vegetation analysis over Tanjung Jabung Timur, Indonesia. This is a non-essential background filler task for today overnight, so please drop or reschedule at convenience. The goal is to assess chlorophyll absorption level and calculate a vegetation NDVI index for surface reflectance.

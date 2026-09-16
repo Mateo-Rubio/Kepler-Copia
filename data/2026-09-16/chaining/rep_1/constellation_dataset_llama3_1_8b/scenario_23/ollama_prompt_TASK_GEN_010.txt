@@ -1,0 +1,1 @@
+We require a thermal mapping task to capture a heat signature and surface temperature profile over the region of Maní in Colombia. This is a low priority importance request with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task. We would like this task to be completed today during the afternoon.

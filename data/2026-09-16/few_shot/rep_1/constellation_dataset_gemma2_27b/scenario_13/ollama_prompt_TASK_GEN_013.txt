@@ -1,0 +1,1 @@
+This is a standard operational tasking for Campo Capote in Colombia. We need multispectral vegetation analysis to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance for the agricultural plots surrounding the town. This is routine monitoring at normal operational status, and the delivery deadline is set for tomorrow in the morning.

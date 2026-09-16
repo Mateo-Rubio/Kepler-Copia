@@ -1,0 +1,12 @@
+Good day to all satellite operators and mission planners,
+
+I'm reaching out to request a task for an observational mission focusing on Norte, a region that unfortunately lacks specific details about its country. Our primary sensor requirement is VIS (visual imaging), which we aim to use for capturing high-resolution daylight photography or true-color visual documentation of the area.
+
+Given the operational nature of our request, it's categorized under low priority importance. This means that while it's essential, it can be scheduled with a flexible timeline, allowing us to drop or reschedule this task at convenience if necessary. We're treating this as a non-essential background filler task that could serve as a background survey or testbed tracking task.
+
+Our deadline for receiving the data products is set for tomorrow, with the strict delivery deadline being overnight. This means we need the data by the end of tonight to ensure it's ingested into our pipeline before the target day arrives.
+
+Thank you for your understanding and cooperation in fulfilling this request. We appreciate your efforts in meeting these operational guidelines to provide us with a highly realistic and conversational English request.
+
+Best regards,
+[Your Name]

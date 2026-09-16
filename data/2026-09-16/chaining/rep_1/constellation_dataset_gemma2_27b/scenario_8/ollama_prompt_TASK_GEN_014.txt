@@ -1,0 +1,1 @@
+This is a standard operational tasking for near-infrared reflection capture over the city of Norte. The objective is to map water body boundaries and assess soil moisture gradients in the region.  We require this data tomorrow during the afternoon.

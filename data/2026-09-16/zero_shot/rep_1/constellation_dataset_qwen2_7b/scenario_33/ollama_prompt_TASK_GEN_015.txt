@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners. We're looking to capture a thermal mapping of the region in Indonesia specifically around Pangalaseang city, which is currently experiencing unusual heat patterns. Given its high importance, we need this task to be treated as an absolute institutional priority and executed with the utmost urgency.
+
+Our primary sensor requirement for this mission is TIR, aiming to gather data on surface temperature profiles and thermal anomalies. This information will help us detect any heat emissions that might indicate critical issues or unusual activities in the area.
+
+The deadline for delivering these data products is set for today, specifically by the evening. We're looking for the data to be ingested into our pipeline before then, ensuring we can analyze the collected thermal maps promptly. As this request carries a low priority importance, it's considered a non-essential background filler task but should still be handled with due care and attention.
+
+Thank you for your understanding and swift action in fulfilling our request. We appreciate your cooperation in meeting these operational guidelines to maximize the naturalness and validation accuracy of our dataset.

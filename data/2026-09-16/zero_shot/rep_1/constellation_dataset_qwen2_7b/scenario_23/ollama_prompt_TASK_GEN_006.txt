@@ -1,0 +1,14 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out from an operational standpoint to request a mission allocation for a highly realistic and detailed observation in Indonesia, specifically focusing on the region of Ecuatorial. This task involves utilizing our active radar scanning capabilities (SAR) to capture an essential thermal mapping operation, which will serve as a critical tool for understanding heat signatures and surface temperature profiles across the area.
+
+Our objective is to provide you with a high-resolution snapshot that can penetrate through cloud cover, ensuring we capture ground geometry and essential data that might be obscured during daylight hours. This is not just any routine task; it's a low priority importance request that we're treating as an opportunistic capture opportunity. We understand the constraints of our operational schedule and recognize that this task might need to be dropped or rescheduled at your convenience, making it a non-essential background filler task.
+
+We're looking for data products that adhere to our baseline pipeline tracking setup with fixed parameters representing normal operational status. The importance here lies in ensuring we capture essential information for our workflow update without compromising on the quality of the data.
+
+The deadline for this task is set with strict adherence to our operational guidelines, needing the data by three days from now at the latest, specifically in the evening. We're making sure that the products are ingested into the pipeline before we reach that deadline, ensuring timely delivery and integration into our systems.
+
+Thank you for your attention to this matter, and we look forward to your confirmation of this request.
+
+Best regards,
+[Your Name]

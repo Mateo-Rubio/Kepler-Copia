@@ -1,0 +1,7 @@
+Good day! I'm reaching out from our Earth-observation mission control to request a task for an automated satellite constellation planner. We're looking at a high-resolution active radar scan using microwave surface imaging technology, aimed at capturing cloud-penetrating details of the region in Indonesia, specifically focusing on Kuala Enok city. This is a low priority importance request, meaning we're seeking to gather data as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary objective is to assess land geometry and ground features accurately, which will be crucial for our ongoing projects. We aim to achieve this by conducting an "active radar scan" that can pierce through heavy weather conditions, ensuring comprehensive coverage of the area. This task falls under the category of a non-essential background filler task, where we explicitly note that it can be dropped or rescheduled at convenience.
+
+The deadline for delivering the data products is set for in four days, with a strict delivery deadline set for the morning of that day. We're aiming to ensure that the products are ingested into our pipeline before this time frame expires. This request aligns with our operational guidelines and ensures that we provide realistic, conversational English requests based on the given metadata.
+
+Thank you for your attention and support in fulfilling this task. We appreciate your cooperation in meeting our deadline and delivering accurate data products as per our requirements.

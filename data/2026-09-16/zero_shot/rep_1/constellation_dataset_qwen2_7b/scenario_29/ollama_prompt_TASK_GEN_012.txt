@@ -1,0 +1,8 @@
+Hello, satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a task for tomorrow. Our priority is quite low, hence this message comes with a flexible schedule for opportunistic capture. We're looking to conduct a near-infrared reflection survey in Indonesia, specifically in the city of Bata. The goal is to map water body boundaries and assess soil moisture levels, which will help us discriminate gradients in the area.
+
+Given the nature of our request, we understand that timing is crucial. We need these data products by the day after tomorrow, preferably during the afternoon timeframe. This deadline ensures they are ingested into our pipeline before the set time. We appreciate your understanding and flexibility in accommodating this task as a background survey or testbed tracking task.
+
+Thank you for your attention to this matter. We look forward to your confirmation that this task has been scheduled accordingly. Should there be any adjustments due to operational constraints, please feel free to communicate with us promptly so we can make necessary arrangements.
+
+Best regards,
+[Your Name]

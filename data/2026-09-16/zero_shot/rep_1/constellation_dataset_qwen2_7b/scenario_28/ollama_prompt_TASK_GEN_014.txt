@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet still requires our attention. We're looking for a "low priority importance" request that can be scheduled flexibly and treated as a "background survey" or "testbed tracking task". Our objective involves the utilization of the VNIR sensor to conduct a "multispectral vegetation analysis", aiming to assess the "chlorophyll absorption level" and calculate a vegetation "NDVI index" for our region.
+
+The geographic context we're focusing on is located in Slovenia, with our main interest being the city of Norte. While we've provided coordinates for location details, given that they are not available, we'll describe this area using the country and city names for clarity.
+
+Our operational deadline is set for the day after tomorrow, with a strict delivery deadline set for the morning. This means that the data products must be ingested into our pipeline before the day after tomorrow's morning timeframe, ensuring timely availability for further analysis.
+
+We appreciate your understanding and flexibility in scheduling this task as it aligns with our current operational status and workflow updates. Thank you for your cooperation and look forward to your confirmation on this request.
+
+Best regards,
+[Your Name]

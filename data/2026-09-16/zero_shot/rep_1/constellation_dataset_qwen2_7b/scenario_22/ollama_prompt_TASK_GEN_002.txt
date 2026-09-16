@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission focusing on Frabosa Sottana, Italia. We're looking to capture a high-resolution optical snapshot of the region during daylight hours for true-color visual documentation. This is a low priority importance request, so it can be scheduled with a flexible schedule and treated as a background survey or testbed tracking task.
+
+Our deadline for receiving the data products is set for tomorrow morning, ensuring they are ingested into our pipeline before then. We're not looking for any critical payload capture or mandatory directive; this is just an opportunistic capture that we can drop or reschedule at convenience if necessary.
+
+Thank you for your attention to this task. We appreciate your cooperation in meeting the deadline and providing us with the necessary data products as requested.

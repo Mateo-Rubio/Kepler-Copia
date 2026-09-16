@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Malinau, Indonesia, in four days during the morning hours. This is a standard operational tasking that falls within our baseline pipeline tracking setup. We require clear daylight imagery for a comprehensive visual documentation and analysis of the region's landscape.
+
+Our priority level is set at medium importance, indicating this request fits into our normal operational status with fixed parameters. It's part of our routine monitoring activities, essential for maintaining an updated and accurate geographic database.
+
+The primary sensor we're utilizing here is VIS, which will provide us with true-color visual documentation suitable for various applications such as land use assessment, urban planning, and environmental monitoring. We aim to capture a detailed view of the area before the deadline set for the morning hours on the target day.
+
+Please ensure that the data products are ready for ingestion into our pipeline by then. This task is part of our regular workflow updates and should not be preempted by other requests. It's a standard operational task with no additional urgency beyond the specified deadline.
+
+Thank you for your attention to this matter, and we look forward to receiving the data in accordance with our request specifications.

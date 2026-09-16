@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis in Santander de Quilichao, Colombia. We need a high-resolution snapshot capturing chlorophyll absorption levels and calculating the vegetation NDVI index. Please deliver the data in three days in the evening.

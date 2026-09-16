@@ -1,0 +1,7 @@
+Hello there! I'm reaching out from the Earth-observation mission team, and we're in need of a low-priority importance task that requires your expertise. Our focus is on a thermal mapping project for a specific area in Colombia, specifically in Tuluá. We aim to capture heat signatures and surface temperature profiles to identify any thermal anomalies or emission patterns.
+
+Our operational guidelines suggest using natural language instead of raw technical tags, so let's describe this request in a more conversational manner. We're looking to gather data that will help us understand the thermal dynamics of the region by capturing the heat signature of the area in question. This is akin to taking a snapshot of the region's temperature profile during the day or night.
+
+We're targeting a delivery deadline set for three days from now, ensuring that the products are ingested into our pipeline before the overnight period. We understand that this deadline is strict and cannot be extended, so we appreciate your prompt attention to this task. This request aligns with our baseline pipeline tracking setup, where "fixed parameters" represent our normal operational status.
+
+Please note that this is a non-essential background filler task that can be dropped or rescheduled at your convenience if there are more pressing tasks on your schedule. We're grateful for your understanding and cooperation in this matter. Thank you very much for considering our request!

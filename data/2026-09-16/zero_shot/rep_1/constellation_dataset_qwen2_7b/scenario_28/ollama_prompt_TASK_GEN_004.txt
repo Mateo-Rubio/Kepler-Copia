@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners. We're looking at a highly important task involving thermal mapping in Colombia, specifically focusing on the city of San Pablo. The mission's priority stands at medium importance, necessitating a standard operational tasking with fixed parameters. Our primary sensor requirement is TIR, which means we're aiming for capturing heat signatures and surface temperature profiles to identify thermal anomalies.
+
+The deadline for this task is set very strictly: we need the data products by tomorrow night, no later than overnight. This is an absolute institutional priority that involves a critical payload capture, emphasizing the importance of our operational status being part of the baseline pipeline tracking setup. We're looking at normal operational status with parameters that represent our standard workflow update.
+
+Thank you for your attention to this matter and please ensure that the products are ingested into our pipeline before tomorrow night's deadline. This task is a routine monitoring activity, but it's crucial for maintaining our operational integrity. If there are any concerns about meeting this deadline or if adjustments need to be made due to unforeseen circumstances, please communicate with us promptly so we can adjust our plans accordingly.
+
+Thank you for your understanding and cooperation in fulfilling this mission allocation.

@@ -1,0 +1,5 @@
+Good day, mission planners. I'm reaching out with an urgent request for satellite imagery capture in Malaysia, specifically in the city of Pantu. We're looking for a high-resolution optical snapshot using VNIR sensors, which will serve as a true-color visual documentation of the area. This is a critical payload capture that we consider an absolute institutional priority and a binding contract requirement.
+
+We need this high-quality imagery by tomorrow evening at the latest, ensuring the products are ingested into our pipeline before then. This tasking involves assessing the chlorophyll absorption levels for vegetation analysis and calculating the NDVI index to understand surface reflectance. As this is a mandatory directive with an un-preemptable mission lock, we request your immediate attention to this request.
+
+Thank you for your swift action and cooperation in fulfilling our operational needs. Let's work together to ensure that our satellite constellation delivers the data products on time, as per our strict deadline set for tomorrow evening.

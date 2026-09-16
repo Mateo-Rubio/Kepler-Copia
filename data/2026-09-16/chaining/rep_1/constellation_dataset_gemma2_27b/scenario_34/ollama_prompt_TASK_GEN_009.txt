@@ -1,0 +1,1 @@
+We need a standard operational tasking for an active radar scan using microwave surface imaging over Ecuatorial, Malaysia. This is part of a routine monitoring setup with fixed parameters representing normal operational status. The goal is to capture cloud-penetrating imagery in the morning, in four days in the morning.

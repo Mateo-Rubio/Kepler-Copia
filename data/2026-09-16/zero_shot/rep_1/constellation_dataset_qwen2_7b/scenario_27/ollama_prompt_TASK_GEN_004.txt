@@ -1,0 +1,9 @@
+Good day to you! We're looking forward to capturing a high-resolution optical snapshot of La Macarena, Colombia, for daylight photography purposes. Imagine it as a true-color visual documentation that will provide us with clear optical imagery and detailed surface features.
+
+Our operational tasking falls under the category of standard commercial tasking, contributing to our baseline pipeline tracking setup. We're all set with fixed parameters representing normal operational status.
+
+We're aiming to gather this data around mid-day in three days, which means we need the data products by that time at the latest. It's crucial for us to ensure these products are ingested into our pipeline before then, maintaining our standard workflow update without any delays.
+
+Please note that this request is part of our routine monitoring activities and doesn't require any urgent operational execution or contractual commitments. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you very much!

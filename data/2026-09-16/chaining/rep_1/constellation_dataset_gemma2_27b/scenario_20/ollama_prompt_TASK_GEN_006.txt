@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping of Sekadau, Indonesia. We require a heat signature capture of the region during the afternoon the day after tomorrow. This data is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.

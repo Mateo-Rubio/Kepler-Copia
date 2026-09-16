@@ -1,0 +1,7 @@
+Hello, satellite constellation planner. I'm reaching out to request a critical task involving thermal mapping of Santa Croce sull'Arno, located in Italia. Given its high importance, this is an "absolute institutional priority" that requires your immediate attention and should be treated as a "non-essential background filler task" with the understanding that it can be dropped or rescheduled at convenience.
+
+The primary sensor for this mission will be our TIR (Thermal Infrared) sensor, which will capture thermal signatures to identify heat patterns and emissions. This data is essential for detecting thermal anomalies and mapping surface temperatures across the region.
+
+We're targeting a specific day, in four days from now, with a strict delivery deadline set for that day's "overnight" period. This means we need the data products ingested into our pipeline before the sun rises on that particular day. We understand that this deadline is critical and cannot be extended.
+
+Please ensure that all data requirements are met by these parameters and that the thermal mapping is conducted under optimal conditions to provide us with accurate and actionable insights. Thank you for your prompt attention to this matter.

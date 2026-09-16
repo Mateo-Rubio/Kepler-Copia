@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a critical payload capture for an urgent operational execution involving a high-resolution thermal mapping task in Colombia. Specifically, we're focusing on the city of Chima. Our priority is absolute institutional importance, as this involves a mandatory directive that requires us to capture a heat signature and map surface temperature profiles with utmost accuracy.
+
+Our primary sensor will be utilizing the TIR capability for this mission, which we'll employ to assess thermal anomalies and detect heat emissions across the region. This task is of paramount importance and must be executed within the strict deadline set for delivery. We're looking to have all data products ready by our target day, which is four days from now, in the morning at the latest.
+
+This request aligns with our baseline pipeline tracking setup, where we maintain fixed parameters representing normal operational status. However, given its high priority level and critical nature, we consider this a binding contract requirement that cannot be pre-empted or delayed.
+
+Please ensure the products are ingested into the pipeline before the deadline is met. We're grateful for your immediate attention to this request and look forward to your cooperation in fulfilling our operational needs. Thank you for your understanding and support in this matter.

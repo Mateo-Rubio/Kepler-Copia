@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I need your assistance in capturing a near-infrared reflection for water body boundary mapping and soil moisture assessment over Lebrija, Colombia. This task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our deadline for the data products is tomorrow evening, ensuring they are ingested into the pipeline before that time. Kindly note that this request holds a medium importance level and is not to be preempted by any higher priority tasks.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+[Your Name]

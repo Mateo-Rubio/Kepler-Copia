@@ -1,0 +1,14 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out with a low priority importance task that requires your immediate attention. Our team is interested in conducting thermal mapping of the region around Santa Helena del Opón, Colombia. This involves capturing heat signatures and surface temperature profiles to assist in detecting any thermal anomalies or emissions.
+
+We're looking for high-resolution optical snapshots taken using TIR sensors for this purpose. The goal is to assess chlorophyll absorption levels, calculate NDVI indices, and evaluate surface reflectance across the area. This will help us understand the environmental conditions and potential issues related to heat emissions in the region.
+
+Given the nature of our request, we're treating it as a non-essential background filler task with a flexible schedule for opportunistic capture. We understand that this might not be an urgent mission, but we would appreciate if you could accommodate this within our target timeframe.
+
+We need the data products by the day after tomorrow, specifically during the overnight period. This deadline is crucial to ensure they are ingested into our pipeline before then. Your cooperation in delivering these data assets will greatly assist our ongoing research efforts.
+
+Thank you for your understanding and prompt attention to this request.
+
+Best regards,
+[Your Name]

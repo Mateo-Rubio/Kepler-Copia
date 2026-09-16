@@ -1,0 +1,10 @@
+Hello there, satellite constellation planner! I'm reaching out to request a mission allocation for an important task. We're looking at capturing high-resolution optical imagery of the region around Saas-Almagell in Schweiz/Suisse/Svizzera/Svizra using our Near-Infrared (NIR) sensor. The goal is to assess soil moisture levels and delineate water body boundaries with precision.
+
+Given the nature of this request, I'd like to emphasize that it falls under our medium importance category, which means it's a standard operational tasking within our baseline pipeline tracking setup. However, it's crucial for us to receive the data products by the day after tomorrow, specifically in the evening at the latest. We're aiming to ensure that these products are ingested into our pipeline before then.
+
+This request is part of our normal operational status and represents a fixed parameter in our workflow update process. We appreciate your attention to this task and look forward to receiving the data as soon as possible. If there are any issues or delays, please feel free to adjust the schedule at your convenience as it's a non-essential background filler task for us.
+
+Thank you very much for your cooperation and understanding in this matter. We're counting on your expertise to deliver these critical data points promptly. Have a great day!
+
+Best regards,
+[Your Name]

@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent request on behalf of our organization concerning a critical payload capture mission. Our priority is set to 'High Importance', which means this task requires immediate attention and must be treated as an absolute institutional priority.
+
+The region we're focusing on is Colombia, specifically the city of Sabana de Torres. We aim to gather data using a VNIR sensor for a 'multispectral vegetation analysis'. This involves assessing the chlorophyll absorption level across various ecosystems within this area, which will help us calculate the NDVI index and understand surface reflectance patterns.
+
+The deadline for delivering these data products is set for four days from now, with the strictest requirement being that they need to be ready by morning. We're looking to capture detailed information about the vegetation health and distribution at Sabana de Torres, which will significantly contribute to our ongoing research efforts.
+
+Please ensure that the satellite constellation prioritizes this mission allocation as 'High Importance'. We require a 'standard operational tasking' with fixed parameters for this baseline pipeline tracking setup. This is part of our normal operational status and represents a standard workflow update in our system.
+
+Thank you for your attention to this matter. We appreciate your cooperation and look forward to receiving the data products by the specified deadline. If there are any issues or delays, please inform us promptly so we can adjust our plans accordingly.
+
+Best regards,
+[Your Name]

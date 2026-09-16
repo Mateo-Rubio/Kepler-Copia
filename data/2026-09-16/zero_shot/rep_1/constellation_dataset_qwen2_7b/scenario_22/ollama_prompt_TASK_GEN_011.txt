@@ -1,0 +1,11 @@
+Your Earth-observation mission operator here, requesting a highly realistic and conversational English task for an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, detailed request.
+
+Geographically speaking, we're focusing on Calenzana, a charming village in the beautiful region of France. Our operational guidelines dictate that we should avoid using raw technical system tags or coordinate arrays, so let's blend these parameters naturally.
+
+The priority level for this mission is set at 'low importance', which means we're looking for a flexible schedule to capture our 'critical payload' as an 'opportunistic background survey'. We aim to complete this task by the day after tomorrow, with a strict delivery deadline set for evening time. 
+
+Our primary sensor is 'VIS', which translates to capturing a 'high-resolution optical snapshot' for 'daylight photography' and 'true-color visual documentation'. This will help us gather detailed imagery of Calenzana's surroundings under natural light conditions.
+
+With this setup, we're confident that our automated satellite constellation planner can deliver the data products by the day after tomorrow evening, ensuring they are ingested into the pipeline before the deadline. We appreciate your attention to these operational guidelines and look forward to receiving the data in a timely manner.
+
+Please proceed with any necessary actions to schedule this task according to our request. If you have any questions or need further clarification, feel free to reach out. Thank you for your cooperation and understanding.

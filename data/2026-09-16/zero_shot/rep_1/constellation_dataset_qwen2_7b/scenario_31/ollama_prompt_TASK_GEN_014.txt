@@ -1,0 +1,7 @@
+We're looking to capture a comprehensive thermal mapping of the region "Norte" in Italia using our TIR sensor. This mission is an absolute institutional priority, involving a critical payload capture that requires meticulous attention to detail. We aim to provide a detailed heat signature and surface temperature profile for this area.
+
+Our objective is to ensure that the data products are ingested into the pipeline before the target day, which is "in three days" in the evening at the latest. This deadline is strict and non-negotiable, as it's essential for us to deliver the data promptly. We're aiming for a high-resolution optical snapshot of the region during daylight hours as well, to complement our thermal mapping efforts.
+
+The "Norte" region in Italia presents unique challenges due to its complex terrain and varying climate conditions. Our TIR sensor will be crucial in navigating these conditions and capturing accurate thermal data. The deadline is set to ensure that we can capture this data before the evening falls on the target day, allowing for a seamless integration into our baseline pipeline tracking setup.
+
+Please ensure that all operational parameters are set according to fixed standards representing normal operational status. This tasking involves standard workflow updates and is part of our routine monitoring activities. We appreciate your understanding and cooperation in meeting these requirements promptly.

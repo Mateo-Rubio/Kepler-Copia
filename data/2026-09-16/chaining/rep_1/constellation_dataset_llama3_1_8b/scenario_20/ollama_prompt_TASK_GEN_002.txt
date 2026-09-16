@@ -1,0 +1,1 @@
+We require a standard operational tasking for routine monitoring as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The mission involves an active radar scan using microwave surface imaging to capture cloud-penetrating data, specifically targeting the ground geometry in Norte during tomorrow in the evening.

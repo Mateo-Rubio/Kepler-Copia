@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Kepulauan Meranti, Indonesia. We require a high-resolution capture of near-infrared reflectance to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please schedule this task for "in four days overnight" delivery.

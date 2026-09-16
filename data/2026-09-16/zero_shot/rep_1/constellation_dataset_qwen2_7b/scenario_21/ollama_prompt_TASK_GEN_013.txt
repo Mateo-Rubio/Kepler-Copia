@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a routine monitoring task for our standard operational pipeline tracking setup. Our focus is on capturing high-resolution optical imagery of a specific location in Colombia, which is the city of Carmen del Darién (Curbaradó). We're looking for a clear daylight snapshot that can provide us with true-color visual documentation of the area.
+
+This request falls under the category of medium importance and will be treated as a standard operational tasking. We understand that there are fixed parameters involved, representing our normal operational status. However, we kindly ask you to prioritize this task within your baseline pipeline tracking setup.
+
+Our deadline for receiving this data product is set for the day after tomorrow, during the afternoon. We need these products ingested into the pipeline before then, ensuring that they meet the strict delivery deadline we've established. This data will be crucial for our ongoing baseline monitoring activities.
+
+Thank you for your attention to this request. We appreciate your cooperation in delivering the data as per the outlined specifications and timeframe.
+
+Best regards,
+[Your Name]

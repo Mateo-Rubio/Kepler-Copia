@@ -1,0 +1,10 @@
+Good day! I'm reaching out to request a satellite observation task that will capture thermal mapping data over Malaysia, specifically in the city of Banting. The primary sensor required is the TIR for this mission.
+
+Given the importance level marked as 'low', this task falls under a flexible schedule with a non-essential background filler nature. We're looking to assess surface temperatures and detect any thermal anomalies that might be present in the area.
+
+The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline of evening hours. This means we need the data ready by then, ensuring they can be ingested into our pipeline before the evening timeframe.
+
+Thank you for your attention to this task. If there are any questions or if you need more details, please feel free to reach out. We appreciate your cooperation in meeting this requirement.
+
+Best regards,
+[Your Name]

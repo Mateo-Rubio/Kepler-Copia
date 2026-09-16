@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for a thermal mapping mission involving Norte, which is located in an unspecified country. We're aiming to capture thermal signatures of the region's surface temperature profile and detect any potential heat anomalies by tomorrow evening at the latest.
+
+Our priority here is to gather accurate data that will help us understand heat emissions and patterns within the area. This task is part of our baseline pipeline tracking setup with fixed parameters, representing a normal operational status. We're looking for thermal mapping results that will provide valuable insights into the region's temperature dynamics without compromising the quality or reliability of our data.
+
+Please ensure that the products are ingested into our pipeline before tomorrow evening to meet our standard operational requirements. This request is categorized under medium importance and should be treated as a routine monitoring task with normal operational status, allowing for adjustments in schedule if necessary. Thank you for your attention to this matter.

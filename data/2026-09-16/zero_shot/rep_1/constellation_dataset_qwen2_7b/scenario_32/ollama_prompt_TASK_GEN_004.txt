@@ -1,0 +1,9 @@
+Given the operational guidelines and the provided JSON metadata, I hereby request an active radar scan using microwave surface imaging technology to capture cloud-penetrating imagery of El Piñal, Colombia. This task is part of our standard operational pipeline tracking setup with fixed parameters that represent normal operational status.
+
+El Piñal, nestled within the lush landscapes of Colombia, requires this detailed radar scan to ensure comprehensive ground geometry mapping, especially considering the potential for heavy weather conditions. The imagery will be used for critical infrastructure assessment and environmental monitoring purposes.
+
+With a strict delivery deadline set for three days from now, in the evening, we aim to have the data products ingested into our pipeline before the day ends. This ensures timely availability for further processing and analysis by our team.
+
+Please prioritize this request as part of our medium importance tasking, aligning with our baseline workflow updates and contractual obligations. We appreciate your cooperation in meeting this deadline and delivering high-quality data that meets our operational standards.
+
+Thank you for your attention to this matter.

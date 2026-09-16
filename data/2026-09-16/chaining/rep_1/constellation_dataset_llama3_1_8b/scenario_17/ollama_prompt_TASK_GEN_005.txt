@@ -1,0 +1,2 @@
+```prompt
+Translate this raw physical simulation metadata into a realistic English request for a thermal mapping mission. We require an absolute institutional priority to capture a high-resolution thermal snapshot of the Norte region overnight on the day after tomorrow, utilizing our thermal infrared sensor to detect heat signatures and surface temperature profiles. This is a critical payload capture to fulfill a binding contract requirement involving mandatory directive execution with urgent operational execution and un-preemptable mission lock.

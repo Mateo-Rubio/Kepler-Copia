@@ -1,0 +1,1 @@
+This is a standard operational tasking for Setiris, Indonesia. We need multispectral vegetation analysis to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance over the region. Normal operational status applies, and we need the products ingested into the pipeline today overnight.

@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging over Norte. We need a cloud-penetrating capture to get the ground geometry regardless of weather conditions. This is routine monitoring at normal operational status, and the delivery deadline is set for the day after tomorrow overnight.

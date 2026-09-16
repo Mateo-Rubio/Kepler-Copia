@@ -1,0 +1,13 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a mission allocation for an observation task that involves capturing data using our high-resolution SAR sensor. The geographical context of this request is centered around Rokan Hilir, Indonesia, which is a region of significant interest due to its diverse landscapes and potential for critical environmental monitoring.
+
+The priority level for this task is set at Low Importance, indicating it's part of our regular operational pipeline tracking with standard parameters and a flexible schedule. We understand that while it's not an urgent mission, timely delivery is still important to us. Therefore, we aim to ensure that the data products are ingested into our pipeline before tomorrow's overnight block, adhering to the strict deadline set for this task.
+
+The primary objective of this observation is to conduct an active radar scan using microwave surface imaging capabilities. The goal is to penetrate heavy weather conditions and capture ground geometry with precision. This data will be crucial for understanding the region's topography and potential environmental changes.
+
+Thank you for your attention to this request. We appreciate your support in helping us gather essential information that contributes to our broader mission of Earth observation and environmental monitoring.
+
+Best regards,
+
+[Your Name]

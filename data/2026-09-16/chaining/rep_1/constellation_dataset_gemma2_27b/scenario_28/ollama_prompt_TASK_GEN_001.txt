@@ -1,0 +1,1 @@
+We need a standard operational tasking for an active radar scan using microwave surface imaging over Cimitarra, Colombia. This is part of a routine monitoring workflow update and requires cloud-penetrating capture for the evening on the day after tomorrow.  Data delivery deadline is the day after tomorrow in the evening.

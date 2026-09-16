@@ -1,0 +1,12 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out to request a task that involves capturing data using near-infrared (NIR) sensors for a background survey in Colombia, specifically in the city of La Chapa. This is a low priority importance request, so please treat it as a flexible schedule "opportunistic capture" or "background survey" task.
+
+Our objective is to gather information about water body boundaries and soil moisture assessment using the near-infrared reflection capabilities of the sensor. We aim to provide you with high-quality data that will help us understand the environmental conditions in this area.
+
+Given the operational guidelines, I've included the target day for delivering the data products, which is "in three days" during the afternoon. Please ensure that the products are ingested into our pipeline before this deadline, as we're looking to incorporate them into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your understanding and cooperation in meeting these requirements.
+
+Best regards,
+[Your Name]

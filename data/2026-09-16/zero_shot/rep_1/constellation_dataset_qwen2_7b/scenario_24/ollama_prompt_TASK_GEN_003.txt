@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. I'm reaching out regarding a task that needs to be handled with flexibility and opportunism. Our team is requesting thermal mapping data for an area of interest located in Indonesia, specifically around the equatorial region. This request falls under the category of a low priority importance task, which means it can be scheduled at our convenience or potentially dropped if needed.
+
+Our objective is to capture the heat signature of this area by utilizing thermal sensors. We're aiming to gather insights into surface temperature profiles and detect any thermal anomalies that might indicate unusual heat emissions. The primary sensor we're focusing on for this task is TIR (Thermal Infrared), which will provide us with detailed information about the thermal characteristics of the region.
+
+We understand the urgency associated with this request and want to assure you that we're aware of the deadline we're working against. Our target day for this task is today, and we need the data products by the overnight period at the latest. This means ensuring that all the data is ingested into our pipeline before tomorrow's nightfall.
+
+Thank you for your attention to this background survey task. We appreciate your cooperation in scheduling this satellite capture as per our request. Please let us know if there are any questions or if you need further details about this low priority importance mission.

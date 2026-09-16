@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Cali in Colombia. We need to capture a heat signature and surface temperature profile of the city.  Normal operational status applies, with fixed parameters, and the products should be ingested into the pipeline tomorrow in the morning.

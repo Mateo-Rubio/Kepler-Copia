@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Santa Ana del Táchira, Venezuela, using our VIS sensor for daylight photography purposes. This imagery is crucial for our ongoing project and requires the utmost attention due to its high importance.
+
+We aim to gather this data by capturing clear optical imagery around mid-day on the day that's three days from now. This deadline is not negotiable; we need these products by that time, with a strict delivery deadline set for the day in question at mid-day. We're treating this request as an absolute institutional priority involving a critical payload capture.
+
+Please ensure that the data products are ingested into our pipeline before the day of mid-day deadline to meet our operational needs. This task is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request. If any issues arise or if there's a need to reschedule due to unforeseen circumstances, please communicate with us promptly to adjust the schedule as needed.

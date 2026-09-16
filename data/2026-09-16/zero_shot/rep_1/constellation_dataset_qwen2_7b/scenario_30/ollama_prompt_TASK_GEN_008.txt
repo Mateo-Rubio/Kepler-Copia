@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an observational mission that's quite important to us. Our focus is on capturing a high-resolution optical snapshot of the region in Brenna, Italia, ideally during the morning hours tomorrow. We're looking for clear daylight imagery and true-color visual documentation of this area. This task is classified as low priority importance, meaning we're flexible with scheduling but would appreciate it if you could drop or reschedule at your convenience.
+
+The main objective here is to assess the current state of the landscape, which might include monitoring agricultural conditions through vegetation analysis or evaluating soil moisture levels for water body boundaries and soil health. We understand that time is of the essence, as we need the data products by tomorrow morning, ensuring they're ingested into our pipeline before then.
+
+Thank you for your attention to this request. We appreciate your expertise in delivering the best possible data within the set deadline. Please let us know if you have any questions or require additional information.

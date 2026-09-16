@@ -1,0 +1,2 @@
+This is a standard operational tasking for today in Corte, France as part of our baseline pipeline tracking with fixed parameters. We need an active radar scan using microwave surface imaging for cloud-penetrating capture to reveal ground geometry under heavy afternoon weather conditions. This routine monitoring will help maintain normal operational status and the delivery deadline is set for today around midday.
+```

@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution near-infrared reflection data from Bangka Tengah, Indonesia. This will assist in mapping water body boundaries and assessing soil moisture levels for our client's needs.
+
+Bangka Tengah, being part of Indonesia, offers a unique opportunity to gather critical data on water distribution and soil health. Given the importance of this task, I hereby classify it as a low priority importance request. However, we emphasize that while this is not an urgent mission in terms of operational deadlines, flexibility in scheduling is appreciated.
+
+We aim for the data to be ready by today's evening block at the latest. This means ensuring the products are ingested into our pipeline before tonight's completion. We understand the strict deadline and appreciate your efforts in meeting it.
+
+Thank you for your attention and cooperation. Please let us know if you need any further details or clarification on this request.

@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a critical payload capture request that falls under our absolute institutional priority. We're looking to conduct an active radar scan using microwave surface imaging technology for cloud-penetrating capture. Our target region is the city of Mogotes in Colombia, where we aim to gather detailed ground geometry data.
+
+Given the nature of this mission, it's imperative that we receive the data products by the day after tomorrow, specifically in the morning. This deadline is non-negotiable and represents a binding contract requirement for us. The SAR imagery will be crucial for our operations, providing us with high-resolution optical snapshots, clear optical imagery, and true-color visual documentation.
+
+We're aware of the urgency surrounding this task and understand that it involves an "urgent operational execution" and an "un-preemptable mission lock". We're requesting that you treat this request as a standard operational tasking, considering it part of our baseline pipeline tracking setup with fixed parameters that represent our normal operational status. This is a "critical payload capture" that requires immediate attention.
+
+Please ensure that the products are ingested into our pipeline before the day after tomorrow in the morning, adhering to the strict delivery deadline set for us. We appreciate your understanding and cooperation in meeting this requirement. Thank you for your prompt attention to this matter.

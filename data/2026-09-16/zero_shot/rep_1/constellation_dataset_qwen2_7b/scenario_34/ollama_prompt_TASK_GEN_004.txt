@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner,
+
+I'm reaching out with a request for a low priority importance task that needs to be handled by today's afternoon at the latest. Colombia, specifically Vegachí, is the geographic context we're focusing on, aiming for thermal mapping data products.
+
+The primary sensor involved will conduct a "thermal mapping" operation to capture a "heat signature" and surface temperature profile across Vegachí during the afternoon hours. The goal here is to identify any thermal anomalies or heat emissions that could be of interest for further analysis.
+
+This task is labeled as a "non-essential background filler task", with flexible scheduling options available. Should there be any need to drop or reschedule this task, please do so at your convenience. We're treating this as a "background survey" or "testbed tracking task".
+
+With the deadline set for today's afternoon, I look forward to receiving the data products that will help us in our ongoing monitoring efforts for Vegachí. Thank you for your attention and assistance.
+
+Best regards,
+[Your Name]

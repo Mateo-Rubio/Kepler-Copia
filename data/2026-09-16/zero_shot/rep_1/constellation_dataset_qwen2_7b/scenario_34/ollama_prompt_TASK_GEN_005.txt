@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're reaching out with a standard operational tasking request for a thermal mapping mission, focusing on capturing the heat signature of a specific area in Lenzumo, Italia. Our priority is set at medium importance, which means this task is part of our baseline pipeline tracking setup and requires our usual level of attention.
+
+Our primary sensor requirement is for Thermal Infrared (TIR) imaging, which will allow us to assess surface temperature profiles and detect thermal anomalies with precision. This mission aims to provide critical data on heat emissions across the region, essential for various applications such as urban planning, agriculture monitoring, and energy efficiency assessments.
+
+Given the operational guidelines and our need for accuracy in natural language processing, we're requesting this mission to be executed with utmost care and attention to detail. We aim to achieve high-resolution thermal mapping that will capture the essence of heat signatures accurately and comprehensively.
+
+The deadline for delivering these data products is set for tomorrow morning, ensuring they are ingested into our pipeline before the target day's overnight period begins. This strict deadline reflects the urgency of the task while maintaining operational standards.
+
+We appreciate your team's expertise in handling such tasks efficiently and look forward to receiving the results that will contribute significantly to our ongoing projects. Thank you for your attention to this matter, and we're confident that your team will deliver the expected outcomes with excellence as always.

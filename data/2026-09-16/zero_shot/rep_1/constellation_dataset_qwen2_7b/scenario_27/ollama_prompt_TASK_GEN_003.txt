@@ -1,0 +1,14 @@
+Good day to our satellite constellation planning team,
+
+We're reaching out with a task request that requires your immediate attention. Our mission involves capturing a high-resolution optical snapshot of Indonesia, specifically focusing on the city of Hiang Karya. This is not just any routine monitoring; it's a low priority importance request designed as a non-essential background filler task.
+
+Our primary sensor for this operation is VIS, which will enable us to gather clear optical imagery and true-color visual documentation of the region. We're looking for detailed daylight photography that captures the essence of Hiang Karya's landscape and urban environment.
+
+We have set a strict deadline for delivering these data products by the day after tomorrow, with a target diurnal period being in the morning. This is an opportunity to conduct a background survey or testbed tracking task that doesn't disrupt our regular workflow but complements it seamlessly.
+
+Please ensure that the products are ingested into our pipeline before the set deadline, as we aim for timely data availability and processing. We appreciate your cooperation and look forward to receiving the results that will contribute to our ongoing analysis and understanding of this region.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

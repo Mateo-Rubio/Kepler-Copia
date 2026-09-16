@@ -1,0 +1,14 @@
+Hello constellation planner,
+
+I need you to capture a thermal map of Norte, which is located in the region of interest. This task falls under the category of a low priority importance request and should be treated as a non-essential background filler task.
+
+The primary sensor required for this mission is Thermal Infrared (TIR), which will help us assess surface temperature profiles and detect any thermal anomalies. We aim to gather data that will provide insights into heat emissions from various sources in the area.
+
+Given the operational guidelines, I request that you deliver the data products by tomorrow morning at the latest. This deadline is crucial for ensuring that the information is ingested into our pipeline before the specified time.
+
+Please note that this task is part of a flexible schedule and can be dropped or rescheduled as per your convenience. We understand that it doesn't have the same level of urgency as higher priority tasks but still require attention to detail and quality.
+
+Thank you for your cooperation and understanding in managing this task efficiently.
+
+Best regards,
+[Your Name]

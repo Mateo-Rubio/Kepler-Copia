@@ -1,0 +1,13 @@
+Hello Satellite Constellation Planner,
+
+I hope this message finds you well. I'm reaching out to request a critical tasking for an Earth observation mission. The primary sensor required is the Near-Infrared (NIR) camera, which will be used to capture essential data on water body boundaries and soil moisture assessment.
+
+The target location for this mission is in Colombia, specifically in the AMCO, Area Metropolitana Centro Occidente region. We aim to gather accurate information by capturing a high-resolution optical snapshot of the area during daylight hours. This task is considered a low priority importance request with a flexible schedule for opportunistic capture.
+
+We're looking to have this data ready by the day after tomorrow, with a strict delivery deadline set for mid-day. This means ensuring that the products are ingested into our pipeline before the deadline arrives. Please note that we understand the urgency of this task and will treat it as a background survey or testbed tracking task.
+
+Thank you in advance for your attention to this matter. We appreciate your support in fulfilling this request promptly.
+
+Best regards,
+
+[Your Name]

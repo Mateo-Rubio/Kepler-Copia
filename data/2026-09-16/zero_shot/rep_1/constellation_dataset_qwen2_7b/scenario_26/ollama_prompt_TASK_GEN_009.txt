@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a highly important task for our Earth observation mission. Our priority here is to capture thermal mapping data from Indonesia, specifically focusing on the equatorial region. The operational objective is to identify heat signatures and surface temperature profiles that will aid in detecting thermal anomalies and mapping heat emissions.
+
+We're utilizing our TIR sensor for this mission, which will provide us with detailed thermal imaging capabilities. This task is a standard operational tasking as part of our baseline pipeline tracking setup, involving fixed parameters representing normal operational status.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline to be met in the morning. We're aiming to ensure that all products are ingested into the pipeline before the target day and time arrives. This task holds medium importance and contributes to our routine monitoring efforts.
+
+Thank you for your attention to this request. I look forward to receiving confirmation of the mission allocation and the expected data delivery time.

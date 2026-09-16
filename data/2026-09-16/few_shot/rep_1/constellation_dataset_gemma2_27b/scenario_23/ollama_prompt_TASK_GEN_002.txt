@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Norte. We need to capture a heat signature and surface temperature profile of the region. The delivery deadline for this routine monitoring task is set for tomorrow in the evening.

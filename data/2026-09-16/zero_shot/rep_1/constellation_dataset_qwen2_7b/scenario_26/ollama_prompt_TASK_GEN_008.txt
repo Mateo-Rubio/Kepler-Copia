@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners. We're requesting a high-resolution optical snapshot of Pontagna, located in beautiful Italia. Our primary sensor requirement is for a clear daylight photography session using visible light imagery to capture the essence of this stunning city.
+
+Please note that this task is marked as a low priority importance request with a flexible schedule for opportunistic capture. We understand the need for flexibility here and will not be pushing for an urgent operational execution. This task can be treated as a background survey or testbed tracking task, where we're looking to gather data on Pontagna's landscape without impacting your regular workflow.
+
+The deadline for delivering these data products is set by the target day, which is four days from now, with a strict delivery deadline set for overnight. We aim to ensure that the products are ingested into our pipeline before the target day's overnight period ends. This means we're looking for the data by tomorrow night, as per your operational guidelines.
+
+We appreciate your understanding and cooperation in meeting this request within the specified timeframe. Your expertise will help us achieve our objective of gathering valuable information about Pontagna using our satellite constellation. Thank you for your attention to detail and adherence to our operational guidelines. 
+
+Best regards,
+[Your Name]

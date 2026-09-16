@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a mission allocation for an observation task that's of low priority importance, with a flexible schedule and treated as a non-essential background filler task. Our aim is to capture thermal mapping data using our active radar scan capabilities, which will be used for cloud-penetrating capture and surface geometry imaging.
+
+The geographical context for this request involves the beautiful region of Italia, specifically focusing on the city of Arezzo. We're looking at an operational deadline set for three days from now, with a strict delivery deadline set for the morning hours of that day. The data must be ingested into our pipeline before the overnight block begins.
+
+This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. We understand this might not be an urgent operational execution, and we're treating it as a background survey or testbed tracking task.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring our request meets the deadline and is handled according to our operational guidelines.

@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Ecuatorial in Indonesia. We need a clean surface temperature profile and thermal anomaly detection across the region. This is routine monitoring as part of our baseline pipeline tracking with fixed parameters, and the products are needed tomorrow in the evening.

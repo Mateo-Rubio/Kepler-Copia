@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis in Banyuasin, Indonesia. We require a high-resolution capture of the area to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The data needs to be delivered in three days around mid-day.

@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging over Ecuatorial, Indonesia.  The objective is cloud-penetrating capture to assess ground geometry. We need this data tomorrow during the afternoon as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.

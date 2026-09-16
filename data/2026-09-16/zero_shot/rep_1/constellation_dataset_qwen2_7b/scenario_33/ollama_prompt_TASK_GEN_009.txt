@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out regarding an urgent task that requires your immediate attention. Our team is in need of a near-infrared reflection assessment for a specific area in Indonesia, specifically the region of Rokan Hilir. This task falls under our low priority importance category but needs to be handled with care due to its nature.
+
+The primary sensor required for this mission is the near-infrared (NIR) sensor, which will help us map water body boundaries and assess soil moisture levels in this region. We're looking for a 'flexible schedule' to capture this data, treating it as a 'background survey' or 'testbed tracking task'. 
+
+Our request is quite straightforward: we need the data products related to this task ingested into our pipeline before the deadline set for the day after tomorrow at night. This means that the data must be ready by the overnight block of the day after tomorrow, ensuring we meet the strict delivery deadline.
+
+Thank you for your understanding and swift action in fulfilling this request. We appreciate your cooperation in ensuring our operational needs are met efficiently and effectively.

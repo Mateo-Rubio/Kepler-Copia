@@ -1,0 +1,14 @@
+Good day to all satellite planners and mission operators,
+
+I'm reaching out with a task request for an Earth observation mission, focusing on capturing high-resolution optical imagery of a specific location in Indonesia. The region we're interested in is Pandan Sembuat, which is situated within the country's geographical boundaries. The primary sensor required for this mission will be the VIS (visual) sensor, aiming to provide clear daylight photography and true-color visual documentation of the area.
+
+Given the importance of this task, I'm categorizing it as a low priority importance request, which means that while it's not an urgent mission, we do require some flexibility in scheduling. This task falls under the category of opportunistic capture, and we're treating it as a non-essential background filler task. We understand that there might be opportunities to drop or reschedule this at your convenience.
+
+The operational deadline for delivering the data products is set for four days from now, with a strict delivery deadline being overnight on that day. This means that all data must be ready by the time the sun sets on the target day, ensuring the products are ingested into our pipeline before the deadline.
+
+Please note that this request does not require any technical system tags or coordinate arrays. We're looking for a natural and conversational English request that incorporates these operational guidelines to maximize the naturalness and validation accuracy of the dataset.
+
+Thank you for your attention to this matter, and we look forward to your timely response.
+
+Best regards,
+[Your Name]

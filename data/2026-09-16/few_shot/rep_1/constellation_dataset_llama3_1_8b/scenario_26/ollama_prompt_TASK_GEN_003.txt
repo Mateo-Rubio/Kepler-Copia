@@ -1,0 +1,1 @@
+This is a standard operational tasking over Ecuatorial in Indonesia as part of our baseline pipeline tracking with fixed parameters. We want to map the water body boundaries using near-infrared reflection for soil moisture assessment, and we need the products by the day after tomorrow during the afternoon.

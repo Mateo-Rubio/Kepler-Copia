@@ -1,0 +1,14 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out with an important task for our Earth observation mission. We're looking to capture a high-resolution optical snapshot of the region named "Cáchira", located in Colombia. This daylight photography will serve as true-color visual documentation, providing us with clear optical imagery and essential details about the landscape.
+
+Given its low priority level, this is a flexible schedule task that can be dropped or rescheduled at our convenience. However, we do recognize its importance as a background survey for our operations team to assess environmental conditions without impacting critical workflows.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline of "overnight" at the latest. We aim to ensure that these products are ingested into our pipeline before this time frame expires.
+
+Please note that the primary sensor for this task will be our VIS sensor, which will help us capture detailed images under daylight conditions.
+
+Thank you for your attention to this matter. We appreciate your support in helping us meet our operational needs efficiently.
+
+Best regards,
+[Your Name]

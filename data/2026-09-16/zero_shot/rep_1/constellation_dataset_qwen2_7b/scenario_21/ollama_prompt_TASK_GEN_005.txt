@@ -1,0 +1,9 @@
+Good day to all satellite operators and mission planners! I'm reaching out with an urgent request on behalf of our institution, as this task carries a high level of importance. We're looking to capture thermal data from the region known as Norte in Brazil using near-infrared (NIR) sensors for a critical payload capture. Our objective is to assess soil moisture levels and water body boundaries with precision.
+
+The operational context here involves Norte city, which is an essential area for our ongoing environmental monitoring project. We're focusing on obtaining detailed thermal mapping to identify heat signatures and surface temperature profiles that could provide valuable insights into agricultural health and water management practices in the region.
+
+Given the nature of our request, we emphasize the need for this data by "in three days" at the latest, specifically during the morning hours. This deadline is non-negotiable as it's crucial to ensure timely delivery for our internal pipeline tracking setup. We understand that this task might be part of a baseline pipeline tracking or even a standard workflow update, but we highlight its importance due to its high priority level.
+
+Please note that this request is an "absolute institutional priority" and represents a binding contract requirement involving a "critical payload capture". We're aware of the urgency and are prepared for an "un-preemptable mission lock" should there be any scheduling conflicts. Our team is flexible and understands the importance of prioritizing this task, which we consider a "non-essential background filler task" that can be adjusted according to our operational schedule.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring that our critical data needs are met with the highest level of service and accuracy.

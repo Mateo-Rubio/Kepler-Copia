@@ -1,0 +1,14 @@
+Hello satellite constellation planner,
+
+We're reaching out with a low priority importance task that requires your attention promptly. Our focus is on conducting a low-cost background survey in Indonesia, specifically around the equator, which is an area of significant ecological interest.
+
+Our objective is to assess the health and diversity of the vegetation using a multispectral VNIR sensor during the afternoon session on the day after tomorrow. This involves capturing the chlorophyll absorption levels and calculating the NDVI index for various regions to understand the vegetation's condition accurately.
+
+We aim to gather this information as part of our ongoing environmental monitoring activities, which are essential for our baseline pipeline tracking setup. The task is flexible and can be scheduled according to your operational convenience, but we kindly request that you drop or reschedule it if it conflicts with more urgent tasks.
+
+This is a non-essential background filler task that doesn't require any immediate attention beyond the deadline set for the day after tomorrow during the afternoon session. We appreciate your understanding and cooperation in ensuring that our products are ingested into the pipeline before this time frame.
+
+Thank you for your support in fulfilling our request.
+
+Best regards,
+[Your Name]

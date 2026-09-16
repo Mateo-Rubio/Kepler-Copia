@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis in Norte, Italia. We require a high-resolution capture of the region to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The data needs to be delivered in three days during the afternoon.

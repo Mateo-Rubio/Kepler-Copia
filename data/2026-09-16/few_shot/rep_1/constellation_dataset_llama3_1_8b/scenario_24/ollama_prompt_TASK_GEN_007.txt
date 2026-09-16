@@ -1,0 +1,1 @@
+This is a standard operational tasking as part of our baseline pipeline tracking with fixed parameters. We need to capture water body boundary mapping and soil moisture assessment using near-infrared reflection over El Playón in Colombia. This is routine monitoring at normal operational status, and the delivery deadline is set for today in the evening.

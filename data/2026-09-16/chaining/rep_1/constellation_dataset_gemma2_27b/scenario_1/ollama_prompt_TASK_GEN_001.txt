@@ -1,0 +1,1 @@
+Schedule a low priority importance task for a multispectral vegetation analysis over El Paujil, Colombia.  This is a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index.  Deliver the data tomorrow overnight.

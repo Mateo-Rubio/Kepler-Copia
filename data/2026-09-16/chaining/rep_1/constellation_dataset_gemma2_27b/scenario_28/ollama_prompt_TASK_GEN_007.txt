@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping of Cali, Colombia. I need a heat signature capture of the city using microwave surface imaging, tomorrow in the morning. This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.

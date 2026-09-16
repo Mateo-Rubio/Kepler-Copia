@@ -1,0 +1,14 @@
+Good day to our satellite constellation team,
+
+I hope this message finds you well. We're reaching out with a request for your invaluable support in capturing critical data for an environmental monitoring project in Colombia. Specifically, we need to gather detailed information about the region surrounding Puerto López, focusing on its unique landscape and urban development.
+
+Given the nature of our mission, we're utilizing our high-performance SAR sensor to conduct an active radar scan across this area. This will allow us to penetrate through any cloud cover or weather conditions, ensuring we capture the most accurate representation of the ground geometry, which is essential for our ongoing project.
+
+We're targeting a delivery deadline set for three days from now, with the products needed by mid-day on that day at the latest. This ensures that the data can be seamlessly integrated into our baseline pipeline tracking setup and contribute to our standard workflow updates.
+
+This request carries a low priority importance, so we understand if it needs to be rescheduled or dropped at your convenience. However, we do value any contribution you can provide, even as a background survey or testbed tracking task.
+
+Thank you very much for your attention and support in this matter. We're looking forward to receiving the data products that will help us advance our understanding of this region.
+
+Best regards,
+[Your Name]

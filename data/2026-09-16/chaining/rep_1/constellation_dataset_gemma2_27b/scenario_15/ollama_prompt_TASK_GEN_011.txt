@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Corteno Golgi, Italia. We require microwave surface imaging for cloud-penetrating capture of the area. This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.  The data needs to be available tomorrow in the evening.

@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're looking at a task that's been allocated with a low priority importance. This involves capturing an active radar scan using microwave surface imaging technology for an area located in the region of Italia, specifically in the city of Norte. The objective is to obtain cloud-penetrating capture imagery that will help us understand ground geometry and surface features, particularly useful for navigating through heavy weather conditions.
+
+We're aiming to perform this task as part of a flexible schedule, treating it as a non-essential background filler task with no strict deadlines attached. We're not in a rush, so we can drop or reschedule this at our convenience. The main focus is on conducting an opportunistic survey that will aid us in gathering data for our background tracking tasks.
+
+The deadline for delivering the data products to the user is set for tomorrow evening, ensuring that the products are ingested into the pipeline before the specified target day and diurnal period. We're not altering or extending this deadline; it's a strict operational constraint we must adhere to.
+
+Thank you for your attention and cooperation in fulfilling our request.

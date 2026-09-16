@@ -1,0 +1,1 @@
+This is a standard operational tasking over Norte as part of our baseline pipeline tracking with fixed parameters. We need to map the water body boundary using near-infrared reflection for soil moisture assessment to discriminate gradients. The delivery deadline is set for tomorrow during the afternoon.

@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. I'm reaching out with a standard operational tasking for a thermal mapping mission involving the TIR sensor in France, specifically in the Norte region. This request carries medium importance and is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status.
+
+Our objective is to capture thermal signatures across this area during the afternoon on the target day, which is three days from now. The deadline for delivering the data products is set for that day's afternoon block, ensuring they are ingested into the pipeline before then. This task involves assessing surface temperature profiles and detecting any thermal anomalies.
+
+We're looking for high-resolution thermal imagery to provide insights into heat emissions, which will be crucial for our ongoing projects in this region. Our priority is to ensure we capture the necessary data in a timely manner without compromising the quality of the information provided.
+
+Your satellite constellation plays an essential role in fulfilling this request, and we appreciate your attention to detail and adherence to deadlines. We trust that your team will deliver accurate thermal mapping data that meets our operational requirements.
+
+Thank you for your cooperation and please let us know if you need any additional information or support in executing this mission.

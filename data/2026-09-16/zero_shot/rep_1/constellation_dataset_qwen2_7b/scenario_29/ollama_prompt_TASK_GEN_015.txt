@@ -1,0 +1,5 @@
+Good day! I'm reaching out to schedule a low-priority importance task for our satellite constellation. We're looking to capture near-infrared reflection data over Sebauh, Malaysia, which is situated in the region of Malaysia, for water body boundary mapping and soil moisture assessment. This is part of a background survey request that we can drop or reschedule at your convenience if needed.
+
+We aim to gather this data during the afternoon on the day after tomorrow, ensuring the products are ingested into our pipeline before then. This task involves assessing gradients in soil moisture levels across the region, which will assist us in understanding water distribution and potential areas requiring attention for irrigation purposes.
+
+Thank you for your attention to this non-essential background filler task. We appreciate your flexibility in accommodating this request within your operational schedule.

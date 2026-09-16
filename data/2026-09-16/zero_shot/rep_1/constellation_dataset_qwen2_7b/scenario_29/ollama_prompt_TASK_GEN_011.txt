@@ -1,0 +1,9 @@
+Good day to all our satellite mission planners,
+
+We're looking to capture a comprehensive view of Venaco, France, in the morning three days from now. The primary sensor involved will be the VNIR system, which will provide us with a detailed multispectral vegetation analysis. We're particularly interested in assessing chlorophyll absorption levels and calculating the NDVI index as well as surface reflectance data.
+
+This task holds medium importance for our operations due to its role in our baseline pipeline tracking setup. We understand that there are fixed parameters involved and we're aware of the normal operational status. However, we request that this task be executed with a professional approach and treated as a standard operational tasking.
+
+With the deadline set for the products to be ingested into our pipeline before the morning three days from now, we aim to ensure that all data is ready by then. We appreciate your attention to this matter and look forward to receiving the data as per our request.
+
+Thank you for your understanding and cooperation in managing this task efficiently and effectively.

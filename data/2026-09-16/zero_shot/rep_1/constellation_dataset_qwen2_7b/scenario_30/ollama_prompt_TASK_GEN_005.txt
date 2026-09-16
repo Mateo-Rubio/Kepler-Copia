@@ -1,0 +1,8 @@
+Good morning! I'm reaching out to request a task from our satellite constellation planner for an upcoming mission. The objective is to capture thermal data of an area in Norte, which is located in the region we're focusing on. Given the importance level marked as 'low', this task can be considered a non-essential background filler task with a flexible schedule.
+
+We're aiming to assess soil moisture levels and water body boundaries using near-infrared (NIR) sensors. The goal here is to gather information that will help us better understand soil conditions and water distribution in the area. This task doesn't have a strict deadline for when we need to capture the data; however, we would appreciate it if the products could be ingested into our pipeline before the day after tomorrow's overnight period.
+
+Thank you for your attention to this request. We look forward to receiving the data and ensuring it contributes to our ongoing efforts in environmental monitoring and agricultural assessment. If you have any questions or need further clarification, please let me know. 
+
+Best regards,
+[Your Name]

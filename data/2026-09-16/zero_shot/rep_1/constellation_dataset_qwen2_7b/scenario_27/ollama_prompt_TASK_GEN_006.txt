@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I hope this message finds you well. I'm reaching out to request a task for an Earth observation mission that's of low priority importance, with flexible scheduling and a non-essential background filler task nature. Our objective is to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment in Murung Raya, Indonesia.
+
+As part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, we aim to conduct this routine monitoring task which doesn't require urgent operational execution. However, it's important that the data be ready for us by the deadline set for three days from now, with a strict delivery deadline set for overnight at the latest.
+
+Please note that this request is not meant to alter or extend our deadline, but rather to ensure that the products are ingested into our pipeline before the specified time. Thank you for your attention and cooperation in this matter.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,14 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out with an important task request for our Earth-observation mission. Our objective is to gather data using a VNIR sensor, which will provide us with a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation of the region in question.
+
+The geographic context involves the beautiful country of Hrvatska, specifically the Primorsko-goranska županija region. This location is of interest to us due to its unique landscape and ecological significance.
+
+Given the priority level of this task, we're treating it as a low priority importance request with a flexible schedule for opportunistic capture. We understand that this might be a background survey or testbed tracking task, which can be adjusted according to our operational needs.
+
+Our deadline is set for tomorrow during the afternoon, with a strict delivery deadline to ensure the products are ingested into the pipeline before that time. This deadline is crucial as it aligns with our operational constraints and helps us manage our workflows efficiently.
+
+Thank you for your attention to this task. We appreciate your support in helping us gather the necessary data to further our understanding of this region.
+
+Best regards,
+[Your Name]

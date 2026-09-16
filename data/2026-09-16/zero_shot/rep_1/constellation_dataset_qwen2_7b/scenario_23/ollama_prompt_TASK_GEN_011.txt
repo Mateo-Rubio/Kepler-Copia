@@ -1,0 +1,14 @@
+Good day to all satellite operators and mission planners,
+
+I am reaching out with a task request for an Earth observation mission that involves capturing data using the VNIR sensor. The target area is in Oderzo, Italia, which is a beautiful city nestled within the picturesque landscapes of Italy.
+
+The purpose of this mission is to conduct a low priority importance task as part of our background survey activities. We aim to gather information about the region without imposing any strict deadlines or altering the normal operational status. This task can be scheduled flexibly and will serve as an opportunistic capture, which we can drop or reschedule at convenience.
+
+Our primary objective is to perform multispectral vegetation analysis to assess the chlorophyll absorption level and calculate the NDVI index for the area. This will help us understand the health and productivity of the local vegetation better. We are looking for clear optical imagery that will provide valuable insights into the environmental conditions of the region.
+
+The deadline for this task is set for the day after tomorrow, with a strict delivery deadline for the products set for the morning hours. We need to ensure that the data products are ingested into our pipeline before the specified time frame to meet our operational requirements.
+
+Thank you for your attention and cooperation in fulfilling this request.
+
+Best regards,
+[Your Name]

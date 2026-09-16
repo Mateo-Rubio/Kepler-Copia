@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over San Pablo in Colombia. We need to capture a heat signature and surface temperature profile of the city overnight tomorrow. This is part of our baseline pipeline tracking with fixed parameters.

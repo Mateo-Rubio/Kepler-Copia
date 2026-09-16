@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Tame, Colombia. We need a high-resolution capture of the area to assess chlorophyll absorption levels and calculate a vegetation NDVI index.  Please schedule this task for tomorrow in the evening.

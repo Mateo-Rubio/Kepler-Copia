@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over the city of Norte. We need a high-resolution optical snapshot of the area in three days around mid-day.  Please prioritize this task for immediate execution and un-preemptable mission lock.

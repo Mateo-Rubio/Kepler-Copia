@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're reaching out with a task request that's of low priority importance, but we'd still like to ensure its smooth integration into your operational pipeline. Our objective is to capture near-infrared reflection data over an area in the region named "Italia Norte". This region, though not fully detailed, suggests a location within the beautiful landscapes of Italy, perhaps near the northern borders.
+
+Our request involves a 'background survey' or 'testbed tracking task', which doesn't require immediate attention but is part of our ongoing monitoring efforts. We aim to gather data that will help us assess soil moisture levels and water body boundaries in this area. The imagery captured should be particularly focused on identifying gradients in moisture content across the region.
+
+We're looking for a high-resolution optical snapshot that can provide clear visual documentation of the area under consideration. This is crucial for our ongoing environmental studies, allowing us to understand the impact of various factors on soil health and water resources.
+
+The deadline for this task is set for four days from now, with a strict delivery deadline scheduled for overnight. This means we need the data products ingested into our pipeline before the day ends, ensuring that they're available as soon as possible. Our goal is to capture the essence of this region's unique characteristics without compromising the integrity of our operational schedule.
+
+We appreciate your attention to detail and look forward to receiving the requested data in time for our analysis. Thank you for your cooperation in facilitating this task.

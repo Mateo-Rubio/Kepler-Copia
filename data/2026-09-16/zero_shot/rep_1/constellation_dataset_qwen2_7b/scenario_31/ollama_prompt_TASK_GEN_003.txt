@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. We're requesting a standard operational tasking for a near-infrared (NIR) sensor to capture data on Indonesia's equatorial region, specifically within the city of Ecuatorial. This is a commercial tasking that involves assessing soil moisture levels across the area using near-infrared reflection for water body boundary mapping and soil moisture assessment.
+
+The primary objective is to gather high-quality data that will help us understand the environmental conditions and potential agricultural impacts in the region. We aim to provide clear insights into soil moisture status, which is crucial for optimizing crop management and ensuring sustainable farming practices.
+
+Given the importance of timely information for decision-making processes, we need this data by tomorrow's evening at the latest. This deadline is critical to ensure that our products are ingested into the pipeline before the set target day, allowing us to incorporate the findings into our ongoing research and operational planning without delay.
+
+Please proceed with the task allocation, ensuring it aligns with our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your cooperation in meeting this standard operational requirement efficiently.

@@ -1,0 +1,1 @@
+Log a standard operational tasking over Ecuatorial in Indonesia as part of our baseline pipeline tracking with fixed parameters. We're aiming for an optical snapshot using high-resolution photography during the night to capture true-color visual documentation under normal operational status, and we need these products by tomorrow at the latest in the evening.

@@ -1,0 +1,7 @@
+We're looking to capture a critical thermal mapping of the industrial area in Cantù, Italia using our TIR sensor. This is an absolute institutional priority, as it involves capturing heat signatures for a mandatory directive from our client. We need this data by tomorrow around mid-day at the latest. The thermal mapping will help us identify any potential hotspots or anomalies that could indicate issues with industrial processes or equipment.
+
+This task carries high importance and must be executed with utmost urgency, as it's part of a binding contract requirement involving a 'critical payload capture'. We're deploying our satellite constellation to ensure the products are ingested into the pipeline before tomorrow's mid-day deadline. Given its high priority, we're treating this request as an 'urgent operational execution' with an 'un-preemptable mission lock'.
+
+Please note that this is a standard operational tasking with fixed parameters representing normal operational status and part of our baseline pipeline tracking setup. However, due to its high priority level, we must ensure it's completed ahead of other tasks.
+
+Let's proceed with the capture of this data, ensuring it meets all requirements and is delivered on time. If there are any issues or delays that might affect our ability to meet this deadline, please inform us immediately so we can adjust our plans accordingly.

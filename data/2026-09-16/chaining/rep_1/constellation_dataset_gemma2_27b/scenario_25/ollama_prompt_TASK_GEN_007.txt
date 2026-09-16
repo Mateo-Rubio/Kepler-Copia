@@ -1,0 +1,1 @@
+Schedule a low priority importance task for a multispectral vegetation analysis snapshot over Oiba, Colombia. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Aim for opportunistic capture today during the afternoon.

@@ -1,0 +1,3 @@
+Prepare a commercial tasking for Tagliole in Italy as part of our baseline pipeline tracking with fixed parameters. We aim to conduct an overnight multispectral vegetation analysis to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance for the agricultural lands surrounding the area. The delivery deadline is set for in three days at nighttime, maintaining normal operational status.
+
+```prompt

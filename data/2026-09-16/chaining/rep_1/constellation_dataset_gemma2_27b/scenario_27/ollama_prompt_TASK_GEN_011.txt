@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping of a region in Northern France. We require a heat signature capture of the area around Norte during the afternoon in three days during the afternoon. This data is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.

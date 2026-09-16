@@ -1,0 +1,1 @@
+We need a non-essential background filler task for near-infrared reflection capture over Norte. This is a flexible schedule, low priority importance request for opportunistic capture and can be dropped or rescheduled at convenience. Please treat this as a background survey or testbed tracking task. We need the data in four days in the morning.

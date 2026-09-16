@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a low priority importance task for an Earth observation mission involving a VNIR sensor. Our focus is on assessing chlorophyll absorption levels and calculating the NDVI index across the region in Indonesia, specifically around the city of Ecuatorial. This observational effort aims to provide valuable insights into vegetation health and land use dynamics.
+
+Given the nature of this request, we're treating it as a flexible schedule background survey task that can be dropped or rescheduled at convenience. The deadline for delivering these data products is set in three days, with a strict requirement that they must be ingested into our pipeline by mid-day on that target day. We understand that this deadline represents the upper limit for data availability, and we appreciate your cooperation in ensuring that our operational priorities are met.
+
+Thank you for your attention to this matter, and I look forward to your confirmation of receipt and the successful execution of this task.

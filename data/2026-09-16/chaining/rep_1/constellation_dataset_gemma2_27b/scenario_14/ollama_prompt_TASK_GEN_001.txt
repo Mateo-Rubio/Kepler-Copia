@@ -1,0 +1,1 @@
+Schedule a low priority importance task for VNIR multispectral vegetation analysis over Caparrapí, Colombia. This is a flexible schedule non-essential background filler task. Please drop or reschedule at convenience. The goal is to assess chlorophyll absorption level and calculate the vegetation NDVI index.  Deliver the data the day after tomorrow during the afternoon.

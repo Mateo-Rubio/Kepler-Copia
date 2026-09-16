@@ -1,0 +1,10 @@
+Hello there! I'm reaching out from the Earth-observation mission team, and we're in need of a low-priority background survey task for our satellite constellation planner. We're focusing on the beautiful country of Colombia, specifically the picturesque city of El Marmol, where our primary sensor requirement is a VNIR (Vegetation Indices Reflectance) scan.
+
+The goal here is to gather data on the chlorophyll absorption levels and surface reflectance patterns across the region for potential vegetation health assessment. We're aiming to capture this information during the afternoon session on the day after tomorrow.
+
+This task doesn't come with an urgent deadline, allowing us to schedule it as a flexible background filler task. We understand that there might be other operational priorities ahead of this one, and we're perfectly okay with dropping or rescheduling it at your convenience. The data we seek should be ingested into our pipeline before the afternoon session on the day after tomorrow.
+
+Thank you for your understanding and cooperation in managing this task within your automated satellite constellation planning system. We appreciate your support in ensuring that our Earth-observation missions continue to deliver valuable insights for various applications. Looking forward to your response!
+
+Best regards,
+[Your Name]

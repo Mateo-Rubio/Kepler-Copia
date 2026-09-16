@@ -1,0 +1,3 @@
+This is a non-essential background filler task with a flexible schedule, so if an opportunity for a high-resolution optical snapshot arises over Puerto Libertador in Colombia around mid-day in three days, feel free to drop or reschedule at your convenience. It's primarily for true-color visual documentation of the area as part of our routine monitoring and should be integrated into the workflow update accordingly.
+
+```prompt

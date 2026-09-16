@@ -1,0 +1,1 @@
+Schedule a low priority importance task for multispectral vegetation analysis over Moncalieri, Italia. This is a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index. We need a near-infrared reflection snapshot of the area in four days in the morning.

@@ -1,0 +1,18 @@
+Hello automated satellite constellation planner,
+
+We're reaching out with a standard operational tasking request for a routine monitoring activity involving the VNIR sensor. Our focus is on conducting a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index, providing valuable insights into surface reflectance.
+
+The mission targets the beautiful region of Italia, specifically the picturesque town of Prati di Tivo. We aim to capture high-resolution optical snapshots as daylight photography for clear optical imagery and true-color visual documentation that will help us understand the local ecosystem dynamics and environmental conditions.
+
+This request carries a medium importance level, indicating that it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're looking at a straightforward workflow update that doesn't require any urgent operational execution but is essential for maintaining our monitoring capabilities.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline set for the morning of that day. This ensures that the products are ingested into our pipeline before the specified time, allowing us to integrate the findings seamlessly into our ongoing assessments and decision-making processes.
+
+Please ensure that the data meets our quality standards and is delivered within these parameters, so we can continue providing accurate and timely information to our stakeholders.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting our operational guidelines and ensuring the success of this mission.
+
+Best regards,
+
+[Your Name]
+[Your Position]

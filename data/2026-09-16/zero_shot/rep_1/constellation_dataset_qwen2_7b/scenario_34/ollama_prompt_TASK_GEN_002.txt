@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our Earth-observation mission to request a task for capturing data using our active radar system (SAR). Our objective is to gather detailed information about the Norte region in France, which will be crucial for our ongoing commercial tasking. We aim to achieve this by conducting an intensive microwave surface imaging operation that can penetrate heavy weather conditions and provide us with precise ground geometry details.
+
+Given the nature of our request, we consider this a low priority importance task, allowing for a flexible schedule that fits into our opportunistic capture strategy. We understand that this might be considered a non-essential background filler task, but it's still an integral part of our baseline pipeline tracking setup. We appreciate your understanding and flexibility in scheduling this task.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline set for the morning hours. This means that we need to ensure the products are ingested into our pipeline before the night falls on the target day. We trust your expertise in handling this request efficiently within the given timeframe.
+
+Thank you for your attention and cooperation. Please let us know if there are any questions or if you need additional information to proceed with this task.

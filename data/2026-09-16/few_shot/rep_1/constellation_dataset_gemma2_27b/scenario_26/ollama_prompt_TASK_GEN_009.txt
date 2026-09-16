@@ -1,0 +1,1 @@
+This is a standard operational tasking over Ecuatorial in Indonesia as part of our baseline pipeline tracking with fixed parameters. We need thermal mapping to capture a heat signature and pull a surface temperature profile for the region. This is routine monitoring at normal operational status, and the delivery deadline is set for in four days in the morning.

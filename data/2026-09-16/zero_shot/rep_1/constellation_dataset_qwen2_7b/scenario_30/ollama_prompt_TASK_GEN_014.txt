@@ -1,0 +1,13 @@
+```prompt
+Good morning, satellite constellation planner. I'm reaching out with a high-importance mission allocation request for an urgent operational tasking. We're looking to capture a thermal mapping of a specific area in Argenta, Italia using our TIR sensor. The geographical context is straightforward: we're focusing on the city of Argenta within the country of Italia. 
+
+This task is absolutely critical and requires immediate attention due to its high priority level. Our priority indicates an institutional binding contract requirement involving a mandatory directive for capturing thermal anomalies and mapping heat emissions in this region. We need these data products by the day after tomorrow, with a strict delivery deadline set for the overnight period of that day. This deadline is non-negotiable, as it's crucial for timely decision-making processes.
+
+We're requesting high-quality thermal mapping imagery to assess surface temperature profiles and detect any heat anomalies accurately. This information will be invaluable for further analysis in our pipeline tracking setup, ensuring we maintain normal operational status with fixed parameters. 
+
+Please note that this request carries a high level of importance and urgency. We appreciate your swift attention to this matter and understand the need for immediate action to meet this deadline. Your cooperation is essential to ensure that these products are ingested into our system before the specified overnight period on the day after tomorrow.
+
+Thank you for your understanding and prompt response in handling this critical payload capture. We look forward to receiving the data products as per our requirements. 
+
+Best regards,
+[Your Name]

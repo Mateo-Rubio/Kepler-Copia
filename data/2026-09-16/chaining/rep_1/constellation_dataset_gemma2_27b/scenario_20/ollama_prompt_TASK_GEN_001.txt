@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over San Carlos de Guaroa, Colombia. We require a high-resolution capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index. The data must be delivered in three days overnight.

@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out regarding an urgent operational tasking for a client requiring high-resolution optical imagery of Tarazá, Colombia. The client's priority is High Importance, which they've emphasized as an "absolute institutional priority" and a "binding contract requirement". This mission involves capturing the "heat signature" of the region to assess surface temperature profiles and identify thermal anomalies. The deadline for delivering this critical payload is set for the data to be ingested into the pipeline before the overnight block on the third day from now.
+
+For this standard operational tasking, we'll be utilizing our active radar scanning capabilities provided by the SAR sensor to perform a "cloud-penetrating capture" using microwave surface imaging. This will ensure that our client receives comprehensive ground geometry data even under heavy weather conditions.
+
+Please ensure that the data products are ready for delivery by tomorrow's overnight period. We appreciate your swift attention to this matter and look forward to your confirmation of receipt. Thank you for your cooperation.

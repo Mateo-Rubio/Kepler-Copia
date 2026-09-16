@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Norte in France. We need to capture a heat signature and surface temperature profile of the industrial zone. This is routine monitoring at normal operational status, and the delivery deadline is set for in three days during the afternoon.

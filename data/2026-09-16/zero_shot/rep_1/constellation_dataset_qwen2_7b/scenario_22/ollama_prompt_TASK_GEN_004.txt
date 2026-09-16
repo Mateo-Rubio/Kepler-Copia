@@ -1,0 +1,17 @@
+Subject: High Importance Task - Thermal Mapping of Uribe, Colombia
+
+Priority: Absolute Institutional Priority
+
+Region: Colombia
+
+Location: Uribe, nestled within the lush landscapes of the Andean region, known for its vibrant biodiversity and agricultural richness.
+
+Sensor: Near-infrared (NIR) sensor
+
+Objective: Conduct a detailed near-infrared reflection analysis to assess soil moisture levels across the region. This will aid in understanding water body boundaries and provide insights into soil health, which is critical for agricultural planning and management.
+
+Timeframe: We need the data products by three days from today, around mid-day at the latest. This deadline is set to ensure timely access to the information for effective decision-making processes related to water resource management and agricultural activities in Uribe.
+
+Please allocate the necessary resources to capture this thermal mapping task with high priority. Due to its importance, this mission lock is un-preemptable, ensuring that no other tasks will interfere with this critical payload capture.
+
+Thank you for your attention to this matter.

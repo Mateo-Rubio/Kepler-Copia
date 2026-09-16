@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner, we're looking to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia for daylight photography purposes. We aim to gather clear optical imagery and true-color visual documentation to assess the area's landscape and environmental conditions. This is part of our standard operational tasking, and we have set fixed parameters for this baseline pipeline tracking setup. 
+
+Our request is based on the primary sensor VIS, which will provide us with the necessary data for our commercial tasking needs. We are focusing on capturing thermal mapping to detect heat signatures and surface temperature profiles. This is crucial for identifying thermal anomalies and mapping heat emissions in the region.
+
+We have set a strict delivery deadline for these data products, needing them by the target day at around mid-day, ensuring they are ingested into our pipeline before that time. This deadline is critical as it aligns with our operational requirements and contractual obligations.
+
+Please proceed with the capture of this data, considering our priority level which reflects medium importance. We appreciate your attention to this request and look forward to receiving the results in due time.

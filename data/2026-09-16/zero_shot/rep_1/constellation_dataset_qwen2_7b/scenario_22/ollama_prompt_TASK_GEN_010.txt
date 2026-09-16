@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. Our objective is to capture thermal mapping data in Colombia, specifically focusing on the city of Paimadó. The primary sensor required for this operation is the TIR sensor, which will help us assess surface temperature profiles and detect any thermal anomalies.
+
+This request is a non-essential background filler task, which means it can be scheduled flexibly and dropped or rescheduled at our convenience. We're looking to conduct this "background survey" as an opportunistic capture, treating it as a testbed tracking task.
+
+We need the data by tomorrow's overnight block, with a strict delivery deadline set for that time. This ensures the products are ingested into our pipeline before the deadline is met. Please note that altering or extending this deadline is not possible.
+
+Thank you for your attention to this request. We appreciate your support in fulfilling our operational needs.

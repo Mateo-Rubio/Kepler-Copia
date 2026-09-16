@@ -1,0 +1,14 @@
+Hello automated satellite constellation planner,
+
+I'm reaching out with a task request regarding an environmental survey in Colombia, specifically focusing on the region around La Macarena. Given the importance of this mission, I'm marking it as a low priority importance request, which means that while it's not an urgent operational execution, it should still be considered for scheduling flexibility.
+
+Our primary sensor requirement is for VNIR data, which will allow us to conduct a multispectral vegetation analysis. The goal here is to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance to better understand the ecosystem dynamics in this area.
+
+As per our operational guidelines, we need to capture this data by the day after tomorrow, with a strict delivery deadline set for overnight hours. This means that the products must be ingested into the pipeline before the day after tomorrow's nightfall.
+
+If there are any scheduling conflicts or if this task can be accommodated as a background survey or testbed tracking task, please note that it is perfectly fine to drop or reschedule at your convenience. However, I would appreciate if we could prioritize this task given its importance for our background monitoring efforts.
+
+Thank you for your understanding and cooperation in ensuring that we meet our operational requirements while maintaining flexibility where needed.
+
+Best regards,
+[Your Name]

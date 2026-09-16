@@ -1,0 +1,5 @@
+Hello there! I'm reaching out to you with an Earth observation mission request, and I appreciate your attention to detail. We're looking at a task that involves capturing high-resolution optical imagery of Puerto Rico, Colombia, using a VNIR sensor. This is a low priority importance task, so please consider it as a flexible schedule background survey or testbed tracking task.
+
+Our objective here is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for the region. We're aiming to gather this information as soon as possible, ensuring that the data products are ingested into our pipeline before today's evening timeframe. This deadline is crucial, but please note it doesn't extend beyond tonight's evening block.
+
+Thank you for your understanding and flexibility. We appreciate any assistance you can provide within these guidelines.

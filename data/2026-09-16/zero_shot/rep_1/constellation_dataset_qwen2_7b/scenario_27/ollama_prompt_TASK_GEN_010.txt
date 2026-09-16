@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a task that's part of our ongoing monitoring efforts for environmental changes in Colombia. Our focus is on the city of Florida, where we're particularly interested in capturing detailed information about water bodies and soil moisture levels using near-infrared (NIR) sensors.
+
+As this request carries low priority importance, it's flexible in terms of scheduling, but we kindly ask that you treat it as a non-essential background filler task. We're looking to gather data that can help us assess gradients in soil moisture across the region. This information is crucial for our background survey and testbed tracking tasks.
+
+The deadline for delivering this dataset is set for the day after tomorrow, with a strict delivery deadline marked for overnight time. We need these data products ingested into our pipeline before the end of the night to ensure timely analysis.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting this request within the specified timeframe. If you have any questions or require additional information, please feel free to reach out. 
+
+Best regards,
+[Your Name]

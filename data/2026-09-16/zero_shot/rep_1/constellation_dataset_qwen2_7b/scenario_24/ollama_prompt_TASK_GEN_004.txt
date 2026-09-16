@@ -1,0 +1,11 @@
+Good day, satellite constellation planners,
+
+I'm reaching out regarding an urgent task that requires your immediate attention. Our mission involves capturing a critical payload using our high-priority sensor, which is designed for near-infrared reflection analysis. This task necessitates a deep understanding of soil moisture and water body boundaries, as well as vegetation health assessment.
+
+Our target region is Colombia, specifically the city of Santa Sofía. We aim to gather detailed data on these aspects by conducting an active radar scan that will pierce through any cloud cover and provide us with invaluable insights into ground geometry and surface conditions. The primary objective is to ensure our operational pipeline receives this information no later than the day after tomorrow, during the overnight period.
+
+This task is of absolute institutional priority due to its contractual requirement involving a critical payload capture. It's imperative that we adhere to the deadline set for data availability; hence, we request your team to deliver the products before the specified target day and diurnal period, ensuring they are ingested into our pipeline promptly.
+
+Please confirm receipt of this request and let us know how you plan to address our requirements. We appreciate your swift action on this matter.
+
+Thank you for your attention.

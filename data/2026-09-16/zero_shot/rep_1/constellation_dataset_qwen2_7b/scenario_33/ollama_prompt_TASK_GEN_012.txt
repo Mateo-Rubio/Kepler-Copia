@@ -1,0 +1,10 @@
+Good day to you! I'm reaching out on behalf of our Earth-observation mission, as we're tasked with capturing a comprehensive view of Kuantan Singingi in Indonesia. Our primary sensor for this operation is the near-infrared (NIR) camera, which will provide us with invaluable data on water body boundaries and soil moisture assessment.
+
+As an operator, I'm requesting that you prioritize this task as a low-priority importance background filler, acknowledging that it's part of our standard operational pipeline tracking setup. We're looking at a routine monitoring task that doesn't require immediate attention but should be scheduled with flexibility for opportunistic capture.
+
+Our deadline is set for three days from now, with the strict delivery deadline being in the evening. We aim to ensure that the products are ingested into the pipeline before this time frame to meet our internal processing requirements. Kindly note that this task doesn't have a high priority level and can be dropped or rescheduled at your convenience if it interferes with more urgent missions.
+
+Thank you for your attention to this request, and I look forward to receiving the data products on schedule. If you need any further information or clarification, please feel free to reach out. We appreciate your cooperation in meeting our operational guidelines.
+
+Best regards,
+[Your Name]

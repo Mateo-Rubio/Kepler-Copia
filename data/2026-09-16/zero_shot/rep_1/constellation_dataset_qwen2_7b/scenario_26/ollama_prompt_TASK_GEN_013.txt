@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a low priority importance task that's part of our baseline pipeline tracking setup. We're looking to conduct a routine monitoring exercise using our VNIR sensor for a daylight photography session on a specific location in Colombia. Specifically, we're targeting the area around Betulia city.
+
+Our objective is to gather high-resolution optical imagery that will help us assess the chlorophyll absorption levels and calculate the vegetation NDVI index along with surface reflectance data. This task falls under our flexible schedule for opportunistic capture, which means it can be dropped or rescheduled at your convenience, treating it as a background survey or testbed tracking task.
+
+We're aiming to have these data products ready for ingestion into our pipeline by the target day, which is four days from now, with a strict delivery deadline set for overnight. This ensures they are available before the end of the day on that specific date. Please note that this deadline represents the upper limit for data availability and not an orbital capture window.
+
+Thank you for your attention to this task. We appreciate your cooperation in meeting our operational guidelines and ensuring the naturalness and validation accuracy of our dataset.

@@ -1,0 +1,1 @@
+We need a standard operational tasking for an active radar scan using microwave surface imaging over Puerto Libertador, Colombia. The goal is cloud-penetrating capture of the ground geometry. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We need this data in four days in the morning.

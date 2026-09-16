@@ -1,0 +1,3 @@
+Log a commercial tasking for Tre Fasci in Italy as part of our routine monitoring workflow update. We require an overnight high-resolution optical snapshot with proper daylight photography to provide true-color visual documentation of the area's nocturnal landscape. The products should be ready and integrated into our pipeline within three days following nightfall.
+
+```prompt

@@ -1,0 +1,12 @@
+Good day to all satellite planners and mission operators,
+
+I'm reaching out with a task request for an Earth-observation mission that needs to be completed by tomorrow's overnight timeframe. Our focus is on a specific area in Colombia, precisely the city of San Pablo de Borbur. The primary sensor we're utilizing for this task is a Near-Infrared (NIR) device, which will be used to map water body boundaries and assess soil moisture levels.
+
+This request carries low priority importance, allowing us to schedule it as a flexible background survey or testbed tracking task. We understand that there might be opportunities to drop or reschedule this mission at our convenience without impacting the overall operational workflow.
+
+Our main objective is to capture high-resolution data by tomorrow's overnight block, ensuring that the products are ingested into the pipeline before the deadline is met. This will help us in making informed decisions regarding water management and soil health monitoring in San Pablo de Borbur.
+
+Thank you for your attention and cooperation in fulfilling this request. We appreciate your understanding of our operational guidelines and the importance of adhering to the deadlines set forth for data delivery.
+
+Best regards,
+[Your Name]

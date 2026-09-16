@@ -1,0 +1,1 @@
+This is a standard operational tasking over Corte in France as part of our baseline pipeline tracking with fixed parameters. We need thermal mapping to capture a heat signature and surface temperature profile, and map any thermal anomalies across the town. This is routine monitoring at normal operational status, and the delivery deadline is set for today during the afternoon.

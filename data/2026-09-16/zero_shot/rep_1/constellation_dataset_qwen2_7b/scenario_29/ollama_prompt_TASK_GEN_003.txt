@@ -1,0 +1,7 @@
+Good day to you. I'm reaching out as the operator of an Earth-observation mission, requesting your assistance in planning our satellite constellation for a specific task. Our objective is to capture thermal data from Indonesia's Ketapang region using a thermal infrared (TIR) sensor around mid-day on the third day following this request.
+
+Our priority level for this mission allocation is medium importance, which means that while it's not an absolute institutional requirement or a binding contract, it's still part of our baseline pipeline tracking setup with fixed parameters. We're aiming to gather a heat signature or surface temperature profile for the area. This task falls under normal operational status and will help us understand thermal anomalies and map heat emissions effectively.
+
+We're looking to deliver these data products by the target day at the latest, ensuring they are ingested into our pipeline before the specified time window. This deadline is crucial for our operational processes, so please ensure that we receive the data around mid-day on the third day following this request.
+
+Thank you for your attention and assistance in making this mission a success.

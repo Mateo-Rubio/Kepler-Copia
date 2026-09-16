@@ -1,0 +1,13 @@
+Good day to our automated satellite constellation planner, we're looking at a high-importance task requiring immediate attention. Our mission involves capturing an active radar scan over Colombia, specifically focusing on the city of Remedios. Given the critical nature of this payload capture, it's essential that we adhere to our contractual obligations and ensure this task is given the utmost priority.
+
+The primary objective here is to perform microwave surface imaging for cloud-penetrating capture, which will allow us to gather detailed ground geometry data even amidst heavy weather conditions. This operation is not just a routine monitoring task but a binding contract requirement that involves a mandatory directive and urgent operational execution.
+
+We're aiming to deliver the data products by the target day, which is four days from now, with the strict delivery deadline set for the morning. This means we need to ensure the products are ingested into our pipeline before the overnight block on that day, making sure there's no room for delay or extension.
+
+This task is not just another baseline pipeline tracking setup with fixed parameters; it represents a standard operational tasking involving normal operational status and workflow updates. However, due to its high priority level, we're treating this as an absolute institutional priority, emphasizing the importance of executing this mission lock without any preemption.
+
+As for the physical objectives, we're focusing on leveraging our SAR capabilities to provide us with high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation. This will help us capture essential details that are crucial for our analysis and decision-making processes.
+
+We're looking forward to receiving your confirmation on this task, ensuring it's seamlessly integrated into your planning schedule. Should there be any adjustments or if you require further information, please feel free to communicate with us. We appreciate your swift response and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter, and we look forward to a successful mission execution.

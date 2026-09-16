@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to capture thermal mapping data for a critical payload in Colombia. The target area is Cubarral, which lies within the vast landscapes of Colombia. This mission allocation is of high importance, as it involves a binding contract requirement for a critical payload capture.
+
+The primary sensor required is the TIR (Thermal Infrared) sensor to assess surface temperature profiles and detect thermal anomalies. This data collection aims to provide valuable insights into heat emissions across various regions in Cubarral, which will be crucial for our ongoing research projects.
+
+Given the urgency of this task, we need the data products by the day after tomorrow in the morning. This deadline is strictly set to ensure that the information is ingested into our pipeline before the designated time. We understand the importance of adhering to these deadlines and are committed to delivering accurate and timely data products for our users.
+
+In conclusion, this request is an "absolute institutional priority" involving a "critical payload capture". We are requesting a "standard operational tasking" that aligns with our baseline pipeline tracking setup. The task involves "normal operational status" parameters and represents a "routine monitoring" activity. Our team will ensure that the data captured meets the highest standards of quality and relevance for our clients.
+
+Please proceed with the mission allocation, ensuring that the data collection is conducted within the specified timeframe. We appreciate your cooperation in delivering this high-priority task promptly.

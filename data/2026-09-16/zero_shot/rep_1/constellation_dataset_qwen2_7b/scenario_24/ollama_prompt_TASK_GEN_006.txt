@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for an upcoming mission involving the near-infrared sensor in Indonesia, specifically in the Kabupaten Padang Lawas Utara region. Our goal is to capture high-resolution optical imagery of the area for daylight photography and true-color visual documentation, which will be invaluable for our commercial tasking operations.
+
+Given the nature of this request, it falls under medium importance with fixed parameters that represent our normal operational status. We are looking to integrate this into our baseline pipeline tracking setup without any deviation from standard procedures. The mission is part of a routine monitoring program and involves assessing soil moisture levels through near-infrared reflection for water body boundary mapping.
+
+We're setting a strict deadline for data availability, needing the results by tomorrow's morning at the latest. This ensures that the products are ingested into our pipeline before the deadline set for our operations. Kindly schedule this mission with priority to align with our baseline pipeline tracking setup and ensure it's captured within the target day and diurnal period specified.
+
+Thank you for your attention, and we appreciate your support in delivering accurate and timely data products that will contribute to our operational efficiency.

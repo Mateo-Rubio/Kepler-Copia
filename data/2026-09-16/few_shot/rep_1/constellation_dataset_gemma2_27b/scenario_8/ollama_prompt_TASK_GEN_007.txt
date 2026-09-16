@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Tuluá in Colombia. We need to capture a surface temperature profile and identify any thermal anomalies in the area.  The products are needed today in the evening.

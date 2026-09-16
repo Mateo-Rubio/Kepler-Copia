@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission. We're looking to capture a high-resolution optical snapshot of a region in Italia, specifically around the city of Lentigione, using our primary sensor VIS. This is a low priority importance request that aims to provide clear daylight photography and true-color visual documentation of the area.
+
+The operational context here involves a flexible schedule for an opportunistic capture, making this task a non-essential background filler. We're treating it as a background survey or testbed tracking task that doesn't require immediate attention but should be completed at convenience.
+
+We're setting a deadline for the data products to be ingested into our pipeline by the day after tomorrow in the morning. This ensures that they are ready before the strict delivery deadline we've set for this mission. Please note, the temporal parameters represent a deadline for delivering the data products to the user, not an orbital capture window.
+
+Thank you for your attention and assistance with this task.

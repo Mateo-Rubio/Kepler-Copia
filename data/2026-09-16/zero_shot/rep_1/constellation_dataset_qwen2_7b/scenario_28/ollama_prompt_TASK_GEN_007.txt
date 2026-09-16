@@ -1,0 +1,12 @@
+Good day,
+
+I'm reaching out to request a task from our automated satellite constellation planner. Our mission involves capturing thermal mapping data using the TIR sensor for a location in Colombia, specifically within the city of Cali. This operational request is categorized as having medium importance, which means it's part of our standard baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary objective here is to assess surface temperature profiles and detect thermal anomalies due to heat emissions. We aim to achieve this by conducting an active radar scan using microwave surface imaging technology, which will allow us to penetrate cloud cover and capture detailed ground geometry.
+
+Given the urgency of our request, we're requesting that the data products be delivered by tomorrow morning at the latest. This deadline is set to ensure that the information is ingested into our pipeline before the specified target day and time. We understand this is a strict operational requirement and will adhere to it without any delays.
+
+Thank you for your attention to this matter, and we look forward to receiving the necessary data to proceed with our analysis.
+
+Best regards,
+[Your Name]

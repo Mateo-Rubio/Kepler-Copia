@@ -1,0 +1,10 @@
+Good day to our satellite constellation planning team,
+
+We're looking to capture a detailed view of Cimitarra, Colombia, using our SAR sensor for an important task. The goal is to perform an active radar scan that penetrates through any cloud cover and captures the ground geometry with precision. We aim to achieve this by obtaining high-resolution microwave surface images that will serve as a critical payload for our mission.
+
+Given its importance, we're treating this request as a low priority importance task, which means it can be scheduled flexibly and dropped or rescheduled at convenience if necessary. However, we do need to ensure that the data is collected before the deadline set for the day after tomorrow in the evening. This ensures that our products are ingested into the pipeline before the specified time frame.
+
+Please plan your satellite operations accordingly to meet these requirements. Thank you for your attention and assistance.
+
+Best regards,
+[Your Name]

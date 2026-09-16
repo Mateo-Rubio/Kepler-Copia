@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture highly realistic imagery using our SAR sensor for a critical payload capture involving the geographical region known as "Italia Norte". This area holds significant importance due to its unique landscape and potential environmental changes.
+
+Given the nature of the task, it's classified as Priority 3 (High Importance), which means this request carries an absolute institutional priority and is part of a binding contract requirement. We're dealing with a mandatory directive that necessitates urgent operational execution and an un-preemptable mission lock. The operational context requires us to treat this task with utmost importance and ensure it's executed with precision and efficiency.
+
+The primary sensor, SAR, will be used for active radar scanning to capture microwave surface imaging data. This technique allows us to pierce through heavy weather conditions and capture ground geometry with unparalleled accuracy. The goal is to perform a cloud-penetrating scan that will provide critical insights into the region's topography and environmental changes.
+
+The geographical context of "Italia Norte" is crucial for this mission, as it involves capturing data that can help us understand the impact of climate change and monitor land use changes in the area. The request is scheduled for tomorrow morning, with a strict delivery deadline set for the latest by "tomorrow's overnight" block. This ensures the products are ingested into our pipeline before the deadline.
+
+To summarize, our task involves capturing SAR data for the region of "Italia Norte", which is a high-priority mission requiring urgent attention and execution. The data collection process must adhere to fixed parameters representing normal operational status, and we aim to deliver the results by tomorrow's overnight block at the latest. This task is part of our baseline pipeline tracking setup and represents an essential update in our workflow.
+
+I trust that our automated satellite constellation planner will prioritize this request and ensure the mission is executed flawlessly. Thank you for your attention to this matter.

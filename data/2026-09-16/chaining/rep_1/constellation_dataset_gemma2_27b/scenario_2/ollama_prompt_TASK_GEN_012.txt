@@ -1,0 +1,1 @@
+We need a standard operational tasking for an active radar scan using microwave surface imaging over Sanggau, Indonesia. This is part of a routine monitoring setup with fixed parameters representing normal operational status. The goal is cloud-penetrating capture to map ground geometry.  Please deliver the data the day after tomorrow in the morning.

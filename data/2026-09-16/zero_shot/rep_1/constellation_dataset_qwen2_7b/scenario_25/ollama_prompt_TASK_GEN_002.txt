@@ -1,0 +1,8 @@
+Good day, satellite constellation planner. I'm reaching out with a task for your team that's of low priority importance and involves thermal mapping operations. We're looking to capture a heat signature or surface temperature profile in Norte, which doesn't specify a country but is within the region we're focusing on. The primary sensor required for this mission is TIR, which will allow us to perform thermal anomaly detection and map heat emissions.
+
+The deadline for delivering these data products is set for three days from now, with a strict delivery deadline by the evening at the latest. This task doesn't require any rush in terms of timing; it's more about gathering comprehensive information about the heat patterns in the area. It's important to note that this request falls under our background survey category and can be dropped or rescheduled as per your convenience.
+
+Thank you for your attention, and I look forward to receiving the data products that will serve as a valuable addition to our baseline pipeline tracking setup. Please ensure they are ingested into the pipeline before the specified evening deadline to maintain our standard operational status.
+
+Best regards,
+[Your Name]

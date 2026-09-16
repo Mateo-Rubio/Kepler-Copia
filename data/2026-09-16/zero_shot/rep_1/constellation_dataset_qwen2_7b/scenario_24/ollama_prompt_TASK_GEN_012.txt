@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a critical payload for an absolute institutional priority task involving the primary VNIR sensor. This is a high-resolution optical snapshot requirement for daylight photography, true-color visual documentation of the Ecuatorial region in Indonesia, focusing on assessing chlorophyll absorption levels and calculating the vegetation NDVI index.
+
+The deadline for this mission is set for tomorrow around mid-day, with a strict delivery deadline to ensure that the data products are ingested into our pipeline before then. We're seeking a highly realistic and detailed dataset that meets our baseline pipeline tracking requirements with fixed parameters representing normal operational status.
+
+Please note that this request carries a high level of importance and must be treated as an urgent operational execution, an un-preemptable mission lock. We appreciate your understanding and swift action towards fulfilling these requirements.
+
+Thank you for your attention to this matter.

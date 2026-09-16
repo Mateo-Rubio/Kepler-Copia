@@ -1,0 +1,10 @@
+Hello automated satellite constellation planner,
+
+We're looking to capture a thermal mapping of Cerasuolo, Italia using our TIR sensor. Our objective is to assess heat signatures and surface temperature profiles for this area to identify any thermal anomalies and map heat emissions. We aim to provide you with high-resolution optical snapshots for daylight photography or true-color visual documentation as well.
+
+Please ensure we receive the data products by the day after tomorrow, around mid-day at the latest. This task is considered a low priority importance request with a flexible schedule for opportunistic capture. It's a non-essential background survey that can be dropped or rescheduled based on your convenience, treating it as a background survey or testbed tracking task.
+
+Thank you for your attention to this matter.
+
+Best regards,
+Earth-observation mission operator

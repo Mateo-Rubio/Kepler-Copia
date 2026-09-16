@@ -1,0 +1,12 @@
+Good day to all satellite planners and mission operators,
+
+I'm reaching out with a request for a critical SAR (Synthetic Aperture Radar) capture task, which is an active radar scan using microwave surface imaging technology. This mission aims to penetrate heavy weather conditions or capture ground geometry with precision. The objective is to obtain high-resolution imagery of Norte, a region in our focus area, as part of our baseline pipeline tracking setup.
+
+The task involves capturing thermal mapping data to identify heat signatures and surface temperature profiles for potential thermal anomalies or heat emission mapping. This mission is considered a low priority importance request, allowing for a flexible schedule that can be dropped or rescheduled at convenience if necessary. We're treating this as a background survey or testbed tracking task.
+
+The deadline for delivering the data products is set for the day after tomorrow in the evening, with a strict delivery deadline of [target_day] [target_diurnal_period]. This ensures the products are ingested into our pipeline before the specified time frame.
+
+Thank you for your attention and swift action on this request. Your expertise will help us achieve our operational goals efficiently and effectively.
+
+Best regards,
+[Your Name]

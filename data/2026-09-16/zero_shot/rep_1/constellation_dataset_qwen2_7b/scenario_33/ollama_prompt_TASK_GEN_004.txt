@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners, we're looking at a task that's quite significant for us. We're targeting a location in Colombia, specifically the city of Zetaquira. The mission involves capturing a near-infrared reflection dataset that will help us map water body boundaries and assess soil moisture levels. This is a low priority importance request, so please treat it as a flexible schedule task, we're looking to drop or reschedule at your convenience if needed.
+
+The deadline for this data is quite strict; we need the raw physical simulation metadata by tomorrow morning, no later than that. We're aiming to ensure that our products are ingested into the pipeline before tomorrow's overnight block. This task falls under a background survey category, so you can prioritize it as such in your workflow updates.
+
+Thank you for your understanding and cooperation in meeting this operational guideline.

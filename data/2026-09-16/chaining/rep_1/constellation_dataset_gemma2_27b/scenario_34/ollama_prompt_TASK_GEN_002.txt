@@ -1,0 +1,1 @@
+We need to capture a radar scan of an area near Norte, France. This is a low priority importance request with a flexible schedule for opportunistic capture.  Ideally, this would be a non-essential background filler task that you can drop or reschedule at convenience. The goal is to use microwave surface imaging for cloud-penetrating capture in the morning in four days.

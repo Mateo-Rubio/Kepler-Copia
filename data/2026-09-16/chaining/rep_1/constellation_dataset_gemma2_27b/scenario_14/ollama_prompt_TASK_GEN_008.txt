@@ -1,0 +1,1 @@
+Schedule a low priority importance task for an active radar scan of Norte using microwave surface imaging. This is a non-essential background filler task with a flexible schedule for opportunistic capture.  Please aim to complete this standard workflow update tomorrow overnight.

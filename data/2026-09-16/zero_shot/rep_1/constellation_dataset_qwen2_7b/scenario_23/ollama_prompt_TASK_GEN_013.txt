@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission focusing on Colombia, specifically in the area of Puerto Lleras. We're looking to capture near-infrared (NIR) data for water body boundary mapping and soil moisture assessment, which is crucial for our ongoing environmental monitoring efforts.
+
+The primary objective here is to gather detailed information about water bodies and soil conditions using the near-infrared spectrum. This will help us in understanding the dynamics of water distribution and soil health across the region. The request is of low priority importance, allowing for a flexible schedule where we can drop or reschedule this task as per our operational convenience.
+
+We aim to capture this data by tomorrow morning, ensuring that the products are ingested into our pipeline before the deadline set for "tomorrow in the morning". This will allow us to analyze and integrate the data promptly, contributing to our background survey efforts without interrupting more critical tasks.
+
+Please note that we're not looking for an urgent operational execution, but rather a standard operational tasking as part of our baseline pipeline tracking setup. Thank you for your attention and cooperation in fulfilling this request. We appreciate your support in making this mission a success.

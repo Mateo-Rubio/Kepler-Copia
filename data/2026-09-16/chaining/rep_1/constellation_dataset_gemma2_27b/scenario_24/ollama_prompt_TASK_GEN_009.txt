@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging over Beringin Jaya, Indonesia. The objective is cloud-penetrating capture for tomorrow in the evening to map ground geometry.

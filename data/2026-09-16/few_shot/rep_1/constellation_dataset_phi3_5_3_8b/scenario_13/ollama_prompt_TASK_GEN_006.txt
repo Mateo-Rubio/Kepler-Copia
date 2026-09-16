@@ -1,0 +1,3 @@
+Putting in a commercial tasking for Sarolangun in Indonesia as a workflow update on our agricultural monitoring. We aim to capture near-infrared reflection suitable for water body boundary mapping and soil moisture assessment, discriminating the gradients effectively. Normal operational status with fixed parameters is expected, and we anticipate receiving these insights within three days around mid-day.
+
+```prompt

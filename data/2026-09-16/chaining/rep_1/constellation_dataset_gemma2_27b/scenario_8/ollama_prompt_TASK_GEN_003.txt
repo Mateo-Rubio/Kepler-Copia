@@ -1,0 +1,1 @@
+This is a binding contract requirement for critical payload capture. We need an active near-infrared reflection scan over the city of Tatau in Malaysia. The objective is to map water body boundaries and assess soil moisture gradients in the region. This data needs to be delivered tomorrow in the evening.

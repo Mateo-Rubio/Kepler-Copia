@@ -1,0 +1,16 @@
+Ladies and gentlemen of our satellite constellation team,
+
+We're reaching out with a request that falls under the category of medium importance, as indicated by our priority level. This task is essential for monitoring environmental changes in Indonesia, specifically focusing on Ketapang city.
+
+Our primary sensor requirement is thermal mapping, which involves capturing heat signatures across the region. We aim to analyze surface temperatures and detect any anomalies that might be indicative of industrial activities or natural phenomena.
+
+We're looking for a high-resolution snapshot of the area during the afternoon of the day after tomorrow. This data will help us understand the thermal dynamics of the region and provide insights into climate change impacts on Indonesia's geography.
+
+Please ensure that this thermal mapping task is executed with the utmost priority, as it aligns with our baseline pipeline tracking setup. We have fixed parameters for this mission, which represent our normal operational status.
+
+We're setting a strict deadline for data delivery by the day after tomorrow during the afternoon. This means we need the data products ingested into the pipeline before that time to maintain our operational efficiency and provide timely updates on environmental conditions.
+
+Thank you for your attention to this matter. We appreciate your support in making sure this task is completed as requested.
+
+Best regards,
+[Your Name]

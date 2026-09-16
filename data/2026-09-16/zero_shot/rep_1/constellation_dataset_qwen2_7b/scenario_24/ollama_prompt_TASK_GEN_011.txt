@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a low-priority importance task for an Earth observation mission. Our objective is to capture near-infrared reflection data from a location in the beautiful country of Italia, specifically the city of Campli. This survey aims to map water body boundaries and assess soil moisture levels for agricultural purposes.
+
+We require this data by the target day, which is four days ahead, with a strict delivery deadline set for the morning of that day. Our goal is to ensure that the products are ingested into our pipeline before nightfall on the target day. This task falls under a flexible schedule, treating it as a background survey or testbed tracking task.
+
+Thank you for your attention and assistance in fulfilling this request.

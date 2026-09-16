@@ -1,0 +1,1 @@
+This is a standard operational tasking over El Playón in Colombia as part of our baseline pipeline tracking with fixed parameters. We're aiming for near-infrared reflection to discriminate gradients, specifically water body boundary mapping and soil moisture assessment around the urban fringe area today in the evening at the latest.

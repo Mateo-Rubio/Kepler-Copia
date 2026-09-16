@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that needs to be executed within the parameters specified.
+
+Our objective is to capture thermal mapping data using near-infrared (NIR) sensors for Norte, a city located in an unspecified country. We're targeting this operation for three days from now, ensuring that the products are ingested into our pipeline before the evening deadline. As this request carries low priority importance, we're treating it as a flexible schedule task that can be dropped or rescheduled at convenience.
+
+Please note that this is a background survey and testbed tracking task with no impact on critical payload capture or contractual obligations. We appreciate your understanding and flexibility in handling this request.
+
+Thank you for your attention to detail and operational expertise. We look forward to receiving the data products by the specified deadline.
+
+Best regards,
+[Your Name]

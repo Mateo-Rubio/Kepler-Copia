@@ -1,0 +1,9 @@
+We're tasked with an urgent operational execution involving a critical payload capture, which is a binding contract requirement. Our priority is set to High Importance (Priority 3), emphasizing the absolute institutional priority and mandatory directive at hand.
+
+Our mission involves the active radar scan of the Ecuatorial region in Indonesia using our SAR technology for microwave surface imaging. The goal is to pierce through heavy weather conditions and capture ground geometry with high precision, ensuring cloud-penetrating capture capabilities. This task aims to provide an essential dataset for critical decision-making processes.
+
+The physical objectives are clear: we're focusing on multispectral vegetation analysis and near-infrared reflection assessments to map water body boundaries and assess soil moisture levels, as well as capturing thermal mapping data to detect heat signatures and surface temperature profiles.
+
+We need this high-resolution optical snapshot by tomorrow's overnight block at the latest. The deadline is strict, ensuring that all products are ingested into our pipeline before the specified time. This task is part of a baseline pipeline tracking setup with fixed parameters, representing normal operational status.
+
+Please note that this request carries a high level of importance and urgency, requiring immediate attention and prioritization in your scheduling. It's classified as an "absolute institutional priority" and should be treated with the utmost importance and care.

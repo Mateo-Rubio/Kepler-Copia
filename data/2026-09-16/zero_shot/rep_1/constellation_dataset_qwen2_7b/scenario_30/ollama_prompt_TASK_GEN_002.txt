@@ -1,0 +1,5 @@
+Good day to you, esteemed satellite constellation planner. I have a task for you that involves capturing the beauty and essence of Peroj, a charming village nestled in the heart of Hrvatska, Croatia. Our primary sensor will be the VNIR, which will provide us with a high-resolution optical snapshot of this picturesque location during the morning light of tomorrow. We're aiming for clear optical imagery to capture the vibrant colors of the day and document this true-color visual documentation as part of our routine monitoring activities.
+
+This task is classified as a low priority importance request, meaning it's a flexible schedule background filler task that can be dropped or rescheduled at your convenience. However, I do emphasize that we must adhere to the deadline set for tomorrow morning. Our mission is not about the closest orbital capture window but ensuring the data products are ingested into our pipeline before tomorrow's overnight block.
+
+Please proceed with capturing this "testbed tracking task" and let us know if you have any questions or need further clarification. Thank you for your attention to this matter.

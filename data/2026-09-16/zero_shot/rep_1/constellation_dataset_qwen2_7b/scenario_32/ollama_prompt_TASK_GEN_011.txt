@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out with an absolute institutional priority regarding our Earth observation mission. We're tasked with capturing a high-resolution optical snapshot of the region in Italia, specifically focusing on the charming town of Licciana Nardi. The imagery we seek should encompass clear daylight photography and true-color visual documentation to ensure every detail is captured for the most authentic representation possible.
+
+This request carries significant weight as it's part of a critical payload capture that involves a mandatory directive from our team. We're looking for an active radar scan using microwave surface imaging capabilities, piercing through any heavy weather conditions to provide us with cloud-penetrating capture and ground geometry insights.
+
+Additionally, we need thermal mapping to identify heat signatures and surface temperature profiles, as well as to detect thermal anomalies and map heat emissions accurately. This is crucial for a comprehensive understanding of the region's thermal dynamics.
+
+Our deadline for these data products is set for the day after tomorrow, with a strict delivery deadline of "in the evening" at the latest. We're treating this task as an urgent operational execution that cannot be pre-empted or rescheduled; it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please ensure that all products are ingested into our pipeline before the specified time to meet our critical requirements. We appreciate your attention to this high-importance mission and look forward to receiving the data in accordance with these guidelines. Thank you for your cooperation and understanding.
+
+Best regards,
+[Your Name]

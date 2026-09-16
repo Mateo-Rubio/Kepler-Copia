@@ -1,0 +1,3 @@
+Log a commercial tasking for Sabana de Torres in Colombia as part of our baseline pipeline tracking with fixed parameters. We need an overnight multispectral vegetation analysis to assess chlorophyll absorption level and calculate the NDVI index along with surface reflectance, especially focusing on agricultural plots around the city. The delivery deadline is set for three days from now in the morning.
+
+```prompt

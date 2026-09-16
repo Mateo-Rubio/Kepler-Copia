@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of an Earth observation mission to request a task that needs to be executed with utmost flexibility and opportunism. Our objective is to capture a high-resolution optical snapshot of Clauzetto / Clausêt, located in Italia, which will serve as a true-color visual documentation for our purposes. Given the nature of this request, it can be scheduled at convenience and treated as a background survey or testbed tracking task.
+
+The priority level for this task is Low Importance, implying that it is not an urgent operational execution but part of our baseline pipeline tracking with fixed parameters representing normal operational status. The deadline for delivering the data products to us is set for the day after tomorrow, with a strict delivery deadline being overnight at the latest. This ensures that the products are ingested into our pipeline before the specified time on the target day.
+
+As for the physical objectives, we aim to use our primary sensor, which in this case is VIS (visual imagery), to gather daylight photography and clear optical imagery that will contribute to our dataset. Our mission allocation priority reflects the fact that this task is not a binding contract requirement or a critical payload capture but rather a non-essential background filler task.
+
+Thank you for your attention to this matter and please let us know if you need any further information or clarification on this request.

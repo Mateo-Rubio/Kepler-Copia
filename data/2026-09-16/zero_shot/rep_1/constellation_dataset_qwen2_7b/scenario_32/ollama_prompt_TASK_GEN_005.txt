@@ -1,0 +1,11 @@
+```prompt
+Good day, satellite constellation planners. We're looking to capture a detailed radar scan of Norte, a region in Brazil, for an urgent operational tasking that requires high precision and accuracy. This is not just any routine monitoring; it's a critical payload capture involving the microwaves that can penetrate heavy weather conditions or reveal ground geometry.
+
+We aim to achieve a clear picture of the area by conducting an active radar scan as close to the target day, which is in three days, as possible, with the latest deadline set for overnight. This tasking is essential for our baseline pipeline tracking setup and represents normal operational status.
+
+Please ensure that the data products are ingested into the pipeline before the target day's overnight period, as we're setting a strict deadline for this delivery. This request falls under low priority importance but requires your attention to be treated as a background survey or testbed tracking task.
+
+Thank you for your cooperation and understanding in meeting this deadline. We appreciate your prompt action in delivering the data products that will help us fulfill our contractual obligations. 
+
+Best regards,
+[Your Name]

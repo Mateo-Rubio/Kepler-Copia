@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a task that's quite important to us, so please treat this as a low-priority importance request but understand that it falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our objective is to capture the chlorophyll absorption level in the region of Norte, which is part of an opportunistic survey or testbed tracking task. We're aiming for a multispectral vegetation analysis using VNIR sensors to assess the health and productivity of local ecosystems. This data will help us understand the environmental conditions and support our ongoing research projects.
+
+The location is Norte, but since we don't have specific information about the country, city, or landmarks, let's focus on the region itself for our observations. We're targeting this task for delivery by the day after tomorrow, around mid-day, with a strict deadline set for that date and time. This means that the data must be ready for us by then to ensure it's ingested into our pipeline before the night falls.
+
+Thank you for your attention to this request. If there are any questions or if you need more information, please feel free to reach out. We appreciate your cooperation in making sure this task is handled efficiently and according to our guidelines.
+
+Best regards,
+[Your Name]

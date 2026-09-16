@@ -1,0 +1,3 @@
+This is a standard operational tasking for today in the evening over Kapit in Malaysia, as part of our routine monitoring with fixed parameters. We aim to capture near-infrared reflection for water body boundary mapping and soil moisture assessment to discriminate gradients. The delivery deadline is set for today at the latest.
+
+```prompt

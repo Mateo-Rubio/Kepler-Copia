@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Cubarral, Colombia. We need an active thermal mapping scan of the region "the day after tomorrow in the morning". This will allow us to collect a detailed surface temperature profile and identify any potential thermal anomalies in the area.

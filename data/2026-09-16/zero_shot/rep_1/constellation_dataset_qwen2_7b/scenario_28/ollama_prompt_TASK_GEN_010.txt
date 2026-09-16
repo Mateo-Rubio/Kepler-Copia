@@ -1,0 +1,5 @@
+We're tasked with capturing a high-resolution optical snapshot of Belalcázar, Colombia, using our visible light sensor. This daylight photography will provide us with clear optical imagery and true-color visual documentation of the region's landscape. As this is a low priority importance request, we'll treat it as a flexible schedule background survey or testbed tracking task.
+
+We aim to gather this data by the day after tomorrow, around mid-day, ensuring the products are ingested into our pipeline before then. This deadline is strictly non-negotiable and represents the upper limit for data availability. We'll ensure that this request doesn't preempt any higher priority tasks but will be scheduled as soon as possible.
+
+This mission will contribute to our baseline pipeline tracking setup with fixed parameters, representing normal operational status or a standard workflow update. We're excited to capture this essential background information without affecting more critical operational activities.

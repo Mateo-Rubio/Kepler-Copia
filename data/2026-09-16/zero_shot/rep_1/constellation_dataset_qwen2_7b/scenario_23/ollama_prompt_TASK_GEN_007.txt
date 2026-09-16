@@ -1,0 +1,11 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out with a standard operational tasking for your team, which involves a critical SAR scan using microwave surface imaging technology. Our focus is on capturing cloud-penetrating imagery of La Cumbre, Colombia, to ensure we gather detailed ground geometry information despite any weather conditions.
+
+Our priority is set at medium importance, reflecting our commitment to baseline pipeline tracking and normal operational status. This task requires adherence to fixed parameters to guarantee the integrity of our data collection process.
+
+We're aiming for a high-quality active radar scan that will be delivered by the target day, which is four days from now, around mid-day. This deadline marks the upper limit for data availability, ensuring the products are ingested into our pipeline before the specified time.
+
+Please note that this request holds a binding contract requirement and represents a standard operational tasking with no deviation allowed from the set parameters. We trust your team will provide us with the necessary data products to support our ongoing monitoring efforts.
+
+Thank you for your attention and swift action in fulfilling this request.

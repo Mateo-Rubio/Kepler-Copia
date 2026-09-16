@@ -1,0 +1,12 @@
+Hello there,
+
+I'm reaching out to request a highly important Earth observation mission for our satellite constellation planner. Our team needs a thermal mapping of a specific region, which is located in the picturesque country of Italia, near the city of Roasio. This task is considered a 'low priority importance' request due to its nature as a background survey or testbed tracking task.
+
+We're aiming to capture the heat signature and surface temperature profile for this area using thermal infrared sensors. The primary objective is to identify any thermal anomalies and map heat emissions accurately, which will help us in our ongoing research on environmental conditions.
+
+The deadline for delivering this data product is set for the day after tomorrow, with a strict delivery deadline marked for overnight hours. We understand that this timeframe represents a deadline for the availability of the data products to our team, not an orbital capture window.
+
+Thank you for your understanding and prompt attention to this request. Please let us know if you require any additional information or have questions about our mission requirements.
+
+Best regards,
+[Your Name]

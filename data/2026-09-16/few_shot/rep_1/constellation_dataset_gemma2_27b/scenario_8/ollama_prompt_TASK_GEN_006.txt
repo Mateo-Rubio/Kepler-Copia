@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Ecuatorial in Indonesia. We need a surface temperature profile and thermal anomaly detection. Normal operational status applies, with fixed parameters, and the delivery deadline is set for the day after tomorrow around mid-day.

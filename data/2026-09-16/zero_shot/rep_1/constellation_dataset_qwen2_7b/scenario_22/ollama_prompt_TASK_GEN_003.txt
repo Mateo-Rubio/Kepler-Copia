@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+I'm reaching out with a task that requires your immediate attention. Our team is in need of thermal mapping data for an area located in Indonesia, specifically Kapuas Hulu. This location is crucial for monitoring surface temperature profiles and identifying any potential heat anomalies.
+
+Given the importance of this request, I'm designating it as Priority 1, which means it's a low priority importance task with a flexible schedule for opportunistic capture. We understand that this might not be an urgent operational execution, but we would appreciate your cooperation in ensuring that the data products are ingested into our pipeline before the deadline set for "the day after tomorrow" overnight.
+
+The primary sensor required for this task is TIR, which will provide us with thermal mapping capabilities to capture heat signatures and surface temperature profiles. We're looking forward to receiving this data as soon as possible, so that we can analyze it accordingly.
+
+Thank you in advance for your swift response and cooperation.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task for your team to capture a high-resolution optical snapshot of Ecuatorial City, located in Indonesia, using our VIS sensor. Our objective is to obtain clear daylight photography and true-color visual documentation of the region. This request has been tagged as a low priority importance task, meaning it's flexible and can be scheduled according to convenience.
+
+We're aiming to receive this data by tomorrow morning, ensuring that all products are ingested into the pipeline before our deadline set for tomorrow's overnight block. This is a non-essential background filler task, where we explicitly note that it can be dropped or rescheduled at your convenience. We appreciate your understanding and prompt attention to this request.
+
+Thank you for your cooperation and support in fulfilling our mission requirements.

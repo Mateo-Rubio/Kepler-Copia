@@ -1,0 +1,12 @@
+Good day,
+
+I'm reaching out to request an urgent tasking for a thermal mapping operation in Colombia, specifically targeting the city of La Vega. The primary sensor required for this mission is the TIR (Thermal Infrared) sensor, which will help us capture critical heat signatures and surface temperature profiles across the region.
+
+Our operational priority here is medium importance, so we're looking at this as a standard operational tasking with fixed parameters that are part of our baseline pipeline tracking setup. The mission's deadline is set for the day after tomorrow, with a strict delivery deadline to be met in the evening. We aim to ensure that the data products are ingested into the pipeline before the target day's evening timeframe.
+
+This task is essential for understanding heat emissions and identifying potential anomalies across the city of La Vega. The data collected will help us assess the thermal dynamics of the area, which could be crucial for various applications such as urban planning, environmental monitoring, or disaster response.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products by the specified deadline. Please let us know if there are any questions or adjustments needed for this task.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,10 @@
+Good day! I'm reaching out from our satellite constellation planning team, tasked with an important mission. We're looking to capture a high-resolution optical snapshot of the beautiful city of Arezzo, located in the picturesque country of Italia, using our VIS sensor. The goal is to gather clear daylight photography and true-color visual documentation that will provide us with detailed imagery of the urban landscape and surrounding areas.
+
+This request carries a medium level of importance, so we're treating it as a standard operational tasking within our baseline pipeline tracking setup. We understand the need for fixed parameters representing normal operational status, and this request falls under these standards. Our priority is to ensure that the data products are ready for delivery by the day after tomorrow, with a strict deadline set for the overnight period.
+
+We're aware of the urgency involved in meeting this deadline and will do everything possible to adhere to it without compromising on quality or operational integrity. Our satellite constellation is geared up to deliver these essential images before the specified target day and diurnal period, ensuring they are promptly ingested into our pipeline for further analysis.
+
+Thank you for your understanding and cooperation in this matter. We're looking forward to providing you with the best possible service and data products that meet your requirements while respecting our operational guidelines and deadlines. Please feel free to reach out if you need any further information or have questions about this task.
+
+Best regards,
+[Your Name]

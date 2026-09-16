@@ -1,0 +1,1 @@
+Log a commercial tasking for Andina, focusing on high-resolution thermal mapping to capture surface temperature profiles and detect any thermal anomalies during afternoon operations in three days. This will be part of our workflow update with fixed parameters at normal operational status. The products should be ready for pipeline integration within the specified timeframe.

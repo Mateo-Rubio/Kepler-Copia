@@ -1,0 +1,7 @@
+Hello there! I'm reaching out with a request for an Earth observation task that needs to be completed by today, specifically in the evening. Our mission involves utilizing the VNIR sensor to capture high-resolution optical imagery of a location nestled within the picturesque region of Italia, focusing on Talamello. This is a low priority importance request, implying that we're looking for a flexible schedule for this task, treating it as an opportunistic survey or testbed tracking task.
+
+The primary goal here is to assess the chlorophyll absorption levels across various vegetation types in the area using the VNIR sensor. We aim to gather detailed information about the vegetation's health and structure by analyzing the captured data. This task doesn't require any rush, so feel free to drop or reschedule it according to your convenience.
+
+Please ensure that the products are ingested into our pipeline before today's evening timeframe, adhering to the strict deadline set for this task. We appreciate your understanding of this operational context and look forward to receiving the data products in due course.
+
+Thank you for your attention and cooperation in fulfilling this request.

@@ -1,0 +1,7 @@
+We're setting up an absolute institutional priority mission for a critical payload capture involving our VNIR sensor, which will provide us with high-resolution optical snapshots for daylight photography and true-color visual documentation of the region in Colombia, specifically focusing on the city of Melgar. This request is based on a binding contract requirement, emphasizing the importance of capturing detailed information about the area's vegetation health.
+
+Our operational guidelines dictate that we must deliver this data by the target day, which is three days from now, with a strict delivery deadline set for the morning of that day. We understand the urgency and will ensure that the products are ingested into our pipeline before the deadline is met, allowing for timely analysis and decision-making.
+
+This task is part of our baseline pipeline tracking setup, representing normal operational status and standard workflow updates. However, due to its high priority level, we're treating it with the necessary authority and importance, ensuring that all parameters are met with a sense of urgency and responsibility.
+
+We're confident in our capabilities and will execute this request with the utmost precision and care, aligning our efforts with the operational guidelines provided. The data collection process will involve assessing chlorophyll absorption levels, calculating NDVI indices, and analyzing surface reflectance to provide valuable insights into the region's ecological conditions.

@@ -1,0 +1,8 @@
+Good day! I'm reaching out to request a specific task for our satellite constellation planner. The mission involves capturing an active radar scan using microwave surface imaging technology, which will help us cloud-penetrating capture essential ground geometry and features in Colombia's Uribe city. This high-resolution SAR scan is crucial for our baseline pipeline tracking setup with fixed parameters, representing normal operational status.
+
+We aim to obtain a clear snapshot of the region by conducting this task on the target day, which falls three days from today, with the strict delivery deadline set for overnight. This thermal mapping mission is part of our routine monitoring activities and is essential for our background survey purposes. We're looking forward to receiving the heat signature, surface temperature profile, or thermal anomaly detection data products before the deadline.
+
+Thank you for your attention to this request. We appreciate your cooperation in ensuring that these data products are ingested into our pipeline before the specified target day's overnight period. Kindly note that this task carries low priority importance and can be dropped or rescheduled at convenience if necessary. Looking forward to your prompt response!
+
+Best regards,
+[Your Name]

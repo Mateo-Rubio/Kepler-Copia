@@ -1,0 +1,1 @@
+We need a non-essential background filler task for multispectral vegetation analysis in Norte. This involves capturing near-infrared reflection data for assessing chlorophyll absorption levels and calculating the vegetation NDVI index. The capture window is flexible, so please drop or reschedule at convenience. We aim to have this captured in three days during the afternoon.

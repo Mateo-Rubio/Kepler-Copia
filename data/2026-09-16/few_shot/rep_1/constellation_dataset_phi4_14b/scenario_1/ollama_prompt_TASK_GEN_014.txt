@@ -1,0 +1,1 @@
+Logging a standard operational tasking over Norte as part of our baseline pipeline tracking with fixed parameters. We need an active radar scan using microwave surface imaging for a cloud-penetrating capture to get the ground geometry regardless of weather. This is routine monitoring at normal operational status, and the delivery deadline is set for tomorrow around mid-day.

@@ -1,0 +1,1 @@
+Schedule a low priority importance task for multispectral vegetation analysis over San Vicente del Caguán, Colombia. This is a flexible background filler task, so please drop or reschedule at convenience. The goal is to assess chlorophyll absorption level and calculate a vegetation NDVI index. We need this captured in four days overnight.

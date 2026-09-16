@@ -1,0 +1,1 @@
+Logging a standard operational tasking over Kutai Timur in Indonesia as part of our baseline pipeline tracking with fixed parameters. We need thermal mapping to capture a surface temperature profile and detect any thermal anomalies in the region. This is routine monitoring at normal operational status, and the delivery deadline is set for in three days in the evening.

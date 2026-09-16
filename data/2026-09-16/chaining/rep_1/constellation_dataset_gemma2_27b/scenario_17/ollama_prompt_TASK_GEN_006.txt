@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging over Majangkan, Indonesia. We need cloud-penetrating capture to assess ground geometry.  The data delivery deadline is tomorrow around mid-day.

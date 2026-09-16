@@ -1,0 +1,15 @@
+Good day to our satellite constellation planning team,
+
+We're reaching out with a task request that falls under the category of a low priority importance, which we're treating as a flexible schedule for opportunistic capture. This is akin to a background survey or testbed tracking task that doesn't require immediate attention but still requires our attention.
+
+Our objective is to capture near-infrared reflection data from a location in Indonesia specifically around Ecuatorial region. We aim to assess soil moisture and water body boundaries using this data, which will help us in understanding the environmental conditions there.
+
+The geographical context of our request is centered around Indonesia's Ecuatorial region, which might not have specific country, city, or landmark details as mentioned earlier. However, we're focusing on capturing the essence of this area for our analysis.
+
+We're looking to receive these data products by the target day, which is in three days, with a strict delivery deadline set for that evening. This ensures that the products will be ingested into our pipeline before the specified time frame.
+
+Thank you for your understanding and cooperation in fulfilling this task request.
+
+Best regards,
+
+[Your Name]

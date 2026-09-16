@@ -1,0 +1,9 @@
+Good day, satellite mission planner. I'm requesting a standard operational task for an upcoming project involving Indonesia's Solok region. Our priority is medium importance due to commercial tasking requirements. The main objective is to assess chlorophyll absorption levels using VNIR sensors.
+
+We're aiming for a high-resolution optical snapshot of the area in daylight photography, capturing clear optical imagery and evaluating vegetation health through NDVI index calculations. This will help us understand surface reflectance patterns and identify potential areas of interest.
+
+The deadline for this mission is set for four days from now, with a strict delivery deadline at the latest being tomorrow's morning. We're aware of the urgency and are prepared to work within the constraints of our baseline pipeline tracking setup, ensuring fixed parameters are in place for normal operational status.
+
+Please note that while this is a standard task, we appreciate your flexibility and understanding should there be any need to reschedule or drop this request due to unforeseen circumstances. This task is part of our ongoing background survey efforts, and we're looking forward to receiving the data products before the set deadline.
+
+Thank you for your attention and cooperation in making this mission a success.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm requesting a high-priority task to capture detailed radar imagery of Barrancabermeja, Colombia. Given its strategic importance and contractual obligations, this "critical payload capture" is essential for our baseline pipeline tracking setup with fixed parameters. The objective is to perform an active microwave surface imaging to penetrate heavy weather conditions and provide us with a clear view of ground geometry.
+
+To ensure the data products are ready in time for operational use, we need them by tomorrow's overnight/nighttime block at the latest. This "urgent operational execution" is a binding contract requirement involving a "mandatory directive" for our satellite constellation planner team to deliver the data before our deadline set for today in the evening.
+
+Please treat this as an absolute institutional priority, emphasizing that it involves a "critical payload capture" with an "un-preemptable mission lock". We're looking for a "standard operational tasking" that aligns with our normal workflow updates and represents our "routine monitoring" of key locations. This request is for a SAR scan to be executed as soon as possible, aiming to deliver invaluable insights that will contribute to our ongoing projects.
+
+The deadline for delivering this data is set firmly today in the evening, ensuring that the products are ingested into our pipeline before the specified time. We're committed to maintaining high standards of operational efficiency and responsiveness, so we appreciate your team's swift action on this matter.
+
+Please confirm receipt and acknowledge your team's commitment to meeting these requirements. Once the SAR imagery is captured and processed, it will be crucial for our decision-making processes and will help us in making informed choices regarding future satellite missions and data analysis strategies.

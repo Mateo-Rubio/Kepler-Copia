@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planner,
+
+I'm reaching out with a standard operational tasking request for an active radar scan using microwave surface imaging technology. Our focus is on capturing cloud-penetrating imagery for the region of Indonesia, specifically in Beringin Jaya city. This mission aims to provide us with crucial ground geometry data that will help us understand the landscape better under various weather conditions.
+
+Given the importance of timely data delivery, we are looking to have this SAR scan completed and ready by tomorrow's evening block at the latest. We're setting a strict deadline for data availability on our target day, ensuring that the products are ingested into our pipeline before the evening period.
+
+This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a standard tasking operation with no immediate rush or urgency beyond fulfilling our standard workflow updates.
+
+Thank you for your attention to this matter and we appreciate your swift response in coordinating this mission allocation.
+
+Best regards,
+[Your Name]

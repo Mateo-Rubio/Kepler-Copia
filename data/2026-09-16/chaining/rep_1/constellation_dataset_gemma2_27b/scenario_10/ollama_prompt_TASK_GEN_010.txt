@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan over Chaparral, Colombia. We require cloud-penetrating capture using microwave surface imaging to map the ground geometry in that area. The data needs to be delivered tomorrow in the morning.

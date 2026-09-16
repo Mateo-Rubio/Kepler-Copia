@@ -1,0 +1,5 @@
+Good day, satellite mission planners. We're looking to capture a near-infrared reflection dataset for water body boundary mapping and soil moisture assessment in Aipe, Colombia. This task is tagged with a low priority importance, allowing for a flexible schedule that may include dropping or rescheduling at convenience. The request is non-essential and can be treated as a background survey or testbed tracking task.
+
+We aim to gather this data by ensuring the products are ingested into our pipeline before the day after tomorrow in the evening, adhering strictly to our deadline for data availability. This timeframe represents the upper limit for delivering the necessary data products to our users without altering or extending the deadline.
+
+Thank you for your attention and cooperation in scheduling this task with the appropriate level of urgency and flexibility.

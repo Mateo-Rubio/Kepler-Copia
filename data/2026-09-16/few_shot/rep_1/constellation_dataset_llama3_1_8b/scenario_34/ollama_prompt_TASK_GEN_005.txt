@@ -1,0 +1,1 @@
+This is a standard operational tasking over Lenzumo in Italy as part of our baseline pipeline tracking with fixed parameters. We need thermal mapping to capture a heat signature and surface temperature profile for the area, representing normal operational status. The delivery deadline is set for tomorrow in the morning.

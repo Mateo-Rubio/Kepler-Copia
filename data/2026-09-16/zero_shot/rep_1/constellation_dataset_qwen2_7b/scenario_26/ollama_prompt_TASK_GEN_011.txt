@@ -1,0 +1,12 @@
+Good day,
+
+I'm reaching out to request a low priority importance task for an Earth observation mission. This involves capturing a near-infrared reflection dataset, which will help us assess water body boundaries and soil moisture levels. We aim to gather this information in Norte, a region in our operational area where detailed mapping is required.
+
+Our objective is to capture high-resolution optical snapshots of the area under consideration during the evening hours on the day after tomorrow. This task falls under our background survey category and will serve as a testbed tracking task for our team.
+
+Please ensure that the data products are ingested into our pipeline before the evening hours on the day after tomorrow, as this deadline is strictly set for us to meet our internal workflow update schedule. We understand that this request might be dropped or rescheduled at your convenience if it conflicts with more urgent tasks.
+
+Thank you for your attention to this matter. We appreciate your support in helping us achieve our operational goals.
+
+Best regards,
+[Your Name]

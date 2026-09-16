@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan overnight the day after tomorrow. We require microwave surface imaging of Norte for cloud-penetrating capture. The imagery will be used for routine monitoring and baseline pipeline tracking with fixed parameters.

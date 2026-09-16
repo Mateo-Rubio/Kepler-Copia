@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis in Norte. We require a high-resolution capture of the area to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please schedule this routine monitoring task for delivery in three days in the morning.

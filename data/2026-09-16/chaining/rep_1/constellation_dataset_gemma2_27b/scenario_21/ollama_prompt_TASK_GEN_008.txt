@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Northern Italy. We require a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The target region is near the city of Norte.  Please schedule this task for tomorrow overnight, as that is the deadline for data availability.

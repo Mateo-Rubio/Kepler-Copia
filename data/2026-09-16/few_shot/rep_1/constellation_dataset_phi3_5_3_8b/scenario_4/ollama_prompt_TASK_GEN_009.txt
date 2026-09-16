@@ -1,0 +1,1 @@
+Log a commercial tasking for Rokan Hilir in Indonesia as part of our baseline pipeline tracking with fixed parameters. We aim to capture multispectral vegetation analysis early in the morning within three days, assessing chlorophyll absorption levels and calculating an NDVI index along with surface reflectance for agricultural monitoring purposes.

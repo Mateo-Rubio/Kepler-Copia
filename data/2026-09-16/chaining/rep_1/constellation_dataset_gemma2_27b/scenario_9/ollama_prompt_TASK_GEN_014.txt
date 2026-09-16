@@ -1,0 +1,1 @@
+This is a binding contract requirement for critical payload capture. We need a high-resolution optical snapshot of Rocca d'Evandro, Italy.  The target window for this mandatory directive is in three days in the morning.

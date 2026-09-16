@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a standard operational tasking involving the capture of near-infrared (NIR) data from our satellite constellation over Indonesia's Murung Raya region. This mission carries medium importance and is part of our baseline pipeline tracking setup.
+
+The primary objective is to assess soil moisture levels and delineate water body boundaries using the unique properties of near-infrared reflection. We aim to obtain high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation to support our ongoing environmental monitoring efforts.
+
+We're setting a strict deadline for this task, requiring that the data products be ready by the target day, which is in four days, with a delivery deadline set for overnight at the latest. This ensures that the information can be ingested into our pipeline before the specified time frame.
+
+Please note that this request is part of our normal operational status and represents fixed parameters under our standard workflow update. We appreciate your attention to this task and look forward to receiving the data promptly as per our guidelines.
+
+Thank you for your cooperation in managing this mission allocation with due care and respect for its medium importance level.

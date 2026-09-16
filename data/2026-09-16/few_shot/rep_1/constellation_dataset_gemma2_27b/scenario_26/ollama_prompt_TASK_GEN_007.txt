@@ -1,0 +1,1 @@
+Logging a standard operational tasking over La Vega in Colombia as part of our baseline pipeline tracking with fixed parameters. We need thermal mapping to pull a clean heat signature and surface temperature profile of the area.  This is routine monitoring at normal operational status, and the delivery deadline is set for the day after tomorrow in the evening.

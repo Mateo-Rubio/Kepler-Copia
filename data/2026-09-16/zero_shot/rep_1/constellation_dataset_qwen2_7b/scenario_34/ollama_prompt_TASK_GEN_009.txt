@@ -1,0 +1,8 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a mission allocation for an important task involving Malaysia's Ecuatorial region. The primary sensor required is the SAR system for an active radar scan using microwave surface imaging. We aim to capture cloud-penetrating imagery that can pierce through heavy weather conditions and provide us with ground geometry details.
+
+This task is of low priority importance, allowing for a flexible schedule and treating it as a non-essential background filler task. However, we do emphasize the need for timely data delivery. We require this data by the target day, which is in four days, at the latest in the morning. This means that we have a strict deadline set for the products to be ingested into our pipeline before the target day's overnight block.
+
+I appreciate your understanding and prompt attention to this matter. Please let me know if you need any further information or clarification on this task.
+
+Best regards,
+[Your Name]

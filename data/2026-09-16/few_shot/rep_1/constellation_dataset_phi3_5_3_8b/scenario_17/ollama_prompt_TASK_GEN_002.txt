@@ -1,0 +1,1 @@
+Putting in a commercial tasking for Vigonza in Italy as a workflow update on our agricultural monitoring file. We want to assess soil moisture by analyzing near-infrared reflection, particularly focusing on the gradients across different crop fields. The products should be ingested into the pipeline in three days in the evening.

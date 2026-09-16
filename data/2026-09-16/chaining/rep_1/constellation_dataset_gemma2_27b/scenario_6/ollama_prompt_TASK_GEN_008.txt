@@ -1,0 +1,1 @@
+I need a standard operational tasking for an active radar scan over Petreto-Bicchisano, France.  This is part of a routine monitoring workflow update with fixed parameters. I'm looking for cloud-penetrating capture using microwave surface imaging to assess the ground geometry. Data delivery is required tomorrow overnight.

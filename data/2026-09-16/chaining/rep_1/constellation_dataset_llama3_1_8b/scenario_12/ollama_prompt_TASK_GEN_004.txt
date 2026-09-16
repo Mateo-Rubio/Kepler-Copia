@@ -1,0 +1,1 @@
+We require a standard operational tasking for thermal mapping to capture a heat signature and surface temperature profile over Colombia, specifically in the city of La Paz, tomorrow around mid-day. This is a commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.

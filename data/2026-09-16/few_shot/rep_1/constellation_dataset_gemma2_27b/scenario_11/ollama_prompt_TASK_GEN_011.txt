@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Tagliole in Italia. We need to assess chlorophyll absorption level and work out an NDVI index along with surface reflectance for the agricultural plots in the region. This is routine monitoring at normal operational status, and the delivery deadline is set for in three days overnight.

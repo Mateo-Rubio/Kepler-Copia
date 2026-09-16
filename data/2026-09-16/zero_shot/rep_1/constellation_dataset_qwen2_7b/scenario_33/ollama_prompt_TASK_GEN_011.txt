@@ -1,0 +1,14 @@
+```prompt
+Good day, automated satellite constellation planner. I'm reaching out with a request for an operational tasking involving a critical payload capture using our advanced SAR system. The mission is to gather detailed microwave surface imaging data of the region surrounding Tesis, Italia, which is located in the heart of the country. Our primary objective is to perform a cloud-penetrating capture to ensure we obtain high-resolution data that can help us understand ground geometry and other critical features even under heavy weather conditions.
+
+The operational importance of this task is high, as it involves a binding contract requirement for a client who has entrusted us with capturing essential data. This mission must be treated with the utmost priority and urgency, ensuring that the satellite constellation locks onto this target without any delays or preemption. We need to deliver the data products by the day after tomorrow, specifically around mid-day, with a strict delivery deadline set for that time.
+
+The SAR system will provide us with active radar scans that are essential for our baseline pipeline tracking setup. These scans will be used as fixed parameters representing normal operational status and are part of our standard workflow update. We aim to assess the surface temperature profile and detect any thermal anomalies, as well as capture heat emissions from various sources.
+
+Please note that this task is a low priority importance request with a flexible schedule for opportunistic capture. It's designated as a non-essential background filler task that we can drop or reschedule at convenience if needed. This request aligns with our background survey and testbed tracking tasks, which are typically used to gather data on vegetation health and water body boundaries.
+
+Let me know if you need any additional information or have questions about this request. We appreciate your team's swift response and look forward to receiving the data products as planned.
+
+Thank you,
+[Your Name]
+Earth-observation mission operator

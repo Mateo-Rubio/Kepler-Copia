@@ -1,0 +1,12 @@
+Good day to our satellite constellation team,
+
+We're looking to capture a near-infrared (NIR) reflection snapshot of Malinau, Indonesia, which is nestled within the lush landscapes of North Kalimantan. This is part of our standard operational tasking aimed at assessing soil moisture levels and water body boundaries for environmental monitoring purposes.
+
+Our priority level for this mission is medium importance, meaning it's a critical part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're aiming to ensure that the data products are ingested into the pipeline before the day after tomorrow in the morning, adhering strictly to our deadline.
+
+For this task, we require high-quality imagery that will help us in mapping water bodies and assessing soil moisture accurately. We appreciate your expertise in delivering the data as per our request.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

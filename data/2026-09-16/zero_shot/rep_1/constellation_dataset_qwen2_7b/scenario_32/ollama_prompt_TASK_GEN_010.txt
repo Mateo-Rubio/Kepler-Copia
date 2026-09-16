@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I hope this message finds you well. I am reaching out on behalf of our Earth-observation mission to request a highly realistic and conversational English task for the upcoming data collection period. Our primary sensor requirement is VNIR, which we will use for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for the region.
+
+The geographic context involves Colombia, specifically the city of San Vicente del Caguán. We aim to capture detailed imagery that reflects the unique landscape and ecological conditions of this area. The request is a low priority importance task with a flexible schedule for opportunistic capture, acting as a non-essential background filler task in our operational pipeline.
+
+Our deadline for data availability is set for four days from now, with a strict delivery deadline scheduled for the overnight period at the latest. This means that we need to ensure the products are ingested into our pipeline before the start of the next day's daytime hours.
+
+Thank you for your attention and assistance in fulfilling this request. We appreciate your support in helping us gather valuable data for our mission.
+
+Best regards,
+[Your Name]

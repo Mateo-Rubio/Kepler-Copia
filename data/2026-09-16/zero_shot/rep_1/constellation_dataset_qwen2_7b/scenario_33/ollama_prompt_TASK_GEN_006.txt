@@ -1,0 +1,12 @@
+Good day to our satellite constellation team,
+
+I'm reaching out regarding an upcoming task that requires your expertise and swift execution. Our mission involves capturing a near-infrared reflection of a unique location, situated in the ecotropical region of Indonesia, specifically within the city of Ecuatorial. This is a low priority importance request, which means we're looking for a flexible schedule to accommodate this task as an opportunistic capture or a background survey.
+
+The primary sensor we're focusing on is the near-infrared (NIR) sensor, which will help us assess soil moisture levels and map water body boundaries with precision. This task aims to provide valuable data that can assist in environmental monitoring and agricultural assessments.
+
+We're targeting this request for three days from now, around mid-day. It's crucial that we adhere to the strict deadline set for data availability by ensuring the products are ingested into our pipeline before the specified time. We understand that this might be a tight window, but rest assured, your team's expertise will ensure we meet this deadline.
+
+Thank you for considering our request. We appreciate your timely response and look forward to collaborating with you on this mission.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to capture highly detailed radar imagery of Gilirang, Indonesia, using an advanced SAR sensor. This mission is of the highest importance due to its critical payload capture requirement and contractual binding nature.
+
+We aim to achieve this by conducting an active radar scan that penetrates through heavy weather conditions, capturing ground geometry with precision. The goal is to obtain microwave surface imaging data that will provide invaluable insights into the region's terrain and infrastructure.
+
+Given the urgency of this task, we require the SAR imagery needed by the day after tomorrow, specifically during the overnight period. This deadline represents our strict operational requirement for data availability, ensuring that the products are ingested into the pipeline before the set deadline.
+
+This request is an absolute institutional priority, involving a mandatory directive that must be executed with authority and without any preemption. The high importance of this mission necessitates an urgent operational execution and an un-preemptable mission lock to guarantee timely data delivery to our clients.
+
+Please ensure that our satellite constellation planner schedules this task as a critical operation, allocating the necessary resources to capture this data promptly. This is a binding contract requirement that cannot be delayed or rescheduled without significant consequences. Our team looks forward to receiving the SAR imagery in time for our clients' deadline, which is set for the day after tomorrow during the overnight period.
+
+Thank you for your attention and cooperation in fulfilling this critical mission.

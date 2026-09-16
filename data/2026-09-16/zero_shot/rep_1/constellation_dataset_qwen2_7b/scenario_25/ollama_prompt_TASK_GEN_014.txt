@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We are requesting a task for an absolute institutional priority, as it involves a critical payload capture that requires immediate attention. Our mission is focused on the region of Italia, specifically Claut city, which holds great importance for our ongoing project. 
+
+The primary sensor we're utilizing is Thermal Infrared (TIR) technology, aiming to capture thermal mapping data for a heat signature analysis and surface temperature profile. This task is crucial for detecting thermal anomalies and understanding heat emissions across the region.
+
+Given the nature of this request, we need the data products by the day after tomorrow, in the morning, at the latest. This deadline is strict; we're not looking for an orbital capture window but rather ensuring that our data is ingested into the pipeline before that time frame.
+
+Please note that this task falls under a standard operational tasking, as it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your understanding and prompt attention to this request.
+
+Thank you for your cooperation and support in fulfilling this mission allocation priority.
+
+Best regards,
+[Your Name]

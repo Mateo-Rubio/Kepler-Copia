@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+I'm reaching out on behalf of an Earth observation mission that requires your expertise and assistance. Our objective is to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia, focusing specifically on the city of Ecuatorial. We aim to achieve this through daylight photography or clear optical imagery to document the landscape accurately.
+
+Given our current priority level, this task is considered low importance but still requires attention. We understand that it might be a flexible schedule request and can be dropped or rescheduled at your convenience. However, we would appreciate if you could consider this as a background survey or testbed tracking task for us.
+
+The deadline for delivering the data products is set to four days from now, with a strict delivery deadline of overnight. This means that the products must be ingested into our pipeline before the end of the night on the target day. We're looking forward to your cooperation and support in ensuring we meet this deadline.
+
+Thank you for your understanding and assistance in this matter. We appreciate your efforts in making this happen.
+
+Best regards,
+[Your Name]

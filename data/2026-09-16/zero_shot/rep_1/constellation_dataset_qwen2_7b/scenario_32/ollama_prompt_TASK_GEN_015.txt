@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a critical payload capture for an urgent operational execution. The task involves thermal mapping of the region named "Indonesia", with a specific focus on the city of "Tanjung Jabung Timur". This is a high-resolution optical snapshot, aiming to capture thermal anomalies and heat signatures essential for our baseline pipeline tracking setup.
+
+Our priority level is set to High Importance, which means this task is a binding contract requirement involving a mandatory directive. We're looking to gather thermal mapping data that will provide us with a heat signature and surface temperature profile, crucial for detecting any thermal anomalies in the area.
+
+As per our operational guidelines, we require the data products by tomorrow morning, ensuring they are ingested into the pipeline before our deadline set for "tomorrow in the morning". This request is part of our standard operational tasking, with fixed parameters representing normal operational status. We're keen on receiving this data as soon as possible to maintain our operational efficiency and integrity.
+
+Thank you for your attention to this matter, and we appreciate your swift action to meet our deadline.
+
+Best regards,
+[Your Name]

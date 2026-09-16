@@ -1,0 +1,1 @@
+We need a low priority importance VNIR capture for multispectral vegetation analysis in Gazzola, Italia.  This is a flexible schedule for opportunistic capture, so please drop or reschedule at convenience. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index. We need this imagery in three days overnight.

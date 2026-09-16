@@ -1,0 +1,5 @@
+Good day, Mission Control. We're looking to capture a detailed view of Chivatá, Colombia using our VNIR sensor for daylight photography purposes. This is an absolute institutional priority, as the high-resolution optical snapshot will provide critical data on the vegetation health and NDVI index across the region. The deadline for this task is set with strict urgency: we need the data by the target day during the afternoon at the latest. This is a binding contract requirement involving a mandatory directive, which necessitates an urgent operational execution.
+
+This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's important to note that this task is considered a low priority importance request with a flexible schedule for opportunistic capture. We're treating it as a background survey or testbed tracking task, and we'll explicitly note to drop or reschedule at convenience if necessary.
+
+Thank you for your attention, and we appreciate your cooperation in ensuring the timely delivery of this data product to meet our operational needs.
