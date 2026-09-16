@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The objective is to gather data on the Indonesian region of Pesisir Selatan, focusing on its unique geography and environmental conditions using the primary SAR sensor.
+
+The mission allocation priority is set at medium importance, indicating it's part of our standard operational tasking or commercial tracking with fixed parameters. This request is treated as a routine monitoring activity that contributes to our baseline pipeline tracking setup with normal operational status. The language used reflects an authoritative tone without implying urgency, ensuring that the satellite assets are utilized efficiently within their contractual obligations.
+
+The primary sensor, SAR, will be employed for its unique capabilities in active radar scanning and microwave surface imaging. This technology is crucial for cloud-penetrating capture, enabling us to gather detailed information on ground geometry even under adverse weather conditions. The data collected will serve as a valuable resource for various applications, including infrastructure assessment, disaster response planning, and environmental monitoring.
+
+Given the operational guidelines, we're mindful of the geographic context provided in the JSON format. Although 'city' details are specific to Pesisir Selatan, 'country' information is sufficient for our request. The region's unique characteristics will be captured through this mission, offering insights into its diverse ecosystems and urban landscapes.
+
+With the delivery deadline set for tomorrow overnight, we understand this represents the upper limit for data availability. The task will be executed accordingly, ensuring that the satellite constellation operates within its contractual obligations without compromising on quality or accuracy.
+
+In summary, our request to the automated satellite constellation planner is as follows: "Please allocate satellite resources to capture high-resolution SAR imagery of the Indonesian region Pesisir Selatan, focusing on its unique geography and environmental conditions. This mission is part of our standard operational tasking with medium importance, contributing to our baseline pipeline tracking setup. The data should be collected during the overnight period to ensure optimal conditions for imaging. Please adhere to the deadline of 'tomorrow overnight' for data availability."
+
+This request encapsulates the essence of our operational guidelines, translating raw technical metadata into a clear and concise English request that aligns with our mission's priorities and deadlines.

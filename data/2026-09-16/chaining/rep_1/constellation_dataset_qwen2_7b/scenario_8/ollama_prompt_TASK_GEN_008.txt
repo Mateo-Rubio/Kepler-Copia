@@ -1,0 +1,15 @@
+Translate the following Earth-observation task into a highly realistic and conversational English request for our automated satellite constellation planner:
+
+---
+
+Objective: Capture a detailed multispectral vegetation analysis of the region named "Greve in Chianti", located in the beautiful country of Italia. This high-resolution optical snapshot aims to assess the chlorophyll absorption levels and calculate the vegetation NDVI index, providing valuable insights into surface reflectance and health.
+
+Priority: This task is an absolute institutional priority due to its critical payload capture nature. It involves a mandatory directive that requires urgent operational execution and an un-preemptable mission lock, ensuring that our satellite assets are dedicated to this standard operational tasking.
+
+Sensors: Utilize the VNIR sensor for its unique capabilities in capturing the necessary data. This active radar scan employs microwave surface imaging to penetrate clouds and capture ground geometry, offering unparalleled precision and reliability.
+
+Deadline: The delivery deadline is set for "in four days overnight". This upper limit for data availability must be adhered to strictly, maintaining our baseline pipeline tracking setup with fixed parameters that represent normal operational status.
+
+---
+
+Please ensure this request is understood and executed promptly by our satellite constellation planner. Thank you.

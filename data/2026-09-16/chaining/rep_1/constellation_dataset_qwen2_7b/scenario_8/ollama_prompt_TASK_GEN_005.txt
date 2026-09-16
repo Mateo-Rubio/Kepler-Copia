@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The operational guidelines for this request involve translating raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context of our target area is located within the picturesque region of Italia, specifically in the charming city of Premilcuore. This location will be captured using a high-resolution optical snapshot, aiming to provide daylight photography, clear optical imagery, and true-color visual documentation that will offer a detailed view of the landscape and urban environment.
+
+The mission allocation priority for this task is set at Level 1, which means it's considered a low priority importance request with a flexible schedule for opportunistic capture. We're treating this as a non-essential background filler task, where our operator has explicitly noted that it can be dropped or rescheduled at convenience. This task aligns well with our baseline pipeline tracking setup and is part of a standard workflow update.
+
+The primary sensor we're utilizing for this observation is VIS (Visible Imaging Spectrometer), which will provide us with a comprehensive view of the area during the day. The goal here is to capture the essence of the region, including its natural beauty and urban development, without any interference from clouds or other atmospheric conditions.
+
+The delivery deadline for this task has been resolved by an upstream module. We're targeting the day after tomorrow in the morning for data availability, adhering to this phrase verbatim as the upper limit for data availability. This ensures that we receive our results at the optimal time when sunlight is sufficient for capturing the best possible images.
+
+In summary, our request involves capturing a high-resolution optical snapshot of Premilcuore, Italia, using VIS technology, with an emphasis on daylight photography and true-color visual documentation. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture, and we're targeting the day after tomorrow in the morning for data availability.

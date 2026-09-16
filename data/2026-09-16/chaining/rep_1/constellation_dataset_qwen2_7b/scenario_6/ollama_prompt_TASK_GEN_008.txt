@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata in JSON format provides us with the necessary information to translate this into a detailed and accurate mission allocation.
+
+The geographic context involves observing a specific location in France, specifically Petreto-Bicchisano, which is an interesting and unique landmark within the country. Although the city details are provided, they are "N/A" for this specific task, so we'll focus on describing the location using the 'country' field, resulting in an observation of France.
+
+The mission allocation priority level is set at 1, indicating a low importance request with flexible scheduling and a "non-essential background filler task". We will frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor is SAR (Synthetic Aperture Radar), which we interpret as an "active radar scan" using "microwave surface imaging". This approach allows us to capture ground geometry and perform cloud-penetrating scans, essential for understanding the terrain beneath heavy weather conditions.
+
+The delivery deadline is set for "tomorrow overnight", a clear and definitive upper limit for data availability. We will insert this phrase verbatim into our request, ensuring that there's no rephrasing or alteration of the time frame.
+
+In conclusion, our task request to the automated satellite constellation planner involves an observation of France, specifically Petreto-Bicchisano, using a SAR sensor for an active radar scan with microwave surface imaging. This is part of a "non-essential background filler task" with a flexible schedule and a delivery deadline set for "tomorrow overnight". The request emphasizes the importance of capturing ground geometry and performing cloud-penetrating scans as part of our ongoing operational tasks.

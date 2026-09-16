@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context of this mission involves Indonesia, specifically the city of Malinau. Our primary sensor requirement is Near-Infrared (NIR), which will capture essential data for water body boundary mapping or soil moisture assessment. This task is of high importance due to its critical payload capture nature, implying an urgent operational execution and an un-preemptable mission lock.
+
+The deadline for this task has been resolved by an upstream module: "the day after tomorrow in the evening". This phrase is to be inserted verbatim into our request as the stated upper limit for data availability. We will not rephrase it, shorten it, or move it to a different part of the day.
+
+Our mission allocation priority is set at Level 3, indicating an absolute institutional priority or a binding contract requirement involving a mandatory directive. The language must heavily imply an urgent operational execution and an un-preemptable mission lock.
+
+In conclusion, our request to the automated satellite constellation planner is as follows:
+
+"Please allocate our high-priority mission for capturing water body boundaries or assessing soil moisture using Near-Infrared (NIR) sensors in Indonesia, specifically in the city of Malinau. The operational deadline for this task is 'the day after tomorrow in the evening'. This request is part of a critical payload capture operation with an urgent need for execution and must be treated as an un-preemptable mission lock."
+
+This request encapsulates our operational guidelines, ensuring natural language integration while adhering to the structural hierarchy of mission allocation priorities and emphasizing the importance of the task within the context of baseline pipeline tracking and standard workflow updates."

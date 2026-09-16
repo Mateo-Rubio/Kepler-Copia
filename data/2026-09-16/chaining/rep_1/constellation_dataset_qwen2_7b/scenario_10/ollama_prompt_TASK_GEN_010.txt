@@ -1,0 +1,7 @@
+In response to your operational guidelines, we are tasked with a medium importance mission allocation involving the use of an active radar scan (SAR) in the context of a standard operational tasking. This request is for a detailed microwave surface imaging operation focused on capturing ground geometry and penetrating heavy weather conditions. The geographical context involves Colombia, specifically the city of Chaparral, which will be our target area for this mission.
+
+Given that the primary sensor is SAR, we aim to capture high-resolution imagery that can penetrate clouds and provide us with essential ground details. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It's important to note that this request carries a "non-preemptable" status, meaning it must be executed as scheduled without any delays.
+
+The delivery deadline for this task has been set for tomorrow in the morning. We are to provide thermal mapping data to capture heat signatures and surface temperature profiles, which is crucial for thermal anomaly detection and mapping heat emissions. This mission is not only for capturing a comprehensive view of ground conditions but also for assessing soil moisture levels through near-infrared reflection.
+
+In conclusion, our team will ensure that this task is executed with the utmost professionalism and attention to detail, adhering to the guidelines provided. We are committed to delivering the required data by tomorrow morning as per the established deadline.

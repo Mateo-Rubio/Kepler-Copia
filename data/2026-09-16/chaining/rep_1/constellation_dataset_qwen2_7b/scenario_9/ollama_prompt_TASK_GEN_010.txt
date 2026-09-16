@@ -1,0 +1,18 @@
+Ladies and gentlemen of the automated satellite constellation planners,
+
+We hereby submit a task request for an Earth observation mission with a focus on the region encompassing Colombia, specifically targeting the city of Puerto Wilches. This request is of low importance and carries a flexible schedule requirement, implying that it serves as a non-essential background filler task.
+
+The primary sensor designated for this mission is the VNIR (Visible Near-Infrared) sensor, which will be used to conduct multispectral vegetation analysis. The objective here is to assess the chlorophyll absorption levels across various areas, calculate the vegetation NDVI index, and determine surface reflectance patterns.
+
+The operational context of this request is set within the day after tomorrow, with a specific emphasis on capturing imagery during the morning hours. This timeframe aligns with the natural lighting conditions that are most favorable for our objectives.
+
+Please note that the deadline for this task is "the day after tomorrow in the morning", as stipulated by an upstream module. This phrase must be included verbatim in your planning and execution timeline.
+
+We kindly request your cooperation in scheduling this mission at your earliest convenience, with the understanding that it may be dropped or rescheduled according to operational priorities and available resources.
+
+Thank you for your attention and assistance in fulfilling this request.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Your Organization]

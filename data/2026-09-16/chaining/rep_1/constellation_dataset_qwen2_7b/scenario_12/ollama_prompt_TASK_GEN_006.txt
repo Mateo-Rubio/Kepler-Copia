@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the specified conditions.
+
+The geographic context involves capturing data from Indonesia, specifically in Kutai Kartanegara, utilizing a VIS sensor for daylight photography, clear optical imagery, and true-color visual documentation of this region. This mission allocation has a priority level of 1, which is considered low importance with flexible scheduling for opportunistic capture. The task is framed as a non-essential background filler task that can be dropped or rescheduled at convenience, acting as a background survey or testbed tracking task.
+
+The delivery deadline for this task has already been resolved by an upstream module: "today overnight". This phrase will be inserted verbatim into the request as the stated upper limit for data availability. The raw UTC timestamps, digits, or countdown metrics are not to be outputted.
+
+In summary, our request is to capture high-resolution optical snapshots of Kutai Kartanegara in Indonesia using a VIS sensor today overnight, under low priority importance conditions with flexible scheduling.

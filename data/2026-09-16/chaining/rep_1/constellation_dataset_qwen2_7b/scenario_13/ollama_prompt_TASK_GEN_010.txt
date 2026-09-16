@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a routine monitoring assignment with medium importance. The mission involves capturing high-resolution optical imagery of Colombia's Puerto Rico region using a VNIR sensor in daylight photography mode. This task is part of our baseline pipeline tracking setup and represents normal operational status with fixed parameters.
+
+The priority level for this request is set at Medium Importance, indicating it's a standard operational tasking that aligns with our commercial tasking or routine monitoring activities. It's not tied to an immediate deadline but is subject to the standard workflow update process. We aim to capture this information in three days during the morning period.
+
+The geographic context for this mission is Colombia's Puerto Rico, which offers a diverse landscape for our VNIR sensor to analyze vegetation health and surface reflectance. This region provides an opportunity to assess chlorophyll absorption levels or calculate the NDVI index for environmental monitoring purposes.
+
+With this request, we're seeking a comprehensive multispectral vegetation analysis that will contribute to our understanding of land use, land cover changes, and potential environmental impacts. The data collected will serve as a valuable addition to our baseline pipeline tracking setup, enhancing our capabilities in vegetation health assessment and mapping.
+
+Please ensure the satellite constellation is ready for this task, and the VNIR sensor is properly calibrated to capture high-quality images in daylight conditions. We appreciate your attention to detail and adherence to our operational guidelines to deliver accurate and meaningful data that supports our environmental monitoring efforts.

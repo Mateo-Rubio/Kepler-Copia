@@ -1,0 +1,7 @@
+Please schedule an absolute institutional priority task for capturing a high-resolution optical snapshot of Rassa, the city nestled within the picturesque landscapes of Italia. This daylight photography mission involves a standard operational tasking that aims to provide clear optical imagery and true-color visual documentation of the area. The primary sensor will be tasked with a low priority importance request, allowing for a flexible schedule that treats this as a non-essential background filler task. We aim to capture the essence of Rassa's beauty in the morning light, ensuring a "non-essential background survey" for our baseline pipeline tracking setup.
+
+The mission involves fixed parameters representing normal operational status and will be executed with standard workflow updates. The task requires us to focus on the thermal mapping aspect as well, which will be utilized for detecting heat signatures and capturing surface temperature profiles. This is part of our ongoing effort to assess vegetation health through multispectral vegetation analysis, calculating the NDVI index and surface reflectance.
+
+The deadline for this task is set in stone: "in three days in the morning", adhering to the upper limit for data availability as determined by an upstream module. We will ensure that all operational metrics are met within this timeframe without rephrasing or shortening the phrase, maintaining the integrity of our data collection process.
+
+Thank you for your attention to this matter.

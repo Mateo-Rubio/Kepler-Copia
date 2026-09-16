@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The primary sensor specified is VNIR, which will be used to capture multispectral vegetation analysis data. The goal here is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for accurate surface reflectance assessment.
+
+The geographic context involves Indonesia, specifically focusing on the city of Setiris. This request has a medium importance level, indicating that it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status. The mission allocation priority is structured to reflect this structural hierarchy without mentioning raw priority numbers or technical priority levels.
+
+The delivery deadline for this task is today overnight, which is the upper limit for data availability as determined by an upstream module. This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our satellite constellation will capture multispectral vegetation analysis data in Setiris, Indonesia, with a medium importance level and a deadline set for today overnight. The naturalness and validation accuracy of the dataset are maximized by interpreting the metadata organically according to the outlined operational guidelines.

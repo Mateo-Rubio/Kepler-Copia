@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for tomorrow overnight. Our priority level is set at medium importance, which means this request is part of our standard operational pipeline tracking with fixed parameters representing normal operational status.
+
+The geographical context of our mission is centered in Indonesia, specifically the city of Ketapang, where we aim to capture high-resolution optical imagery using a near-infrared sensor for water body boundary mapping and soil moisture assessment. This task involves assessing gradients through the discrimination capabilities provided by near-infrared reflection, ensuring we gather detailed information on the land's water bodies and soil conditions.
+
+Given the operational guidelines, we're not mentioning raw technical system tags or coordinate arrays; instead, we're combining the JSON parameters naturally to describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+With our mission allocation priority, we're framing this request as a standard operational tasking that involves normal operational status with fixed parameters. The language heavily implies an urgent operational execution and an un-preemptable mission lock for capturing this critical payload.
+
+In conclusion, our task request is straightforward: tomorrow overnight, we aim to capture high-resolution optical imagery using a near-infrared sensor in Ketapang, Indonesia, focusing on water body boundaries and soil moisture assessment through the capabilities of near-infrared reflection. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.

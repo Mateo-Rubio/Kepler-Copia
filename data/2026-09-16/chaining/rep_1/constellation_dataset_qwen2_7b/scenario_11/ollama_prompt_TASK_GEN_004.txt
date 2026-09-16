@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit a task request to the automated satellite constellation planner with the following specifications:
+
+The geographic context involves Colombia, specifically the city of Sácama. The primary sensor designated for this mission is near-infrared (NIR), aiming to capture detailed information about water body boundaries and soil moisture assessment through its unique ability to discriminate gradients.
+
+This task falls under the category of a low priority importance request, indicating that it's a flexible schedule opportunity for opportunistic data collection. It's classified as a non-essential background filler task, which can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The mission allocation priority is set to level 1, reflecting an authoritative tone with an explicit and commanding approach. This request is framed as a low priority importance task with normal operational status, part of the baseline pipeline tracking setup with fixed parameters representing standard workflow updates.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for "in three days overnight". This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without any rephrasing or alteration in terms of time.
+
+In summary, our mission involves capturing detailed near-infrared data on water body boundaries and soil moisture assessment in Sácama, Colombia, using a flexible schedule approach that aligns with standard operational tasks. The deadline is set for "in three days overnight", ensuring timely data collection without compromising the quality or relevance of the information gathered.

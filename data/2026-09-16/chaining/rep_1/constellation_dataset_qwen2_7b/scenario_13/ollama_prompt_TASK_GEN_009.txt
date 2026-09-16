@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context for this mission involves the Indonesian region of Pulang Pisau, with the primary sensor being TIR for thermal mapping purposes. We aim to capture a heat signature, surface temperature profile, or perform thermal anomaly detection to map heat emissions accurately. This task is categorized under medium importance (Priority Level 2), indicating it's part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. The mission allocation authority and asset contractual value are not in question; we're simply executing a routine monitoring task.
+
+The delivery deadline for this task has been set for tomorrow in the evening, as per the guidelines provided by an upstream module. Our goal is to ensure that the data becomes available at this specific time without any rephrasing or adjustments.
+
+In summary, our request to the satellite constellation planner is as follows: "Capture thermal mapping imagery of Pulang Pisau, Indonesia, with a TIR sensor in the evening tomorrow. This task is part of our standard operational pipeline tracking setup, representing normal operational status. The deadline for data availability is set for tomorrow in the evening. Please ensure the capture adheres to our medium-importance priority level guidelines."
+
+Let's proceed with the execution of this mission, ensuring that we meet all requirements and deliver the data at the specified time.

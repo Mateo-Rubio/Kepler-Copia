@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for our automated satellite constellation planner. The operational guidelines demand natural interpretation of the provided data without technical jargon.
+
+The geographic context involves the region of Colombia, specifically the city of Tocaima, which adds a vivid backdrop to the mission's objective. This location is crucial for capturing detailed imagery that can provide insights into local environmental conditions and agricultural health.
+
+The mission allocation priority level is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock, reflecting the high stakes of this task.
+
+The primary sensor is 'VNIR', which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. This process will help us understand the health and productivity of the local vegetation, providing valuable data for environmental monitoring and agricultural management.
+
+The deadline for this task is today in the evening, marking the upper limit for data availability. This phrase must be inserted verbatim into our request, as it represents the stated time frame for data collection.
+
+In summary, my request to the satellite constellation planner is to capture high-resolution optical snapshots of Tocaima, Colombia, using a VNIR sensor for multispectral vegetation analysis in the evening today. This task is of high importance and requires urgent execution to ensure the integrity and relevance of our data collection process.

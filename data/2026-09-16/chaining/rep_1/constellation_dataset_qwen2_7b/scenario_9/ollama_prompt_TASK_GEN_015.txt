@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for tomorrow's overnight period. The primary sensor involved will be the VNIR (Visible Near-Infrared) camera, which is essential for capturing detailed information about vegetation health and surface reflectance. Our geographic context involves Indonesia, specifically near an equatorial region, where the city details are not available, but we're focusing on a location that's crucial for environmental monitoring.
+
+The priority level for this task is set to low importance, indicating that it's part of our baseline pipeline tracking with fixed parameters representing normal operational status. We're treating this as a non-essential background filler task, which can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task.
+
+Given the nature of the VNIR sensor, we aim to assess the chlorophyll absorption level and calculate the vegetation NDVI (Normalized Difference Vegetation Index) index, providing critical insights into the health of the local flora. With the deadline set for tomorrow overnight, we're ensuring that our data availability adheres to this upper limit for data availability without rephrasing or altering the time frame.
+
+Please plan accordingly to capture these essential environmental metrics during the designated period, allowing us to contribute valuable information to our ongoing studies on vegetation dynamics and health in Indonesia's equatorial regions.

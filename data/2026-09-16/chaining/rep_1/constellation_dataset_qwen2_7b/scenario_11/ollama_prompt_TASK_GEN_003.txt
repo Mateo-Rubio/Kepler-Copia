@@ -1,0 +1,11 @@
+In light of our absolute institutional priority for critical payload capture, we hereby request a highly detailed and comprehensive observation mission to be executed with utmost urgency. Our target location is the Indonesian province of Murung Raya, a strategic area that requires our undivided attention due to its unique environmental characteristics. The mission will focus on capturing thermal anomalies through our TIR sensor, which allows us to map heat emissions and surface temperature profiles accurately.
+
+Given the importance of this task, it is imperative that we receive the data by the deadline set for three days overnight. This timeframe is non-negotiable and represents a binding contract requirement in our operational framework. The mission will involve an active radar scan using our SAR sensor to pierce through heavy weather conditions and capture ground geometry with unparalleled precision.
+
+Additionally, to ensure comprehensive data collection, we will also utilize our VNIR sensor for multispectral vegetation analysis. This will enable us to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance, providing invaluable insights into the health and productivity of local ecosystems.
+
+With this request, we are committed to adhering to our baseline pipeline tracking setup, maintaining fixed parameters that represent normal operational status. The task is part of a routine monitoring process that contributes to our standard workflow updates, ensuring continuity in our comprehensive Earth observation capabilities.
+
+Please note that the deadline for data availability is "in three days overnight," as stipulated by our upstream module. This upper limit for data availability must be strictly adhered to, as it is a non-negotiable aspect of this task.
+
+We appreciate your immediate attention and swift action in fulfilling this request, which aligns with our commitment to delivering high-quality and timely Earth observation data that supports critical decision-making processes.

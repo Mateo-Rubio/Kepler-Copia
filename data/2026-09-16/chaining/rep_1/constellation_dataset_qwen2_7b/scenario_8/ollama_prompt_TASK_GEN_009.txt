@@ -1,0 +1,9 @@
+Please allocate a satellite mission with medium importance to capture high-resolution optical imagery of Mamuju, Indonesia, using a visible light sensor. This standard operational tasking involves daylight photography with clear optical imagery for baseline pipeline tracking purposes. The mission should be executed around mid-day in four days, as part of normal operational status and fixed parameters representing routine monitoring activities. This request is not an urgent operational execution or a binding contract requirement but rather a standard workflow update within our baseline pipeline.
+
+The objective is to obtain high-quality visual documentation that can provide detailed information about the area under observation. The imagery should capture the essence of the region, offering insights into its landscape and possibly highlighting any specific features or changes that might be of interest for further analysis. This task aligns with our commercial tasking objectives and contributes to our routine monitoring efforts.
+
+Please ensure that the satellite captures the region in its natural daylight conditions around mid-day on the specified date. The imagery should be of high resolution, enabling detailed analysis of the area's features and providing a clear optical snapshot suitable for various applications, including environmental monitoring, urban planning, and disaster response.
+
+The deadline for this task is firm and cannot be extended beyond four days from now, with the capture occurring around mid-day on that day. Please prioritize this request as part of your operational schedule, considering it as a standard operational tasking without any need for urgent execution or preemption of other higher-priority missions.
+
+Thank you for your attention to this matter.

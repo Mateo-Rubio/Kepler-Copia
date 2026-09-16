@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request that maximizes naturalness and validation accuracy of the dataset.
+
+The geographic context involves Colombia, specifically focusing on the city of San Martín. This location requires an absolute institutional priority due to its 'priority_level' being set at 3. The task is framed as an "urgent operational execution" for a critical payload capture under a binding contract requirement that involves a mandatory directive.
+
+For the mission allocation priority, we are dealing with a high level of importance, which necessitates an authoritative and explicit tone. This request is to be treated as an "un-preemptable mission lock", emphasizing its critical nature in our operational pipeline tracking setup.
+
+In terms of sensors and physical objectives, the primary sensor specified is TIR (Thermal Infrared). The goal here is to conduct thermal mapping for the area, capturing a "heat signature" or surface temperature profile. This task involves "thermal anomaly detection" and mapping heat emissions, providing essential data for monitoring and analysis.
+
+The delivery deadline is set for "the day after tomorrow", during the afternoon. This phrase must be inserted verbatim into the request as the upper limit for data availability, without any rephrasing, shortening, or relocation to a different part of the day.
+
+In summary, this task involves capturing high-resolution thermal imagery over San Martín, Colombia, with a high level of priority and urgency. The deadline is set for the afternoon of the day after tomorrow, ensuring that we receive critical data for our operational pipeline tracking setup.

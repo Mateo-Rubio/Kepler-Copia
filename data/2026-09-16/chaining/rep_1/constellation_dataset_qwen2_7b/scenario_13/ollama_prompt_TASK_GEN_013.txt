@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The primary sensor for this mission is VNIR, aimed at conducting multispectral vegetation analysis in Colombia, specifically focusing on the region around Campo Capote. The operational objective involves assessing the chlorophyll absorption level and calculating the vegetation NDVI index to understand surface reflectance patterns.
+
+Given the 'priority_level' set at medium importance, this request embodies a standard operational tasking that aligns with our baseline pipeline tracking setup. The mission's parameters are fixed, representing normal operational status and a routine monitoring activity. We're looking forward to capturing high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation of the target area.
+
+The delivery deadline is set for tomorrow in the morning, as per the instructions from an upstream module. This upper limit for data availability must be strictly adhered to, ensuring timely and relevant information for decision-making processes.
+
+With this request, we aim to contribute valuable insights into the environmental conditions of the targeted region, supporting our ongoing efforts in monitoring ecological health and agricultural activities. The task is part of our continuous effort to provide accurate and detailed information to stakeholders, contributing to sustainable development and informed policy-making.

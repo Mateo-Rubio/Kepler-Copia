@@ -1,0 +1,12 @@
+Ladies and gentlemen in the automated satellite constellation planning team,
+
+I hereby request your immediate attention for a background survey task with a low priority importance. This operational request involves capturing thermal mapping data using our thermal imaging sensor (TIR) on the day after tomorrow during the afternoon, as per our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our target geographic context is Norte, a region in need of surface temperature profiling or thermal anomaly detection and mapping heat emissions. Although specific country and city details are not available, we aim to gather critical information about heat signatures across this area without the need for an urgent operational execution or un-preemptable mission lock.
+
+This task serves as a non-essential background filler, allowing us to assess surface temperatures flexibly and opportunistically. We understand that dropping or rescheduling this request at convenience aligns well with our current workflow update needs.
+
+Thank you for your prompt consideration of this low priority importance task.
+
+Best regards,
+[Your Name]

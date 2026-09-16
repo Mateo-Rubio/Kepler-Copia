@@ -1,0 +1,9 @@
+As part of our ongoing Earth observation mission, we're tasked with capturing a high-resolution optical snapshot of the beautiful city of Cantagallo, located in the vibrant country of Colombia. This request is classified as a low priority importance task, which means that while it's not an absolute institutional priority or a binding contract requirement, we still aim to provide accurate and timely data.
+
+Utilizing our primary sensor, the VIS (Visible Imaging System), we will embark on a daylight photography mission to capture clear optical imagery and true-color visual documentation of Cantagallo. This will involve assessing the chlorophyll absorption levels in vegetation and calculating the vegetation NDVI index for surface reflectance analysis. The goal is to provide detailed information about the urban landscape, including its green spaces and built environment.
+
+The task is scheduled to be completed within a timeframe that aligns with our baseline pipeline tracking setup, which operates under fixed parameters representing normal operational status. We understand that this request might have a flexible schedule, allowing for opportunistically capturing data as long as it does not interfere with more critical tasks or contractual obligations.
+
+The deadline for this task is set for "in three days around mid-day", which means we aim to deliver the data no later than that time frame. This upper limit for data availability is crucial for ensuring timely delivery, allowing us to maintain our operational standards and meet the expectations of our clients.
+
+In summary, our mission is to capture a detailed VIS snapshot of Cantagallo in Colombia, focusing on daylight photography and vegetation analysis. We will adhere to our standard operational procedures while respecting the low priority nature of this task, ensuring it fits into our background survey or testbed tracking tasks without compromising more urgent missions.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner with a priority level of "High Importance". This request pertains to capturing a highly detailed thermal mapping of Norte, a region in the country with no specified city details. The primary sensor involved will be the TIR (Thermal Infrared), which is crucial for identifying heat signatures and surface temperature profiles.
+
+The operational context requires an "absolute institutional priority" or a "binding contract requirement", involving a "critical payload capture" or a "mandatory directive". This task is to be executed with utmost urgency and cannot be preempted, as it represents an "urgent operational execution" and an "un-preemptable mission lock".
+
+The deadline for this task has been resolved by an upstream module, requiring the data to be available "tomorrow in the evening". The request does not involve raw technical system tags or coordinate arrays; instead, it combines natural language descriptions of the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", they are gracefully ignored.
+
+The goal is to capture a "heat signature" through TIR observations, which will aid in thermal anomaly detection and mapping heat emissions. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, indicating standard workflow updates.
+
+In conclusion, this low priority importance request with a flexible schedule for opportunistic capture treats it as a "background survey" or "testbed tracking task". Our operator explicitly notes to "drop or reschedule at convenience", emphasizing that this is a non-essential background filler task. The deadline for data availability is set for "tomorrow in the evening", which must be included verbatim in the request.

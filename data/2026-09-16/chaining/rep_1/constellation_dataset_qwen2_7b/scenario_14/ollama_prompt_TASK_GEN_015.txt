@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner with high importance for an absolute institutional priority. The urgent operational execution required involves capturing a critical payload of a high-resolution optical snapshot in Indonesia, specifically in Kutai Timur city, using daylight photography techniques and clear optical imagery. This "standard operational tasking" is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The mission allocation authority and asset contractual value are significant for this task, as it involves a mandatory directive that cannot be preempted or rescheduled. The deadline for this task has been set to four days in the morning, which means we need the data availability by then.
+
+The primary sensor to be used is VIS (visual imagery), aimed at providing true-color visual documentation of the region. This will help us understand the landscape and environmental conditions accurately under ideal daylight conditions.
+
+Upon completion of this mission, we will have a comprehensive view of the region's surface temperature profile thanks to thermal mapping capabilities provided by our satellite constellation. The goal is to detect any thermal anomalies and map heat emissions efficiently.
+
+In conclusion, this task request is a binding contract requirement that involves the use of VIS sensors for capturing high-resolution optical imagery in Indonesia's Kutai Timur city. The deadline for data availability is four days in the morning, ensuring we meet our operational priorities and contractual obligations.

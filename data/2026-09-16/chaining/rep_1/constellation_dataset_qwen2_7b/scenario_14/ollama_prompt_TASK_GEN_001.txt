@@ -1,0 +1,9 @@
+Prompt: "Please capture a low priority importance task for an opportunistic survey of Caparrapí, Colombia, during the day after tomorrow's afternoon. This involves a flexible schedule for a non-essential background filler task that will assess chlorophyll absorption levels and calculate the NDVI index using the multispectral vegetation analysis provided by our VNIR sensor."
+
+In this operational context, we aim to gather data on the health of the local vegetation without imposing strict deadlines or high urgency. We are seeking to understand the environmental conditions and monitor the ecosystem dynamics in Caparrapí, Colombia, which is a part of our baseline pipeline tracking setup with normal operational status.
+
+The VNIR sensor will be utilized for this task, providing us with critical information on chlorophyll absorption levels and surface reflectance. This data will contribute to our understanding of the local vegetation and its health, allowing us to assess the impact of various environmental factors on plant growth.
+
+Given that this request is of low importance, we understand that it can be dropped or rescheduled at convenience if any other critical tasks arise. This task serves as a background survey or testbed tracking task in our operational workflow."
+
+Deadline: "the day after tomorrow during the afternoon"

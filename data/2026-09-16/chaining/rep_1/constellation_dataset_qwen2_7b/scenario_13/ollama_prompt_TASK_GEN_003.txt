@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby request a highly realistic and conversational English task submission to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a single request that maximizes naturalness and validation accuracy of the dataset.
+
+Our geographic context involves capturing data for Indonesia, with a specific emphasis on the Ecuatorial city. This location requires a detailed and accurate description, combining country, city, and landmark fields from 'location_details' to create a realistic scenario. If any of these fields are "N/A", we will gracefully ignore them and describe the location using the remaining valid fields or clean 'region_name'.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance and an absolute institutional priority, with potential implications of a binding contract requirement involving a critical payload capture. This request demands urgent operational execution and an un-preemptable mission lock, aligning with the structural hierarchy of priority levels.
+
+Our primary sensor for this task is 'NIR', which will be used to conduct near-infrared reflection for water body boundary mapping or soil moisture assessment, enabling us to discriminate gradients effectively.
+
+The delivery deadline for this task has already been resolved by an upstream module. The target day is 'tomorrow', with the specific time frame being 'during the afternoon'. This phrase must be inserted verbatim into the request as the stated upper limit for data availability, without any rephrasing, shortening, or relocation to a different part of the day.
+
+In summary, this task involves capturing detailed imagery of water body boundaries and soil moisture levels in Indonesia's Ecuatorial region using near-infrared technology. It is a high-priority mission with an urgent operational execution requirement for tomorrow afternoon. The dataset will be valuable for environmental monitoring and management purposes.

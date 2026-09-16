@@ -1,0 +1,13 @@
+Ladies and gentlemen of the automated satellite constellation planner,
+
+I am reaching out to request a mission allocation for an operational task that requires our utmost attention. The geographical context is centered around the beautiful country of Colombia, with our focus being on the enchanting city of Zipaquirá. We aim to capture a high-resolution optical snapshot, which will serve as a true-color visual documentation, offering a clear view of the region during daylight hours.
+
+The priority level for this mission allocation is designated as medium importance, indicating that this task is part of our baseline pipeline tracking setup with standard parameters and represents normal operational status. We are committed to conducting routine monitoring while maintaining fixed parameters that ensure the integrity of our commercial tasking.
+
+Our primary sensor requirement is a VIS (visual imaging system), which will enable us to capture detailed imagery, providing essential data for various applications such as urban planning, environmental monitoring, and disaster response. The VIS sensor's capability to deliver clear optical imagery will be crucial in understanding the landscape and its features under natural light conditions.
+
+The deadline for this task is set for four days in the morning, which means that by then, we must have access to the data collected during this specific time frame. This upper limit for data availability is a firm requirement that cannot be moved or shortened.
+
+In conclusion, this request is a standard operational task that requires your immediate attention and expertise. We trust that with your support, we can successfully complete this mission and ensure the timely delivery of the required data.
+
+Thank you very much for your cooperation.

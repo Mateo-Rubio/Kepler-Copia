@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic English request. The geographic context involves capturing data from Colombia, specifically Trujillo city, using a VNIR sensor on the target day - the day after tomorrow overnight.
+
+The mission allocation priority is of medium importance, indicating standard operational tasking or commercial tasking as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is to be treated as a routine monitoring activity with no close deadlines.
+
+The sensors and physical objectives involve VNIR sensor usage for multispectral vegetation analysis, aiming to assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance. The delivery deadline is set for the day after tomorrow overnight, as the upper limit for data availability.
+
+In conclusion, this request is for capturing high-resolution optical snapshots of daylight photography, clear optical imagery, or true-color visual documentation from Trujillo, Colombia, using a VNIR sensor on the day after tomorrow overnight. This is part of standard operational tasks with normal parameters and no close deadlines.

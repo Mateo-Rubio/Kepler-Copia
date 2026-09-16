@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'region_name' and nested 'location_details', interpreting 'priority_level', and understanding 'primary_sensor' for natural language integration.
+
+In the context of 'Italia', specifically in the 'Norte' region, our mission is to capture a high-resolution optical snapshot using our VIS sensor. This will serve as a daylight photography or clear optical imagery of the area, providing true-color visual documentation that will be essential for various applications such as urban planning, environmental monitoring, and disaster response.
+
+Considering the operational guidelines, this task has been allocated with a 'priority_level' of 2, indicating it's part of our standard operational tasks. This request is framed within our baseline pipeline tracking setup, where we have fixed parameters representing normal operational status or routine monitoring activities. The language used reflects professional, direct, and standard operational tone.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the upper limit for data availability being "in four days overnight". This phrase is inserted verbatim into our request, as it signifies the urgency and time frame within which we need to capture the data. 
+
+To summarize, our request is to gather visual information about 'Italia's Norte region using a VIS sensor, with an emphasis on capturing high-resolution optical imagery that will be essential for various applications. This task is part of our standard operational activities and has been allocated with a medium importance level, ensuring it is treated as a routine monitoring activity with fixed parameters.
+
+Let's proceed with the execution of this task, making sure to adhere to the guidelines provided for natural language integration and operational tone.

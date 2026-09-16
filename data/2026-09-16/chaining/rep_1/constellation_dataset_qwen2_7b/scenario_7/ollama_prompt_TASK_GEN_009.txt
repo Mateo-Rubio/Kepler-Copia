@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata is provided in JSON format, which includes a primary sensor of TIR, a geographic context centered around Malaysia's Ecuatorial city, and a target day set for "the day after tomorrow" in the morning.
+
+Given the operational guidelines, I will interpret the metadata organically:
+
+The geographic context highlights Malaysia's Ecuatorial city, which is described as such due to the 'city' field being 'Ecuatorial'. This implies a location with a tropical climate and possibly unique environmental characteristics that require observation.
+
+The mission allocation priority level is set at 1, indicating a low importance request. This means it involves a flexible schedule for opportunistic capture and can be treated as a non-essential background filler task. The language used will reflect this status, treating it as a 'background survey' or 'testbed tracking task'.
+
+For the sensors and physical objectives, the primary sensor is TIR. This requires capturing thermal mapping to obtain a heat signature, surface temperature profile, or for thermal anomaly detection and mapping of heat emissions.
+
+The delivery deadline is "the day after tomorrow in the morning", which serves as the upper limit for data availability without rephrasing or altering this specific time frame.
+
+In summary, our request involves capturing thermal mapping data of Malaysia's Ecuatorial city using a TIR sensor. This task has a low priority level and will be treated as a background survey or testbed tracking task with a flexible schedule. The deadline for data availability is set for "the day after tomorrow in the morning".

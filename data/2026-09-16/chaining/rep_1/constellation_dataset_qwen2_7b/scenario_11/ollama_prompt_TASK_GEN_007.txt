@@ -1,0 +1,5 @@
+In the morning tomorrow, our automated satellite constellation planner will capture a high-resolution optical snapshot of Mapiripán, Colombia. This standard operational tasking involves clear daylight photography to provide true-color visual documentation of the region's landscape, essential for baseline pipeline tracking and normal operational status. The VIS sensor will ensure the imagery is suitable for detailed analysis and monitoring purposes without interference from cloud cover or atmospheric conditions.
+
+Please note that the deadline for this task has been set for tomorrow in the morning, which represents the upper limit for data availability. This request does not require any adjustments to the scheduled capture time as it is part of our standard operational procedures.
+
+The satellite mission will proceed according to fixed parameters, adhering to the established baseline pipeline tracking setup. The imagery collected will be used for routine monitoring and workflow updates, contributing to our comprehensive understanding of the region's environmental conditions without compromising other missions' priorities.

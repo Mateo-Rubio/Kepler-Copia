@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate a natural interpretation of the JSON parameters provided.
+
+Given the context, we're tasked with capturing data using a near-infrared (NIR) sensor in Indonesia, specifically in Malinau. This mission falls under priority level 1, which means it's a low-priority importance request with a flexible schedule for opportunistic capture. The term "tomorrow overnight" serves as the upper limit for data availability, indicating that this task is part of a background survey or testbed tracking task.
+
+To maximize naturalness and validation accuracy, we'll describe the geographic context without using raw technical system tags, underscores, or coordinate arrays. We combine the JSON parameters naturally by describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority reflects an operational hierarchy that doesn't relate to how close the deadline is. Priority 1 indicates a low importance request with standard operational status or a routine monitoring task part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+In conclusion, our request is to capture data using a near-infrared sensor in Malinau, Indonesia, which is part of a background survey or testbed tracking task with no essential deadline constraints. The "tomorrow overnight" phrase serves as the upper limit for data availability, ensuring that we adhere to the guidelines provided.

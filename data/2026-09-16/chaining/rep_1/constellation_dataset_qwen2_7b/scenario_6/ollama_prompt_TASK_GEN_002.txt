@@ -1,0 +1,9 @@
+Given the current operational guidelines, we're tasked with capturing a low-priority importance snapshot of the region in "Italia", specifically focusing on the "Norte" area. The mission's priority is set at level 1, indicating that this request is to be treated as a non-essential background filler task, with the understanding that it can be dropped or rescheduled at convenience.
+
+The primary sensor for this task will be the VNIR (visual near-infrared) sensor, which will be used for a detailed assessment of the vegetation's chlorophyll absorption levels and surface reflectance. This will help in evaluating the health and condition of the local flora without the interference of cloud cover or other atmospheric conditions.
+
+The geographic context is centered around "Italia", with the city of "Norte" being the focal point. Although the details are somewhat generic, the region's description naturally combines the country and city to provide a clear geographical reference for the satellite constellation planner.
+
+The deadline for this task is set for today overnight, meaning that the required data needs to be available by the end of the night. This deadline is already resolved by an upstream module, ensuring that our request aligns with the existing operational schedule without any need for further adjustment or reevaluation.
+
+In conclusion, this low-priority task requires a flexible approach to scheduling and execution, focusing on providing valuable insights into the vegetation health across the "Norte" region in "Italia". The data collection will be conducted using the VNIR sensor during the overnight period, ensuring minimal interference from other operational tasks with higher priority levels.

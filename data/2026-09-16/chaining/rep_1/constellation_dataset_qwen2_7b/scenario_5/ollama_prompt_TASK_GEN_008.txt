@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data for an area in Norte, Brazil. This location will be described using the most realistic combination of available fields from 'location_details'. Since 'country' and 'city' are not available, we'll use 'region_name' to provide a clear reference point.
+
+The mission allocation priority is medium importance (Priority 2), which requires a professional and direct operational tone. We're framing this request as a "standard operational tasking" that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
+
+The primary sensor to be used for this task is SAR (Synthetic Aperture Radar). This technology will enable an active radar scan employing microwave surface imaging, allowing us to capture cloud-penetrating data. The goal is to pierce heavy weather conditions or capture ground geometry with precision.
+
+The delivery deadline is "the day after tomorrow overnight", which means the upper limit for data availability is set for that specific time frame. This phrase must be inserted verbatim into our request, as it's the resolved date and time for data delivery.
+
+In summary, we're requesting a medium-priority task involving the use of SAR technology to capture cloud-penetrating data for an area in Norte, Brazil, with a clear deadline set for "the day after tomorrow overnight". This task is part of our standard operational pipeline, requiring normal parameters and normal operational status.

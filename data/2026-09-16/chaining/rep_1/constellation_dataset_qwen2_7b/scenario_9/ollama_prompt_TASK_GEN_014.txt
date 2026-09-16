@@ -1,0 +1,15 @@
+In response to an absolute institutional priority involving a critical payload capture, we hereby request an immediate allocation of assets for an urgent operational execution. The task at hand necessitates a high-resolution optical snapshot of the picturesque region in Italia, specifically focusing on the charming town of Rocca d'Evandro. This daylight photography aims to provide clear optical imagery and true-color visual documentation that captures the essence of this beautiful location.
+
+We are utilizing our primary sensor, a VIS (visual imaging system), for this mission, which will ensure that the acquisition is cloud-penetrating and capable of capturing ground geometry under any weather condition. The operational parameters for this task are set for the target day, exactly three days from now, with the data delivery deadline being in the morning. This request is a binding contract requirement that represents an "urgent operational execution" and an "un-preemptable mission lock".
+
+Given the nature of this high-priority task, it is imperative to prioritize its allocation within the baseline pipeline tracking setup as part of our standard operational tasks. The parameters are fixed, representing normal operational status and a routine monitoring activity. This request is not subject to any pre-emptive scheduling adjustments and should be treated with the utmost importance.
+
+As we aim to capture the heat signature of the region, thermal mapping will be performed using our TIR (thermal imaging) capabilities. This process will allow us to detect surface temperature profiles and thermal anomalies, providing valuable insights into heat emissions across the area.
+
+In addition, for a comprehensive analysis, we are also incorporating VNIR (visible near-infrared) sensor data for multispectral vegetation assessment. This will enable us to assess chlorophyll absorption levels and calculate the vegetation NDVI index, as well as determine surface reflectance values.
+
+Furthermore, the acquisition of near-infrared reflection data using our NIR (near-infrared) sensor will aid in mapping water body boundaries and assessing soil moisture levels, providing critical information for distinguishing gradients across the landscape.
+
+With these objectives in mind, we request that this task be executed with the utmost care and attention to detail, ensuring that all data is collected by the specified deadline of three days from now, in the morning. This low priority importance request is a non-essential background filler task that can be rescheduled or dropped at convenience if necessary.
+
+Please proceed with the allocation of assets accordingly, ensuring that this high-priority mission receives the attention it deserves.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for immediate attention. The priority level is set at 'High Importance', signifying an absolute institutional priority with a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted.
+
+The target geographic context is Colombia, specifically focusing on the city of San Vicente del Caguán. Our mission allocation involves utilizing an active radar scan for microwave surface imaging, which will serve as an essential tool to pierce through heavy weather conditions or to capture ground geometry with precision.
+
+The primary objective is to conduct a detailed cloud-penetrating capture using our satellite assets, ensuring that we gather comprehensive data on the region's surface characteristics and environmental conditions. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status, emphasizing its importance in our standard workflow update.
+
+The delivery deadline for this task has already been resolved by an upstream module, and it stands as 'in three days around mid-day'. This upper limit for data availability must be strictly adhered to without rephrasing or altering the time frame.
+
+To sum up, our request involves a highly realistic and conversational English description of the operational guidelines. We aim to translate raw physical simulation metadata into a single task request that maximizes naturalness and validation accuracy by interpreting the metadata organically according to these guidelines. Our focus is on delivering high-quality data that meets our mission's requirements while adhering to the set deadline.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request. The task involves using a VNIR sensor for a standard operational tasking purpose, focusing on daylight photography and capturing clear optical imagery. The geographic context is centered around Norte, although specific country details are not available.
+
+The mission allocation priority is set at medium importance, implying this request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We are to conduct a routine monitoring task that involves assessing chlorophyll absorption levels and calculating the vegetation NDVI index along with surface reflectance. This is a standard workflow update that requires our attention but does not demand an urgent operational execution.
+
+The delivery deadline is set for three days in the morning, which means we must ensure the data availability adheres to this upper limit without rephrasing or altering the time of day specified.
+
+In summary, my request to the automated satellite constellation planner is as follows:
+
+"Please prepare to conduct a routine monitoring task using a VNIR sensor for daylight photography and capturing clear optical imagery. This task focuses on assessing chlorophyll absorption levels and calculating the vegetation NDVI index along with surface reflectance in Norte, three days from now, specifically in the morning. This request aligns with our baseline pipeline tracking setup and represents normal operational status."
+
+Let's proceed with executing this task efficiently while adhering to our priority levels and deadlines."

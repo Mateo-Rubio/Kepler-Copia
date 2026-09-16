@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly prioritized mission allocation. The objective is to capture a detailed VIS (high-resolution optical snapshot) of daylight photography, clear optical imagery, or true-color visual documentation from the region of Colombia, specifically focusing on the city of Andina. This "absolute institutional priority" involves a critical payload capture, necessitating an urgent operational execution and an un-preemptable mission lock due to its high importance.
+
+The request is categorized under Priority 3, indicating that this task is a binding contract requirement involving a critical payload capture or mandatory directive. The language heavily implies an urgent operational execution and an un-preemptable mission lock, emphasizing the need for immediate attention and priority in scheduling.
+
+The target day for this task is tomorrow, during the afternoon period. The deadline for data availability has already been resolved by an upstream module, providing a clear upper limit for data availability without requiring any rephrasing or adjustment of the timeframe.
+
+Naturally weaving operational objectives into the request, the VIS sensor aims to provide high-resolution optical imagery that captures the essence of daylight photography and clear optical documentation. This will serve as a crucial resource for various applications, including environmental monitoring, urban planning, and disaster response.
+
+In conclusion, this task request encompasses a comprehensive understanding of geographic context, mission allocation priority, sensors and physical objectives, and delivery deadlines. The automated satellite constellation planner is kindly requested to prioritize this mission accordingly, ensuring that the operational guidelines are followed meticulously for successful data acquisition.

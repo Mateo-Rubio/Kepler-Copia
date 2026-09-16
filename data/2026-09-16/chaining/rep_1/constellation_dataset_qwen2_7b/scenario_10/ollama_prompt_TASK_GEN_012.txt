@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic and conversational English request, maximizing naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia, specifically the city of Sekadau. We're focusing on capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation using the primary sensor, which is Near-Infrared (NIR). This task is categorized as low priority importance with a flexible schedule for opportunistic capture. It's described as a non-essential background filler task, treated as a background survey or testbed tracking task.
+
+The delivery deadline is tomorrow in the morning, which serves as the upper limit for data availability without any rephrasing, shortening, or movement to a different part of the day. The request integrates specific operational phrases to reflect the structural hierarchy of mission allocation priority: this low priority importance request has a flexible schedule for opportunistic capture.
+
+In summary, the task request is to capture high-resolution optical imagery using Near-Infrared technology in Indonesia's Sekadau city during tomorrow's morning period, underlining its low priority status with a focus on background survey or testbed tracking tasks. The deadline is set for tomorrow in the morning as the data availability upper limit.

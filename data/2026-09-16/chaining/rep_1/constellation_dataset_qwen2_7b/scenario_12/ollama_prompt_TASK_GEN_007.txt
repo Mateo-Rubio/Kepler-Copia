@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a highly prioritized task request to our automated satellite constellation planner. The objective is to capture a detailed thermal mapping of Otanche, Colombia, using the advanced TIR sensor. This "critical payload capture" is an absolute institutional priority due to its binding contract requirement involving a mandatory directive for thermal anomaly detection and heat emission mapping.
+
+The target day for this mission is in three days, with the operation scheduled for the evening period. This request embodies our baseline pipeline tracking setup with fixed parameters that represent normal operational status. It is a standard operational tasking that aligns with our contractual obligations and asset management needs.
+
+Given the importance of this mission, I emphasize that it must be executed with urgency and cannot be preempted or rescheduled for convenience. This "non-essential background filler task" serves as a background survey or testbed tracking task, with the understanding that it can be dropped or rescheduled at our discretion.
+
+In conclusion, my request is to conduct an active radar scan using microwave surface imaging capabilities of our satellite constellation to capture cloud-penetrating imagery that will provide invaluable insights into ground geometry and environmental conditions in Otanche, Colombia. The data collection process should commence on the specified day and time, ensuring that we meet our operational guidelines for timely and accurate data delivery.

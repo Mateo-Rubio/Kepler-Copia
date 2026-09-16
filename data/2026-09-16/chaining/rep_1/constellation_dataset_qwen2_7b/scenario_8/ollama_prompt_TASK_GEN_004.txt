@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The operational guidelines require us to interpret the raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request. Let's break down the information:
+
+The primary sensor is set to VNIR, which means we're aiming for a multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. This task involves capturing detailed information about the plant health and environmental conditions of the targeted area.
+
+Geographically, we're focusing on Ituango, Colombia, a region rich in biodiversity and agricultural activities. Our mission is to obtain a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation that will help us understand the landscape and its ecosystems better.
+
+The priority level for this task is low importance, which means we're looking at a flexible schedule for opportunistic capture as part of our background survey or testbed tracking task. It's a non-essential background filler that can be adjusted based on our operational needs.
+
+The deadline for this task has been resolved by an upstream module, and it's set for "in three days in the morning". This phrase must be inserted verbatim into our request as the stated upper limit for data availability. We're not rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our task request is to capture detailed multispectral vegetation analysis using VNIR sensors over Ituango, Colombia, on the specified day and time, with an understanding that this is a low-priority background survey. We're looking forward to receiving the data that will contribute to our broader knowledge of the region's environmental health.

@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a highly realistic and conversational English request:
+
+The Earth-observation mission operator is tasked with capturing a near-infrared reflection of water body boundaries and soil moisture assessment for Norte, a region in Brazil. This task falls under low priority importance, indicating a flexible schedule for opportunistic capture as part of a background survey or testbed tracking task. The operator explicitly notes that this request can be dropped or rescheduled at convenience.
+
+The primary sensor used for this mission is the near-infrared (NIR), which will map water body boundaries and assess soil moisture gradients. The geographical context involves Norte, a region in Brazil, without specifying a country, city, or landmark due to "N/A" entries. The request does not require specific details about the location since the focus is on capturing water body boundaries and soil moisture assessment.
+
+The mission allocation priority is low importance, signifying that this task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. It implies a "non-essential background filler task" where the deadline for data availability is tomorrow around mid-day, as set by an upstream module.
+
+To summarize, the Earth-observation mission operator requests to capture near-infrared reflection for water body boundaries and soil moisture assessment in Norte, Brazil, with low priority importance and a deadline of tomorrow around mid-day. The request is framed in a casual tone, emphasizing flexibility and opportunistic scheduling.

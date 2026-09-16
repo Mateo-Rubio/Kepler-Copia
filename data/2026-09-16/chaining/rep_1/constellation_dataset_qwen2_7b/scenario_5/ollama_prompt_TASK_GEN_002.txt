@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The objective is to translate raw physical simulation data into a single request that maximizes naturalness and validation accuracy.
+
+The geographical context involves capturing imagery of the location in Italia, specifically Poggi del Sasso. This region is to be observed using an active radar scan with microwave surface imaging capabilities, aiming for cloud-penetrating capture and ground geometry assessment. The mission allocation priority is set at Low Importance, indicating a flexible schedule for opportunistic data collection that can be dropped or rescheduled as convenient.
+
+The request is framed as a "non-essential background filler task" within the context of baseline pipeline tracking setups with normal operational status. The primary sensor involved is SAR, which will be used to gather high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation.
+
+The delivery deadline is set for the day after tomorrow in the morning, as per the upstream module's resolution. This upper limit for data availability is to be inserted verbatim into the request without any rephrasing or shortening.
+
+In conclusion, the task request is to capture thermal mapping of Poggi del Sasso using SAR technology, with an emphasis on assessing surface temperature profiles and detecting thermal anomalies. The imagery will serve as a heat signature document for the region, providing insights into heat emissions and aiding in environmental monitoring activities.

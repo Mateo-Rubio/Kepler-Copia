@@ -1,0 +1,9 @@
+Based on the provided Earth-observation metadata, we are tasked with capturing a highly critical payload using an infrared sensor (NIR) to assess soil moisture levels. Our focus is on Rionegro, Colombia, where we aim to gather detailed thermal mapping data of the region's agricultural fields under the cover of darkness, ensuring that no detail is missed in this "absolute institutional priority" task.
+
+This mission allocation carries a high importance, requiring an authoritative and commanding approach as it involves a binding contract requirement. The "urgent operational execution" necessitates an un-preemptable mission lock to ensure that the data collection process remains uninterrupted throughout the night.
+
+The deadline for this task is set for three days overnight, which means we must complete our observations by the end of the designated period without any compromise on quality or accuracy. This "standard operational tasking" will contribute to our baseline pipeline tracking setup, with fixed parameters that represent normal operational status and a standard workflow update.
+
+As part of this "flexible schedule" request, we explicitly note that this is a low priority importance task, allowing for the possibility of "drop or rescheduling at convenience" should other higher-priority missions require immediate attention. We treat it as a "background survey" or "testbed tracking task", acknowledging its role in supporting our research and development efforts.
+
+In summary, our request involves capturing a high-resolution optical snapshot of Rionegro's agricultural landscape using an infrared sensor (NIR) for soil moisture assessment under the cover of darkness. This is an "urgent operational execution" task with a clear deadline set for three days overnight, ensuring that we gather accurate thermal mapping data without any interruptions.
