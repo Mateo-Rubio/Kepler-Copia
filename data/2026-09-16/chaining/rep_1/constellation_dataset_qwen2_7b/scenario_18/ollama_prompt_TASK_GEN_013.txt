@@ -1,0 +1,13 @@
+Please translate the raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator. The task involves observing the region of Colombia, specifically focusing on the city of Puerto López, using thermal mapping capabilities provided by the primary sensor TIR. This is a low priority importance request, with an emphasis on capturing a heat signature or surface temperature profile as part of a non-essential background filler task. The mission allocation priority is set to reflect this, indicating a flexible schedule for opportunistic capture, with the operator explicitly noting that this can be dropped or rescheduled at convenience. The task's deadline is set for "the day after tomorrow in the morning", ensuring that the operator has sufficient time for data availability without any urgency.
+
+To maximize naturalness and validation accuracy, interpret the metadata organically according to the provided operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Do not mention raw priority numbers or technical priority levels. Use a casual, highly flexible tone to frame this request as a low priority importance task with a flexible schedule for opportunistic capture.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Interpret the key 'primary_sensor' by weaving operational objectives and descriptors into your request. For TIR sensor, explain the goal as thermal mapping to capture heat signatures or surface temperature profiles.
+
+4. DELIVERY DEADLINE: The deadline is set for "the day after tomorrow in the morning". Ensure this phrase is inserted verbatim into your request, as the stated upper limit for data availability.
+
+With these guidelines in mind, please provide a single, flowing paragraph that translates the raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator.

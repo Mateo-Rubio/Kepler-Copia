@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I submit a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The geographic context for this task involves capturing a high-resolution optical snapshot of Olmo al Brembo, a charming city in the beautiful country of Italia. We aim to document its daylight photography, providing clear optical imagery and true-color visual documentation that will serve as an essential background survey for our baseline pipeline tracking setup.
+
+Given the priority level of 1 (low importance), this request is framed as a flexible schedule "opportunistic capture" task with a "non-essential background filler" status. The operator explicitly notes to drop or reschedule at convenience, treating it as a "background survey" or "testbed tracking task". The deadline for this task is set for the day after tomorrow overnight, adhering to the upper limit for data availability.
+
+The primary sensor for this mission is VIS (visible light), which will be used to capture the city's beauty in daylight conditions. This task involves a standard operational tasking or commercial tasking that represents normal operational status with fixed parameters and a standard workflow update.
+
+In conclusion, our request is to capture Olmo al Brembo's essence through high-resolution optical imagery, using the VIS sensor for daylight photography purposes. This task prioritizes the natural beauty of Italia while adhering to our low priority importance guidelines, with the deadline set for the day after tomorrow overnight.

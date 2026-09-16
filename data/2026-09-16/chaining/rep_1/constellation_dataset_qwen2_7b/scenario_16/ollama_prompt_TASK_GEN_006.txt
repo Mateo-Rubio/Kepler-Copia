@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture highly realistic imagery of Mulya Bakti, located in Indonesia, using the Near-Infrared (NIR) sensor for a standard operational tasking. This request is of medium importance, as indicated by its priority level of 2, and involves a routine monitoring activity part of our baseline pipeline tracking setup.
+
+The imagery we seek is to be acquired overnight on the target day, which falls three days ahead from today, under conditions of low light for optimal data collection. The primary goal is to assess soil moisture levels and delineate water body boundaries through near-infrared reflection analysis. This task is to be executed with fixed parameters representing normal operational status.
+
+Please ensure this request receives attention according to its priority level, acknowledging it as a standard operational task without altering the baseline pipeline setup or compromising the quality of data collection. We aim to capture the essence of Mulya Bakti's environmental conditions accurately and contribute to our ongoing research on soil moisture assessment and water body mapping.
+
+Thank you for your cooperation in handling this request promptly and efficiently. Your expertise in satellite imagery and mission allocation is greatly appreciated.

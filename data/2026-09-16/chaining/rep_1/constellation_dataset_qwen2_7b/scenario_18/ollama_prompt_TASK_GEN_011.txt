@@ -1,0 +1,7 @@
+Please allocate a satellite mission with high priority for capturing a high-resolution optical snapshot of Norte city in the upcoming four days in the morning. This daylight photography will serve to document clear visual imagery and provide true-color documentation essential for our baseline pipeline tracking setup. The VIS sensor will deliver detailed images that are critical for our standard operational tasks, contributing to normal workflow updates without any preemption concerns.
+
+Given the flexible nature of this request, we can consider it as a non-essential background filler task with a schedule that allows for opportunistic capture. This low priority importance task involves assessing the city's landscape and urban developments through a high-resolution visual perspective that complements our routine monitoring activities.
+
+Please ensure that the imagery captures the essence of Norte city without any technical system tags, underscores, or coordinate arrays in your final output. Combine the JSON parameters naturally by describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", describe the location using the remaining valid fields or the clean 'region_name'.
+
+Thank you for your attention to this matter. We appreciate your cooperation in executing this task as part of our ongoing efforts to maintain a comprehensive and highly realistic dataset.

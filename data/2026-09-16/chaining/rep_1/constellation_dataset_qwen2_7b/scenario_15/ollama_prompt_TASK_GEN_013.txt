@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context of our target area is Colombia, specifically the city of Facatativá. We're focusing on capturing high-resolution optical imagery during an overnight period on the day after tomorrow. The mission allocation priority is medium importance, which means this task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor for this operation will be VIS (visual imagery), which we'll use to gather daylight photography, clear optical imagery, and true-color visual documentation. This request aligns with our baseline pipeline tracking setup that involves routine monitoring and workflow updates.
+
+Given the geographic location and the mission's priority level, this task is considered a standard operational tasking without an urgent deadline or contractual binding requirements. However, it's important to note that this request should be treated as a non-essential background filler task, which can be dropped or rescheduled at convenience.
+
+In conclusion, our task involves capturing high-quality VIS imagery of Facatativá, Colombia, overnight on the day after tomorrow. This mission is part of our standard operational status and represents normal workflow updates. The deadline for this task has been set as the day after tomorrow overnight, adhering to our pre-established upper limit for data availability without rephrasing or altering the time frame.

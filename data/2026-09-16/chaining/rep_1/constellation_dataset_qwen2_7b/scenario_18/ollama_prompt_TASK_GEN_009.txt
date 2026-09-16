@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. We aim to maximize naturalness and validation accuracy by interpreting the data organically according to established guidelines.
+
+The geographic context involves capturing imagery of Pura Sajau, Indonesia. The primary sensor utilized will be VIS for a daylight photography snapshot, providing clear optical imagery and true-color visual documentation of the area.
+
+This request carries a low priority importance level, indicating it's part of a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task with a "drop or reschedule at convenience" note, serving as a background survey or testbed tracking task.
+
+The deadline for this task is set for the day after tomorrow overnight. This phrase must be included verbatim in our request, as it represents the upper limit for data availability, without any rephrasing, shortening, or altering the time of day.
+
+In summary, we're requesting a VIS sensor capture of Pura Sajau, Indonesia, with a low priority importance level, scheduled for the day after tomorrow overnight. This task is part of our baseline pipeline tracking setup with fixed parameters and represents normal operational status.

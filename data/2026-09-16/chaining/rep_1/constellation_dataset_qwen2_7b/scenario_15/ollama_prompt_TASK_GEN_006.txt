@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves Indonesia's Sintang city, where the satellite will capture a high-resolution optical snapshot for daylight photography using a VIS sensor. This imagery aims to provide clear optical details of the region's landscape and urban structures. The mission allocation priority is set at low importance, implying that this task is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task in our operational pipeline.
+
+The delivery deadline is set for "the day after tomorrow in the morning", which represents the upper limit for data availability without any rephrasing or shortening. This deadline ensures that the collected data will be timely and relevant for our ongoing projects.
+
+In summary, our request is to capture a VIS optical snapshot of Sintang, Indonesia, with priority level 1, which is classified as a low importance task, scheduled for "the day after tomorrow in the morning". This task serves as a background survey or testbed tracking task that can be dropped or rescheduled at convenience without impacting our operational workflow.

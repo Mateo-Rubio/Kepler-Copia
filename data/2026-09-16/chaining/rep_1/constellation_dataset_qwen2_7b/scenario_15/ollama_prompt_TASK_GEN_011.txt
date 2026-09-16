@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby request a standard operational tasking for tomorrow in the evening. Our focus will be on the beautiful region of Italia, specifically the captivating city of Corteno Golgi. The mission involves conducting an active radar scan using microwave surface imaging to capture ground geometry and pierce through heavy weather conditions.
+
+This request is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters that are essential for business continuity. The task will involve capturing high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation to ensure comprehensive coverage of the region. Our goal is to provide detailed insights into the landscape and urban environment, supporting various applications from environmental monitoring to infrastructure assessment.
+
+The priority level for this mission is set at medium importance, indicating that it is a standard operational task with no immediate rush but requires careful planning to integrate smoothly into our workflow updates. We aim to complete this task efficiently, ensuring that it aligns with our ongoing commitments and contributes to the overall health of our operational pipeline.
+
+Please note that the deadline for this task has been resolved by an upstream module, and we are targeting tomorrow in the evening for data availability. This upper limit for data availability must be adhered to verbatim, as it represents the final point of data collection for this mission.
+
+Thank you for your attention and cooperation in ensuring that this request is fulfilled according to our operational guidelines.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+The geographic context involves capturing high-resolution optical imagery of Giugliano in Campania, Italy, using an active radar scan for microwave surface imaging. This will help us pierce through heavy weather conditions and capture ground geometry, providing essential data for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+This request is classified as a standard operational tasking with medium importance, indicating it's part of our routine monitoring activities that are essential for maintaining our contractual obligations. We understand the need to adhere to binding contract requirements involving a critical payload capture and that this mission allocation carries an un-preemptable mission lock.
+
+The delivery deadline has been resolved by an upstream module and is set for three days around mid-day. We must ensure that this upper limit for data availability is strictly adhered to, as it represents the time frame within which we need to complete our task.
+
+In summary, our task involves capturing thermal mapping data of Giugliano in Campania using a SAR sensor to assess heat signatures and surface temperature profiles, which will aid in thermal anomaly detection and mapping heat emissions. This is part of our standard workflow update process, aiming to provide valuable information for decision-making without compromising on quality or deadlines.

@@ -1,0 +1,7 @@
+In light of our operational guidelines for Earth-observation missions, I hereby request a low priority importance task to be executed by our automated satellite constellation planner. This task involves conducting a nighttime survey, specifically utilizing a multispectral vegetation analysis (VNIR sensor) on the region of Colombia, focusing on the city of San Martín. The purpose is to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance, providing valuable data for environmental monitoring and agricultural assessments.
+
+Given the nature of this request, it falls under the category of a "non-essential background filler task" with a flexible schedule, allowing for "drop or rescheduling at convenience". We understand that this task might be treated as a "background survey" or "testbed tracking task", fitting into our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status".
+
+Please note that the deadline for this task is "in four days overnight", which means the data availability upper limit is set for an overnight period. This timeframe should be adhered to as per our operational procedures, without any rephrasing or adjustment of the specified time frame.
+
+In conclusion, we look forward to receiving the results of this low priority importance task, which will contribute to our ongoing efforts in environmental monitoring and agricultural research.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves capturing imagery of a region with a country designated as Indonesia and a city named Ecuatorial. Although the landmark field is not specified, I will describe the location using the available details: Indonesia, Ecuatorial City. The mission allocation priority is set at medium importance (Priority 2), which implies a professional, direct tone suitable for standard operational tasks.
+
+Our primary sensor requirement is the Near-Infrared (NIR) band, which we will use to map water body boundaries and assess soil moisture levels. This sensor enables us to capture near-infrared reflections, providing valuable data for discriminating gradients in the landscape.
+
+The target day for this task is "the day after tomorrow," with the specific time of day being "in the evening." This deadline has been resolved by an upstream module and must be included verbatim in our request.
+
+In conclusion, my request to the automated satellite constellation planner is as follows: "Please capture high-resolution Near-Infrared imagery of Indonesia, Ecuatorial City, focusing on water body boundaries and soil moisture assessment. The mission should be executed with standard operational parameters, reflecting a baseline pipeline tracking setup with fixed parameters representing normal operational status. This task is part of our routine monitoring activities and is scheduled for 'the day after tomorrow' in the evening, as per the agreed-upon deadline."
+
+This request embodies the operational guidelines provided, ensuring that the translation of raw physical simulation metadata into a conversational English request is both natural and accurate.

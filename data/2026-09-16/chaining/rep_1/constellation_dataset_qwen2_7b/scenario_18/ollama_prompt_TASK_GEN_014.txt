@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the provided JSON format organically.
+
+The geographic context involves observing a region in "Italia", specifically focusing on the city of "Resiutta / Resiute". This location will be captured through our satellite's primary sensor, which is set to perform thermal mapping using TIR technology. The goal is to capture a heat signature or surface temperature profile, essential for thermal anomaly detection and mapping heat emissions.
+
+The mission allocation priority is set at 'High Importance', indicating an "absolute institutional priority" or a "binding contract requirement". This request involves a "critical payload capture" and must be executed with "urgent operational execution" as it's part of an "un-preemptable mission lock". The language reflects the structural hierarchy, emphasizing the importance of this task within our baseline pipeline tracking setup.
+
+The deadline for this task is "in four days in the morning", which serves as the upper limit for data availability. The sensors will be collecting data during this specific time frame to ensure optimal conditions for observation. Our request does not include raw technical system tags, underscores, or coordinate arrays; instead, we combine the JSON parameters naturally, describing the location using realistic combinations of fields from 'location_details' and 'region_name'.
+
+In summary, our task involves capturing a high-resolution thermal map of "Resiutta / Resiute" in "Italia" with our satellite's TIR sensor. This is a high-priority mission that requires urgent execution due to its critical nature for operational status updates. The deadline for data collection is set as "in four days in the morning", ensuring optimal conditions for observation.
+
+Please proceed with the allocation of assets and scheduling of tasks accordingly.

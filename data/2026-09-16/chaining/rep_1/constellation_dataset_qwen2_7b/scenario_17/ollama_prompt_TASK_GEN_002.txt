@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The geographic context involves capturing imagery of a specific location in Italy, specifically Vigonza, which is a city within this beautiful country. We aim to capture a high-resolution optical snapshot for daylight photography, providing clear optical imagery and true-color visual documentation of the area.
+
+Our mission allocation priority is medium importance, indicating that this request is part of our standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status. This is not an urgent operation but rather a baseline pipeline tracking setup with predetermined conditions.
+
+The primary sensor to be utilized for this task is the Near-Infrared (NIR) sensor. The goal here is to map water body boundaries and assess soil moisture levels, which will help in discriminating gradients within the area.
+
+The delivery deadline for this task is "the day after tomorrow in the evening". This means that we aim to have the data available by this specific time, ensuring that it's captured under optimal conditions without compromising the quality of the imagery.
+
+In conclusion, our request is for a routine monitoring task involving the capture of high-resolution optical imagery and water body boundary mapping using the Near-Infrared sensor. The deadline for this task is "the day after tomorrow in the evening", emphasizing the importance of adhering to this time frame for data availability.
