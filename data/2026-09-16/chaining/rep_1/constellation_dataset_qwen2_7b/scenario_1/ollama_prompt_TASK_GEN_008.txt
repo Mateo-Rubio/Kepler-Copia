@@ -1,0 +1,9 @@
+Please allocate a satellite mission with medium importance to capture a high-resolution optical snapshot of the city of Follo in Italia. This task involves daylight photography to gather clear optical imagery and true-color visual documentation for our baseline pipeline tracking setup. The fixed parameters represent normal operational status, ensuring this request is part of our standard workflow update. The deadline for this task is tomorrow in the morning, as per our upstream module's resolution.
+
+We aim to capture ground geometry, using the satellite's active radar scan capabilities provided by its SAR sensor, which employs microwave surface imaging to pierce through heavy weather conditions or to capture detailed ground structures. This mission will be executed with an understanding of the technical priority level, recognizing that it is a standard operational tasking without any urgency in relation to deadlines.
+
+The VIS sensor will contribute to our understanding of the region's landscape and urban developments, while the SAR sensor will provide critical insights into ground geometry and infrastructure. The thermal mapping capabilities of the TIR sensor will help us detect heat signatures and surface temperature profiles, which are essential for monitoring heat emissions and identifying potential anomalies.
+
+The VNIR sensor will be used to assess chlorophyll absorption levels in vegetation, calculating the NDVI index and surface reflectance, providing valuable data on plant health and land use. The NIR sensor will map water body boundaries and assess soil moisture, enabling us to discriminate gradients effectively.
+
+This request is part of our non-essential background filler tasks, which can be dropped or rescheduled at convenience if necessary. We appreciate your understanding and cooperation in ensuring that this task is completed according to the outlined guidelines and operational priorities.

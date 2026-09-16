@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The raw physical simulation metadata provided in JSON format is for a highly realistic and conversational English request.
+
+The geographic context involves the region of "Hrvatska", specifically Primorsko-goranska županija, which will be captured through an "absolute institutional priority" TIR sensor mission allocation due to its "critical payload capture" requirement. This "binding contract" necessitates an "urgent operational execution" and an "un-preemptable mission lock".
+
+Our primary sensor objective is to perform thermal mapping of the area using the "TIR" sensor for capturing a "heat signature", which will help in assessing the surface temperature profile or detecting thermal anomalies related to heat emissions. The task is scheduled for "in three days during the afternoon", when daylight photography conditions are optimal for obtaining clear optical imagery.
+
+This low priority importance request is explicitly framed as a "flexible schedule" task with a "non-essential background filler" status, allowing for "drop or rescheduling at convenience". It serves as a "background survey" or "testbed tracking task" that fits into our "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+
+In conclusion, this Earth-observation mission is a part of our ongoing efforts to gather valuable data for various applications, including environmental monitoring and agricultural assessment. The deadline for this task has been resolved by an upstream module, and the upper limit for data availability is set as "in three days during the afternoon", ensuring that we capture the optimal conditions for our TIR sensor objectives.

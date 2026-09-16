@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission allocation.
+
+The geographic context involves capturing data in the country of Italia, specifically in the city of Norte, utilizing natural language to describe the location without technical system tags or coordinate arrays. The primary sensor selected is the Near-Infrared (NIR), designed to map water body boundaries and assess soil moisture, serving as a "non-essential background filler task" with a flexible schedule for "opportunistic capture".
+
+The mission allocation priority is set at Level 1, indicating low importance. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". The language implies that this is a "background survey" or "testbed tracking task", emphasizing its status as a non-essential background filler.
+
+The delivery deadline is specified as "in three days in the evening". This phrase, "in three days in the evening", must be included verbatim in our request as the upper limit for data availability. The deadline does not require rephrasing, shortening, or altering the time of day.
+
+In conclusion, this mission aims to capture near-infrared reflection data over a flexible schedule, focusing on water body boundaries and soil moisture assessment, all to be completed by the evening of the third day after our request submission. Our operational guidelines ensure naturalness and validation accuracy by interpreting metadata organically according to the provided context.

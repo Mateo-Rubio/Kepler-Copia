@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines guide us through the process of interpreting the provided JSON format in a natural manner.
+
+The geographic context involves the Indonesian region of Rokan Hilir, a city within the country. We describe this location by combining the 'country' and 'city' fields to provide a vivid picture of the area, which is part of Indonesia, specifically Rokan Hilir.
+
+For mission allocation priority, we interpret the 'priority_level' as a medium importance task. This request falls under the category of standard operational tasks or commercial tasking, representing normal operational status within our baseline pipeline tracking setup. The language used reflects an expectation of fixed parameters and normal operational status, implying that this is part of our routine monitoring activities.
+
+The sensors and physical objectives are interpreted based on the 'primary_sensor' key. In this case, we're utilizing a VNIR sensor for multispectral vegetation analysis. This involves assessing chlorophyll absorption levels or calculating the vegetation NDVI index and surface reflectance, providing valuable insights into the health and characteristics of the vegetation.
+
+The delivery deadline is set for three days in the morning, a specific time frame that must be adhered to as per the guidelines. This phrase needs to be inserted verbatim in our request, indicating the upper limit for data availability without any rephrasing or alteration.
+
+In summary, my request involves capturing high-resolution optical snapshots of Rokan Hilir, Indonesia, using a VNIR sensor for multispectral vegetation analysis. This task is part of our standard operational activities with medium priority and must be completed by three days in the morning. The deadline serves as a clear boundary for data availability, ensuring that our mission allocation is carried out efficiently and effectively.

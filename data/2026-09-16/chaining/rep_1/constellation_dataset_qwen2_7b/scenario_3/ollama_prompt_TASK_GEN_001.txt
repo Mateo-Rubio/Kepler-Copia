@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for tomorrow in the evening. The priority level is set at medium importance, indicating a standard operational tasking that's part of our baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The geographical context involves Colombia, specifically the city of Tame. This location requires a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation using our VNIR sensor. The goal is to assess the chlorophyll absorption level or calculate the vegetation NDVI index and surface reflectance for this area.
+
+Please ensure that this request is treated as a standard operational task with no deviation from established procedures. The deadline for this task has been resolved by an upstream module, and it's set for tomorrow in the evening. I trust your team will handle this request efficiently without any need for reevaluation or adjustment.
+
+Thank you for your attention to this matter.

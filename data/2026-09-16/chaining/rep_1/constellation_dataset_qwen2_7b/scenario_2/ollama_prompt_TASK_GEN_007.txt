@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request that maximizes the naturalness and validation accuracy of the dataset.
+
+We're focusing on a location in Colombia, specifically the city of San Joaquín, which is an important area for monitoring due to its unique environmental characteristics. The mission allocation priority for this task is medium importance, indicating it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor involved in this observation will be the Near-Infrared (NIR) sensor, designed to capture near-infrared reflection for water body boundary mapping and soil moisture assessment. This will help us discriminate gradients and provide valuable insights into the landscape's health and potential issues.
+
+Our target day is tomorrow, with the specific diurnal period being overnight. This deadline is set as the upper limit for data availability and represents our commitment to delivering the required information by this time, without any rephrasing or shortening of this phrase.
+
+In summary, we're requesting a detailed observation using the Near-Infrared sensor over the city of San Joaquín in Colombia during the overnight period tomorrow. This task is part of our standard operational tasks and will contribute to our baseline pipeline tracking setup with fixed parameters that represent normal operational status.

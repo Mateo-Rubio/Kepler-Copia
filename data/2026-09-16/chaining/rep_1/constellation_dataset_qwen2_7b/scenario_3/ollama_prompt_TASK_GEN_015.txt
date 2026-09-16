@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner with high importance for immediate attention. The objective is to capture a high-resolution optical snapshot of the region named "Indonesia", focusing on the city called "Ecuatorial". This daylight photography aims to provide clear optical imagery and true-color visual documentation of the area, which is a critical payload capture requirement. It's an urgent operational execution that cannot be pre-empted or delayed.
+
+Given the priority level of 3, this task represents an absolute institutional priority, involving a binding contract requirement for capturing this essential data. The mission allocation authority and asset contractual value are significant factors in this "urgent operational execution" and "un-preemptable mission lock".
+
+To achieve this goal, we will utilize our primary sensor, which is designed to capture the essence of daylight photography, providing us with clear optical imagery and true-color visual documentation of the region. This task falls under the category of standard operational tasks, commercial tasking, or routine monitoring as part of our baseline pipeline tracking setup.
+
+The parameters for this task include fixed settings representing normal operational status or a standard workflow update. The priority level ensures that these "normal operational status" activities are conducted with the necessary attention and resources to maintain high-quality data collection.
+
+The deadline for this task is set for "the day after tomorrow in the morning". This upper limit for data availability must be adhered to, as it's a non-negotiable time frame for delivering the requested data. The satellite constellation will need to be allocated accordingly to ensure that we capture this essential information at the specified time.
+
+In conclusion, this task is a part of our ongoing efforts to provide comprehensive and accurate Earth observation data. It involves the utilization of our VIS sensor for daylight photography, focusing on the Indonesian region with the city of "Ecuatorial". The priority level 3 signifies high importance and urgency, requiring immediate attention and execution to meet the operational guidelines and contractual obligations.
+
+Let's proceed with the allocation of resources and satellite assets to ensure that this task is completed successfully and delivered by "the day after tomorrow in the morning" as per our plan.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to organic interpretation guidelines.
+
+The geographic context involves capturing a high-resolution optical snapshot of Mesetas, Colombia—a daylight photography or clear optical imagery essential for documentation purposes. This request is categorized under priority level 1, framing it as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted as a non-essential background filler task, treated as a background survey or testbed tracking task.
+
+The mission allocation priority is appropriately set, indicating standard operational status or normal workflow update requirements. The deadline for this task has already been resolved by an upstream module: "the day after tomorrow around mid-day". This phrase will be inserted verbatim into the request, specifying the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+Sensors and physical objectives are interpreted as follows: primary_sensor is VIS, meaning the goal involves capturing a high-resolution optical snapshot for daylight photography or clear optical imagery. This task is part of routine monitoring or baseline pipeline tracking setups with fixed parameters representing normal operational status.
+
+In summary, this Earth-observation mission operator request encapsulates the essence of the task within the specified guidelines, translating metadata into a fluent English paragraph that aligns with the operational context and deadlines.

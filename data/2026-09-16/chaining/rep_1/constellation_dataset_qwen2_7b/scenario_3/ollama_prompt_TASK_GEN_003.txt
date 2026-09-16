@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context of this mission involves a focus on Indonesia, specifically the city of Belibi. This location presents an opportunity to capture a high-resolution optical snapshot for daylight photography, providing clear visual documentation that highlights the true-color imagery available in the region. The primary sensor designated for this task is VIS (visual imaging), which will enable us to gather detailed information about the landscape and urban environment.
+
+Given the priority level of 3, this request carries significant importance within our institutional framework. It is an absolute priority, representing a binding contract requirement that involves a critical payload capture. We are tasked with executing this mission urgently, ensuring that it receives un-preemptable attention to meet our operational commitments.
+
+The deadline for this task has been set for tomorrow evening. This upper limit for data availability should be adhered to strictly, as it is the final point of delivery. The inclusion of this phrase "tomorrow in the evening" underscores the urgency and the need for timely execution.
+
+In conclusion, this request is a standard operational tasking that contributes to our baseline pipeline tracking setup. It involves fixed parameters representing normal operational status or a workflow update, reflecting our commitment to continuous monitoring and data collection. As we proceed with this mission, we must ensure that all aspects are executed with the utmost care and precision, adhering to our high standards of quality and reliability.

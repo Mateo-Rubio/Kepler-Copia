@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I hereby translate the raw physical simulation metadata provided into a highly realistic and conversational English request. Our objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to our operational guidelines.
+
+**GEOGRAPHIC CONTEXT**: We are targeting the region encompassing Colombia's Prado city, where our mission aims to capture a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation. This task involves an active radar scan using microwave surface imaging, piercing through heavy weather conditions or capturing ground geometry with precision.
+
+**MISSION ALLOCATION PRIORITY**: This request falls under the category of standard operational tasks, representing a commercial tasking or routine monitoring part of our baseline pipeline tracking setup. The parameters are fixed, reflecting normal operational status and a workflow update, aligning with our contractual obligations and standard procedures.
+
+**SENSORS AND PHYSICAL OBJECTIVES**: Our primary sensor is set to VIS (visual imagery), focusing on capturing the essence of the region during the day with high-resolution optical data. This data will serve as a valuable resource for various applications, such as environmental monitoring or urban planning.
+
+**DELIVERY DEADLINE**: The deadline for this task has been resolved by an upstream module, and we are targeting the day after tomorrow in the morning for the data availability. As per our guidelines, this phrase must be inserted verbatim into our request, serving as the upper limit for data availability without rephrasing or altering it.
+
+In conclusion, our Earth-observation mission is poised to gather essential data on Colombia's Prado region using our VIS sensor, adhering to standard operational protocols and priorities. The deadline for data collection is set for the day after tomorrow in the morning, ensuring timely delivery according to our established guidelines.

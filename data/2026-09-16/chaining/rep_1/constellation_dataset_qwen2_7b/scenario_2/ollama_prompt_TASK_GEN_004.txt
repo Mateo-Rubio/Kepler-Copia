@@ -1,0 +1,7 @@
+Given the high-resolution radar imaging capabilities of our SAR sensor, we aim to capture a detailed microwave surface scan of the region in Colombia, specifically focusing on the city of Nóvita. This critical payload capture serves as an essential background survey task, intended for operational flexibility and opportunistic capture. The mission's priority is set at level 1, indicating that this request is part of our standard pipeline tracking with normal operational status and fixed parameters. 
+
+Scheduled for delivery in four days around mid-day, this task requires an active radar scan that will pierce through any heavy weather conditions to provide us with a clear understanding of the ground geometry. This cloud-penetrating capture will enable us to gather invaluable data on land features and structures, which is crucial for our baseline monitoring activities.
+
+As we proceed with this mission, please note that it falls under low priority importance, allowing for a flexible schedule where the task can be dropped or rescheduled at convenience. We treat this request as a testbed tracking task, focusing on obtaining surface temperature profiles through thermal mapping and assessing vegetation health using VNIR and NIR sensors.
+
+In conclusion, our team is dedicated to capturing high-quality SAR imagery of Colombia's Nóvita city in four days around mid-day, ensuring that we provide the necessary data for our baseline pipeline tracking without compromising the operational flexibility required for low priority tasks.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm translating raw physical simulation metadata into a conversational English request for an automated satellite constellation planner. The task involves a low priority importance request with a flexible schedule for opportunistic capture. The objective is to conduct a "low-resolution multispectral vegetation analysis" using the VNIR sensor on a target day that's "in three days during the afternoon." This task focuses on assessing the "chlorophyll absorption level" and calculating a vegetation "NDVI index" to monitor surface reflectance.
+
+The geographic context of this mission is set in Indonesia, with the city location being "Ecuatorial," which implies a specific area within this country. Although the country and city details are provided, they do not offer much geographical specificity, so I will combine these with the 'region_name' field to describe the location accurately.
+
+The delivery deadline for this task is clearly stated as "in three days during the afternoon." This phrase will be included in my request verbatim, indicating the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our request to the automated satellite constellation planner is to capture a "vegetation health snapshot" using the VNIR sensor on a specified day and time frame. This task serves as a "non-essential background filler task," acknowledging its low priority importance and allowing for flexible scheduling.

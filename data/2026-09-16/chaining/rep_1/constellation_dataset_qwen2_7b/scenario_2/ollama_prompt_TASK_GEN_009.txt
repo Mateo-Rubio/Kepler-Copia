@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a low priority importance mission allocation. This request involves capturing a near-infrared reflection for water body boundary mapping and soil moisture assessment, which is part of a standard operational tasking or commercial tasking setup within our baseline pipeline tracking system.
+
+The target geographic context is Indonesia, specifically the city of Sintang, where we aim to capture a heat signature and surface temperature profile through thermal mapping. This operation will serve as a background survey or testbed tracking task with fixed parameters representing normal operational status.
+
+The deadline for this task has been resolved by an upstream module, requiring the data availability to be "in three days overnight". This phrase must be included verbatim in our request, indicating the upper limit for data availability without rephrasing, shortening, or relocating it to a different part of the day.
+
+In conclusion, this low priority importance request is designed with flexibility in mind, allowing for a "drop or reschedule at convenience" approach. Our team will treat this as an opportunistic capture task, ensuring that our satellite constellation focuses on providing valuable insights into Indonesia's water bodies and soil moisture levels during the overnight period of the third day from now.

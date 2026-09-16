@@ -1,0 +1,7 @@
+As an operator of Earth-observation missions, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Here's the context:
+
+We're focusing on Colombia, specifically in the city of Canelos, for a task involving near-infrared (NIR) sensors. This mission allocation has a priority level of 2, which means it's part of our standard operational tasks or commercial tasking, with fixed parameters representing normal operational status. This request is to be executed as a routine monitoring activity and included in our baseline pipeline tracking setup.
+
+The primary sensor is set for the day after tomorrow in the morning, with daylight photography objectives. We aim to capture clear optical imagery and assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance. Our goal is to map water body boundaries or assess soil moisture, distinguishing gradients accurately.
+
+In summary, this mission is part of our standard operational tasks with a medium importance level, scheduled for execution in Colombia's Canelos city on the day after tomorrow in the morning, focusing on near-infrared sensors for routine monitoring and data collection activities.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves capturing data from Indonesia, specifically focusing on Banyuasin city. This location will provide valuable insights through an active radar scan using microwave surface imaging technology for cloud-penetrating capture and detailed ground geometry mapping. The mission allocation priority is set at medium importance, indicating a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be utilized is the TIR (Thermal Infrared), which will enable us to perform thermal mapping to capture heat signatures and surface temperature profiles. This process is crucial for detecting thermal anomalies and mapping heat emissions, essential for various applications such as urban planning, environmental monitoring, and disaster response.
+
+The delivery deadline is set for "the day after tomorrow overnight", meaning the data must be available by this time frame. This upper limit for data availability is a predefined milestone that ensures timely decision-making without compromising the integrity of our operational workflow.
+
+In conclusion, this request is structured with the aim of providing comprehensive and actionable data to support ongoing projects and initiatives, ensuring that our satellite constellation operations align with our strategic priorities while maintaining operational flexibility and efficiency.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby request a standard operational tasking for a near-infrared (NIR) sensor to capture thermal mapping imagery of the region encompassed within the country of Colombia and the city of Monterrey. This mission allocation carries medium importance, as it involves a critical payload capturing requirement that aligns with our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status, and this task is part of our standard workflow updates.
+
+The imagery will serve to assess soil moisture levels and water body boundaries, providing essential data for agricultural monitoring and environmental management purposes. The deadline for this task has been set, requiring the delivery of the data overnight in three days. This request is to be treated as a routine monitoring activity with no deviation from our standard operational procedures.
+
+Please ensure the imagery captures the thermal signature accurately, highlighting surface temperature profiles and any potential anomalies that could indicate issues such as drought or water scarcity. The imagery should provide a comprehensive view of the region's conditions, enabling informed decision-making for stakeholders involved in agricultural planning and environmental conservation efforts.
+
+This request is to be executed with the utmost professionalism and efficiency, adhering to our contractual obligations without compromising on quality or accuracy. Thank you for your attention to this matter.
