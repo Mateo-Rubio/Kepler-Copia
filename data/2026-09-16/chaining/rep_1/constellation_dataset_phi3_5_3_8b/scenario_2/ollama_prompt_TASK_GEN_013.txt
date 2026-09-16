@@ -1,0 +1,3 @@
+Request for Earth Observation Task Allocation:
+
+We are initiating a low priority importance task focused on capturing high-resolution optical snapshots in daylight photography within Mesetas, Colombia. This is intended to provide clear optical imagery and true-color visual documentation of the region's natural landscape. Considering its non-essential background filler nature, this operation has a flexible schedule with the understanding that it can be dropped or rescheduled at our convenience. The targeted delivery for these observations must be completed by the day after tomorrow around mid-day to ensure timely data processing and integration into our observation pipeline.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request for an automated satellite constellation planner. Our objective is to translate the provided JSON metadata into a conversational English request that aligns closely with our operational guidel0ne. The primary sensor required for this operation is VIS, aiming at obtaining high-resolution optical snapshots suitable for daylight photography and true-color visual documentation.
+
+The targeted location for this task is Cantagallo in Colombia, where we seek to capture clear optical imagery of the region's landscapes under normal operational conditions. Given that there are no specific city or country details beyond 'Cantagallo', our request will focus on leveraging what information is available for a realistic description within this context.
+
+Considering the priority level assigned as Priority 1, which translates to low importance and flexible scheduling, we approach this task with an opportunistic mindset. The deadline has been firmly set at "in three days around mid-day," ensuring timely completion without preemptive rescheduling requests from our end.
+
+In summary, I am requesting a non-essential background filler task that involves capturing high-resolution optical snapshots of Cantagallo for daylight photography within the next three days around mid-day. This will serve as supplemental data to enhance our Earth observation portfolio and should be treated with flexible scheduling at your discretion, bearing in mind the non-urgent nature of this request.

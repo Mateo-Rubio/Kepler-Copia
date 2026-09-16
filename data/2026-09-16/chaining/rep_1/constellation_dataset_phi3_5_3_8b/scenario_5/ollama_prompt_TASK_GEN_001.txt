@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the following raw physical simulation metadata into a realistic and conversational English request:
+
+We are looking for a standard operational tasking involving multispectral vegetation analysis using VNIR technology in Curití, Colombia. This routine monitoring will assess chlorophyll absorption levels and calculate surface reflectance to determine the Normalized Difference Vegetation Index (NDVI). The target location is identified by its city name within the country of Colombia.
+
+The task aligns with our baseline pipeline tracking setup that requires regular updates, making it a standard operational tasking. It's essential for maintaining up-to-date environmental data and supporting agricultural sustainability efforts in the region. The delivery deadline is set for "the day after tomorrow in the evening," ensuring timely reporting while allowing flexibility within our workflow update parameters.
+
+In summary, this request seeks a routine VNIR multispectral vegetation analysis of Curití, Colombia, with an emphasis on chlorophyll absorption and surface reflectance assessment to be completed by the specified evening deadline two days hence. The task is part of our standard operational tracking efforts but not so urgent as to demand immediate action; rather, it's a critical component in maintaining our environmental data integrity for Curití within acceptable timeframes.

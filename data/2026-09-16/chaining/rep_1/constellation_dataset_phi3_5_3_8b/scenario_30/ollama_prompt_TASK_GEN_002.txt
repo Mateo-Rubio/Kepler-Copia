@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided JSON metadata into a realistic and conversational English request for immediate attention. Here are the details:
+
+We aim to conduct multispectral vegetation analysis over Peroj in Hrvatska, leveraging near-infrared reflection capabilities of our VNIR sensors. This routine monitoring is part of our baseline pipeline tracking setup with fixed parameters and aims at assessing chlorophyll absorption levels or calculating the NDVI index to understand surface reflectance better.
+
+Given that this task has been assigned a low priority importance, we are requesting it as a non-essential background filler task. The schedule for this opportunistic capture is flexible and can be dropped or rescheduled at our convenience. This aligns with the standard operational tone expected for such tasks within our mission framework.
+
+The delivery deadline set by an upstream module has been resolved to tomorrow morning, which we must adhere to strictly. The request explicitly includes this upper limit for data availability without any alterations or rephrasing of the time constraint.
+
+Here is the finalized task request:
