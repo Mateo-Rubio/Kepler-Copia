@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for an operational allocation. The primary sensor is set to TIR, aiming for thermal mapping to capture heat signatures and surface temperature profiles in the target area. Geographically, we're focusing on Indonesia, specifically the equatorial region, which is a vital location for understanding climate dynamics and environmental changes.
+
+With a priority level of medium importance, this request embodies a standard operational tasking that is part of our baseline pipeline tracking setup. The fixed parameters represent normal operational status, with the understanding that this mission is a critical component of our ongoing monitoring efforts without any preemption or delay.
+
+The deadline for this task has been resolved by an upstream module and is set to be completed in four days during the morning hours. This upper limit for data availability ensures that we capture the most accurate information at the optimal time, when conditions are most conducive for our objectives.
+
+Given the nature of TIR observations, we anticipate clear thermal mapping capabilities that can help detect thermal anomalies, mapping heat emissions from various sources such as industrial activities, agricultural fields, or natural phenomena. This task is part of our ongoing efforts to provide comprehensive environmental monitoring and support decision-making processes based on real-time data.
+
+In summary, this operational request for thermal mapping in Indonesia's equatorial region during the morning of four days hence aligns with our medium-priority standard pipeline tracking setup, aiming to deliver valuable insights that contribute to our broader understanding of Earth's systems.

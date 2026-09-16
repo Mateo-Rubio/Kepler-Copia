@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the operational guidelines provided.
+
+The geographic context involves capturing a "true-color visual documentation" of Talamello, a small town nestled in the picturesque region of Italia. This request is labeled as a "low priority importance" task, implying a "flexible schedule" for "opportunistic capture". It's explicitly noted as a "background survey" or "testbed tracking task", with an understanding that it may be "dropped or rescheduled at convenience".
+
+The mission allocation priority reflects the operational status of this request being part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", despite its classification as low importance.
+
+The primary sensor involved is VNIR, which aims to assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. This task focuses on understanding the health of vegetation in Talamello, providing valuable insights for environmental monitoring and agricultural practices.
+
+The delivery deadline for this task has already been resolved by an upstream module. The stated upper limit for data availability is "today in the evening", which must be inserted verbatim into our request without any rephrasing or alterations.
+
+In conclusion, this request encapsulates a low-priority yet essential background survey of Talamello using VNIR technology, aiming to capture critical environmental data that will contribute to our understanding and management of natural resources. The task is scheduled for completion "today in the evening", ensuring timely data collection without compromising the quality or relevance of the information gathered.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context for this mission involves observing the Indonesian region with a focus on Gilirang city. Our primary sensor requirement is SAR (Synthetic Aperture Radar), which will provide an active radar scan using microwave surface imaging to capture cloud-penetrating imagery or ground geometry, essential for understanding the landscape under various weather conditions.
+
+The mission allocation priority is set at High Importance (Priority 3). This indicates that this task is considered an absolute institutional priority or a binding contract requirement involving a critical payload capture. We need to ensure an urgent operational execution and an un-preemptable mission lock due to its critical nature.
+
+The delivery deadline for this task is "in three days overnight". This phrase serves as the upper limit for data availability, emphasizing that we must complete this task within the specified timeframe without any flexibility on the timing.
+
+In summary, our request is to capture high-resolution SAR imagery of Gilirang city in Indonesia during the overnight period in three days. The primary objective is to gather cloud-penetrating radar scans that will provide valuable insights into the landscape and ground geometry under various weather conditions. This task carries a high priority level and requires immediate attention to ensure its successful completion within the given timeframe.
+
+Let's proceed with this request as an "absolute institutional priority" or "binding contract requirement", ensuring that our team is fully prepared for this critical payload capture. We aim to deliver the expected results by leveraging our SAR capabilities to their fullest potential in the specified timeframe.

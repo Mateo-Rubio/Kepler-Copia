@@ -1,0 +1,7 @@
+As part of our standard operational tasking for a commercial monitoring project, we are requesting an active radar scan using microwave surface imaging to capture ground geometry and cloud-penetrating data. This mission is assigned with medium importance, signifying it as a routine monitoring task within our baseline pipeline tracking setup. We aim to achieve fixed parameters representing normal operational status, ensuring the request aligns with our standard workflow updates.
+
+The geographical context for this operation involves France, specifically Norte city, which will serve as our primary observation point. The mission's priority indicates that while it is not an absolute institutional priority or a binding contract requirement involving a critical payload capture, it does hold significant value in our operational hierarchy.
+
+The delivery deadline stipulates that the data must be available by the day after tomorrow overnight. This is the upper limit for data availability as determined by an upstream module, and we must adhere to this specific time frame without rephrasing or altering it.
+
+We look forward to receiving the SAR data that will provide us with a comprehensive view of the region during the overnight period, enabling us to capture essential information for our ongoing monitoring efforts.

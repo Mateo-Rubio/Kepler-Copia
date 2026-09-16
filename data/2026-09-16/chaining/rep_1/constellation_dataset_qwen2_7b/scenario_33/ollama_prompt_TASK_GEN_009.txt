@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The task involves capturing detailed data for the region of Indonesia, specifically focusing on Rokan Hilir city. The primary sensor utilized will be the Near-Infrared (NIR) instrument, aimed at mapping water body boundaries and assessing soil moisture levels.
+
+This request is classified as a low priority importance task, indicating that it's a flexible schedule non-essential background filler task. We can drop or reschedule this task at convenience without compromising operational continuity. The data collection process will adhere to fixed parameters representing normal operational status, fitting into our baseline pipeline tracking setup. 
+
+The imagery acquisition deadline is set for the day after tomorrow overnight. This means that by the end of the day following the day after tomorrow, we aim to have the data available for review and analysis. The task requires capturing a thermal mapping snapshot to detect surface temperature profiles and identify any heat anomalies during this time.
+
+In summary, our mission involves capturing high-resolution optical snapshots in daylight photography mode to document clear optical imagery and true-color visual documentation of the region. Simultaneously, we aim to perform near-infrared reflection analysis for water body boundary mapping and soil moisture assessment. This task is part of our standard operational tasks, contributing to our commercial tasking or routine monitoring activities with normal operational status.
+
+Please ensure that this request is prioritized according to its importance level, as outlined in the guidelines provided. Thank you for your attention to detail and cooperation in fulfilling this task efficiently.

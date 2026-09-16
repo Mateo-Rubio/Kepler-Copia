@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English request. The objective is to translate raw physical simulation metadata into a single, comprehensive task.
+
+The geographic context of our request involves capturing thermal mapping data over a region with rich cultural heritage, specifically in the country of Italia, with a focus on the city of Norte. This location offers a unique opportunity to observe heat signatures and surface temperature profiles, essential for detecting thermal anomalies and mapping heat emissions across the area.
+
+This task carries a high priority level, indicating an "absolute institutional priority" or a "binding contract requirement". We are mandated to perform a "critical payload capture" that necessitates "urgent operational execution" and underscores an "un-preemptable mission lock", reflecting the importance of this request within our baseline pipeline tracking setup.
+
+The primary sensor for this mission is TIR (Thermal Infrared), which will enable us to conduct detailed thermal mapping. This technology allows for capturing "heat signatures" and "surface temperature profiles", providing invaluable insights into the thermal dynamics of the region. We aim to assess heat emissions, detect anomalies, and map areas with varying temperatures accurately.
+
+The delivery deadline is set for "in three days in the evening". This upper limit for data availability must be adhered to without compromise, as it represents a critical juncture for our operational planning.
+
+In conclusion, this task request emphasizes the need for an authoritative approach due to its high priority level. It involves capturing thermal mapping data over a culturally significant area in Italia, utilizing advanced TIR technology. The deadline for data availability is "in three days in the evening", ensuring that our mission is executed with utmost efficiency and precision.
+
+Let's proceed with this request, ensuring that we meet all operational guidelines and deliver the requested data within the specified timeframe.

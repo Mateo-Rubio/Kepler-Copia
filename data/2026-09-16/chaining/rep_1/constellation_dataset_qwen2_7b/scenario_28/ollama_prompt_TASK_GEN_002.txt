@@ -1,0 +1,12 @@
+To the automated satellite constellation planner,
+
+I'm submitting a low priority importance task for tomorrow during the afternoon. The mission's geographic context involves capturing a high-resolution optical snapshot of Norte, focusing on daylight photography, clear optical imagery, and true-color visual documentation. This request is framed as a non-essential background filler task with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task.
+
+The primary sensor for this mission is VNIR, aimed at assessing the chlorophyll absorption level and calculating the vegetation NDVI index along with surface reflectance. This task doesn't carry an urgent operational execution or an un-preemptable mission lock, but rather represents normal operational status or a standard workflow update within our baseline pipeline tracking setup.
+
+Given that this request involves fixed parameters representing normal operational status, there's no mention of raw priority numbers or technical priority levels. The language used heavily implies a low priority importance with a flexible schedule for data availability during the afternoon tomorrow.
+
+Best regards,
+
+[Your Name]
+Earth-observation mission operator

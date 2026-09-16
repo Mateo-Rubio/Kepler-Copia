@@ -1,0 +1,9 @@
+As an operator of Earth-observation missions, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The objective is to translate raw physical simulation data into a single task that maximizes naturalness and validation accuracy.
+
+The geographical context involves capturing data from Indonesia, specifically focusing on the Kepulauan Meranti region. This area is known for its rich biodiversity and unique ecosystems, making it an ideal location for detailed analysis using our VNIR sensor. The primary goal here is to conduct a multispectral vegetation analysis, which will help assess the chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance patterns.
+
+With a priority level of medium importance, this task is part of our standard operational pipeline tracking setup with fixed parameters. It represents a routine monitoring activity that contributes to our baseline knowledge base without disrupting other critical operations. The request is framed as a "non-essential background filler task," acknowledging its flexible schedule for opportunistic capture and treating it as a "background survey" or "testbed tracking task."
+
+The delivery deadline is set for four days from now, with the data required overnight. This upper limit for data availability is a predefined metric that ensures timely information without compromising the quality of our observations.
+
+In summary, this request aims to leverage our VNIR sensor capabilities to gather valuable insights on Kepulauan Meranti's vegetation health and surface reflectance patterns. It adheres to operational guidelines by avoiding technical jargon and focusing on natural language interpretation of the metadata provided.

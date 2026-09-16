@@ -1,0 +1,5 @@
+Please allocate a satellite mission with medium importance to capture an active radar scan using microwave surface imaging technology for cloud-penetrating capture of ground geometry. The target geographic context is Indonesia, specifically the city of Beringin Jaya. This standard operational tasking involves fixed parameters representing normal operational status and will be part of our baseline pipeline tracking setup. The mission should have critical payload capture and mandatory directive characteristics, implying urgent operational execution and an un-preemptable mission lock. Kindly ensure that this request is treated with the appropriate attention and allocated resources as it falls under medium priority level requirements.
+
+The delivery deadline for this task is tomorrow in the evening, which is the upper limit for data availability as per our upstream module's resolution. Please adhere to this time frame without rephrasing or altering the phrase "tomorrow in the evening" in any way.
+
+Thank you for your attention and prompt action on this matter.

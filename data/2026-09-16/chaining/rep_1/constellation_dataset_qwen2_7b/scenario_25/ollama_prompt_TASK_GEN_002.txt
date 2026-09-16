@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The objective is to translate raw physical simulation data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing "Norte", a location within an unspecified country. The primary sensor to be utilized is Thermal Infrared (TIR), aiming for thermal mapping to capture heat signatures or surface temperature profiles, essential for thermal anomaly detection and mapping of heat emissions.
+
+Given the priority level of 1 (low importance), this task is framed as a "flexible schedule" request with a "non-essential background filler task". It's explicitly noted that the operator should treat it as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The deadline for this task has been resolved by an upstream module, set for "in three days in the evening". This phrase is inserted verbatim into the request as the upper limit for data availability, emphasizing that this is not a rephrased, shortened, or relocated metric.
+
+In conclusion, our request to the automated satellite constellation planner is to capture thermal imagery of Norte during the evening on the third day ahead, focusing on heat signatures and surface temperature profiles. This task is part of our low-priority background survey operations, with an understanding that it can be conveniently scheduled according to operational needs.

@@ -1,0 +1,11 @@
+Ladies and gentlemen of our automated satellite constellation planner,
+
+We are tasked with a medium importance mission allocation, which involves an active radar scan using microwave surface imaging. This task aims to capture cloud-penetrating imagery overnight on the day after tomorrow, focusing on Norte, a region in need of detailed ground geometry observation amidst potential weather obstructions.
+
+Our priority level ensures that this request is handled as part of our standard operational tasking, with fixed parameters representing normal operational status. We aim for baseline pipeline tracking with this mission, focusing on gathering critical data without causing any preemption or disruption to other higher-priority tasks.
+
+As we navigate the complexities of Earth's diverse landscapes, this request serves as a reminder of the importance of maintaining a balanced operational schedule that respects both the urgency of immediate needs and the flexibility required for opportunistic capture. 
+
+Please ensure that our SAR sensor is allocated accordingly to meet these requirements, capturing thermal anomalies and providing essential data for informed decision-making processes.
+
+Thank you for your attention to this matter.

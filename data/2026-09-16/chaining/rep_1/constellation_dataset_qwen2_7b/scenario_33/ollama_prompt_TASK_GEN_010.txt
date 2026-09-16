@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+On the day after tomorrow in the evening, we are tasked with capturing a near-infrared reflection for water body boundary mapping and soil moisture assessment over Aipe, Colombia. This low priority importance request involves a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task.
+
+Given that Aipe is located within the country of Colombia, our mission allocation priority is set at Level 1, indicating low importance with a 'drop or reschedule at convenience' instruction. The operational tone should be casual and highly flexible, reflecting this 'non-essential background filler task' status.
+
+The primary sensor to be utilized for this mission is the near-infrared (NIR) sensor, which will be used for water body boundary mapping and soil moisture assessment. This technique allows us to discriminate gradients by capturing the unique reflection patterns of water bodies and soil moisture content, providing valuable insights into environmental conditions.
+
+In summary, our request is to capture a near-infrared reflection over Aipe, Colombia on the day after tomorrow in the evening using our NIR sensor. The task falls under low priority importance, with a flexible schedule for opportunistic capture, making it a background survey or testbed tracking task.

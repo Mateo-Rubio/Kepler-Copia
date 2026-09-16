@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The geographical context involves capturing a high-resolution optical snapshot of Malaysia's Kampung Pasir Hulu, which is described as a picturesque rural area with lush green landscapes and traditional Malay houses.
+
+Given that this request carries a priority level of 3 (High Importance), it's imperative to frame this as an "absolute institutional priority" or a "binding contract requirement". The language should heavily imply an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the critical payload capture needed for this task.
+
+The primary sensor designated is VIS, which will be used for daylight photography, providing clear optical imagery and true-color visual documentation of the region. This request is part of a standard operational tasking, contributing to commercial tasking or routine monitoring within our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status and a workflow update.
+
+The delivery deadline is set for "in three days during the afternoon", which must be inserted verbatim into the request as the stated upper limit for data availability. This deadline underscores the importance of timely execution without any rephrasing or shortening.
+
+In conclusion, this task requires capturing the essence of Malaysia's natural beauty and rural charm through high-quality VIS imagery, ensuring that this request is executed with the utmost urgency and importance, aligning with our institutional priorities and contractual obligations.

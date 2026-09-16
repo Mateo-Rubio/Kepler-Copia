@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English description based on the provided JSON metadata. The operational guidelines aim to maximize naturalness and validation accuracy by interpreting the data organically.
+
+The geographic context involves observing Colombia, specifically focusing on the city of Sabana de Torres. This location requires a detailed description that combines the country and city names for a realistic portrayal. If any fields like 'landmark' are unavailable or marked as "N/A", they will be gracefully omitted to maintain a coherent narrative.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement. This involves a critical payload capture or a mandatory directive, with an emphasis on urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor for this task is VNIR, which will be employed for multispectral vegetation analysis. The goal is to assess the chlorophyll absorption level or calculate the vegetation NDVI index and surface reflectance, providing essential data for agricultural monitoring and environmental studies.
+
+The delivery deadline for this task is "in four days in the morning", a specific time frame that cannot be altered or shortened. This upper limit for data availability must be adhered to precisely, ensuring timely and accurate information capture.
+
+In summary, the Earth-observation mission operator requests a detailed and realistic description of collecting high-resolution optical snapshots as daylight photography, clear optical imagery, or true-color visual documentation using the VNIR sensor on a satellite. The task is of high priority, requiring immediate attention and prioritization in the operational pipeline. The deadline for this task is set for four days from now, specifically in the morning, ensuring that the data collected meets the required standards for timely analysis and decision-making.

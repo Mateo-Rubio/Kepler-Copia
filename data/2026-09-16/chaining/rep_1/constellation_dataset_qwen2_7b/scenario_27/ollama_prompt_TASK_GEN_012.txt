@@ -1,0 +1,9 @@
+To the automated satellite constellation planner,
+
+I'm requesting a task to be allocated for tomorrow's afternoon session. Our mission involves capturing thermal mapping data for Kapuas Hulu, Indonesia, using our thermal infrared sensor (TIR). This low priority importance task aims to capture heat signatures and surface temperature profiles of the region. It serves as a background survey, allowing us to assess heat emissions and detect anomalies without strict deadlines or contractual urgency.
+
+The objective is to gather comprehensive data that will help in understanding the thermal dynamics of Kapuas Hulu, providing insights into urban heat islands, industrial emissions, or agricultural activities. This task falls under our baseline pipeline tracking setup with fixed parameters, representing normal operational status.
+
+Please note, we understand this request might be flexible and can be dropped or rescheduled at your convenience if more critical tasks arise. We appreciate your cooperation in ensuring that this task is executed during the afternoon of the day after tomorrow to accommodate our operational guidelines.
+
+Thank you for your attention and support.

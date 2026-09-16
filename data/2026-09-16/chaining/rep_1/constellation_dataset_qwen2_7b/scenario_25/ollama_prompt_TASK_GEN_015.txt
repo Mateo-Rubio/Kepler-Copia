@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of our dataset by interpreting the provided JSON format organically.
+
+Geographically, we're focusing on a location in Indonesia, specifically near an equatorial city that adds a unique perspective to our observations. The operational guidelines guide us in crafting this request:
+
+1. **GEOGRAPHIC CONTEXT**: We describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'city' is 'Ecuatorial', we'll emphasize its unique position near the equator.
+
+2. **MISSION ALLOCATION PRIORITY**: Given our priority level is 1, this request falls under "low importance". We'll frame it as a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+3. **SENSORS AND PHYSICAL OBJECTIVES**: Our primary sensor is VIS (visual imagery), which we'll interpret as capturing a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". This aligns with our goal to observe the unique conditions near the equator.
+
+4. **DELIVERY DEADLINE**: The deadline for this task is "tomorrow in the morning", which is the upper limit for data availability as decided by an upstream module. We'll include this phrase verbatim in our request, without rephrasing or altering it.
+
+In summary, our request to the satellite constellation planner is:
+
+"Please capture a high-resolution optical snapshot of the equatorial region in Indonesia using our VIS sensor for daylight photography purposes. This task falls under low priority importance and should be treated as a flexible schedule opportunity. The deadline for this data collection is tomorrow in the morning. We're looking forward to receiving these images to support our background survey or testbed tracking tasks."
+
+This request encapsulates our operational guidelines while ensuring clarity, naturalness, and accuracy.

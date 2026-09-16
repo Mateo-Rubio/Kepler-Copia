@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for an operational task.
+
+The geographic context involves a location in Colombia, specifically Maní, which is a city within this country. The primary sensor designated for this mission is Thermal Infrared (TIR), aiming to capture thermal mapping data for assessing heat signatures or surface temperature profiles. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: We describe the location using realistic combinations of fields from 'location_details', such as the country, city, and landmark. If any field is "N/A", we gracefully ignore it and use remaining valid fields or the 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Since the priority level is set to 1 (low importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's treated as a non-essential background filler task, which can be dropped or rescheduled at convenience. The language emphasizes its status as a background survey or testbed tracking task.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The TIR sensor is used to capture thermal mapping data, aiming to detect heat anomalies and map heat emissions accurately. This process involves assessing surface temperatures or identifying areas of high heat emission.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, requiring the data to be available today during the afternoon.
+
+In conclusion, my request is to capture thermal mapping data using the TIR sensor in Colombia's Maní city today during the afternoon, with a focus on assessing heat signatures and surface temperature profiles. This task is considered low priority, with a flexible schedule for opportunistic capture, fitting into the background survey or testbed tracking task category.

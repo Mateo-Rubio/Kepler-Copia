@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The operational guidelines for this request are designed to maximize naturalness and validation accuracy by interpreting raw physical simulation metadata in JSON format into a highly realistic and conversational English request.
+
+The geographic context of our target area is located in Colombia, specifically within the city of La Cumbre. This region will be observed using an active radar scan via microwave surface imaging, which is part of our standard operational tasking. The primary objective here is to capture cloud-penetrating imagery that will pierce through heavy weather conditions and provide detailed ground geometry.
+
+Our priority level for this mission allocation is medium importance, indicating a standard baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is not time-sensitive; it's part of our routine monitoring activities.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for four days from now, around mid-day. The specific time frame is crucial for ensuring optimal data collection conditions.
+
+In conclusion, our mission involves a high-resolution optical snapshot using true-color visual documentation to capture the essence of La Cumbre's landscape under clear daylight photography conditions. This task will contribute to our ongoing efforts in commercial tasking and routine monitoring of the area, providing valuable insights into ground geometry and environmental changes.
+
+The request is now submitted for scheduling consideration by the satellite constellation planner, with all operational guidelines fully integrated into this narrative description.

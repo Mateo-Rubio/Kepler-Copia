@@ -1,0 +1,11 @@
+```prompt
+Good day to our automated satellite constellation planner,
+
+We're reaching out with a task request for tomorrow around mid-day, focusing on the beautiful region of Italia, specifically the charming town of San Biagio di Callalta. Our mission is to capture a high-resolution optical snapshot of this picturesque area using a VNIR sensor, aiming to assess the chlorophyll absorption level and calculate the vegetation NDVI index. This will help us understand the health and diversity of the local flora.
+
+This request is classified as a low priority importance task with a flexible schedule, acting as a non-essential background filler task that can be dropped or rescheduled at convenience. We're treating it as a background survey for our ongoing research on ecological monitoring and land use analysis.
+
+Thank you for your attention to this matter.
+
+Best regards,
+Your Earth-observation mission operator

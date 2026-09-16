@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary objective is to capture thermal mapping data, focusing on identifying heat signatures and surface temperature profiles in the region of Colombia, specifically the city of La Vega. This request falls under priority level 2, indicating a standard operational tasking with fixed parameters representing normal operational status.
+
+The mission allocation priority emphasizes that this is part of our baseline pipeline tracking setup, where the critical payload capture involves monitoring environmental conditions and thermal anomalies. We aim to ensure that this task is executed with the same level of professionalism and standard operational rigor as other routine monitoring activities.
+
+Given the operational guidelines, we've prioritized the use of the TIR sensor for its capability to provide thermal mapping data, allowing us to capture heat emissions and surface temperature profiles accurately. This sensor will be particularly useful in understanding heat patterns and anomalies in the region during the target day, which is the day after tomorrow in the evening.
+
+The deadline for this task has already been resolved by an upstream module, with the upper limit for data availability set as the day after tomorrow in the evening. Our request does not include raw technical details or countdown metrics but focuses on the naturalness and validation accuracy of the dataset.
+
+To summarize, our request is for a thermal mapping mission over Colombia's La Vega region using the TIR sensor, aiming to capture heat signatures and surface temperature profiles. This task aligns with standard operational tasks and will contribute to our baseline pipeline tracking setup without compromising on quality or operational standards.

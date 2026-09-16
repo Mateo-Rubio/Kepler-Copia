@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a low importance task with a deadline of "today in the evening". The geographical context involves capturing data from Indonesia, specifically Bangka Tengah city.
+
+The primary sensor designated for this mission is Near-Infrared (NIR), which will be used to map water body boundaries and assess soil moisture. This task is framed as a "non-essential background filler task" with a flexible schedule, treating it as a "background survey" or "testbed tracking task". The operational tone reflects the low priority importance request, allowing for "drop or rescheduling at convenience".
+
+The target day for this task is today, with the specific diurnal period being "in the evening", which serves as the upper limit for data availability without rephrasing, shortening, or relocating it to a different part of the day. This ensures that our automated system understands the urgency and timing constraints for data collection.
+
+In summary, this task involves capturing near-infrared reflection data from water bodies and soil moisture assessment on Bangka Tengah island in Indonesia during the evening hours today. It is a low priority importance request requiring adherence to flexible scheduling guidelines.

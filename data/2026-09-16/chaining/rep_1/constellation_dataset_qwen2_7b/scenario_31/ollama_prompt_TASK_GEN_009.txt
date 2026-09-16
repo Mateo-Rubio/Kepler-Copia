@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to the provided operational guidelines.
+
+The geographic context involves the region Malaysia, with a specific focus on the city Kabong. This location is described using realistic combinations of country, city, and landmark fields from 'location_details'. The mission allocation priority level is set at High Importance, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted.
+
+For this mission, the primary sensor is VNIR (Vegetation Normalized Imagery Reflectance), which will be used to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance. This task aims for daylight photography, clear optical imagery, and true-color visual documentation of the area.
+
+The delivery deadline is set for "in four days overnight", which means the data must be available by this time frame without any rephrasing or alteration of the phrase provided. The sensors and physical objectives are interpreted as a multispectral vegetation analysis, with a focus on capturing the health and structure of plant life in Malaysia's Kabong region.
+
+In summary, my request to the automated satellite constellation planner is as follows:
+
+"Please prioritize an urgent mission allocation for a high-resolution optical snapshot using VNIR technology. This task involves daylight photography and true-color visual documentation of Malaysia's Kabong region, with a focus on assessing chlorophyll absorption levels and calculating NDVI indexes. This is an absolute institutional priority requiring an 'urgent operational execution' and 'un-preemptable mission lock'. The deadline for data availability is set for 'in four days overnight', emphasizing the importance of adhering to this specific time frame."
+
+This request ensures that the automated satellite constellation planner understands the context, urgency, and operational requirements of the task while maintaining a natural and conversational tone.

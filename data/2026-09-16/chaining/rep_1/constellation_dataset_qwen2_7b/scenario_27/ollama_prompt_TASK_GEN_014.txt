@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data for the region of Italia, specifically focusing on the city of Cantù, using a thermal infrared sensor (TIR). The mission allocation priority is high importance, signifying an "absolute institutional priority" or a "binding contract requirement". This task involves a "critical payload capture", emphasizing an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor, TIR, aims to achieve thermal mapping, capturing a "heat signature" or a "surface temperature profile". This is crucial for "thermal anomaly detection" and mapping heat emissions. The request highlights the importance of obtaining this data tomorrow around mid-day, as per the deadline already set by an upstream module.
+
+Incorporating operational phrases into the request, we are tasked with capturing "high-resolution optical snapshots" for "daylight photography", "clear optical imagery", or "true-color visual documentation". This represents a "standard operational tasking" or "commercial tasking", part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status".
+
+The deadline for this task is tomorrow around mid-day, and as per the guidelines, we must insert this phrase verbatim into the request. The focus on TIR's capabilities in thermal mapping underscores its importance for "vegetation analysis", assessing "chlorophyll absorption levels" or calculating a vegetation "NDVI index" and surface reflectance.
+
+In summary, our request encapsulates the essence of capturing critical data using advanced Earth-observation techniques under high-priority conditions. The deadline reinforces the urgency and importance of this task, ensuring that our automated satellite constellation planner understands the operational context and prioritizes resources accordingly.

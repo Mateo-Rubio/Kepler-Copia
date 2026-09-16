@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves capturing a high-resolution optical snapshot of an area within the region "Italia", specifically focusing on the city of "Norte". This location description combines the country and city fields while gracefully ignoring the "N/A" landmark field. The mission allocation priority is set at "High Importance" due to its "absolute institutional priority" or "binding contract requirement", necessitating an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor utilized for this task is "VIS", which aims to achieve a "true-color visual documentation" through daylight photography. This objective involves capturing "clear optical imagery" that serves as a testament to the region's landscape during the day.
+
+The delivery deadline stipulates that the data must be available "in three days during the afternoon". This phrase is inserted verbatim into the request, representing the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, this "standard operational tasking" requires an "active radar scan" using "microwave surface imaging" to capture ground geometry and "cloud-penetrating capture". The "thermal mapping" objective aims to identify a "heat signature", "surface temperature profile", or detect thermal anomalies by mapping heat emissions.
+
+The "multispectral vegetation analysis" using the "VIS" sensor will assess the "chlorophyll absorption level" or calculate the "NDVI index" and surface reflectance. This task is part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+
+The "near-infrared reflection" captured by the sensor will map "water body boundaries" or assess "soil moisture" to discriminate gradients. This request is labeled as a "non-essential background filler task", where the operator explicitly notes that it can be "dropped or rescheduled at convenience" and treated as a "background survey" or "testbed tracking task".
+
+In conclusion, this Earth-observation mission operator's request for an automated satellite constellation planner encompasses a detailed breakdown of geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline. The final request is designed to maximize naturalness and validation accuracy while adhering to operational guidelines.

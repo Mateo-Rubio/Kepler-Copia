@@ -1,0 +1,9 @@
+Translation of raw physical simulation metadata:
+
+As an Earth-observation mission operator, I am requesting a highly realistic and conversational English task for the automated satellite constellation planner. The request is based on the provided JSON format, with the primary sensor being SAR (active radar scan), which will be used for microwave surface imaging to capture cloud-penetrating data.
+
+The target geographic context involves the region of Italia, with a specific focus on the city of Burzanella. This location is deemed of medium importance due to its 'priority_level' being set at 2, indicating a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The mission allocation priority is to be executed during the target day, which is scheduled for three days ahead during the afternoon period. This deadline has been resolved by an upstream module and serves as the upper limit for data availability without rephrasing or altering its time frame.
+
+In summary, this task involves a standard operational request to capture cloud-penetrating radar data over Burzanella in Italia using microwave surface imaging techniques. The objective is to gather detailed information about ground geometry, which will be essential for ongoing monitoring and baseline pipeline tracking activities.

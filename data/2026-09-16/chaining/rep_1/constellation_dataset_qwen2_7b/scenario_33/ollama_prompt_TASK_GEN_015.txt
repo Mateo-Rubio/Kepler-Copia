@@ -1,0 +1,7 @@
+Given today's operational context, I am requesting a low-priority task to be executed in the evening. This involves capturing thermal mapping data of Indonesia, specifically focusing on the region around Pangalaseang city. The primary sensor will be our TIR (Thermal Infrared) instrument, which is essential for thermal anomaly detection and mapping heat emissions across the area.
+
+The purpose of this task is to assess surface temperature profiles and identify any heat signatures that could indicate unusual activity or environmental changes. By conducting this survey in the evening, we aim to capture the most accurate thermal data possible under varying atmospheric conditions.
+
+This request is framed as a 'non-essential background filler task', acknowledging that it can be dropped or rescheduled at convenience. It serves as a part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and contributing to our ongoing monitoring efforts in Indonesia.
+
+Please ensure that this task is executed promptly after sunset today, adhering to the specified deadline for data availability. This will allow us to gather comprehensive thermal mapping data without interference from daylight conditions, providing valuable insights into the region's thermal dynamics.

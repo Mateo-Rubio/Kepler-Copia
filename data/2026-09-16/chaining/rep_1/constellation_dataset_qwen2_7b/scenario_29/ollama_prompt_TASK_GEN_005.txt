@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing a location in Norte, Brazil. While specific country, city, or landmark details are not provided, the region's characteristics will be described using available parameters. 
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this task falls under a flexible schedule for opportunistic capture. The language should reflect a "non-essential background filler task", with an explicit note to "drop or reschedule at convenience". This request is treated as a "background survey" or "testbed tracking task".
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will be used for an active radar scan using microwave surface imaging. The goal is to capture cloud-penetrating imagery, ideal for piercing heavy weather conditions or capturing ground geometry.
+
+The delivery deadline is set for the day after tomorrow in the evening, as the upper limit for data availability. The exact wording of this phrase must be included verbatim in the request, without any rephrasing or adjustments.
+
+In summary, our Earth-observation mission aims to capture high-resolution SAR imagery of Norte, Brazil, focusing on cloud-penetrating capture and ground geometry observation. This task is classified as a low priority background survey, with delivery planned for the day after tomorrow in the evening.

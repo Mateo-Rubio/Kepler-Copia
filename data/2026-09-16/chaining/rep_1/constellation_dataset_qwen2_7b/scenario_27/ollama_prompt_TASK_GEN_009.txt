@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The geographic context involves observing Indonesia's Ecuatorial region with a primary sensor set to VNIR for a daylight photography session, capturing clear optical imagery or true-color visual documentation of the area. This task aligns with our baseline pipeline tracking setup, representing standard operational status and normal workflow updates.
+
+Given the priority level is 1 (low importance), I explicitly frame this request as a low priority importance task with a flexible schedule for opportunistic capture. It's treated as a non-essential background filler task, where we can drop or reschedule at convenience, considering it as a background survey or testbed tracking task.
+
+The deadline for this task is set for "in three days around mid-day", which means the upper limit for data availability has already been resolved by an upstream module. We must insert this phrase verbatim into our request without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, I'm requesting a VNIR observation of Indonesia's Ecuatorial region on the specified day and time frame, with the understanding that this task is part of our low-priority background operations, focusing on capturing high-resolution optical snapshots for daylight photography purposes. We aim to ensure compliance with our operational guidelines while respecting the established deadline.

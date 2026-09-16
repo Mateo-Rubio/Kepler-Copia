@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to capture highly realistic imagery of a critical area in Indonesia, specifically within the region of Murung Raya. The country and city names are provided for geographical context; however, due to the 'landmark' field being "N/A", we will rely on the remaining valid fields for a comprehensive location description.
+
+The mission allocation priority for this task is set at Level 1, which means it's a low-priority importance request. The language must reflect that this is a flexible schedule task with no strict deadlines or urgent operational execution requirements. We are treating this as a background survey or testbed tracking task, where the operator explicitly notes to drop or reschedule at convenience.
+
+The primary sensor for this mission will be Near-Infrared (NIR), which aims to assess water body boundaries and soil moisture levels. The goal is to capture near-infrared reflection data that will help us discriminate gradients in these areas accurately.
+
+The delivery deadline for this task has already been resolved by an upstream module, stating that the data must be available "in three days overnight". This phrase must be inserted verbatim into our request, as it represents the upper limit for data availability. We do not need to rephrase or shorten it, nor move it to a different part of the day.
+
+In summary, we are requesting an overnight capture of Murung Raya in Indonesia using Near-Infrared technology, with no strict deadlines other than the three days from now, focusing on water body boundaries and soil moisture assessment for our background survey task.

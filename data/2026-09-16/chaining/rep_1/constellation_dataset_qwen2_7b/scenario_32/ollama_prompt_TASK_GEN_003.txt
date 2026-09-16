@@ -1,0 +1,9 @@
+In alignment with our operational guidelines for maximizing naturalness and validation accuracy in dataset generation, we hereby submit a task request to our automated satellite constellation planner. The context of this mission is centered around the Indonesian region, specifically focusing on Ketapang city. The primary sensor designated for this operation is Thermal Infrared (TIR), aiming to capture high-resolution thermal mapping data. This task holds medium importance, framing it as a standard operational tasking that contributes to our baseline pipeline tracking setup.
+
+The mission's priority level reflects the importance of collecting detailed surface temperature profiles and identifying thermal anomalies across the region. The operational objectives align with the need for thermal mapping to detect heat signatures and assess surface temperatures accurately. This information is crucial for various applications, including environmental monitoring, urban planning, and disaster response management.
+
+The deadline for this task is set for the day after tomorrow during the afternoon. We request that our satellites prioritize this mission allocation accordingly, considering it as part of normal operational status with fixed parameters. This task is essential for updating our baseline pipeline tracking setup and ensuring comprehensive coverage of the region's thermal dynamics.
+
+Please note that the deadline is "the day after tomorrow during the afternoon," as stipulated by an upstream module. Our request emphasizes the importance of adhering to this time frame without any rephrasing or adjustments, ensuring timely data availability for subsequent analysis and decision-making processes.
+
+We appreciate your attention to detail in scheduling and executing this task, which will contribute significantly to our ongoing efforts in monitoring and managing environmental conditions across Indonesia.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+Our geographic context involves observing a location in Indonesia, specifically Bontang city. We aim to capture a thermal mapping of the area using our primary sensor, which is a TIR (Thermal Infrared) device. This task has been allocated with a priority level of 1, indicating it's a low priority importance request with a flexible schedule for opportunistic capture.
+
+We're framing this as a "background survey" or "testbed tracking task", treating it as a "non-essential background filler task". The deadline for this task is in three days in the evening. This phrase "in three days in the evening" must be inserted verbatim into the request, representing the upper limit for data availability.
+
+Our mission allocation priority reflects that this request involves capturing a heat signature or surface temperature profile to map heat emissions. We're looking to gather thermal anomaly detection information that will help us understand the thermal dynamics of the region. This task is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status or a standard workflow update.
+
+In summary, we're seeking to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation using our VIS (Visible) sensor capabilities alongside our TIR sensor for thermal mapping. This task is part of our routine monitoring activities, contributing to our understanding of the region's environmental conditions without the urgency associated with higher priority tasks.
+
+The automated satellite constellation planner will receive this request and ensure that the mission is allocated accordingly, taking into account the operational guidelines provided. We're looking forward to receiving the data in three days during the evening hours, which will provide valuable insights for our ongoing research and monitoring efforts.

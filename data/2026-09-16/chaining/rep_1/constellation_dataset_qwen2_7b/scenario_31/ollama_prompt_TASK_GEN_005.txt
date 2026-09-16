@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a single highly realistic and conversational English request.
+
+The geographic context involves capturing the thermal mapping of a heat signature across a specific region. The target location is in the country of Italia, with a focus on the city of Roasio, where our satellite constellation will conduct an overnight thermal scan of the area on "the day after tomorrow". This task carries low importance and features a flexible schedule that allows for opportunistic capture.
+
+The mission allocation priority level is set to 1, indicating a non-essential background filler task with normal operational status or a standard workflow update. The physical objective involves using thermal infrared (TIR) sensors to assess surface temperature profiles and detect thermal anomalies, which will be critical for mapping heat emissions across the region.
+
+In summary, our request is to capture a thermal map of the heat signature in Roasio, Italia, overnight on "the day after tomorrow", as part of a low-priority background task. The data availability upper limit is set at the time specified, and we are prepared to drop or reschedule this task based on convenience, treating it as a background survey or testbed tracking task.
+
+Let's proceed with the execution of this request, ensuring that our satellite constellation is optimally positioned for the capture of this valuable information.

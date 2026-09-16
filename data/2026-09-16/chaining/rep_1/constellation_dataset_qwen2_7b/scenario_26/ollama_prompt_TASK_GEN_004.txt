@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The geographic context of this mission involves capturing data from a location in Colombia, specifically the city of Lebrija, which is an integral part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The priority level for this task is medium, indicating that it's a standard operational tasking or commercial tasking that falls under our institutional responsibilities. The language must reflect an authoritative tone, emphasizing that this request is part of our standard workflow update with no room for preemption, as it involves routine monitoring and maintaining normal operational status.
+
+The primary sensor for this mission is near-infrared (NIR), which will be used to map water body boundaries and assess soil moisture. The goal is to capture the near-infrared reflection, providing insights into water bodies and soil conditions with a high degree of accuracy.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for tomorrow in the evening. This phrase "tomorrow in the evening" must be inserted verbatim into our request as the stated upper limit for data availability, ensuring that we adhere to the agreed-upon timeline without rephrasing or altering it.
+
+In conclusion, this mission is a part of our standard operational tasks with medium importance and a clear deadline. The use of near-infrared sensors will provide us with valuable insights into water body boundaries and soil moisture levels, contributing to our ongoing efforts in environmental monitoring and management.

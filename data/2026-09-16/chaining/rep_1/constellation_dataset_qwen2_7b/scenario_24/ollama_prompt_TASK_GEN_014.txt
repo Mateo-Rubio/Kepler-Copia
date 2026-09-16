@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+The geographic context involves a location in Spoleto, Italy, which is part of the larger region known as Italia. To maximize naturalness and validation accuracy, we'll interpret the metadata organically according to the guidelines:
+
+1. GEOGRAPHIC CONTEXT: We'll describe the location using a realistic combination of fields from 'location_details'. In this case, since both city and country are provided, we'll use them directly. We'll avoid raw technical system tags, underscores, or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: The priority level is set to medium importance (Priority 2). We will frame this request as a 'standard operational tasking', part of a 'baseline pipeline tracking' setup with 'fixed parameters'. This represents 'normal operational status' or a standard 'workflow update'.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is SAR, which we'll interpret as an 'active radar scan' using 'microwave surface imaging'. This technique allows us to capture ground geometry and cloud-penetrating data.
+
+4. DELIVERY DEADLINE: The deadline for this task has already been resolved by an upstream module. It's set for "tomorrow during the afternoon". We'll insert this phrase verbatim into our request, as the stated upper limit for data availability.
+
+Taking all these guidelines into account, our request reads as follows:
+
+"Please allocate a satellite mission to capture high-resolution optical snapshots of Spoleto, Italy, using an active radar scan (SAR) technique. This task is part of our standard operational pipeline tracking with fixed parameters, representing normal operational status. The aim is to perform cloud-penetrating data capture for ground geometry assessment. The deadline for this task is tomorrow during the afternoon. This request is framed as a medium importance task with standard operational procedures."
+
+This request integrates the metadata naturally while adhering to the guidelines provided and ensuring that the final output is highly realistic and conversational English text.

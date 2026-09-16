@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy.
+
+Given the geographic context, we're focusing on the 'region_name' and nested 'location_details'. Since there's no country or city information available, we'll describe the location using the remaining valid fields or the 'region_name'. In this case, let's assume the region is Norte. For the mission allocation priority, we're dealing with a request of low importance, which means it's treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", and it's labeled as a "non-essential background filler task".
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which implies an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture". This technique will allow us to pierce heavy weather or capture ground geometry with precision.
+
+Our delivery deadline is set for "in three days overnight", meaning the upper limit for data availability is during this specific time frame. This phrase must be inserted verbatim into our request, as it represents the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, the Earth-observation mission operator is requesting an active radar scan using SAR technology on the region known as Norte. This task is of low priority importance and will be treated as a "non-essential background filler task". The deadline for this task is set for "in three days overnight", ensuring that the data availability aligns with this specific time frame.

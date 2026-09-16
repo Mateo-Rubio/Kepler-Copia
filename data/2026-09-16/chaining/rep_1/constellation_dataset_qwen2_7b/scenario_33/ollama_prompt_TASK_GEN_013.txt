@@ -1,0 +1,9 @@
+Requesting an operational task for a standard monitoring activity with a medium importance level. This task involves capturing detailed radar imagery using an active Synthetic Aperture Radar (SAR) system over the picturesque coastal town of Puerto López, Colombia. The geographical context is set within the vibrant country of Colombia, focusing on the charming city of Puerto López, known for its stunning landscapes and coastal beauty.
+
+The mission allocation priority is categorized as medium importance, reflecting a standard operational tasking scenario that is part of our baseline pipeline tracking setup. Given the fixed parameters and normal operational status, this request aligns with the routine monitoring activities essential for our commercial tasks and workflow updates.
+
+The primary sensor, SAR, will perform an active radar scan using microwave surface imaging technology to capture cloud-penetrating imagery. This capability allows us to pierce through heavy weather conditions or to capture ground geometry with high precision. The objective is to obtain a comprehensive view of the area, ensuring that no detail, regardless of the atmospheric conditions, goes unnoticed.
+
+The target day for this task is scheduled for three days from now, specifically around mid-day. This timeframe has been pre-determined by an upstream module and represents the upper limit for data availability. The deadline serves as a clear guideline for our satellite constellation planner to ensure that the mission is executed within the specified timeframe.
+
+In summary, this request encapsulates a standard operational task with medium priority, focusing on capturing detailed SAR imagery over Puerto López, Colombia, during mid-day conditions three days from now. This activity is part of our routine monitoring efforts and contributes to our baseline pipeline tracking setup.

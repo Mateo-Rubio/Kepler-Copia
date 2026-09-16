@@ -1,0 +1,11 @@
+Please allocate a satellite mission with medium importance to capture high-resolution optical imagery of Ecuatorial City, Indonesia. The primary objective is to obtain clear daylight photography that will serve as true-color visual documentation for environmental monitoring purposes. This standard operational tasking involves baseline pipeline tracking and is part of our routine monitoring activities. It requires fixed parameters representing normal operational status with no deviation from standard procedures.
+
+The mission should be executed with an active radar scan using microwave surface imaging capabilities, piercing through heavy weather conditions to capture ground geometry and provide cloud-penetrating capture. This SAR scan will contribute to our understanding of the region's topography under various atmospheric conditions.
+
+For thermal mapping purposes, we aim to gather data that will help detect heat signatures and surface temperature profiles, aiding in thermal anomaly detection and mapping heat emissions. This is crucial for assessing local conditions and planning mitigation strategies accordingly.
+
+The task should be completed by the deadline set three days ahead, around mid-day, ensuring that the satellite captures the imagery at the optimal time for maximum detail and clarity. The dataset will serve as a valuable resource for our ongoing projects requiring real-time environmental updates.
+
+Please note that this request does not have an urgent operational execution or contractual binding; it is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We are treating this as a routine monitoring activity with a flexible schedule to accommodate any potential drops or rescheduling at convenience, treating it as a background survey or testbed tracking task.
+
+Thank you for your attention and cooperation in ensuring that this request is fulfilled according to the outlined guidelines.

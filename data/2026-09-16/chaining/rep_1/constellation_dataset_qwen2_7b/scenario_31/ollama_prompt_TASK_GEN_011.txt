@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing data for the region of Italia, specifically focusing on the city of Radicondoli. This location is described using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. Given that the country, city, or landmark are not explicitly provided, I'll describe this location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority for this task is set at Level 1 (Low Importance). This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted that this operator treats it as a "background survey" or "testbed tracking task", indicating a non-essential background filler task.
+
+The primary sensor involved in this mission is TIR, which aims to achieve thermal mapping. The goal is to capture a "heat signature", "surface temperature profile", or perform "thermal anomaly detection" and map heat emissions. This objective involves understanding the physical phenomenon of interest through the lens of thermal radiation, providing insights into various environmental conditions.
+
+The delivery deadline for this task has been resolved by an upstream module. It's set as "the day after tomorrow in the evening". This phrase is inserted verbatim into the request as the stated upper limit for data availability, ensuring that no rephrasing, shortening, or moving to a different part of the day occurs.
+
+In summary, this Earth-observation mission requires capturing thermal mapping data for the region of Italia, specifically focusing on Radicondoli. The task is considered low priority with a flexible schedule and aims to provide insights into heat signatures and surface temperature profiles. The deadline for data availability is set as "the day after tomorrow in the evening", emphasizing the importance of adhering to this timeline without altering its context.

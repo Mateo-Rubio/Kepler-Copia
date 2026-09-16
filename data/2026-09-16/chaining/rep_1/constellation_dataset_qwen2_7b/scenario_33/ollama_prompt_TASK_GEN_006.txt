@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to capture highly realistic data on Indonesia's Ecuatorial region using the Near-Infrared sensor. This request carries a low priority importance and involves a flexible schedule for opportunistic capture.
+
+The goal is to conduct a near-infrared reflection analysis for water body boundary mapping and soil moisture assessment, which will help discriminate gradients in the area. The target day is scheduled "in three days around mid-day" as per the deadline requirements. This operational tasking is labeled as a "non-essential background filler task", where we explicitly note that it can be dropped or rescheduled at convenience.
+
+The region of interest combines Indonesia's rich biodiversity with unique environmental challenges, making it an ideal testbed tracking task for our satellite constellation to capture essential data on water body boundaries and soil moisture levels. We aim to provide valuable insights into the area's ecosystem health and support environmental monitoring efforts without imposing stringent deadlines or requiring urgent operational execution.
+
+This request is part of a broader baseline pipeline tracking setup with fixed parameters representing normal operational status. It does not involve critical payload capture or mandatory directives, instead focusing on gathering background survey data that complements our ongoing research and development activities in Earth observation technology.

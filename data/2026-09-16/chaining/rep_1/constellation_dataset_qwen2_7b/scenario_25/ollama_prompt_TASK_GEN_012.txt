@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit this task request for the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for maximum naturalness and validation accuracy.
+
+The geographic context is centered on Indonesia, a country renowned for its rich biodiversity and complex topography. Our target area narrows down to the equatorial region, specifically the city of Ecuatorial, known for its lush vegetation and vibrant wildlife. The mission's priority level is set at Low Importance, indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+The primary sensor designated for this mission is VNIR (Visible Near-Infrared), which will be used to conduct a multispectral vegetation analysis. This involves assessing the chlorophyll absorption level across various ecosystems and calculating the vegetation NDVI index to understand surface reflectance patterns. The goal is to capture essential data that aids in environmental monitoring, supporting conservation efforts and agricultural management.
+
+The delivery deadline for this task has been set as "the day after tomorrow overnight," a precise upper limit for data availability that underscores the urgency of our request without compromising on quality or accuracy. This phrase must be inserted verbatim into the final request, ensuring clear communication regarding when we expect to receive the data.
+
+In conclusion, our Earth-observation mission operator task request encapsulates the essence of this operational tasking with a casual yet professional tone, aligning with the guidelines provided. We are looking forward to receiving the valuable insights that will contribute to our understanding of the Indonesian equatorial region's environmental dynamics.

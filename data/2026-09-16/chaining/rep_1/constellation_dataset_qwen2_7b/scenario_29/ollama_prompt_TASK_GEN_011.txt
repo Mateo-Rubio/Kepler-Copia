@@ -1,0 +1,7 @@
+In response to our standard operational tasking requirements, we are requesting a routine monitoring mission for the region of interest located in France, specifically around the city of Venaco. This request is categorized under medium importance (Priority Level 2), which means it adheres to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor involved will be the VNIR system, aimed at capturing high-resolution optical snapshots for daylight photography and true-color visual documentation. Our goal is to assess chlorophyll absorption levels in vegetation, calculate the NDVI index, and evaluate surface reflectance across the targeted area.
+
+Given that the deadline for this task is set for three days from now, with the data availability scheduled in the morning, we are prepared to receive the data within these constraints. This mission is part of our ongoing efforts to maintain a comprehensive baseline pipeline tracking setup without compromising on quality or operational standards.
+
+Please ensure that the mission is executed as per the outlined parameters and that the data is delivered by the specified deadline. We appreciate your cooperation in meeting this requirement, which contributes to our standard workflow updates and maintains the integrity of our operational status.

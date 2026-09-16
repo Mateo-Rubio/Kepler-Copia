@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby request a low priority importance task with the day after tomorrow overnight deadline. The primary sensor designated for this mission is near-infrared (NIR), which aims to capture thermal mapping data for a heat signature or surface temperature profile. This task involves assessing water body boundaries and soil moisture levels for an essential background survey.
+
+The geographic context of our mission spans across Colombia, with the focus on Florida, a region rich in biodiversity and agricultural activities. The operational objectives include mapping the thermal anomalies and conducting near-infrared reflection analysis to determine water body boundaries and soil moisture assessment. This non-essential background filler task is to be executed at convenience, with flexible scheduling considerations.
+
+Please ensure that the data availability adheres to the specified deadline: "the day after tomorrow overnight". This upper limit for data availability must not be rephrased or altered in any way. The task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It does not involve an urgent operational execution or an un-preemptable mission lock, as it carries a low priority level and is treated as a standard operational tasking.
+
+Thank you for your attention to this request.

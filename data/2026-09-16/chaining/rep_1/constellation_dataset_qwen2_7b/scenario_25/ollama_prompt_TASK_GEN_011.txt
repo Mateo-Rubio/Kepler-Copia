@@ -1,0 +1,19 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that we interpret the context naturally, considering the geographic location, mission allocation priority, sensors and objectives, and delivery deadline.
+
+The target context involves capturing a high-resolution optical snapshot of Montepulciano, Italy, which is an absolute institutional priority due to its critical payload capture requirement. This is not just any routine task; it's a binding contract with an urgent operational execution that cannot be preempted or delayed. The mission is to obtain clear daylight photography, true-color visual documentation, and comprehensive optical imagery of the region.
+
+The primary sensor involved is VIS (visual), which will provide us with detailed information about the landscape under normal lighting conditions. This is essential for understanding the urban environment and capturing specific details that are crucial for our analysis.
+
+Given the priority level of High Importance, we emphasize the need for a standard operational tasking that aligns with our baseline pipeline tracking setup. The parameters are fixed, representing our normal operational status and workflow updates. The mission encompasses all aspects of our standard procedures without compromising on quality or efficiency.
+
+The deadline for this task is set for tomorrow around mid-day. This upper limit for data availability must be adhered to, as it's a non-negotiable time frame that cannot be shortened or moved to a different part of the day. We are prepared to ensure that our satellite constellation captures the required data within this timeframe.
+
+In summary, our request is for an active radar scan using microwave surface imaging capabilities provided by SAR (synthetic aperture radar). This will allow us to pierce through heavy weather conditions and capture ground geometry with precision. The goal is to obtain cloud-penetrating capture capabilities that are essential for our thermal mapping objectives.
+
+For the TIR (thermal infrared) sensor, we aim to conduct thermal mapping to detect heat signatures and surface temperature profiles. This task involves capturing thermal anomalies and mapping heat emissions with accuracy, ensuring that we can identify and analyze any potential issues related to heat distribution or energy usage patterns.
+
+Additionally, the VNIR (visible near-infrared) sensor will be used for multispectral vegetation analysis. Our objective is to assess chlorophyll absorption levels and calculate the NDVI (normalized difference vegetation index) to understand the health of the vegetation and surface reflectance.
+
+Lastly, the NIR (near-infrared) sensor will be utilized for water body boundary mapping and soil moisture assessment. This task aims to discriminate gradients in soil moisture content, providing us with valuable data for agricultural planning and environmental monitoring.
+
+In conclusion, our request encapsulates a comprehensive set of tasks that require the expertise and capabilities of our satellite constellation planners. We are committed to adhering to the delivery deadline set for tomorrow around mid-day, ensuring that our mission objectives are met with the highest level of accuracy and efficiency.

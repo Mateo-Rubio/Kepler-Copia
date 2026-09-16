@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting this task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing the location in Slovenia, specifically the city of Norte, which is crucial for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating this request is part of a flexible schedule for opportunistic capture as a non-essential background filler task. The language used reflects that it can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor to be utilized is the SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging for cloud-penetrating capture. This is essential for capturing ground geometry, even in heavy weather conditions, ensuring comprehensive and detailed data collection.
+
+The delivery deadline is set for "the day after tomorrow during the afternoon." This phrase must be included verbatim as the upper limit for data availability, without rephrasing or altering its time frame.
+
+In summary, our request involves observing a location in Slovenia's Norte city using an SAR sensor during the specified afternoon period on the day after tomorrow. This task is part of our low priority importance setup with a flexible schedule for opportunistic capture, fitting into our background survey or testbed tracking tasks.

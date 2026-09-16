@@ -1,0 +1,5 @@
+Translate the operational context of this Earth-observation mission into a single, highly realistic English request:
+
+The day after tomorrow around mid-day, an urgent operational execution is required for a low priority importance tasking. This is a background survey aimed at capturing the thermal signature of a critical payload in AMCO, Area Metropolitana Centro Occidente, Colombia, using near-infrared reflection for soil moisture assessment. The mission involves a flexible schedule to drop or reschedule at convenience as it's a non-essential background filler task within our baseline pipeline tracking setup with fixed parameters representing normal operational status. This "testbed tracking task" is part of our standard workflow update and contractual obligations, not influenced by the proximity to the deadline.
+
+Please ensure that this request aligns with our institutional priorities and contractual requirements involving mandatory directives for critical payload capture. The data availability upper limit is set for the day after tomorrow around mid-day, and no raw UTC timestamps or digits should be included in the response.

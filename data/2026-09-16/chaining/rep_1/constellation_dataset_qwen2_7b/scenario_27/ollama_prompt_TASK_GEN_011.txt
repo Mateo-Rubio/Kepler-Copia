@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The primary sensor is set to 'TIR', indicating a thermal mapping operation with a goal to capture a heat signature or surface temperature profile to detect thermal anomalies and map heat emissions.
+
+The geographic context involves France, a country of significant importance for our mission allocation priority level 2, which requires standard operational tasks or commercial tasking. The location details specify Norte, a city within this country, providing us with the necessary regional information without relying on raw technical system tags or coordinate arrays. 
+
+The target day is set for 'in three days', during the afternoon period, as per our deadline resolution by an upstream module. This timeframe is critical for ensuring that we capture the most relevant data under optimal conditions.
+
+In summary, my request to the automated satellite constellation planner is to conduct a thermal mapping operation in France, focusing on Norte city, during the afternoon of the target day three days from now. This task aims to provide us with crucial information about heat signatures or surface temperature profiles for further analysis and decision-making processes. The priority level ensures that this request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, emphasizing its importance within our standard workflow update.
+
+Please note that the deadline for this task is 'in three days during the afternoon', which must be included verbatim in your response without any rephrasing or adjustments to the time frame.

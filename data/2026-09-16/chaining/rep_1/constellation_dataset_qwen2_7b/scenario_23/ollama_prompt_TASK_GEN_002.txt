@@ -1,0 +1,24 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic, conversational English request based on operational guidelines.
+
+Given the provided JSON data:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 2,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+The geographic context involves a location in Norte, which we will describe as being situated within an unspecified country. The mission allocation priority is Medium Importance, indicating that this request should be treated with professionalism and standard operational procedures.
+
+The primary sensor specified is Thermal Infrared (TIR), which we interpret as requiring thermal mapping to capture heat signatures or surface temperature profiles. This task aims to detect thermal anomalies and map heat emissions across the region of interest in Norte.
+
+The delivery deadline for this task has been set for tomorrow evening, emphasizing that the data must be available by this time point as the upper limit for data availability.
+
+In summary, our request is for a standard operational tasking involving an active radar scan using microwave surface imaging to capture cloud-penetrating imagery and ground geometry details. This thermal mapping mission will serve to detect thermal anomalies and map heat emissions across Norte, with a clear deadline set for tomorrow evening. This request aligns with normal operational status and represents part of our baseline pipeline tracking setup with fixed parameters.
+
+Please ensure that this task is allocated with the appropriate level of attention and resources, reflecting its medium importance and the need for thermal mapping data to be available by tomorrow evening.

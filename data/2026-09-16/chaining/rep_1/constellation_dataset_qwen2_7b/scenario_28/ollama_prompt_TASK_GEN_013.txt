@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request for a highly realistic and conversational English description based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context of our mission involves observing a specific location in Colombia, specifically the city of La Hacienda. This area requires detailed monitoring due to its importance for environmental studies and agricultural activities.
+
+Our primary sensor for this task is Near-Infrared (NIR), which will be used to capture data on water body boundaries and soil moisture assessment. This sensor allows us to discriminate gradients in these critical elements, providing valuable insights into the health and productivity of the area.
+
+The mission allocation priority is classified as medium importance, indicating that this request is part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status. We aim to capture this data during the target day, which falls on the day after tomorrow around mid-day, adhering to our baseline pipeline tracking setup.
+
+In summary, we are seeking to obtain detailed information about water body boundaries and soil moisture levels in La Hacienda, Colombia, using our Near-Infrared sensor. This task is part of our routine monitoring activities and will be executed according to our standard operational procedures. We aim to collect this data during the specified time frame on the day after tomorrow around mid-day.
+
+Please proceed with the execution of this request as outlined, ensuring that the data collection adheres to our operational guidelines for medium importance tasks.

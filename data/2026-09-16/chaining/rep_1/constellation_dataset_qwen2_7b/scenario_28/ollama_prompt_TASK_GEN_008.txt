@@ -1,0 +1,5 @@
+As an Earth-observation mission operator, I request a highly realistic task for capturing detailed imagery of Diano Borello, located in the beautiful country of Italia. Our primary sensor will be the VIS system, enabling us to obtain a high-resolution optical snapshot during daylight hours, providing clear photographic documentation and true-color visual information of this region.
+
+Given its low importance level, this task is tagged as a "flexible schedule" and "non-essential background filler task." We can drop or reschedule it at our convenience, treating it as a "background survey" or "testbed tracking task". The deadline for this task is the day after tomorrow overnight, ensuring that we capture the imagery during the optimal time of the night.
+
+This request represents an opportune opportunity to gather valuable data on Diano Borello's landscape, urban environment, and any potential environmental changes. Please proceed with this mission allocation accordingly, understanding its role in our baseline pipeline tracking setup with fixed parameters for normal operational status.

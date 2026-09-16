@@ -1,0 +1,21 @@
+Translate the raw physical simulation metadata into a conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to interpret the JSON data provided, focusing on the geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+1. GEOGRAPHIC CONTEXT:
+   - The target location is in Indonesia, specifically near the equator, with no specific city mentioned.
+   - Describe the region using realistic combinations of country, city, and landmark fields from 'location_details', or use 'region_name' if other fields are unavailable.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Priority 1 (Low Importance): Use a casual tone, emphasizing that this is a "low priority importance" request with a "flexible schedule" for "opportunistic capture". It's treated as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Primary sensor: SAR (Synthetic Aperture Radar)
+   - Explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", allowing observation through heavy weather or capturing ground geometry.
+
+4. DELIVERY DEADLINE:
+   - The deadline is set for "in three days in the evening", which must be inserted verbatim into the request, indicating the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+Crafting the request:
+
+"Please observe and capture high-resolution optical snapshots of the Indonesian region near the equator using Synthetic Aperture Radar (SAR) technology. The objective is to perform an active radar scan with microwave surface imaging capabilities, focusing on cloud-penetrating capture for ground geometry observation, without any urgency related to the deadline. This task is considered a low priority importance request with a flexible schedule for opportunistic capture, acting as a background survey or testbed tracking task. The data should be available by 'in three days in the evening', adhering to the established upper limit for data availability."
+
+This request integrates the operational guidelines, providing a natural and conversational English text that accurately reflects the context of the Earth-observation mission based on the provided JSON metadata.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The primary objective is to capture thermal mapping data using a TIR sensor over a highly significant region in Colombia, specifically Cali. This mission allocation falls under priority level 2, indicating it's part of our standard operational tasks with fixed parameters representing normal operational status.
+
+The geographic context involves Colombia, with the city of Cali as our target location. The country and city details are deemed relevant for this request, providing a realistic backdrop for our satellite's observation. We aim to gather thermal data in the morning of the target day, which is tomorrow.
+
+Our mission focuses on capturing heat signatures and surface temperature profiles, essential for thermal anomaly detection and mapping heat emissions. This task is part of our baseline pipeline tracking setup and represents a routine monitoring activity that contributes to our ongoing efforts in environmental surveillance and analysis.
+
+Given the priority level and operational guidelines, this request is framed as a standard operational task with an un-preemptable mission lock, emphasizing its importance within our regular workflow updates. We are looking forward to receiving the data by tomorrow in the morning, adhering to our deadline for data availability.
+
+This task is part of our ongoing commitment to providing comprehensive and accurate Earth observation data, supporting various applications from environmental monitoring to disaster management. As always, we appreciate your timely execution and look forward to the successful completion of this mission.

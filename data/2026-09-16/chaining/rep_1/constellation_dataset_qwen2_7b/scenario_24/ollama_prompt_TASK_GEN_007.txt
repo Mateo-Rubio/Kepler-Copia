@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy by interpreting the metadata organically according to established operational guidelines.
+
+The geographic context involves observing the El Playón region in Colombia. The primary sensor for this mission is near-infrared (NIR), which will be used for mapping water body boundaries and assessing soil moisture levels, providing critical information about water resources and agricultural conditions in the area.
+
+With a priority level of medium importance (Priority 2), this task is part of our standard operational pipeline tracking setup. The language reflects a professional and direct tone, emphasizing normal operational status with fixed parameters that ensure routine monitoring activities proceed as scheduled.
+
+The delivery deadline for this task is today in the evening, which serves as the upper limit for data availability without rephrasing or altering the time frame. This ensures timely data capture while maintaining flexibility within our baseline pipeline tracking setup.
+
+In summary, my request to the satellite constellation planner is to gather detailed near-infrared imagery of El Playón, Colombia, focusing on water body boundaries and soil moisture assessment. This task is part of our standard operational procedures with a medium priority level, ensuring that it is executed efficiently without compromising other critical activities. The deadline for this task is today in the evening, providing a clear upper limit for data availability.

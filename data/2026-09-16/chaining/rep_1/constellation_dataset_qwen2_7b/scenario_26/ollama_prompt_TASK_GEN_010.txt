@@ -1,0 +1,9 @@
+Translation of Earth observation mission request:
+
+We are requesting a standard operational tasking for an active radar scan using microwave surface imaging. The goal is to capture cloud-penetrating imagery for the region named "Puerto López", which is located in the country of Colombia. This mission is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters that ensure routine monitoring.
+
+The priority level assigned to this task is medium importance. We emphasize that this request is a standard operational tasking and should be treated as such, with no implications regarding the urgency or deadlines. The deadline for this task has been resolved by an upstream module: "in three days in the evening". This phrase must be inserted verbatim into our request as the stated upper limit for data availability.
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar), which will provide us with high-resolution imagery that can pierce through heavy weather conditions, offering us detailed ground geometry information. The region of interest spans across Puerto López in Colombia, and we aim to capture this area during the evening hours on the target day.
+
+This request serves as a reminder for our automated satellite constellation planner to allocate resources accordingly, ensuring that the mission is executed as part of our standard pipeline without any preemption or drop options due to its medium importance status.

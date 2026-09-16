@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing Tarazá, Colombia, which is a vital location for our mission. We aim to capture the essence of this region through our satellite's primary sensor, which has been designated as an active radar scan (SAR) using microwave surface imaging technology. This observation will serve as a cloud-penetrating capture, enabling us to pierce through heavy weather conditions and meticulously map ground geometry.
+
+Given the priority level of this task, which is set at Low Importance, it is explicitly framed as a "flexible schedule" request with a "non-essential background filler task". The operator notes that this mission can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set for "in three days overnight". This phrase must be included verbatim in the request, serving as the stated upper limit for data availability. There is no need to rephrase, shorten, or move it to a different part of the day.
+
+In summary, our mission aims to capture high-resolution optical snapshots through daylight photography, clear optical imagery, and true-color visual documentation using our SAR sensor over Tarazá, Colombia. This observation will be executed with a casual, highly flexible tone, reflecting its low priority importance while adhering to the specified deadline for data availability.

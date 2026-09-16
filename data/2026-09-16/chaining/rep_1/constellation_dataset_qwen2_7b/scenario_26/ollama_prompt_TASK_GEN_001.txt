@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region in Silvania, Colombia. This daylight photography will serve as true-color visual documentation of the area, providing critical insights for our operations team. The mission allocation priority is set to 'High Importance', framing this as an absolute institutional priority and a binding contract requirement involving a critical payload capture. We must execute this request with urgency and ensure that it cannot be preempted or rescheduled.
+
+Our primary sensor will be a VIS (visual imaging system) for this task, tasked with capturing clear optical imagery of the region. The deadline for this data availability is 'in three days in the evening', which means we need to finalize our preparations by then. The location details include the country and city, providing context for our operational team.
+
+In terms of physical objectives, this VIS sensor will deliver high-resolution images that are essential for our baseline pipeline tracking setup with fixed parameters representing normal operational status. This task is part of our standard workflow update, contributing to our ongoing monitoring efforts.
+
+Given the nature of this request, it's a high priority importance task with a flexible schedule for opportunistic capture. We can treat it as a non-essential background filler task, noting that we may drop or reschedule it at convenience if necessary. Labeling it as a 'background survey' or 'testbed tracking task' will ensure clarity on its operational status.
+
+In conclusion, this task request integrates the operational guidelines by interpreting metadata organically and translating it into a conversational English request. The Earth-observation mission operator has submitted this request to our automated satellite constellation planner for execution, ensuring that all details are conveyed accurately and efficiently.

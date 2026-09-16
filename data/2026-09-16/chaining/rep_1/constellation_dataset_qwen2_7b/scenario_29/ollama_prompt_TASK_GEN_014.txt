@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby request the automated satellite constellation planner to prioritize our task with utmost importance. This request is based on the operational guidelines provided for translating raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context of our mission involves capturing data from the region known as "Italia Norte", a vital area that requires detailed monitoring due to its strategic location and potential environmental changes. The primary sensor we are utilizing is the SAR (Synthetic Aperture Radar), which will enable us to perform an active radar scan using microwave surface imaging, allowing for cloud-penetrating capture and providing exceptional ground geometry details.
+
+Given the priority level of 3, this task is considered a binding contract requirement involving a critical payload capture. We must ensure that this mission receives absolute institutional priority and is executed with urgency as an un-preemptable operation. The deadline for this task has been set for "tomorrow in the morning", which represents our upper limit for data availability.
+
+Let us proceed with the execution of this standard operational tasking, understanding that it forms part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is essential for maintaining our baseline pipeline and ensuring that we meet contractual obligations without compromising on quality or accuracy.
+
+I hereby submit this request with confidence in your automated satellite constellation planner's capability to deliver the necessary data promptly and accurately, adhering to our operational guidelines and ensuring that the mission's importance is communicated effectively through our request.

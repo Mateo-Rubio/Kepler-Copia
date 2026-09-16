@@ -1,0 +1,5 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a low priority importance observation of Malaysia's Rumah Budak region. The primary sensor involved will be the VNIR (Visible Near-Infrared) instrument, aiming to capture a high-resolution optical snapshot for daylight photography and true-color visual documentation. This is a non-essential background filler task that can be dropped or rescheduled at convenience, treated as a background survey or testbed tracking task.
+
+The objective is to gather data on the chlorophyll absorption level and calculate the vegetation NDVI index for the area, assessing surface reflectance. The deadline for this task has been resolved by an upstream module, requiring the data to be available "in four days overnight". This means the information must be delivered within the specified timeframe, without any rephrasing or adjustment of the phrase.
+
+This request aligns with the operational guidelines provided, ensuring a natural and conversational tone in translating the raw physical simulation metadata into a highly realistic and accurate English request.

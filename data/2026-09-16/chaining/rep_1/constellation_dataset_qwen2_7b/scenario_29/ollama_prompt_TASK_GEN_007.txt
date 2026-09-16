@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the specified task.
+
+The geographic context revolves around the region of Colombia, with a specific focus on the city of Barrancabermeja. This location is crucial for our mission as it involves capturing detailed information about the area's surface geometry under various weather conditions using an advanced SAR sensor.
+
+The priority level for this task is set to 'High Importance', which demands an authoritative and explicit tone reflecting the absolute institutional priority or a binding contract requirement. We are dealing with a critical payload capture that necessitates urgent operational execution, ensuring that no other mission can preempt this request due to its contractual obligations.
+
+The primary sensor involved is an active SAR system, designed for microwave surface imaging. This technology allows us to perform cloud-penetrating scans, providing invaluable data even under heavy weather conditions or when visibility is compromised by clouds. The goal is to capture detailed ground geometry and features that are essential for our ongoing projects in Barrancabermeja.
+
+The delivery deadline is set for "today in the evening". This means we require the data by the end of the day, as per our operational guidelines. It is imperative to adhere to this specific time frame without altering it.
+
+In summary, our mission request entails capturing a detailed SAR scan of Barrancabermeja, Colombia, focusing on ground geometry and features under various weather conditions. This task carries a high priority level, necessitating urgent execution and adherence to the deadline set for "today in the evening". The use of advanced SAR technology ensures that we can gather comprehensive data even when visibility is limited by clouds or other obstructions.

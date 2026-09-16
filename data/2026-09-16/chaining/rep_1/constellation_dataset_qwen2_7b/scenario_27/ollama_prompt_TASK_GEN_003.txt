@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby request a highly realistic and conversational English task for our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single request that maximizes naturalness and validation accuracy.
+
+The task involves capturing a high-resolution optical snapshot of the region known as Hiang Karya, located within the country of Indonesia. We aim to achieve clear daylight photography or true-color visual documentation for this area, which is essential for monitoring environmental changes and land use dynamics.
+
+Given the priority level of our task being 1 (low importance), we hereby frame it as a flexible schedule "background survey" or "testbed tracking task". The request acknowledges that this mission can be dropped or rescheduled at convenience, treating it as a non-essential background filler task with normal operational status.
+
+The deadline for this task is set for the day after tomorrow in the morning. This upper limit for data availability is a fixed parameter representing our baseline pipeline tracking setup and workflow update requirements.
+
+In summary, our request to the automated satellite constellation planner is to capture the essence of Hiang Karya through a VIS sensor, focusing on daylight photography or true-color visual documentation. We emphasize flexibility around scheduling and operational status while adhering to the deadline set for the day after tomorrow in the morning.

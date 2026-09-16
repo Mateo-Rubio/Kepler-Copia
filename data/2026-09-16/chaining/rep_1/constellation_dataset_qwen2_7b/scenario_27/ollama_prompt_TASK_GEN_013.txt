@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves observing a location in Colombia, specifically Chivatá, which is a city within this country. The operational guidelines dictate that we should not use raw technical system tags or coordinate arrays in our final output. Instead, we should describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. In this case, since Chivatá is a city with no additional landmark specified, we'll focus on the country and city for context.
+
+The mission allocation priority level is set to High Importance (Priority 3), which means that this request must be handled with an authoritative, explicit, and commanding tone. It's framed as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor involved is VNIR (Visible Near-Infrared), which translates into the goal of performing a "multispectral vegetation analysis". This task aims to assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. The objective is to gather detailed information about plant health and vegetation cover.
+
+The delivery deadline has already been resolved by an upstream module, which stipulates that the data should be available "in three days during the afternoon". This phrase must be inserted verbatim into our request, as the stated upper limit for data availability.
+
+In summary, we're requesting a highly detailed and specific task to capture multispectral vegetation data over Chivatá, Colombia, using VNIR sensors. The urgency of this mission is emphasized by its high priority level, requiring immediate attention and prioritization in our satellite constellation planning. The deadline for data delivery is set for three days during the afternoon, ensuring that we have sufficient time to process and analyze the information efficiently.
