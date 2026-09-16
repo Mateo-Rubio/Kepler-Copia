@@ -1,0 +1,7 @@
+Please schedule an operational tasking for a standard baseline pipeline tracking setup on our automated satellite constellation. The primary sensor to be utilized is Active Radar (SAR), which will perform an active microwave surface imaging scan to capture cloud-penetrating data, ensuring the ground geometry is accurately mapped even under heavy weather conditions. The geographical context involves the location of Norte, France, where the mission will observe a critical area for our routine monitoring activities.
+
+The request is designated with a priority level of 1, indicating it falls under the category of a low priority importance task with a flexible schedule for opportunistic capture. This "non-essential background filler task" can be dropped or rescheduled at convenience if necessary, treating it as a background survey or testbed tracking task.
+
+The operational deadline for this task is set four days in the morning, which means the data availability upper limit is strictly adhered to without any rephrasing or alteration. The objective is to ensure that our satellite constellation captures the required information within these parameters without compromising the integrity of our baseline pipeline tracking setup.
+
+Thank you for your attention to this standard operational tasking request.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic dataset. Our objective is to translate raw physical simulation metadata provided in JSON format into a single, conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context of our mission involves the region of "Italia", with a specific focus on the city of "Ramiseto". This location will be captured using a "near-infrared reflection" sensor for "water body boundary mapping" and "soil moisture assessment", providing valuable insights into surface reflectance. Given the nature of the task, it is classified as a "low priority importance" request, implying that this is a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture".
+
+The delivery deadline for this task is set to be "the day after tomorrow in the morning", representing the upper limit for data availability. This phrase is inserted verbatim into our request, as per the guidelines provided.
+
+In conclusion, our mission allocation priority is categorized as "Priority 1", indicating that this request is treated as a "low priority importance" task, with an explicit note to "drop or reschedule at convenience". The natural language interpretation of our operational guidelines ensures that the final request is both accurate and conversational, aligning with the mission's objectives for capturing the specified location using the designated sensor under the given deadline.

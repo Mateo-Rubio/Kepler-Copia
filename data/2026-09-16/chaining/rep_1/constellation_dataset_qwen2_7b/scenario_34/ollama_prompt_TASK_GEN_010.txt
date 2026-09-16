@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing the region of Venezuela, specifically focusing on Santa Ana del Táchira. This location combines the country's rich landscape with Santa Ana's unique characteristics, creating an atmospheric snapshot that captures the essence of this area.
+
+Given the priority level of 3, this task is of high importance and must be treated as an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language reflects an urgent operational execution and an un-preemptable mission lock, emphasizing the need for immediate attention and prioritization.
+
+The primary sensor to be utilized is VIS (visual imagery), which will provide us with a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation. This sensor allows us to capture the natural beauty of the region under clear skies, offering detailed insights into its geography and environment.
+
+The deadline for this task has been resolved by an upstream module, with the data availability set for "in three days around mid-day". This phrase must be included verbatim in our request, serving as the upper limit for data availability without any rephrasing or alteration.
+
+In conclusion, our request to the satellite constellation planner is to capture a detailed VIS image of Santa Ana del Táchira, Venezuela, emphasizing its importance as an urgent priority task. The deadline for this mission is set for three days from now, around mid-day, ensuring that we receive the data within the specified timeframe. This task is crucial for our ongoing research and monitoring efforts in the region.

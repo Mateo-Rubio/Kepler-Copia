@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context of this mission involves Malaysia, with a focus on capturing data in the city of Ecuatorial. The operational guidelines guide us to interpret the location details naturally, combining country, city, and landmark fields where applicable. Since 'city' is "Ecuatorial", we'll use it as a realistic descriptor without delving into raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at Level 1 (Low Importance), which means this request should be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We can explicitly note that it's a "non-essential background filler task", ideally treated as a "background survey" or "testbed tracking task".
+
+The primary sensor used in this mission is SAR (Synthetic Aperture Radar), which will be employed for an "active radar scan" using "microwave surface imaging". This technique allows us to pierce heavy weather conditions, providing invaluable data on cloud-penetrating capture and ground geometry.
+
+The physical objective is to capture a thermal map, which involves identifying the "heat signature", "surface temperature profile", or performing "thermal anomaly detection" and mapping heat emissions. This is crucial for understanding various environmental phenomena and ensuring that our satellite constellation gathers comprehensive data on heat distribution.
+
+The delivery deadline is set for "in four days in the morning". This phrase must be included verbatim in the request, as it represents the upper limit for data availability, without any rephrasing or alteration of the time frame.
+
+In summary, our request to the automated satellite constellation planner should encapsulate these operational guidelines, ensuring that the final output is both realistic and conversational, while accurately reflecting the mission's objectives and constraints. The task should be submitted with confidence, knowing that our operator has carefully translated the raw physical simulation metadata into a clear and actionable request.
