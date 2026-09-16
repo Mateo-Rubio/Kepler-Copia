@@ -1,0 +1,12 @@
+Good day to our satellite constellation planning team,
+
+We're reaching out with a task that's of low priority importance, yet still requires some attention. Our focus is on capturing a high-resolution optical snapshot of the region in Colombia, specifically the city of Sabana de Torres. This visual documentation aims to provide clear optical imagery and true-color visual details for our ongoing project.
+
+Given its nature as a non-essential background filler task, we're aware that this request can be dropped or rescheduled at your convenience. We understand that it's part of a flexible schedule and is to be treated as a background survey or testbed tracking task.
+
+The deadline for delivering the data products is set by the target day, which is in three days, with a strict delivery deadline set for overnight. We're aiming to ensure the products are ingested into our pipeline before that time frame, adhering to the urgency of this operational task.
+
+Thank you for your understanding and cooperation in fulfilling this request as per our guidelines.
+
+Best regards,
+[Your Name]

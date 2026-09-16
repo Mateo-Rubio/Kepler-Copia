@@ -1,0 +1,7 @@
+Good morning! I'm reaching out for a standard operational tasking involving the Indonesian region, specifically focusing on the city of Pelompek. Our mission is to conduct a routine monitoring exercise using the VNIR sensor, which will help us assess the chlorophyll absorption levels and calculate the vegetation NDVI index along with surface reflectance.
+
+The primary objective is to gather detailed multispectral vegetation data that will provide valuable insights into the health and distribution of plant life in the area. We aim to capture this information as part of our baseline pipeline tracking setup, ensuring that we have fixed parameters for normal operational status.
+
+Please note that this request holds a medium importance level, meaning it's part of our standard workflow updates but not an urgent requirement. However, we do appreciate your prompt attention to this task given the deadline constraints. We need the data products by tomorrow's overnight block at the latest, ensuring they are ingested into our pipeline before then.
+
+Thank you for your understanding and cooperation in meeting this requirement. If there are any questions or adjustments needed, please feel free to reach out. Have a great day!

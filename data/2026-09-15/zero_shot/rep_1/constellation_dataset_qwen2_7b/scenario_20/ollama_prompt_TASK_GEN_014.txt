@@ -1,0 +1,17 @@
+```prompt
+Good day to our satellite constellation planning team,
+
+We are reaching out with an urgent operational request that falls under our highest priority level, signifying an absolute institutional mandate. The critical payload capture we're aiming for involves the use of our advanced SAR sensor capabilities, which will allow us to conduct an active radar scan through the night, piercing through any heavy weather conditions and capturing ground geometry with unparalleled precision.
+
+Our geographic context is centered around the breathtaking Isola del Gran Sasso d'Italia, located in the beautiful country of Italia. This unique location requires a high-resolution view that can only be achieved by our state-of-the-art technology.
+
+The task at hand necessitates that all data products are delivered to us by tomorrow's overnight block, adhering strictly to our deadline set for "tomorrow overnight". We understand this deadline represents the upper limit for data availability and we assure you that our team is fully prepared to meet this challenge.
+
+This request is not just a standard operational task; it's a binding contract requirement involving a critical payload capture that demands an urgent operational execution. We are committed to ensuring the products are ingested into our pipeline before the specified deadline, allowing us to proceed with our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please be aware that this is a non-negotiable request and we kindly ask for your team's immediate attention and swift action in fulfilling this mandate. We appreciate your understanding of the importance and urgency involved in this task.
+
+Thank you for your cooperation and we look forward to working together on this critical mission.
+
+Best regards,
+[Your Name]

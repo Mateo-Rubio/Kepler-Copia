@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a task allocation for a critical payload capture. We're looking at a high-resolution active radar scan using microwave surface imaging technology to penetrate heavy weather conditions and capture ground geometry in the region of Colombia, specifically focusing on Puerto Libertador.
+
+Our priority level is marked as 'High Importance', which means this task is an absolute institutional priority and a binding contract requirement involving a critical payload capture. We're looking to execute this mission with an authoritative tone, implying urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor we're utilizing is the SAR (Synthetic Aperture Radar), which will provide us with cloud-penetrating capture capabilities for our specific needs. This task is part of a routine monitoring setup with fixed parameters representing normal operational status or a standard workflow update.
+
+We aim to deliver the data products by tomorrow morning, ensuring they are ingested into the pipeline before the target day and its corresponding diurnal period. This deadline is strictly set and cannot be altered or extended under any circumstances.
+
+Thank you for your attention and please confirm receipt of this request. We look forward to your prompt response and successful execution of this mission.

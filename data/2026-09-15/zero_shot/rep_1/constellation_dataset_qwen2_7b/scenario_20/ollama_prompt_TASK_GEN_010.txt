@@ -1,0 +1,10 @@
+Hello satellite constellation planner,
+
+I'm reaching out to request a high-resolution optical snapshot of Otanche, Colombia, for daylight photography purposes. This task is considered a low priority importance request with a flexible schedule for opportunistic capture. We're looking to assess the clear optical imagery and true-color visual documentation of the region.
+
+The deadline for delivering this data product is set for today, in the evening, ensuring that the products are ingested into our pipeline before that timeframe. I understand that this deadline represents the strict operational limit for data availability, not an orbital capture window.
+
+Please note that this task can be dropped or rescheduled at your convenience, treating it as a background survey or testbed tracking task. Thank you for your understanding and cooperation in managing this request efficiently.
+
+Best regards,
+[Your Name]

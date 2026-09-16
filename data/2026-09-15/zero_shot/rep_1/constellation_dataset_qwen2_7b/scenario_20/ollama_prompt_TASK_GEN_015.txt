@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at a medium importance task involving Malaysia's Belaga region, which requires an active radar scan using microwave surface imaging technology for cloud-penetrating capture of ground geometry. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The request has been categorized as standard operational tasking.
+
+We aim to gather this critical data by the day after tomorrow's overnight period at the latest, ensuring the products are ingested into the pipeline before that time frame. This task falls under our commercial tasking category and is a routine monitoring activity with no impact on other priorities.
+
+Thank you for your attention and please let us know if you have any questions or need further clarification. We appreciate your swift response in fulfilling this request.

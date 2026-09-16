@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a standard operational tasking for a routine monitoring activity involving the VNIR sensor. The objective is to conduct a multispectral vegetation analysis over an area located in San Carlos de Guaroa, Colombia. This involves capturing the chlorophyll absorption levels and calculating the NDVI index for the region to assess vegetation health and surface reflectance.
+
+Our operational deadline for this task is set for three days from now, with a strict delivery deadline of overnight at the latest. We aim to ensure that the products are ingested into our pipeline before then, adhering to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention and cooperation in fulfilling this request.
+
+Best regards,
+[Your Name]

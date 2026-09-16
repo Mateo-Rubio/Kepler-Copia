@@ -1,0 +1,7 @@
+Good day! We're looking to capture high-resolution near-infrared imagery for a routine monitoring task involving water body boundary mapping and soil moisture assessment. The primary sensor we need to utilize is the Near-Infrared (NIR) sensor, which will provide us with essential data on water bodies and soil conditions.
+
+Our geographic focus is Norte, though we're aware that specific country details are not available. We're targeting a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request carries a medium importance level and adheres to our standard workflow update process.
+
+The deadline for acquiring this data is set for tomorrow evening, needed by "tomorrow" in the evening at the latest. We're committed to ensuring that the products are ingested into our pipeline before this time frame ends. This task is part of our regular monitoring activities and should be treated as a standard operational task with no alteration or extension of the deadline.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting these requirements promptly.
