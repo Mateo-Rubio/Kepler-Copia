@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring the dataset's naturalness and validation accuracy are maximized.
+
+The geographic context involves capturing a high-resolution optical snapshot of Otanche, Colombia, using daylight photography or clear optical imagery for true-color visual documentation. This serves as a low priority importance request with flexible scheduling, designated as a non-essential background filler task. It's explicitly noted that this operator may drop or reschedule the mission at convenience, treating it as a background survey or testbed tracking task.
+
+The mission allocation priority is set to Low Importance, which implies that this request is part of an operational pipeline with fixed parameters representing normal status or a workflow update. There's no mention of raw priority numbers or technical priority levels; instead, the language heavily emphasizes flexibility and opportunism, indicating an "as-needed" task rather than one with an immediate deadline.
+
+The primary sensor involved is VIS (Visible Imaging Sensor), which will capture the scene using high-resolution optical data for daytime photography purposes. This includes detailed imagery that can provide insights into various aspects of the environment, such as land use, urban development, or natural disasters.
+
+The delivery deadline for this task has already been resolved by an upstream module: "today in the evening". This phrase should be inserted verbatim into the request as the stated upper limit for data availability, without rephrasing, shortening, or relocating it to a different part of the day. The deadline ensures that the satellite constellation planner understands when this mission must conclude.
+
+In summary, our task request is for capturing high-resolution optical imagery of Otanche, Colombia, using a VIS sensor, with a flexible schedule and no explicit deadline urgency beyond today's evening hours. This aligns with low priority importance guidelines, emphasizing operational flexibility and opportunism in the execution of the mission.

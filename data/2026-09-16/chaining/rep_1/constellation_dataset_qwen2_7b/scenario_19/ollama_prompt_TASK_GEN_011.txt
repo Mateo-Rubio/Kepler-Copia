@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a low priority importance task request for a near-infrared sensor observation. The objective is to capture the heat signature of the region named Norte, focusing on its surface temperature profile and thermal anomaly detection. This "background survey" aims to map heat emissions and assess soil moisture levels opportunistically.
+
+The task requires an active radar scan using microwave surface imaging capabilities, which will provide cloud-penetrating capture essential for obtaining clear optical imagery in heavy weather conditions or capturing ground geometry details. This "low priority importance" request has been allocated with a flexible schedule, allowing for "drop or rescheduling at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The deadline for this data availability is set for four days from now, starting in the morning. This upper limit for data availability must be adhered to verbatim, without rephrasing, shortening, or moving it to a different part of the day.
+
+Given these operational guidelines and the provided JSON metadata, I request that the automated satellite constellation planner schedules this observation accordingly, ensuring that the mission is executed in alignment with the outlined objectives and deadlines.

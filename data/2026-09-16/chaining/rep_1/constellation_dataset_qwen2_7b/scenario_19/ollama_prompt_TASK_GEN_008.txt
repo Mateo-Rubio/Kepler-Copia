@@ -1,0 +1,7 @@
+Given the operational guidelines, we are to translate the provided task context into a conversational English request. The primary sensor is SAR, which will be used for an active radar scan employing microwave surface imaging to capture cloud-penetrating details of the region. The geographic context involves the country "Italia" and city "Norte", though specific landmarks are not provided. This mission allocation falls under priority level 2, indicating a standard operational tasking that is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The target day is set for today, with the diurnal period specified as overnight. This deadline represents the upper limit for data availability, making it clear that we must prioritize this request without altering the stated timeframe.
+
+To summarize, our request is as follows: "Conduct a standard operational task using an active SAR radar scan to capture cloud-penetrating details of the region in Italia, specifically focusing on the city of Norte. This mission is part of our baseline pipeline tracking setup with fixed parameters that represent normal operational status. The deadline for this task has been resolved as today overnight, ensuring that all data will be available by this time without any rephrasing or alteration to the stated timeframe."
+
+This request integrates the operational guidelines seamlessly, providing a clear and natural interpretation of the raw physical simulation metadata.

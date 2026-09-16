@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Given the operational guidelines, we'll interpret the provided JSON format accordingly.
+
+The geographic context involves capturing data for Norte, Brazil, which falls under the 'region_name' category as no country or city details are available. Combining this with the 'target_day' set for 'tomorrow', specifically 'in the evening', we aim to gather information on a specific area with minimal constraints.
+
+Our mission allocation priority is medium importance, indicated by 'priority_level': 2. This request should be framed as a standard operational tasking or commercial tasking, part of our baseline pipeline tracking setup. The language must reflect normal operational status and incorporate fixed parameters representing our routine monitoring activities.
+
+The primary sensor involved is "NIR", which we'll interpret as near-infrared reflection for water body boundary mapping or soil moisture assessment. This sensor allows us to discriminate gradients and capture essential data for environmental monitoring.
+
+To summarize, our request is to capture detailed imagery of Norte, Brazil, using the 'NIR' sensor in the evening on tomorrow's day. The task is part of our standard operational pipeline tracking activities with fixed parameters, representing normal operational status. This request has a medium priority level and should be treated as a routine monitoring task without any urgency constraints.
+
+Let's proceed with the execution of this task, ensuring that all necessary data is gathered by 'tomorrow in the evening', adhering to our established guidelines for naturalness and validation accuracy.

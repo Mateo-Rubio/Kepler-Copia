@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a highly prioritized task request to our automated satellite constellation planner. The objective is to capture a detailed thermal mapping of the region named "Sabaudia", located in the country of "Italia". This request carries the utmost importance due to its Priority Level 3 status, emphasizing it as an absolute institutional priority or a binding contract requirement involving a critical payload capture.
+
+The mission aims to observe and collect data using our primary sensor, which is specifically designed for thermal mapping. This process will yield valuable insights into surface temperature profiles and thermal anomalies, crucial for detecting heat emissions across the region during tomorrow's overnight period. The high-resolution data will be essential for comprehensive analysis and decision-making processes.
+
+Given the nature of this task, it must be executed with utmost urgency and cannot be preempted or rescheduled. We are treating this request as an "urgent operational execution" that requires an un-preemptable mission lock to ensure timely delivery of the data.
+
+The specific parameters for this task include capturing thermal images of Sabaudia using our TIR sensor during the overnight period on the target day, which is tomorrow. The tasking involves a standard operational tasking with fixed parameters representing normal operational status or a routine monitoring setup that is part of our baseline pipeline tracking.
+
+As for the deadline, it has already been resolved by an upstream module and stands as "tomorrow overnight". This upper limit for data availability must be adhered to without any rephrasing, shortening, or moving it to a different part of the day. The request explicitly acknowledges this timeframe as the stated deadline for data delivery.
+
+In conclusion, this task requires immediate attention and execution due to its high priority level and the urgency associated with capturing thermal data of Sabaudia during tomorrow's overnight period. We are fully committed to meeting this deadline and ensuring that the data collected will provide valuable insights into surface temperatures and thermal anomalies across the region.

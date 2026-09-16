@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to the automated satellite constellation planner for a highly realistic and conversational English output. The raw physical simulation metadata provided in JSON format is being translated organically according to our operational guidelines.
+
+The geographic context involves capturing a thermal mapping of Indonesia's equatorial region. The 'country' field provides the geographical location, while 'city' is "Ecuatorial", which adds a vivid and descriptive term for the area. Since 'landmark' is not provided or is "N/A", we'll leave it out gracefully.
+
+The mission allocation priority level is set to 1, indicating low importance. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's labeled as a "non-essential background filler task" that can be treated as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is "NIR", which is explained as capturing "near-infrared reflection" for "water body boundary mapping" and assessing "soil moisture assessment". This provides a natural and descriptive explanation of the physical phenomenon to be observed.
+
+The delivery deadline is set for "in four days overnight". This phrase is inserted verbatim into our request, adhering to the upper limit for data availability without rephrasing or shortening it. The deadline represents the upper boundary for data availability, not related to a countdown metric or time of day.
+
+In summary, this task request aims to capture thermal mapping of Indonesia's equatorial region using near-infrared sensors for water body boundaries and soil moisture assessment, with a flexible schedule for opportunistic capture and adherence to the deadline set for four days overnight.

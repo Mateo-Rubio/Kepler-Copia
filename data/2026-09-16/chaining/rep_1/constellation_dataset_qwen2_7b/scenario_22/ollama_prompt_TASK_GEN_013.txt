@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves capturing a high-resolution optical snapshot of Ráquira, Colombia, which is a picturesque city known for its vibrant local art scene. This location will provide us with clear optical imagery that can document the vibrant landscapes and architectural details during daylight hours.
+
+The mission allocation priority for this task is Low Importance (Priority 1). We're treating it as a flexible schedule background survey where we can drop or reschedule at convenience, considering it a non-essential background filler task in our operational pipeline. The language reflects that while it's not an urgent mission, it's still part of our normal workflow updates.
+
+The sensor involved is VIS, which will be utilized to assess chlorophyll absorption levels and calculate the vegetation NDVI index as well as surface reflectance. This multispectral vegetation analysis will help us understand the health and composition of the local flora.
+
+The delivery deadline for this task has already been resolved by an upstream module. The data is requested to be available in three days around mid-day, which means we need to ensure that our satellite captures the scene during the optimal time when conditions are most favorable for clear optical documentation.
+
+In summary, our request is to capture a high-resolution optical snapshot of Ráquira, Colombia, using VIS sensors, focusing on multispectral vegetation analysis. This task carries a low priority importance and must be executed with flexibility in schedule. The deadline for data availability has been set for three days around mid-day, ensuring we capture the best possible conditions for our observation.

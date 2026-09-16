@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Ecuatorial region, which combines the country and city fields naturally without relying on raw technical system tags or coordinate arrays. This location description is based on realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", they would be gracefully ignored.
+
+The mission allocation priority for this task is medium importance, as indicated by the 'priority_level' key. The language must reflect an authoritative tone with professional directness, describing this request as part of a standard operational tasking or commercial tasking setup. It represents normal operational status or a routine monitoring activity within a baseline pipeline tracking setup, with fixed parameters and normal operational status.
+
+The primary sensor to be used is Near-Infrared (NIR). The goal is to capture near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients. This physical objective requires an active radar scan using microwave surface imaging to pierce heavy weather or capture ground geometry, focusing on cloud-penetrating capture capabilities.
+
+The delivery deadline for this task has been resolved by an upstream module, and it's set for "the day after tomorrow in the morning". This phrase must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, the Earth-observation mission operator is requesting a satellite observation task that combines the specified geographic context, medium priority level, primary sensor's operational objectives, and a precise delivery deadline to ensure efficient and accurate data capture for Indonesia's Ecuatorial region.

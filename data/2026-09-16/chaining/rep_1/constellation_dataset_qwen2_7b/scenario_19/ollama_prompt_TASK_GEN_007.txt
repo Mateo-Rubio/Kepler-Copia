@@ -1,0 +1,7 @@
+Please prepare a high-resolution optical snapshot for daylight photography of Puerto Libertador, Colombia. This task is classified as a low priority importance request with flexible scheduling requirements, treating it as a non-essential background filler task. The imagery should capture clear optical details suitable for true-color visual documentation. The deadline for this task is in three days around mid-day.
+
+As part of our baseline pipeline tracking, we aim to assess the chlorophyll absorption level through multispectral vegetation analysis using our VIS sensor. This will help us calculate the vegetation NDVI index and surface reflectance for the area. We are looking forward to receiving thermal mapping data that captures heat signatures, surface temperature profiles, and thermal anomalies for detecting heat emissions.
+
+For this mission, we request an active radar scan utilizing microwave surface imaging capabilities of our SAR sensor to pierce heavy weather conditions and capture ground geometry. This will ensure that we can obtain cloud-penetrating capture for the target area around Puerto Libertador, Colombia.
+
+Please schedule the task accordingly to meet the deadline of three days around mid-day. We appreciate your understanding and flexibility regarding this low priority importance request.

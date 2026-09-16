@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request.
+
+The geographic context of this mission involves Colombia, specifically the city of Uribe. We aim to capture high-resolution optical imagery of this location using near-infrared sensors for water body boundary mapping and soil moisture assessment. This task is of absolute institutional priority, involving a critical payload capture that requires an urgent operational execution and an un-preemptable mission lock.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability upper limit set for three days around mid-day. We understand that this deadline represents the maximum time frame for data collection and are prepared to adhere to this timeframe without rephrasing or altering it.
+
+In summary, our request is to undertake a standard operational tasking involving the capture of near-infrared reflection data from Uribe, Colombia, on the target day around mid-day. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status and will be treated as a routine monitoring activity.
+
+Please proceed with the satellite constellation planning accordingly.
