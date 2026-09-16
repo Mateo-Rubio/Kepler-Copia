@@ -1,0 +1,1 @@
+We require a thermal mapping task to capture a heat signature and surface temperature profile over Bontang in Indonesia. This is a low priority importance request with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task. We'd like this to be completed in three days in the evening.
