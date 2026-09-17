@@ -176,7 +176,6 @@ def _call_ollama(
     repeat_penalty: float = 1.05,
     echo: bool = True,
 ) -> str:
-    """Una sola llamada a Ollama. Devuelve el texto crudo, sin parsear."""
     payload = {
         "model": model_name,
         "prompt": prompt,
@@ -212,7 +211,6 @@ def _call_ollama(
 
 
 def _extract_prompt_block(raw_text: str) -> str:
-    """Extrae el primer bloque ```prompt ... ```; si no hay, devuelve el texto."""
     pattern = r"\x60{3}(?:prompt|text)?\s*(.*?)\s*\x60{3}"
     match = re.search(pattern, raw_text, re.DOTALL | re.IGNORECASE)
     return match.group(1).strip() if match else raw_text.strip()
@@ -228,13 +226,6 @@ def generate_ollama_semantic_prompt(
     num_predict: int = 1200,
     repeat_penalty: float = 1.05,
 ) -> Tuple[Dict[str, str], Dict[str, str]]:
-    """
-    Devuelve (prompts_map, stage1_map).
-
-    prompts_map : task_id -> solicitud final en lenguaje natural
-    stage1_map  : task_id -> frase temporal resuelta en la etapa 1
-                  (vacio para las estrategias de una sola llamada)
-    """
     generated_prompts_map: Dict[str, str] = {}
     stage1_map: Dict[str, str] = {}
 
