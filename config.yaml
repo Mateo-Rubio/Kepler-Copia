@@ -1,6 +1,6 @@
 simulation:
   dataset_name: "constellation_dataset_qwen2_7b_v2"
-  num_scenarios: 25
+  num_scenarios: 34
   sat_k: 5
   sat_group_name: "weather"
   gs_k: 2

@@ -1,48 +1,7 @@
-#!/usr/bin/env python3
-"""
-run_all_models.py
-
-Corre el pipeline completo de KDF (Data Collector -> Request Generator ->
-Physics Engine) para VARIOS modelos de Ollama, generando todos los
-escenarios configurados (por defecto 25) por cada uno, y al final invoca
-utilities/plot_metrics.py para producir el gráfico comparativo final.
-
-Diferencias clave respecto a 'python src/main.py':
-
-  1. Corre TODOS los modelos en una sola ejecución (no hay que editar
-     config.yaml y volver a lanzar el script 5 veces).
-  2. Si un escenario puntual falla (timeout de Ollama, error de red con
-     Nominatim, error del modelo de embeddings, etc.), el error se registra
-     y el script CONTINÚA con el siguiente escenario, en vez de abortar
-     todo el proceso como hace 'src/main.py' (que envuelve el loop completo
-     en un único try/except con sys.exit(1)).
-  3. Es REANUDABLE: si vuelves a correr el script, los escenarios que ya
-     tienen su 'ollama_prompts_combined.json' completo (con el número
-     esperado de tareas) se OMITEN automáticamente, así que no se
-     regeneran ni se vuelve a gastar tiempo/llamadas a Ollama en ellos.
-
-Debe ejecutarse desde la raíz del repositorio de KDF (mismo nivel que
-'src/', 'config.yaml' y 'utilities/').
-
-Ejemplo de uso:
-    # Corre los 5 modelos del paper, 25 escenarios cada uno (usa config.yaml
-    # como base para todo excepto dataset_name/ollama_model, que se
-    # sobreescriben por modelo).
-    python3 run_all_models.py
-
-    # Solo 2 modelos, 5 escenarios cada uno (para probar rápido)
-    python3 run_all_models.py --models "llama3.1:8b,phi4:14b" --num-scenarios 5
-
-    # Reintentar SOLO los escenarios que fallaron en una corrida anterior
-    python3 run_all_models.py --retry-failed-only
-"""
-
 import argparse
 import json
 import os
 import pathlib
-import sys
-import traceback
 import yaml
 import requests
 from datetime import datetime, timezone, timedelta
@@ -51,41 +10,6 @@ from src.modules.physics_engine.main import physics_engine_main
 from src.modules.prompt_factory.main import prompt_factory_main
 
 RUN_DATE = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-# Instante de referencia CONGELADO para el Request Generator.
-#
-# El fix del Capitulo 2 elimino la discrepancia entre dos relojes (epoca del
-# TLE vs. hora del sistema) estableciendo un unico punto de referencia
-# compartido entre generacion y validacion. Aqui se conserva esa propiedad,
-# pero ademas se fija el valor: si se dejara en datetime.now(), dos corridas
-# lanzadas a horas distintas calcularian un 'expected_hour' distinto para las
-# mismas tareas, y las celdas del experimento dejarian de ser comparables.
-# Las franjas diurnas son bloques de 3 a 7 h, asi que un desfase de un par de
-# horas basta para cambiar la clase objetivo.
-#
-# Se sobreescribe con --generation-now.
-DEFAULT_GENERATION_NOW = "2026-01-15T12:00:00Z"
-GENERATION_NOW_UTC = None  # se fija en main()
-
-
-def parse_generation_now(value: str) -> datetime:
-    """Acepta 'YYYY-MM-DDTHH:MM:SSZ' o 'YYYY-MM-DD HH:MM:SS'."""
-    text = value.strip().replace("Z", "+00:00")
-    try:
-        parsed = datetime.fromisoformat(text)
-    except ValueError:
-        raise argparse.ArgumentTypeError(
-            f"Formato de fecha no valido: '{value}'. "
-            "Usa por ejemplo 2026-01-15T12:00:00Z"
-        )
-    return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
-
-
-def build_scenario_dir(strategy: str, rep: int, dataset_name: str, idx: int) -> pathlib.Path:
-    """data/<fecha>/<estrategia>/rep_<k>/<modelo>/scenario_<n>/"""
-    return (pathlib.Path("data") / RUN_DATE / strategy / f"rep_{rep}"
-            / dataset_name / f"scenario_{idx}")
-
 DEFAULT_MODELS = [
     "gemma2:27b",
     "llama3.1:8b",
@@ -93,69 +17,43 @@ DEFAULT_MODELS = [
     "phi4:14b",
     "qwen2:7b",
 ]
-
-FAILURE_LOG_PATH = pathlib.Path("run_all_models_failures.json")  # se re-asigna en main()
-
+GENERATION_NOW_UTC = datetime(2026, 1, 15, 12, 0, 0, tzinfo=timezone.utc)
+CATEGORIES_FILE = "semantic_categories.json"
+    
+def build_scenario_dir(strategy: str, dataset_name: str, idx: int) -> pathlib.Path:
+    return (pathlib.Path("data") / RUN_DATE / strategy / dataset_name / f"scenario_{idx}")
 
 def model_to_dataset_name(model: str) -> str:
-    """Convierte 'phi3.5:8b' -> 'constellation_dataset_phi3_5_8b' (mismo
-    patrón de nombres usado en el resto del repositorio)."""
     clean = model.replace(":", "_").replace(".", "_")
     return f"constellation_dataset_{clean}"
 
-
-def get_ollama_url() -> str:
-    """Misma variable de entorno que usa src/modules/prompt_factory/generator.py,
-    para que el chequeo previo apunte exactamente al mismo servidor Ollama que
-    se usará durante la generación real."""
-    return os.getenv("OLLAMA_URL", "http://127.0.0.1:11434")
-
-
 def check_ollama_models_available(models: list, embedding_model: str = "mxbai-embed-large",
                                    timeout: int = 10):
-    """
-    Verifica, ANTES de correr nada, que:
-      1. El servicio de Ollama esté accesible.
-      2. Todos los modelos de generación solicitados estén descargados.
-      3. El modelo de embeddings usado por el validador también lo esté.
-
-    Devuelve (available, missing, embedding_missing):
-      - available: lista de modelos solicitados que SÍ están descargados
-      - missing: lista de modelos solicitados que NO están descargados
-      - embedding_missing: True si falta el modelo de embeddings
-
-    Lanza ConnectionError si Ollama no responde en absoluto (nada que
-    verificar si el servicio ni siquiera está corriendo).
-    """
-    base_url = get_ollama_url().rstrip("/")
+    ollama_url = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434")
+    base_url = ollama_url.rstrip("/")
     try:
         response = requests.get(f"{base_url}/api/tags", timeout=timeout)
         response.raise_for_status()
     except requests.RequestException as e:
         raise ConnectionError(
-            f"No se pudo conectar con Ollama en '{base_url}'. "
-            f"¿Está corriendo el servicio ('ollama serve')? Detalle: {e}"
+            f"KEPLER-DF could not establish a connection to Ollama with url: '{base_url}': {e} "
+
         )
 
     installed_raw = [m.get("name", "") for m in response.json().get("models", [])]
-    # Ollama a veces añade ':latest' implícito; comparamos también sin ese sufijo
-    # para no dar falsos negativos (ej. usuario pidió 'phi4' y Ollama tiene
-    # 'phi4:latest').
     installed_normalized = set(installed_raw)
     for name in installed_raw:
         if name.endswith(":latest"):
             installed_normalized.add(name[: -len(":latest")])
-
-    available, missing = [], []
     for model in models:
-        if model in installed_normalized:
-            available.append(model)
-        else:
-            missing.append(model)
-
-    embedding_missing = (embedding_model not in installed_normalized)
-
-    return available, missing, embedding_missing
+        if model not in installed_normalized:
+            raise ConnectionError(
+                f"The model '{model}' is not installed in ollama"
+            )
+    if embedding_model not in installed_normalized:
+        raise ConnectionError(
+            f"The embedding model '{embedding_model}' is not installed in ollama"
+        )
 
 
 def load_config(config_path: str) -> dict:
@@ -168,21 +66,18 @@ def load_config(config_path: str) -> dict:
         raise ValueError("El archivo de configuración está vacío.")
     return cfg
 
-
 def load_semantic_categories(categories_path: str) -> dict:
+    """
+    Upload the JSON file containing the semantic categories and anchor text.
+    """
     p = pathlib.Path(categories_path)
     if not p.exists():
+        print(f"[WARNING] Semantic categories file not found at: {categories_path}. Using default values.")
         return {}
     with p.open("r", encoding="utf-8") as f:
         return json.load(f)
 
-
 def scenario_already_complete(scenario_dir: pathlib.Path, expected_tasks: int) -> bool:
-    """
-    Un escenario se considera COMPLETO si su ollama_prompts_combined.json
-    existe, es JSON válido, y tiene exactamente el número esperado de tareas
-    procesadas. Esto es lo que permite que el script sea reanudable.
-    """
     combined_path = scenario_dir / "ollama_prompts_combined.json"
     if not combined_path.exists():
         return False
@@ -193,36 +88,44 @@ def scenario_already_complete(scenario_dir: pathlib.Path, expected_tasks: int) -
         return total >= expected_tasks
     except (json.JSONDecodeError, OSError):
         return False
+    
+def validate_config_bounds_sanity(task_cfg: dict) -> None:
+    """
+    Verify that the configuration limits and time frames are logically consistent.
+    """
+    min_release = task_cfg.get("min_release_delay")
+    max_release = task_cfg.get("max_release_delay")
+    min_lifetime = task_cfg.get("min_lifetime")
+    max_lifetime = task_cfg.get("max_lifetime")
 
+    for name, val in [("min_release_delay", min_release), ("max_release_delay", max_release), 
+                      ("min_lifetime", min_lifetime), ("max_lifetime", max_lifetime)]:
+        if val is None:
+            raise ValueError(f"CRITICAL CONFIG ERROR: Parameter '{name}' is missing in task_generation block.")
+        if not isinstance(val, (int, float)) or val < 0:
+            raise ValueError(f"CRITICAL CONFIG ERROR: Parameter '{name}' must be a non-negative number. Got: {val}")
 
-def load_failure_log() -> list:
-    if FAILURE_LOG_PATH.exists():
-        with FAILURE_LOG_PATH.open("r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
+    if min_release > max_release:
+        raise ValueError(f"CRITICAL CONFIG ERROR: 'min_release_delay' ({min_release}s) cannot be greater than 'max_release_delay' ({max_release}s).")
 
+    if min_lifetime > max_lifetime:
+        raise ValueError(f"CRITICAL CONFIG ERROR: 'min_lifetime' ({min_lifetime}s) cannot be greater than 'max_lifetime' ({max_lifetime}s).")
 
-def save_failure_log(failures: list):
-    with FAILURE_LOG_PATH.open("w", encoding="utf-8") as f:
-        json.dump(failures, f, indent=2, ensure_ascii=False)
-
+    if max_lifetime == 0:
+        raise ValueError("CRITICAL CONFIG ERROR: 'max_lifetime' cannot be zero. Tasks would expire instantly.")
 
 def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
                          sem_categories: dict, current_seed: int,
-                         strategy: str = "zero_shot", rep: int = 1):
-    """Ejecuta el pipeline completo (Data Collector -> RG -> Physics Engine)
-    para UN escenario. Lanza excepción si algo falla; el llamador decide
-    qué hacer con ese error (ver main())."""
+                         strategy: str = "zero_shot"):
     sim_cfg = cfg.get("simulation", {})
     pay_cfg = cfg.get("payload", {})
     task_cfg = cfg.get("task_generation", {})
     path_cfg = cfg.get("paths", {})
-
     max_release_delay = task_cfg["max_release_delay"]
     max_lifetime = task_cfg["max_lifetime"]
     total_required_duration_s = max_release_delay + max_lifetime
-
-    scenario_dir = build_scenario_dir(strategy, rep, dataset_name, idx)
+    
+    scenario_dir = build_scenario_dir(strategy, dataset_name, idx)
     scenario_dir.mkdir(parents=True, exist_ok=True)
     scenario_report_path = scenario_dir / "scenario_report.json"
 
@@ -261,13 +164,7 @@ def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
 
     t0 = context.tle_epoch_utc if getattr(context, "tle_epoch_utc", None) else datetime.now(timezone.utc)
     tf = t0 + timedelta(seconds=total_required_duration_s)
-
-    # Reloj propio para la generación de lenguaje natural, independiente de
-    # la epoca del TLE (ver el fix aplicado a src/main.py). Es un instante
-    # FIJO compartido por toda la corrida, no la hora del sistema: eso es lo
-    # que hace que dos estrategias ejecutadas en momentos distintos tengan
-    # exactamente el mismo ground_truth y sean comparables.
-    generation_now_utc = GENERATION_NOW_UTC or datetime.now(timezone.utc)
+    generation_now_utc = GENERATION_NOW_UTC
 
     if sim_cfg.get("semantic_enabled", True):
         prompt_cfg = task_cfg.get("prompt_generation", {})
@@ -300,166 +197,55 @@ def run_single_scenario(model: str, dataset_name: str, idx: int, cfg: dict,
         max_duration=collector_kwargs["max_duration"],
     )
 
-
 def main():
+    ## TODO Translate pls
     parser = argparse.ArgumentParser(
         description="Corre el pipeline de KDF para varios modelos y todos sus escenarios, "
                     "continuando ante fallos puntuales y siendo reanudable."
     )
-    parser.add_argument("--config", type=str, default="config.yaml",
-                         help="Ruta al config.yaml BASE (default: config.yaml). Se reutiliza "
-                              "para todos los modelos, excepto dataset_name/ollama_model, que "
-                              "se sobreescriben automáticamente por modelo.")
-    parser.add_argument("--categories", type=str, default="semantic_categories.json",
-                         help="Ruta al JSON de categorías semánticas")
     parser.add_argument("--models", type=str, default=None,
                          help="Lista de modelos separados por coma (ej. 'llama3.1:8b,phi4:14b'). "
                               "Default: los 5 modelos del paper original.")
-    parser.add_argument("--num-scenarios", type=int, default=None,
-                         help="Número de escenarios por modelo (default: el de config.yaml, "
-                              "usualmente 25)")
-    parser.add_argument("--retry-failed-only", action="store_true",
-                         help="Solo reintenta los (modelo, escenario) que quedaron registrados "
-                              "como fallidos en la corrida anterior (run_all_models_failures.json)")
-    parser.add_argument("--skip-plot", action="store_true",
-                         help="No generar el gráfico final automáticamente al terminar")
-    parser.add_argument("--skip-model-check", action="store_true",
-                         help="Omitir la verificación previa de modelos disponibles en Ollama "
-                              "(no recomendado, salvo que ya la hayas hecho manualmente)")
-    parser.add_argument("--continue-without-missing", action="store_true",
-                         help="Si algún modelo no está descargado, continuar solo con los "
-                              "disponibles en vez de detener la ejecución por completo")
-    parser.add_argument("--generation-now", type=str, default=DEFAULT_GENERATION_NOW,
-                         help="Instante de referencia UTC congelado para el Request "
-                              "Generator, ej. 2026-01-15T12:00:00Z. Debe ser IDENTICO "
-                              "en todas las corridas que se vayan a comparar entre si.")
-    parser.add_argument("--rep", type=int, default=1,
-                         help="Numero de repeticion (k). Cada k escribe en su propia "
-                              "carpeta rep_<k>/ para no sobrescribir la anterior.")
     parser.add_argument("--strategy", type=str, default="zero_shot",
                         choices=["zero_shot", "few_shot", "chain_of_thought", "chaining"])
     args = parser.parse_args()
 
-    global FAILURE_LOG_PATH, GENERATION_NOW_UTC
-    GENERATION_NOW_UTC = parse_generation_now(args.generation_now)
-    print(f"[CLOCK] Instante de referencia congelado: "
-          f"{GENERATION_NOW_UTC.strftime('%Y-%m-%dT%H:%M:%SZ')}")
-
-    FAILURE_LOG_PATH = pathlib.Path(
-        f"run_all_models_failures_{RUN_DATE}_{args.strategy}_rep{args.rep}.json")
-
-    cfg = load_config(args.config)
-    sem_categories = load_semantic_categories(args.categories)
+    cfg = load_config("config.yaml")
+    sem_categories = load_semantic_categories(CATEGORIES_FILE)
     sim_cfg = cfg.get("simulation", {})
-    task_cfg = cfg.get("task_generation", {})
-
     models = ([m.strip() for m in args.models.split(",") if m.strip()]
-              if args.models else DEFAULT_MODELS)
-    num_scenarios = args.num_scenarios or sim_cfg.get("num_scenarios", 25)
+          if args.models else DEFAULT_MODELS)
+    num_scenarios = sim_cfg.get("num_scenarios", 25)
     base_seed = sim_cfg.get("seed", 42)
     tasks_k = sim_cfg.get("tasks_k", 10)
-
-    # --------------------------------------------------------------- #
-    # Verificación previa: ¿están todos los modelos realmente
-    # descargados en Ollama ANTES de gastar tiempo generando escenarios?
-    # --------------------------------------------------------------- #
-    if not args.skip_model_check:
-        print("Verificando disponibilidad de modelos en Ollama...")
-        try:
-            available, missing, embedding_missing = check_ollama_models_available(models)
-        except ConnectionError as e:
-            print(f"\n[ERROR] {e}", file=sys.stderr)
-            sys.exit(1)
-
-        for m in available:
-            print(f"  [OK]      {m}")
-        for m in missing:
-            print(f"  [FALTA]   {m}")
-        if embedding_missing:
-            print(f"  [FALTA]   mxbai-embed-large  (modelo de embeddings usado por el validador)")
-
-        if missing or embedding_missing:
-            print()
-            print("[!] Faltan modelos por descargar. Ejecuta antes de continuar:")
-            for m in missing:
-                print(f"      ollama pull {m}")
-            if embedding_missing:
-                print(f"      ollama pull mxbai-embed-large")
-
-            if missing and not args.continue_without_missing:
-                print("\nAbortando (usa --continue-without-missing para seguir solo con los "
-                      "modelos disponibles, o --skip-model-check para omitir esta verificación).")
-                sys.exit(1)
-            elif missing:
-                print(f"\n[INFO] Continuando SOLO con los modelos disponibles: {available}")
-                models = available
-                if not models:
-                    print("[ERROR] Ningún modelo solicitado está disponible. Nada que correr.",
-                          file=sys.stderr)
-                    sys.exit(1)
-        else:
-            print("Todos los modelos requeridos están disponibles.\n")
-
-    previous_failures = load_failure_log()
-    retry_set = {(f["model"], f["scenario"]) for f in previous_failures}
-
-    if args.retry_failed_only and not retry_set:
-        print("[INFO] No hay fallos previos registrados en "
-              f"'{FAILURE_LOG_PATH}'. Nada que reintentar.")
-        return
-
-    print("=" * 70)
-    print(f" Modelos a procesar: {models}")
-    print(f" Escenarios por modelo: {num_scenarios}")
-    if args.retry_failed_only:
-        print(f" Modo: SOLO reintentar {len(retry_set)} fallo(s) previo(s)")
-    print("=" * 70)
-
-    new_failures = []
+    check_ollama_models_available(models)
+    validate_config_bounds_sanity(cfg.get("task_generation", {}))
     total_run = total_skipped = total_ok = total_failed = 0
 
     for model in models:
         dataset_name = model_to_dataset_name(model)
-        print(f"\n{'#' * 70}\n MODELO: {model}  ->  data/{dataset_name}/\n{'#' * 70}")
+        print(f"\n{'#' * 70}\n MODEL: {model}  ->  data/{dataset_name}/\n{'#' * 70}")
 
         for idx in range(1, num_scenarios + 1):
-            if args.retry_failed_only and (model, idx) not in retry_set:
-                continue
-
-            scenario_dir = build_scenario_dir(args.strategy, args.rep, dataset_name, idx)
-
-            if not args.retry_failed_only and scenario_already_complete(scenario_dir, tasks_k):
+            scenario_dir = build_scenario_dir(args.strategy, dataset_name, idx)
+            if scenario_already_complete(scenario_dir, tasks_k):
                 total_skipped += 1
-                print(f"  [SKIP] {model} escenario {idx}: ya completo, se omite.")
+                print(f"  [SKIP] {model} scenario {idx}: already complete, skipping.")
                 continue
 
             current_seed = base_seed + idx if base_seed is not None else None
             total_run += 1
             print(f"\n  [RUN] {model} escenario {idx}/{num_scenarios} (seed={current_seed})...")
-
             try:
                 run_single_scenario(model, dataset_name, idx, cfg, sem_categories,
-                                    current_seed, strategy=args.strategy, rep=args.rep)
+                                    current_seed, strategy=args.strategy)
                 total_ok += 1
                 print(f"  [OK]  {model} escenario {idx} completado.")
             except Exception as e:
                 total_failed += 1
-                print(f"  [FAIL] {model} escenario {idx}: {e}", file=sys.stderr)
-                traceback.print_exc(file=sys.stderr)
-                new_failures.append({
-                    "model": model,
-                    "scenario": idx,
-                    "error": str(e),
-                    "failed_at": datetime.now(timezone.utc).isoformat(),
-                })
-                # NO se aborta: se continúa con el siguiente escenario.
+                print(f"  [FAIL] {model} escenario {idx}: {e}")
                 continue
-
-    # El log de fallos se reescribe con los fallos de ESTA corrida. Si
-    # --retry-failed-only tenía éxito en todos los reintentos, new_failures
-    # queda vacío y el archivo de fallos se elimina más abajo.
-    save_failure_log(new_failures)
-
+    ## TODO: Translate
     print("\n" + "=" * 70)
     print(" RESUMEN")
     print("=" * 70)
@@ -467,23 +253,6 @@ def main():
     print(f"  Omitidos (ya completos)    : {total_skipped}")
     print(f"  Exitosos                   : {total_ok}")
     print(f"  Fallidos                   : {total_failed}")
-    if new_failures:
-        print(f"\n  [!] Hay {len(new_failures)} escenario(s) fallido(s), registrados en "
-              f"'{FAILURE_LOG_PATH}'.")
-        print("      Corrige la causa (ej. reinicia Ollama) y reintenta solo esos con:")
-        print("      python3 run_all_models.py --retry-failed-only")
-    else:
-        if FAILURE_LOG_PATH.exists():
-            FAILURE_LOG_PATH.unlink()
-
-    if not args.skip_plot:
-        print("\nGenerando gráfico comparativo final...")
-        try:
-            from utilities.plot_metrics import generate_metrics_chart
-            generate_metrics_chart()
-        except Exception as e:
-            print(f"[!] No se pudo generar el gráfico final: {e}", file=sys.stderr)
-
 
 if __name__ == "__main__":
     main()
