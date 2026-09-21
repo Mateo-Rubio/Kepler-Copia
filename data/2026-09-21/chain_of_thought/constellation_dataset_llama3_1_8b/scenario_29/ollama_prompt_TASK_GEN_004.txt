@@ -1,0 +1,1 @@
+We require a low-priority importance request for opportunistic capture with a flexible schedule for a background survey task. We need to conduct a multispectral vegetation analysis using high-resolution optical snapshot capabilities to assess chlorophyll absorption levels and calculate a vegetation NDVI index around mid-day on the day after tomorrow.

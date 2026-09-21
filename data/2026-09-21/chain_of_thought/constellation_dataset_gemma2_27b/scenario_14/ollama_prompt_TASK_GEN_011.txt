@@ -1,0 +1,1 @@
+Schedule a low priority importance task for opportunistic capture of multispectral vegetation analysis data over Montaquila, Italia. This is a non-essential background filler task and can be dropped or rescheduled at convenience. We need a near-infrared reflection snapshot overnight tomorrow for water body boundary mapping or soil moisture assessment.

@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Arsiero, Italia.  We need a high-resolution snapshot for calculating vegetation health indices and surface reflectance. This is a routine monitoring task as part of our baseline pipeline tracking setup with fixed parameters. Please ensure capture in the morning in four days.

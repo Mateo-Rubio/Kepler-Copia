@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping of Kutai Timur, Indonesia. We require a high-resolution heat signature capture in the evening in three days. Please prioritize this as part of our baseline pipeline tracking setup.

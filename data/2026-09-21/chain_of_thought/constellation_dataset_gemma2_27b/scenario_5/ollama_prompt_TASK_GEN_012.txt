@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for tomorrow overnight. Acquire a high-resolution optical snapshot of Ecuatorial, Indonesia using the VIS sensor. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.

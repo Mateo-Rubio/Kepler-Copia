@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request still targets the morning on the day specified, which is the day after tomorrow.
+
+STAGE 2 - FINAL REQUEST
+
+We require a low-priority importance task for opportunistic capture with a flexible schedule, where the operator notes to drop or reschedule at convenience. This non-essential background filler task is a "background survey" to capture thermal mapping data, specifically a heat signature, surface temperature profile, or thermal anomaly detection and mapping of heat emissions using active thermal imaging in the morning on the day after tomorrow.

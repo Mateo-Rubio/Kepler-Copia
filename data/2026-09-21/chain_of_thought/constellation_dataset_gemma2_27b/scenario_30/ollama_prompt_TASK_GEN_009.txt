@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need an active radar scan using microwave surface imaging over Gilirang, Indonesia.  The objective is cloud-penetrating capture for ground geometry analysis. This tasking requires an overnight capture and must be completed in three days.

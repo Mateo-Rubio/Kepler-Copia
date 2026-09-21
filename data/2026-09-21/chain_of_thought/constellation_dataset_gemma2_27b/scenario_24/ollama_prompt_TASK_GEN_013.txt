@@ -1,0 +1,1 @@
+This is a binding contract requirement for multispectral vegetation analysis over Melgar, Colombia. Acquire a high-resolution VNIR snapshot for calculating a vegetation NDVI index and surface reflectance  in the morning in three days. This data delivery is an absolute institutional priority.

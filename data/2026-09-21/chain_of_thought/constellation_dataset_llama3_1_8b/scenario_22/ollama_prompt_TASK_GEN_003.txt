@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". 
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day. The request remains focused on capturing data during the specified time frame, without altering or extending the deadline.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+We require a low-priority importance task with a flexible schedule for opportunistic capture, treating this as a background survey or testbed tracking task. We need to capture thermal mapping using active thermal imaging to detect heat signatures and surface temperature profiles overnight the day after tomorrow.

@@ -1,0 +1,1 @@
+Schedule a low priority importance SAR capture around mid-day the day after tomorrow over Tesis, Italia. This is a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience. Think of it as a non-essential background filler task, perhaps for a testbed tracking task.

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request still requires the task to be completed within the specified timeframe, which is "in four days" during the morning period.
+
+STAGE 2 - FINAL REQUEST
+
+This is a standard operational tasking for a commercial tasking involving routine monitoring as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We require an active radar scan using microwave surface imaging for cloud-penetrating capture, piercing heavy weather or capturing ground geometry. The target location is in Indonesia, specifically in the city of Ecuatorial. The data must be delivered within in four days during the morning period.

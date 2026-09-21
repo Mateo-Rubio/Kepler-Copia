@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' is "in three days."
+
+b) The exact string for 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the 'target_diurnal_period' string that matches the options provided is "overnight." This word must appear literally in the final request.
+
+d) The deadline specified is "in three days" and during the "overnight" period. There is no indication or instruction to shift this deadline to another part of the day, such as morning, mid-day, afternoon, or evening. Therefore, the deadline remains strictly as "overnight in three days."
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a low-priority importance request for an Earth-observation task over Indonesia, specifically the city of Ecuatorial. This is a flexible schedule request for opportunistic capture, intended as a non-essential background filler task. The operator should feel free to drop or reschedule at convenience. We are seeking a high-resolution optical snapshot using visible light sensors, aimed at capturing clear optical imagery and true-color visual documentation. The data delivery deadline is set for overnight in three days.

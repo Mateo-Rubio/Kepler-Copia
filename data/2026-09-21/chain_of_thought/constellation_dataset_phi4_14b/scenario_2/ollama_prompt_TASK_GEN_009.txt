@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in that string, which must appear literally in the final request, is "overnight."
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request specifies capturing data "in three days" during the "overnight" period, and this timeframe will be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority task for an opportunistic capture focusing on near-infrared reflection over Sintang, Indonesia. This request is for a flexible schedule with a non-essential background filler task designation, allowing for dropping or rescheduling at convenience. The objective is to map water body boundaries and assess soil moisture gradients using near-infrared capabilities. Please plan this observation to occur in three days during the overnight period.

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original deadline is still tomorrow, and I will maintain that temporal parameter in the final request.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a standard operational tasking for a commercial client, involving a routine monitoring part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We need to capture an active radar scan using microwave surface imaging for cloud-penetrating capture in the evening tomorrow. The location is Indonesia, specifically the city of Beringin Jaya...

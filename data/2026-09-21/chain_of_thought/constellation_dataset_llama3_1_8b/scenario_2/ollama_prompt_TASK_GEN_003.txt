@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original request specifies a target day and diurnal period, which I will incorporate verbatim into the final request without altering or extending the deadline.
+
+STAGE 2 - FINAL REQUEST
+
+We require an opportunistic capture of a SAR image over Indonesia, focusing on the city of Ecuatorial. This is a low priority importance request with a flexible schedule for opportunistic capture, treating it as a background survey task. We need to capture an active radar scan using microwave surface imaging in the evening today to pierce heavy weather and capture ground geometry.

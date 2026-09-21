@@ -1,0 +1,1 @@
+This is an absolute institutional priority tasking for a high-resolution multispectral vegetation analysis capture over Ecuatorial, Indonesia. We need a standard VNIR snapshot for calculating the NDVI index and surface reflectance. Please schedule this critical payload capture "the day after tomorrow" in the morning.

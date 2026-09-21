@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in four days." This indicates the specific deadline by which the data products must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite observation should occur.
+
+c) The single word contained in that string, which must appear literally in the final request, is "mid-day."
+
+d) Confirming that there is no shift or reinterpretation of the deadline to an adjacent part of the day. The original instruction explicitly states "around mid-day," and this will be maintained as is in the final request.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task targeting Nóvita, Colombia. This is a flexible schedule request for opportunistic capture, and it can be dropped or rescheduled at convenience. The mission involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the ground geometry. We aim to complete this around mid-day in four days, treating it as a non-essential background filler task.

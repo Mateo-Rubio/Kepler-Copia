@@ -1,0 +1,1 @@
+Schedule a low priority importance task for opportunistic capture of active radar scan data over Tarazá, Colombia. This is a non-essential background filler task and can be dropped or rescheduled at convenience. The goal is to obtain microwave surface imaging for cloud-penetrating capture overnight in three days.

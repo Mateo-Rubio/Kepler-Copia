@@ -1,0 +1,13 @@
+Let's go through the reasoning stage.
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request specifies a strict operational deadline for delivering the data products, which is three days from now, and the diurnal period is specified as overnight, which implies a specific time window within those three days.
+
+Now, let's move on to STAGE 2. Here is the final request:
+
+We need to conduct a low-priority importance task with a flexible schedule for opportunistic capture. This non-essential background filler task can be dropped or rescheduled at convenience and treated as a background survey or testbed tracking task. We require a multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. The target location is in Italia, specifically in the city of Gazzola. We need to capture this data overnight in three days.

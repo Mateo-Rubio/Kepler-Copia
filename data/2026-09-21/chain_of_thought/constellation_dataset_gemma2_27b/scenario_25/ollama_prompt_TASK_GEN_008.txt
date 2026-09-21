@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Prati di Tivo, Italia. We need a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This is part of our routine monitoring and baseline pipeline tracking setup with fixed parameters. Deliver the data products in the morning in four days.

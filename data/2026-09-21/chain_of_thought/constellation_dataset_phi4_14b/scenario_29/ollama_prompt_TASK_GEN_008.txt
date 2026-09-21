@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string 'target_diurnal_period' that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "overnight."
+
+d) The deadline specified is "in four days" during the "overnight" period. There is no indication or instruction to shift this deadline to any other part of the day. The request must adhere strictly to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task for an overnight observation in Monte Romano, Italy, using near-infrared reflection sensors. This flexible schedule allows for opportunistic capture, so feel free to drop or reschedule at your convenience. The objective is to map water body boundaries and assess soil moisture levels. We need the data delivered in four days, during the overnight period.

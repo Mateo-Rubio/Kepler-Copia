@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The deadline is specifically set for "tomorrow" and "in the morning," and this timing will be adhered to without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task requiring a binding contract fulfillment involving a critical payload capture over Northern Italy. This mission is of high importance, necessitating urgent operational execution with an un-preemptable mission lock. The task involves conducting an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, ensuring ground geometry is accurately captured even under adverse weather conditions. This operation must be completed tomorrow in the morning, aligning strictly with our delivery deadline.

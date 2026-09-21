@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string is "mid-day." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request must be fulfilled specifically around mid-day, as specified in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to schedule a low priority importance task for capturing imagery over Belalcázar, Colombia. This request involves obtaining a high-resolution optical snapshot using visible light sensors, focusing on clear optical imagery during daylight. The goal is to achieve true-color visual documentation of the area. Given the flexible schedule, this can be considered an opportunistic capture and treated as a non-essential background filler task. Please note that this task can be dropped or rescheduled at convenience. The data delivery deadline is set for the day after tomorrow, specifically around mid-day.

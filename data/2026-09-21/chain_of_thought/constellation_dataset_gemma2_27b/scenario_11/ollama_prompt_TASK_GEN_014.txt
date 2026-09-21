@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Norte. This requires a high-resolution, near-infrared reflection scan to assess chlorophyll absorption levels and calculate the vegetation NDVI index.  The data products are required in three days in the morning.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today." This indicates that the task must be completed within the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the data capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the string "in the evening" is "evening." This word must be included literally in the final request to specify the desired time for data capture.
+
+d) The deadline is strictly set for "today in the evening," and there is no indication or allowance for shifting this deadline to another part of the day. The task must be executed precisely within this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to conduct a near-infrared reflection mission over Pantanillo, Colombia, today in the evening. This critical payload capture is a binding contract requirement, necessitating urgent operational execution with an un-preemptable mission lock. The objective is to perform water body boundary mapping and soil moisture assessment, ensuring high accuracy and relevance of the data collected. Please ensure all resources are allocated to meet this high-importance directive without delay.

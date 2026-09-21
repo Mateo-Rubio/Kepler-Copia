@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline is explicitly set for "tomorrow, in the evening," and I will adhere strictly to this timeframe without any alterations or reinterpretations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial satellite mission over Corteno Golgi, Italy. The objective is to conduct an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the area's ground geometry. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need this data delivered by tomorrow, in the evening, as part of a routine monitoring update.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified timeframe is "the day after tomorrow" during the "overnight" period, and I will adhere strictly to these parameters without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm reaching out for a low-priority importance request with a flexible schedule for opportunistic capture. We're looking at conducting a near-infrared reflection task over Indonesia, specifically around the city of Ecuatorial. The objective is to map water body boundaries or assess soil moisture levels. This is considered a non-essential background filler task, so feel free to drop or reschedule it at your convenience. We need this data captured on the day after tomorrow during the overnight period.

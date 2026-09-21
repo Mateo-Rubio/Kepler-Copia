@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Trujillo, Colombia using the VNIR sensor. This is part of a routine monitoring workflow with fixed parameters.  We need an overnight capture on the day after tomorrow.

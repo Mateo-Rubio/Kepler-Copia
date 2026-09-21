@@ -1,0 +1,1 @@
+Schedule a low priority importance SAR scan over Cimitarra, Colombia for an opportunistic capture in the evening the day after tomorrow. This is a non-essential background filler task; please drop or reschedule at convenience.  Consider this a background survey or testbed tracking task.

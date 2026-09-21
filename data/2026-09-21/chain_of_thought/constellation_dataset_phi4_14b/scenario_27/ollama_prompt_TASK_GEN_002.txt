@@ -1,0 +1,2 @@
+plaintext
+We have a standard operational tasking for a high-resolution optical snapshot over Arezzo, Italy. This task involves capturing clear optical imagery during daylight photography and is part of our baseline pipeline tracking with fixed parameters representing normal operational status. The data products are required by the day after tomorrow, specifically during the overnight period. Please ensure this request is processed as a routine monitoring activity within our workflow update.

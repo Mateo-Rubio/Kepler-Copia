@@ -1,0 +1,1 @@
+Schedule a low priority importance task for multispectral vegetation analysis over La Macarena, Colombia. This is a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please aim for overnight capture on the day after tomorrow.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight". This word must appear literally in the final request.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The temporal parameters specify a strict operational deadline for delivering data products, which is set for "tomorrow" during the "overnight" period. This means the task must be completed by the end of the night following today, without any adjustment or reinterpretation of this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial satellite mission over Otanche, Colombia. The objective is to perform an active radar scan using microwave surface imaging to achieve cloud-penetrating capture and ground geometry mapping. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that the data collection is completed by tomorrow during the overnight period, adhering strictly to this deadline for delivery of the data products.

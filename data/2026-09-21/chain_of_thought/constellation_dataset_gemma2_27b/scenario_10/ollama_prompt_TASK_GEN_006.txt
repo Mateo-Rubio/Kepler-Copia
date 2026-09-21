@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Simabur, Indonesia. We need a high-resolution VNIR capture for calculating vegetation health indices and surface reflectance. This is part of our baseline pipeline tracking with fixed parameters, so please aim for a morning acquisition in three days. Data delivery by that deadline is critical.

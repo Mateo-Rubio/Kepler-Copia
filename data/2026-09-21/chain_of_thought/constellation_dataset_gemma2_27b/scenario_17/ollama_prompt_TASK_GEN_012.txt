@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for an active radar scan using microwave surface imaging over Ecuatorial, Indonesia. This is part of a routine monitoring workflow and requires cloud-penetrating capture for ground geometry analysis.  The data products are required in four days in the morning.

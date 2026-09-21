@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request specifies capturing data "in the evening" on "the day after tomorrow," and I will adhere strictly to these parameters without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task for you, focusing on a flexible schedule with an opportunistic capture approach. We'd like you to take a high-resolution optical snapshot of Calenzana, France, using the visible light sensor. This is a non-essential background filler task, so feel free to drop or reschedule it at your convenience. The aim is to obtain clear optical imagery during daylight photography. Please ensure this is captured in the evening on the day after tomorrow.

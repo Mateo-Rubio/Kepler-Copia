@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The temporal parameters are strict operational deadlines and should not be shifted. The deadline is set for "tomorrow" during the "morning," and this timing must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task that we'd like to fit into your flexible schedule, ideally as an opportunistic capture. We're looking at Grad Vodnjan in Croatia for a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index. While this is a non-essential background filler task, we'd appreciate it if you could accommodate this request tomorrow, in the morning. Please feel free to drop or reschedule at your convenience, treating it as a background survey or testbed tracking task.

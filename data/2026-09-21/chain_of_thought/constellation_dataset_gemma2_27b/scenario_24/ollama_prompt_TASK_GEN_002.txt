@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for near-infrared reflection capture over Saas-Almagell, Switzerland. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is water body boundary mapping and soil moisture assessment to discriminate gradients. We require this data the day after tomorrow in the evening.

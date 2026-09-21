@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need a high-resolution multispectral vegetation analysis snapshot of Aguazul, Colombia, tomorrow in the morning. This task requires a mandatory directive for standard operational status and must be executed without preemption.

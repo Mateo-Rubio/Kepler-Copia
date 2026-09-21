@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day during which the observation should occur.
+
+c) The single word contained in that string is "mid-day." This term will be used literally in the final request to describe the timing of the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The requirement is explicitly for "around mid-day," and this must be adhered to as specified.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to schedule a low-priority importance task with a flexible schedule for opportunistic capture in San Vicente del Caguán, Colombia. This request is for a non-essential background filler task that can be dropped or rescheduled at convenience. The objective is to obtain a high-resolution optical snapshot using daylight photography for clear optical imagery and true-color visual documentation. Please plan this observation for the day after tomorrow around mid-day.

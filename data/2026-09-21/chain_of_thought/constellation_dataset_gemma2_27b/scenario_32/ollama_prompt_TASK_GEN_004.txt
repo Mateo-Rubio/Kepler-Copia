@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for an active radar scan using microwave surface imaging over El Piñal, Colombia. This routine monitoring requires cloud-penetrating capture in the evening in three days for critical baseline pipeline tracking.

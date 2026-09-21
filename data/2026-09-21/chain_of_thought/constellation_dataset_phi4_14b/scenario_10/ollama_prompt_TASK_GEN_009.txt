@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the specific deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur.
+
+c) The single word contained in that string is "morning." This word must appear literally in the final request to accurately reflect the diurnal period specified.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the given parameters, ensuring that the observation occurs "in the morning" on "the day after tomorrow."
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a region in Indonesia, specifically near the city of Ecuatorial. This task involves capturing high-resolution optical snapshots using daylight photography techniques to provide clear optical imagery and true-color visual documentation. As part of our baseline pipeline tracking setup with fixed parameters, this request is a routine monitoring activity representing normal operational status within our workflow update. The data products are required by the day after tomorrow, specifically in the morning.

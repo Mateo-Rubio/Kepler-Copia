@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This is the word that will appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline, and I will not alter or reinterpret it in any way.
+
+STAGE 2 - FINAL REQUEST
+
+This task is a low-priority importance request with a flexible schedule for opportunistic capture. We are looking for a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. We require a near-infrared reflection for water body boundary mapping or soil moisture assessment to be captured overnight in three days.

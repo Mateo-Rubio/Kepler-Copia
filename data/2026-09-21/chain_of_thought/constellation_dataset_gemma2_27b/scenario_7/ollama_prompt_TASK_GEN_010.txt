@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Pantanillo, Colombia. We need a high-resolution VNIR snapshot to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please prioritize this capture in the morning, in three days.

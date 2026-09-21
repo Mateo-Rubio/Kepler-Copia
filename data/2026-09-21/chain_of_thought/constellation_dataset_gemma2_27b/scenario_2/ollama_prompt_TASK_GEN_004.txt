@@ -1,0 +1,1 @@
+Schedule a low priority importance SAR scan of Nóvita, Colombia for opportunistic capture in four days around mid-day. This is a non-essential background filler task and can be dropped or rescheduled at convenience. The goal is to obtain a cloud-penetrating capture using microwave surface imaging for standard baseline pipeline tracking.

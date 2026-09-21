@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original deadline remains unchanged, and I will include the exact string "in three days" in the final request.
+
+STAGE 2 - FINAL REQUEST
+
+We require a standard operational tasking for thermal mapping to capture a heat signature during a routine monitoring setup with fixed parameters representing normal operational status. This is a commercial tasking part of a baseline pipeline tracking setup, and we need to deliver the data products within in three days, specifically during the afternoon. The location for this task is France, with the city being Norte.

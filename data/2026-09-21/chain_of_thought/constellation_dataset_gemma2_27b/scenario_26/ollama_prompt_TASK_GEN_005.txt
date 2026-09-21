@@ -1,0 +1,1 @@
+Schedule a low priority importance task for opportunistic capture. This is a non-essential background filler task and can be dropped or rescheduled at convenience. We need multispectral vegetation analysis of San Biagio di Callalta, Italia. Aim for a high-resolution snapshot tomorrow around mid-day to assess chlorophyll absorption levels and calculate the vegetation NDVI index.

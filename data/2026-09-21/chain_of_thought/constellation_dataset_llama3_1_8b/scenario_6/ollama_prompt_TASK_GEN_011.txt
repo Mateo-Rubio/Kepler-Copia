@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request specifically asks for a capture around mid-day, which implies a precise timing, not a flexible window.
+
+STAGE 2 - FINAL REQUEST
+
+We require a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status for routine monitoring. This task involves a commercial tasking for multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance using near-infrared reflection for water body boundary mapping or soil moisture assessment. The task needs to be completed around mid-day in four days.

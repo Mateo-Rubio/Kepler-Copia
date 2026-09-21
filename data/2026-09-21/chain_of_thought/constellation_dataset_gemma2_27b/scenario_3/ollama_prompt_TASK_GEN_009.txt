@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. Schedule an un-preemptable mission lock for an active radar scan using microwave surface imaging over Kapuas Hulu, Indonesia. We require cloud-penetrating capture overnight the day after tomorrow.

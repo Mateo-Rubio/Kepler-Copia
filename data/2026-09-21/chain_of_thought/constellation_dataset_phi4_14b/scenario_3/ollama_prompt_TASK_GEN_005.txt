@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string is "morning." This word must appear literally in the final request.
+
+d) The deadline specified is "in three days, in the morning," and there is no indication or instruction to shift this deadline to any other part of the day. Therefore, I will maintain the deadline as it is provided.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a low-priority importance task for an opportunistic capture over Porto Recanati, Italy. This request has a flexible schedule and can be dropped or rescheduled at convenience. The mission involves using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please plan to deliver this data product in three days, in the morning.

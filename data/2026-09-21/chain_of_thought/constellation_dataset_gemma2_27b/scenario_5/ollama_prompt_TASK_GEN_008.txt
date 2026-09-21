@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for an active radar scan of Norte using microwave surface imaging. This will allow for cloud-penetrating capture and ground geometry mapping.  This is a routine monitoring task with fixed parameters as part of a baseline pipeline tracking setup. We need this data by the day after tomorrow overnight.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline specified as "in the morning" on "tomorrow" will be adhered to strictly as per the given parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task for you, which involves an opportunistic capture in Tanjung Jabung Timur, Indonesia. This request is a flexible schedule task and can be adjusted or rescheduled at your convenience, serving as a non-essential background filler task. The mission involves performing an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the area. We are interested in capturing ground geometry under any weather conditions. Please aim to complete this task by tomorrow morning, ensuring that the data products are delivered by this deadline.

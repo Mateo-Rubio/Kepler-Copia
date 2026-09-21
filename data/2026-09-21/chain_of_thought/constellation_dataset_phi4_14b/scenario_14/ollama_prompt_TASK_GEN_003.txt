@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific deadline for data delivery that should be adhered to without modification.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the satellite capture should occur, aligning with the operational deadline.
+
+c) The single word contained in the string "in the evening" is "evening." This word must be included literally in the final request to accurately reflect the specified time frame for the task.
+
+d) It's important to confirm that there is no intention to shift the deadline to a different part of the day. The operational guidelines specify that the temporal parameters represent a strict deadline, and any deviation from "in the evening" would not align with the provided metadata. Therefore, the deadline remains strictly as "the day after tomorrow in the evening."
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for a flexible schedule, allowing for an opportunistic capture of thermal mapping data over Murung Raya, Indonesia. This task involves capturing a heat signature or surface temperature profile to detect any thermal anomalies. The mission is considered a non-essential background filler task and can be dropped or rescheduled at convenience. We are looking to have this data delivered by the day after tomorrow in the evening, treating it as a background survey or testbed tracking task.

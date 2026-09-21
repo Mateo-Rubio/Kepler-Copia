@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates that the data collection needs to be completed within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the observation should occur, focusing on nighttime conditions.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight." This word will be used to describe the timing of the task in the final request.
+
+d) It's important to confirm that the deadline is not being shifted. The request must adhere strictly to the specified timeframe of "in three days" and occur during the "overnight" period, without any adjustments to these parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance task for a flexible schedule, allowing for opportunistic capture in Indonesia, specifically around Murung Raya. This request involves using near-infrared reflection to map water body boundaries and assess soil moisture levels. Please note that this is a non-essential background filler task, and you can drop or reschedule it at your convenience. The data collection should be completed "in three days" during the "overnight" period.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This specifies the deadline for when the data products are needed.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This indicates the specific time of day when the satellite observation should occur.
+
+c) The single word contained in that string is "mid-day". This word must be included in the final request to specify the timing of the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the specified "around mid-day" timeframe, as this represents a critical operational deadline for delivering the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a satellite observation over Rheinwald in Switzerland. This task involves a near-infrared reflection to assess water body boundaries and soil moisture levels. The mission is scheduled for in four days, with the observation set around mid-day. This request forms part of our baseline pipeline tracking setup, maintaining fixed parameters for normal operational status.

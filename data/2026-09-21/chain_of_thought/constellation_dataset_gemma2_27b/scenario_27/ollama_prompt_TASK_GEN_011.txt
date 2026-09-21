@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping of a region in France, near the city of Norte. We require a heat signature capture during the afternoon in three days.

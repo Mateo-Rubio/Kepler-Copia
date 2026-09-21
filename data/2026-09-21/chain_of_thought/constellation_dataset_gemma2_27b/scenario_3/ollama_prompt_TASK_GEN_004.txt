@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for near-infrared reflection capture over Canelos, Colombia. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.  We need this data the day after tomorrow in the morning.

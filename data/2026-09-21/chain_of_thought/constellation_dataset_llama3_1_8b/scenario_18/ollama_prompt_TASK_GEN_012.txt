@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day, as the temporal parameters represent a strict operational deadline to deliver the data products, not the orbital capture window. The request remains for tomorrow morning, without any alteration or reinterpretation of the deadline.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a low priority importance request for opportunistic capture with a flexible schedule for a background survey using an active radar scan. We need to conduct a microwave surface imaging task in the morning tomorrow to capture cloud-penetrating capture and pierce heavy weather or capture ground geometry. Please allocate this task accordingly, treating it as a non-essential background filler task where we can drop or reschedule at convenience if needed...

@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for a high-resolution optical snapshot of Valle Castellana, Italia, in three days during the afternoon. This is part of our baseline pipeline tracking setup with fixed parameters.

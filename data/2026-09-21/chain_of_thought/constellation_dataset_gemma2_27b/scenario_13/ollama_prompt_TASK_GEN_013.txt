@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for tomorrow morning. I need a multispectral vegetation analysis over Campo Capote, Colombia. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.

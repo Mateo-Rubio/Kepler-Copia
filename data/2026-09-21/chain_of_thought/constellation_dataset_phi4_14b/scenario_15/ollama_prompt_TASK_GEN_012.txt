@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon."
+
+d) The temporal parameters specify a strict operational deadline for delivering data products. The request must be completed "tomorrow during the afternoon," and there is no indication or allowance to shift this deadline to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking for a commercial tasking involving a routine monitoring setup with fixed parameters as part of our baseline pipeline tracking. The mission involves capturing data over Indonesia, specifically near Ecuatorial. We need an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, which is essential for piercing heavy weather or capturing ground geometry. This request has a normal operational status and should be treated as a workflow update. Please ensure the data is delivered by tomorrow during the afternoon.

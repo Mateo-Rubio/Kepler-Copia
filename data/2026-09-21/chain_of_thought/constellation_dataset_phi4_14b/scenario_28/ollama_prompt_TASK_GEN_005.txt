@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request.
+
+d) The deadline for delivering the data products is specified as "the day after tomorrow around mid-day." There is no indication or allowance to shift this deadline to an adjacent part of the day. It is crucial to adhere strictly to this timeframe for operational accuracy and compliance with mission requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for thermal mapping over Cerasuolo, Italy. This task involves capturing a heat signature or surface temperature profile using thermal infrared sensors. Given its nature as a non-essential background filler task, the schedule is flexible, allowing for opportunistic capture. Please note that this can be dropped or rescheduled at convenience. The data collection should occur the day after tomorrow around mid-day, aligning with our operational deadline without any shifts in timing.

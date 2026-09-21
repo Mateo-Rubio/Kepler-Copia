@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Pelompek, Indonesia, tomorrow overnight. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in the final request.
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified in the original JSON data, which is four days from now, during the overnight period.
+
+STAGE 2 - FINAL REQUEST
+
+The following task is an absolute institutional priority, a binding contract requirement involving a critical payload capture, and it must be executed with an urgent operational execution and an un-preemptable mission lock. We require a high-resolution optical snapshot for daylight photography in Colombia, specifically in the city of Cumaral, using the VNIR sensor. This task is due in four days, overnight.

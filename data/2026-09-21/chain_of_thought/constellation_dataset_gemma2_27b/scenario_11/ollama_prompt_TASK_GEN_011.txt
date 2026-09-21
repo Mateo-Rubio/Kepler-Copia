@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Tagliole, Italia. We need a high-resolution VNIR capture for calculating vegetation indices and surface reflectance. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. Please deliver the data products overnight in three days.

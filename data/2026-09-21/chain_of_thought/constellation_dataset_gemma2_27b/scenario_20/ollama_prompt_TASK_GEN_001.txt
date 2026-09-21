@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over San Carlos de Guaroa, Colombia. We need a high-resolution capture of near-infrared reflection for vegetation analysis and water body boundary mapping overnight in three days.  This is part of a routine monitoring workflow update with fixed parameters representing normal operational status.

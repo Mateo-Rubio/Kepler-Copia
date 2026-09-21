@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Northern Italy. We require a high-resolution VNIR snapshot during the afternoon in three days to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please prioritize this as part of our baseline pipeline tracking setup.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will be used literally in the final request.
+
+d) The task specifies a strict operational deadline for data delivery, which is "in four days" during the "overnight" period. There is no indication or allowance to shift this deadline to any other part of the day. Therefore, the mission must adhere to capturing and delivering the data specifically overnight in four days.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance task for a flexible schedule with an opportunistic capture window. This is a non-essential background filler task that can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. The objective is to conduct multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index in the region of Betulia, Colombia. The data should be captured overnight in four days.

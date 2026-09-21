@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified, and I will incorporate this information naturally into the request without altering or extending it.
+
+STAGE 2 - FINAL REQUEST
+
+We require a low priority importance task for opportunistic capture with a flexible schedule. We need to conduct a thermal mapping exercise using "thermal mapping" to capture a "heat signature" during the "overnight" period today. This non-essential background filler task can be dropped or rescheduled at convenience, and we would treat it as a background survey or testbed tracking task.

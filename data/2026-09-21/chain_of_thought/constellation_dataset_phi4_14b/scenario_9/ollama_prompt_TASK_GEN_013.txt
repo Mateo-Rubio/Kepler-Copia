@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "in four days."
+
+b) The exact string for 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "overnight."
+
+d) The deadline is explicitly set for an "overnight" period, and there is no indication or allowance to shift this deadline to any other part of the day. It must be adhered to as stated.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission is an absolute institutional priority involving a critical payload capture in Cumaral, Colombia. We require a high-resolution multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. This task is a binding contract requirement with an urgent operational execution and an un-preemptable mission lock. The data must be delivered in four days during the overnight period.

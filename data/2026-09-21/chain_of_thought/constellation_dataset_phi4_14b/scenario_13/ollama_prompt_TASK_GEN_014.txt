@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the specific time frame when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day during which the satellite should capture the imagery.
+
+c) The single word contained in that string, which must appear literally in the final request, is "overnight". This term indicates the specific period during which the imaging should occur.
+
+d) I am confirming that the deadline is not being shifted to an adjacent part of the day. The requirement is for the data to be captured specifically overnight, and this timing aligns with the operational deadline set for "in three days".
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance satellite task to capture high-resolution optical snapshots over the region of Norte. This task should focus on obtaining clear optical imagery and true-color visual documentation. Given its low priority, this is a flexible schedule request for opportunistic capture, and it can be dropped or rescheduled at convenience. Please ensure that the data is delivered in three days, specifically during the overnight period.

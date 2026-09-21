@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified, and I will incorporate this into the final request.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a low-priority importance task for opportunistic capture, with a flexible schedule for "opportunistic capture" as a "non-essential background filler task" where we can drop or reschedule at convenience. This task is part of a background survey to collect thermal mapping data using a "thermal mapping" objective to capture a "heat signature" during daylight hours, specifically during the afternoon in three days.

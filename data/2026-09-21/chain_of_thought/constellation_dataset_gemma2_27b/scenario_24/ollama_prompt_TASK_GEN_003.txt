@@ -1,0 +1,1 @@
+Schedule a low priority importance task for today, requesting an overnight thermal mapping of Ecuatorial, Indonesia. This non-essential background filler task can be dropped or rescheduled at convenience, and will serve as a testbed tracking task for thermal anomaly detection.

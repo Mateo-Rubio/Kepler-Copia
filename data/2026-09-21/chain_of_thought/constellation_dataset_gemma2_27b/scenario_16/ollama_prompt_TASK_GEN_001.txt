@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Santander de Quilichao, Colombia. We need a high-resolution near-infrared reflection capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please schedule this for evening in three days.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request specifies capturing data "in three days" and specifically "in the morning," which aligns with the given temporal parameters without any alteration or reinterpretation.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance task for our satellite constellation planner. This is a flexible schedule request aimed at an opportunistic capture of data over Ecuatorial, Indonesia, using active radar scanning capabilities. The goal is to achieve microwave surface imaging for cloud-penetrating capture, which will help in understanding ground geometry. This task should be treated as a non-essential background filler, allowing it to be dropped or rescheduled at convenience. Please aim to complete this task in three days, specifically in the morning, to align with our operational needs.

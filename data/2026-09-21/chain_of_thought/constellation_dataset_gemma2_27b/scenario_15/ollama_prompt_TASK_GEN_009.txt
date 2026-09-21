@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for near-infrared reflection capture over Ecuatorial, Indonesia.  This is part of a baseline pipeline tracking setup with fixed parameters and represents normal operational status. We need a high-resolution image in the evening on the day after tomorrow for water body boundary mapping and soil moisture assessment.

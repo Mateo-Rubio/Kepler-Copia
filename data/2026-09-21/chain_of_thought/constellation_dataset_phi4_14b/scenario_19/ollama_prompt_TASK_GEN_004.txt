@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string, which must appear literally in the final request, is "evening."
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The task must be completed today, specifically in the evening, as specified by the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial satellite mission over Antiguo ETCR La Guajira (Mariana Páez) in Colombia. This involves an active radar scan using microwave surface imaging to capture cloud-penetrating data and ground geometry. The objective is to ensure fixed parameters are met as part of our baseline pipeline tracking, reflecting normal operational status. This task is scheduled for today, specifically in the evening, adhering strictly to our delivery deadline.

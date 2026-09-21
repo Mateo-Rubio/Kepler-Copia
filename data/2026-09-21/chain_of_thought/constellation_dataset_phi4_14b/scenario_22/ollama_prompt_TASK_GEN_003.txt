@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight."
+
+d) The deadline specified is "the day after tomorrow" during the "overnight" period. There is no indication or allowance to shift this deadline to any other part of the day. It is critical to adhere strictly to this timeframe for delivering the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a low-priority importance task for thermal mapping over Kapuas Hulu, Indonesia. This mission involves capturing a heat signature or surface temperature profile using thermal imaging sensors. Given its low priority, there is flexibility in scheduling, and it can be considered a non-essential background filler task. Please note that this task can be dropped or rescheduled at convenience. The data should be delivered by the day after tomorrow during the overnight period.

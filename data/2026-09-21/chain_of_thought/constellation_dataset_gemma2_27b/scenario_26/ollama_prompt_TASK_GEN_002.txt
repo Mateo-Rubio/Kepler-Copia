@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Corteno Golgi, Italia. This is part of a routine monitoring workflow update with fixed parameters for near-infrared reflection data capture. We need a high-resolution snapshot of the area in the evening in three days.

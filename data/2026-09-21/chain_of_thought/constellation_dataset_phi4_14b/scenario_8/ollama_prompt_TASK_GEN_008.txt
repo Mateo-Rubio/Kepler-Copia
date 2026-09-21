@@ -1,0 +1,2 @@
+plaintext
+This mission is an absolute institutional priority involving a critical payload capture over Greve in Chianti, Italy. We require a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This task must be executed with an urgent operational execution and an un-preemptable mission lock. The observation should occur overnight, in four days, ensuring the delivery of these crucial data products by that deadline.

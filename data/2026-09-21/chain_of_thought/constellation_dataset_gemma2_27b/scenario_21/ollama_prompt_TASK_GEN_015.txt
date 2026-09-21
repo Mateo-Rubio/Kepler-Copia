@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Solok, Indonesia. We require a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate a vegetation NDVI index.  Please schedule this task for morning in four days. The data products are required by that deadline.

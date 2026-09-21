@@ -1,0 +1,1 @@
+As a non-essential background filler task, we seek to perform an overnight active radar scan using microwave surface imaging in Malinau, Indonesia. This operation is not time-critical and can be dropped or rescheduled at the operator's convenience. The objective is to capture cloud-penetrating images that will help us understand ground geometry under various weather conditions.

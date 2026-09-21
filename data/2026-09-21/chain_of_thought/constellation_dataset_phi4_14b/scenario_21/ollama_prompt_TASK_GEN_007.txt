@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "overnight." This word must be included verbatim in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The specified timeframe is strictly "tomorrow overnight," and this must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority mission involving a critical payload capture over Aguadas, Colombia. This task is a binding contract requirement that necessitates an urgent operational execution with an un-preemptable mission lock. The objective is to perform multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. This high-importance task must be completed by tomorrow overnight, ensuring no delay or rescheduling occurs.

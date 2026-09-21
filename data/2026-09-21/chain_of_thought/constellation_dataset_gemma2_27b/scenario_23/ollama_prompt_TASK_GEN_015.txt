@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Kepulauan Meranti, Indonesia. We need a high-resolution snapshot capturing near-infrared reflection for vegetation health assessment and water body boundary mapping. Please schedule this capture overnight in four days.  The data products are required by that deadline.

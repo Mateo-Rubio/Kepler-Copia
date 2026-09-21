@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) Upon reviewing the task context, I confirm that I am not shifting the deadline to an adjacent part of the day. The target_diurnal_period is already specified as "around mid-day", which implies that the deadline is for a specific time within the day, rather than for the entire day or an adjacent part of it.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+Please task the satellite with capturing a near-infrared reflection for water body boundary mapping around mid-day tomorrow. This request has low priority importance and should be treated as a non-essential background filler task with a flexible schedule for opportunistic capture.

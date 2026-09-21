@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string is "morning." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request is specifically for "the day after tomorrow, in the morning," and this timing will be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task scheduled for Puerto López, Colombia. This request involves a flexible schedule for opportunistic capture, allowing it to be dropped or rescheduled at convenience. The mission is to conduct thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. This background survey should be completed by the day after tomorrow, in the morning.

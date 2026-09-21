@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation should occur.
+
+c) The single word contained in that string is "afternoon". This word must appear literally in the final request to specify the timing of the observation.
+
+d) The deadline is strictly set for "in three days" and "during the afternoon". There is no indication or allowance to shift this deadline to any other part of the day, such as morning, mid-day, evening, or overnight. The request must adhere to these specified parameters without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking for a multispectral vegetation analysis over Northern Italy. This routine monitoring is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. We require a high-resolution optical snapshot using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. The data products must be delivered in three days, specifically during the afternoon.

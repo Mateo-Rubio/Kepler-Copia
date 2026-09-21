@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific timeframe for when the data products are required.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the observation should occur.
+
+c) The single word contained in the string "overnight" that matches the options provided is "overnight." This word will be used verbatim in the final request to describe the timing of the observation.
+
+d) It is important to confirm that the deadline is not being shifted to an adjacent part of the day. The instruction specifies that the temporal parameters represent a strict operational deadline, and thus, the observation must occur overnight on "the day after tomorrow" without any alteration to this timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low-priority importance task with a flexible schedule for an opportunistic capture of thermal mapping over Malinau, Indonesia. This task is intended as a non-essential background filler task, and I am open to dropping or rescheduling it at convenience. The goal is to capture a heat signature or surface temperature profile using thermal imaging. Please ensure the data products are delivered by the day after tomorrow, specifically during the overnight period.

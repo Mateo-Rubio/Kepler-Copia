@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request will be framed as a specific task to be completed on the next day, during the morning period.
+
+STAGE 2 - FINAL REQUEST
+
+...The mission requires an absolute institutional priority for thermal mapping using active thermal imaging to capture a heat signature and surface temperature profile over Indonesia, particularly in the vicinity of Tanjung Jabung Timur. This critical payload capture is a binding contract requirement, involving a mandatory directive for urgent operational execution and un-preemptable mission lock. The task must be completed tomorrow in the morning.

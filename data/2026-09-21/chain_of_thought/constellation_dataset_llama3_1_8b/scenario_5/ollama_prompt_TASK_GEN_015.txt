@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This word must appear literally in my final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified, targeting the delivery of data products for the next day's overnight period.
+
+STAGE 2 - FINAL REQUEST
+
+Capture a high-resolution near-infrared reflection snapshot for water body boundary mapping and soil moisture assessment in Indonesia, specifically in the Ecuatorial region, tomorrow overnight. This is an absolute institutional priority, representing a critical payload capture and mandatory directive with urgent operational execution and un-preemptable mission lock.

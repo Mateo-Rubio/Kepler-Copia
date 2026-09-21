@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string 'target_diurnal_period' is "overnight". This is the word that must appear literally in my final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified, and I will incorporate it into the final request without altering its timing.
+
+STAGE 2 - FINAL REQUEST
+
+We require a low-priority importance task with a flexible schedule for opportunistic capture. This non-essential background filler task should be treated as a background survey or testbed tracking task, where we can drop or reschedule at convenience. We need to conduct a multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. The target location for this task is Colombia, specifically in the city of La Macarena. We must deliver the data products on "the day after tomorrow" overnight.

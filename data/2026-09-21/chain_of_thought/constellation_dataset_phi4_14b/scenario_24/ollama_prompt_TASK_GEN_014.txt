@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon". This word must appear literally in the final request.
+
+d) The deadline specified is for "tomorrow during the afternoon." There is no indication or requirement to shift this deadline to any other part of the day. It is important to adhere strictly to this timeframe as it represents a strict operational deadline for delivering the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking scheduled for Spoleto, Italy, requiring a commercial tasking as part of our baseline pipeline tracking. The mission involves an active radar scan using microwave surface imaging to capture cloud-penetrating imagery that can pierce through heavy weather and accurately map ground geometry. This task is set for tomorrow during the afternoon, maintaining fixed parameters for normal operational status within our workflow update.

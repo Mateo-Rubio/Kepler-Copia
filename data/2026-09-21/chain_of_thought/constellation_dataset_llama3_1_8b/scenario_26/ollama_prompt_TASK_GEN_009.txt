@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request still requires the task to be completed on the morning of the specified day, which is four days from now.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a standard operational tasking with a commercial payload capture for thermal mapping using microwave surface imaging to capture a heat signature and surface temperature profile in the morning of the region located in Indonesia, specifically in the city of Ecuatorial. The task must be completed in four days.

@@ -1,0 +1,11 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request will be framed as a task for the next day, without altering or extending the deadline.
+
+The deadline is indeed a strict operational deadline to deliver the data products, and I will not alter, extend, shift, or reinterpret it in any way.

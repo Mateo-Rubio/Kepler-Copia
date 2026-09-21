@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today". This indicates that the task should be completed on the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies when during the day the task should be executed, focusing on the evening timeframe.
+
+c) The single word contained in the string "in the evening" from the set {morning, mid-day, afternoon, evening, overnight} is "evening". This word must appear literally in the final request to accurately reflect the specified time period.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task must be executed specifically "in the evening" on "today", adhering strictly to the provided temporal parameters without any alterations or reinterpretations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule, aiming for opportunistic capture in Indonesia, near Ecuatorial. This non-essential background filler task involves using an active radar scan with microwave surface imaging for cloud-penetrating capture, focusing on ground geometry. While it is not urgent, we would appreciate it if this could be completed today, specifically in the evening, and can be dropped or rescheduled at convenience as part of our background survey efforts.

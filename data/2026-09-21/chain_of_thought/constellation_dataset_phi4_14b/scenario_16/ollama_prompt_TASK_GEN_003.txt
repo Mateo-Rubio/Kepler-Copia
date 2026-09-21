@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon." This word must appear literally in the final request.
+
+d) The deadline specified is "tomorrow during the afternoon," which means the data capture and delivery are strictly confined to this timeframe. There is no indication or allowance for shifting the deadline to any other part of the day, such as morning or evening.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm submitting a low-priority importance request for an opportunistic capture in Rokan Hilir, Indonesia. This task involves a flexible schedule and should be treated as a non-essential background filler task. Please note that this can be dropped or rescheduled at convenience. The objective is to perform multispectral vegetation analysis using the primary sensor, focusing on assessing chlorophyll absorption levels and calculating a vegetation NDVI index and surface reflectance. We are looking to complete this task tomorrow during the afternoon.

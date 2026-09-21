@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for tomorrow in the morning. This request involves multispectral vegetation analysis over Bagno a Ripoli, Italia. We need a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate a vegetation NDVI index for this location.

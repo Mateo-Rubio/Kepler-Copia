@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) I am not shifting the deadline to an adjacent part of the day. The request specifies that the task should be completed "in the morning" on "tomorrow," and I will adhere strictly to this timeframe without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a baseline pipeline tracking setup with fixed parameters, focusing on near-infrared reflection to assess water body boundary mapping or soil moisture assessment. The target area is the city of Ecuatorial, and we need the data products delivered by tomorrow in the morning. This request aligns with our normal operational status and workflow update requirements.

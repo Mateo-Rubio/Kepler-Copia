@@ -1,0 +1,1 @@
+This is a standard operational tasking for a high-resolution optical snapshot of Suárez, Colombia. We require clear optical imagery around mid-day in three days.  Please prioritize this as part of our baseline pipeline tracking setup.

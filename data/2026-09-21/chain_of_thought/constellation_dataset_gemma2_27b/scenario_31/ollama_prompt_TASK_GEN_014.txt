@@ -1,0 +1,1 @@
+This is a binding contract requirement for critical payload capture. We need a thermal mapping scan of the area around Norte, Italia, in the evening, in three days.
