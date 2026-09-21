@@ -1,0 +1,7 @@
+Given the operational guidelines and the provided JSON metadata, our task request involves capturing high-resolution radar imagery of Puerto López, Colombia, with a priority level of low importance. This mission is to be executed in three days, focusing on the mid-day period when sunlight is most intense and useful for clear optical imagery.
+
+Our primary sensor for this operation will be an active Synthetic Aperture Radar (SAR) system, designed to provide cloud-penetrating surface imaging capabilities that can capture ground geometry and terrain details even under adverse weather conditions. This mission aims to gather essential data on the region's topography and land use patterns without being influenced by cloud cover.
+
+The deadline for delivering this data product is strictly set for mid-day on the third day from now, with no flexibility in time or date. This request does not require any adjustments to the deadline, as it aligns perfectly with our operational parameters.
+
+Considering the low priority level, we may drop or reschedule this task at convenience without compromising the overall operational schedule. This background survey will serve as a testbed tracking task, adding value to our baseline pipeline tracking setup while maintaining normal operational status and workflow updates.

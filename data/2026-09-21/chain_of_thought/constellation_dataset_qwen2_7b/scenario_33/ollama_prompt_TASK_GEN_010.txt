@@ -1,0 +1,10 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "the day after tomorrow"
+b) The exact string in 'target_diurnal_period' is: "in the evening"
+c) The word contained in that string which must appear literally in the final request is: "evening"
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+To capture a near-infrared reflection snapshot for water body boundary mapping and soil moisture assessment in Aipe, Colombia, on the day after tomorrow during the evening, we will execute a low priority importance task with flexible scheduling. This non-essential background filler task involves assessing surface reflectance through near-infrared wavelengths to discriminate gradients, providing invaluable data for environmental monitoring without compromising our standard operational tasks or critical payload captures.
