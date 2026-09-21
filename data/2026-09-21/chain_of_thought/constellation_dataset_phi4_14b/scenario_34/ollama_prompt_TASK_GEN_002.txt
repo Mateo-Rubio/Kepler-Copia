@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The specified timeframe is strictly "in four days" and "in the morning," which means the data capture should occur precisely within this window without any adjustments or shifts to other times of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low-priority importance task for an opportunistic capture over the region of France, specifically around the city of Norte. The mission involves conducting an active radar scan using microwave surface imaging to achieve a cloud-penetrating capture, which is particularly useful in capturing ground geometry under any weather conditions. Given its flexible schedule, this task can be treated as a non-essential background filler task and may be dropped or rescheduled at convenience if necessary. The data delivery should occur in four days, specifically in the morning.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for when the data products are needed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day during which the observation should occur.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight".
+
+d) I am confirming that the deadline is not being shifted to an adjacent part of the day. The specified period for capturing the data is indeed "overnight", and this aligns with the requirement without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a request for a low-priority importance observation over Indonesia, specifically near Ecuatorial. This task involves capturing high-resolution optical snapshots using visible light sensors to provide clear optical imagery during daylight photography. Given its low priority status, the schedule is flexible, and it should be treated as a non-essential background filler task. Please aim to complete this task in four days, with the capture occurring overnight. The operator can drop or reschedule this task at convenience if necessary.

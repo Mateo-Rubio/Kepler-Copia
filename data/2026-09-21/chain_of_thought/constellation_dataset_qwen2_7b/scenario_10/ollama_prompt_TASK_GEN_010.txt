@@ -1,0 +1,21 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string is "morning".
+
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+As per our operational guidelines, we're tasked with capturing a high-resolution active radar scan for an area of critical interest. This area is located within the beautiful and biodiverse region of Colombia, specifically in the city of Chaparral. The request has been categorized as medium importance due to its standard operational nature.
+
+The mission's priority level indicates that this tasking is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. We aim to perform this scan during the morning hours of the day following today, adhering strictly to the deadline set for data delivery.
+
+Our primary sensor of choice is the Synthetic Aperture Radar (SAR) system, which will enable us to conduct cloud-penetrating capture of ground geometry and surface features. This method allows us to gather essential data regardless of atmospheric conditions or visibility issues.
+
+The geographical context of our mission focuses on Colombia and Chaparral city, providing us with a unique opportunity to contribute valuable insights into the region's environmental dynamics and resource management through this detailed radar imagery.
+
+In summary, we're looking forward to delivering the requested data products by tomorrow morning, ensuring that our SAR system captures the necessary information for our client's requirements. This task is part of our routine monitoring activities and represents a standard operational mission for our satellite constellation planner.

@@ -1,0 +1,7 @@
+Given the operational guidelines and the provided context, our task is to capture high-resolution near-infrared (NIR) imagery for a critical payload capture involving the assessment of soil moisture levels in Bangka Selatan, Indonesia. This request carries a medium importance level, signifying that it is part of our standard operational tasks with fixed parameters representing normal operational status.
+
+We aim to execute this mission on the target day, which is 'in three days', at the exact time specified as 'in the morning'. This deadline represents an absolute institutional priority for delivering the data products related to soil moisture assessment, ensuring that we capture the optimal conditions for accurate mapping and analysis.
+
+The imagery will be collected using our advanced near-infrared sensors, allowing us to map water body boundaries and assess soil moisture content effectively. This task is part of our baseline pipeline tracking setup, contributing to our ongoing efforts in environmental monitoring and agricultural support.
+
+Please proceed with the mission allocation, ensuring that this request receives the attention it deserves within the 'in three days' timeframe, specifically during the morning hours, as stipulated by the target_diurnal_period field. This task is a standard operational task with fixed parameters, reflecting normal operational status and contributing to our commitment to providing timely and accurate data products.

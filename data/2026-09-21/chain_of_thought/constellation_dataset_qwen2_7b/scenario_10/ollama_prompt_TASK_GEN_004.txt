@@ -1,0 +1,7 @@
+Given the operational guidelines and the raw metadata provided, our Earth-observation mission requires a high-resolution optical snapshot of San Vicente del Caguán, Colombia, on the day after tomorrow around mid-day. This task falls under a low priority importance request, indicating a flexible schedule for opportunistic capture as part of a non-essential background survey or testbed tracking task.
+
+The primary sensor specified is VIS, which will be used to gather daylight photography, clear optical imagery, and true-color visual documentation of the region. The operational context demands that we capture this data within the strict deadline, which represents the delivery time for the data products rather than altering the orbital capture window.
+
+As part of our baseline pipeline tracking setup with fixed parameters, this standard operational tasking involves normal operational status or a routine monitoring activity, contributing to the ongoing efforts in commercial tasking and workflow updates. The emphasis on mid-day suggests optimal lighting conditions for high-quality imagery, aligning with the operational guidelines that prioritize daylight hours for VIS sensor data collection.
+
+Please proceed with the mission allocation accordingly, noting that this request is subject to drop or rescheduling at convenience as it pertains to a background survey or testbed tracking task. The institutional priority level is low, implying an un-preemptable mission lock but not mandating urgent operational execution or critical payload capture.

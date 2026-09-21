@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified diurnal period is "overnight," and this remains unchanged in the final request.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to schedule a routine monitoring task for a standard operational tasking over Vista Hermosa, Colombia. This involves a near-infrared reflection scan to map water body boundaries or assess soil moisture levels. The task is part of our baseline pipeline tracking with fixed parameters representing normal operational status. Please ensure the data collection occurs overnight on the day after tomorrow.

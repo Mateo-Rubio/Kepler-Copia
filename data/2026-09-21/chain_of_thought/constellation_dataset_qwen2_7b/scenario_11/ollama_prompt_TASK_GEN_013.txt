@@ -1,0 +1,7 @@
+Given the operational guidelines and the context provided, the Earth-observation mission operator requests a task focusing on the region of Restrepo, Colombia. This request carries a low priority level, indicating that it is part of the normal operational status or a routine monitoring task within the baseline pipeline tracking setup.
+
+The primary sensor deployed for this mission is an active radar system, known for its microwave surface imaging capabilities. The goal is to conduct an "active radar scan" in Restrepo, Colombia, during the morning hours on the day following today's date. This scan aims to capture cloud-penetrating imagery that will provide valuable insights into ground geometry and features, essential for mapping and monitoring purposes.
+
+The operator emphasizes that this task should be executed with a flexible schedule, treating it as a "non-essential background filler task" where "drop or reschedule at convenience" is acceptable. The deadline for delivering the data products is strictly set for tomorrow morning, adhering to the operational guidelines without any alteration or extension of the timeframe.
+
+This operational request underscores the importance of maintaining standard parameters and normal operational status while acknowledging the flexibility required for this low priority task.

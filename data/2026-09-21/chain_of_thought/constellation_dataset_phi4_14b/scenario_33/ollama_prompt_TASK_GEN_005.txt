@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This indicates the specific timeframe by which the data products must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the satellite should capture the required data.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning". This word will be used literally in the final request to specify the time of data capture.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline is strictly set for "in three days" and specifically "in the morning", as per the provided metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request for an opportunistic capture over Arezzo, Italy. This task involves a flexible schedule and can be dropped or rescheduled at convenience. The objective is to perform an active radar scan using microwave surface imaging, which will provide cloud-penetrating capture of the ground geometry. The data should be delivered in three days, specifically in the morning. This serves as a non-essential background filler task within our current operational framework.

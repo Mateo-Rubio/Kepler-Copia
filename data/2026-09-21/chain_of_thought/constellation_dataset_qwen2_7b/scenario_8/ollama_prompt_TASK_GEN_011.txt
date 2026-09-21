@@ -1,0 +1,17 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string is "morning".
+
+d) Yes, I confirm that I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context provided by the JSON metadata, we are tasked with capturing a detailed multispectral vegetation analysis using the VNIR sensor. This involves assessing the chlorophyll absorption levels across Arsiero, Italy, specifically focusing on the heat signature and surface temperature profile of the region. The mission is allocated a medium importance level, which translates to a standard operational tasking requiring fixed parameters for normal operational status.
+
+The deadline for delivering this data product is set for four days from now, with the capture scheduled in the morning. This means that the primary focus will be on daylight photography and true-color visual documentation, ensuring that the imagery captures the essence of the region's vegetation under optimal lighting conditions.
+
+To summarize, the Earth-observation mission operator requests a multispectral VNIR scan of Arsiero, Italy, to be executed in the morning four days from today. This task aims to provide detailed information on chlorophyll absorption levels and heat signatures, adhering to standard operational guidelines for baseline pipeline tracking and maintaining normal workflow updates.

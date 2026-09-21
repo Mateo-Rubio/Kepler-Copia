@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task is specifically required for "the day after tomorrow" during the "overnight" period, and this timing will be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a routine monitoring mission over the city of Norte. This involves conducting an active radar scan using microwave surface imaging to achieve cloud-penetrating capture. The goal is to acquire detailed ground geometry data during "the day after tomorrow" in the "overnight" period. This request forms part of our baseline pipeline tracking setup with fixed parameters, ensuring a normal operational status and workflow update for our ongoing mission activities.

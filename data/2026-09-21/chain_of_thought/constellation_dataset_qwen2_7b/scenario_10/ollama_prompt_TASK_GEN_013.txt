@@ -1,0 +1,1 @@
+In four days, in the morning, we're tasked with capturing a high-resolution SAR scan of Baraya, Colombia, as part of our standard operational tasking. This involves an active radar scan using microwave surface imaging to capture ground geometry, representing normal operational status and being treated as a 'background survey' or 'testbed tracking task'.

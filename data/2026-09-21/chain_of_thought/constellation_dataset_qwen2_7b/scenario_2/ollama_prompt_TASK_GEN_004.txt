@@ -1,0 +1,9 @@
+Given the operational guidelines and interpreting the metadata provided, our Earth-observation mission is tasked with capturing a critical SAR (Synthetic Aperture Radar) scan of a specific region in Colombia. This scan will occur around mid-day, precisely four days from now. The location of interest is the city of Nóvita, situated within the picturesque landscapes of Colombia.
+
+Our primary objective is to conduct an active radar scan using microwave surface imaging technology to pierce through heavy weather conditions and capture detailed ground geometry. This cloud-penetrating capture will provide invaluable insights into the area's topography and infrastructure, crucial for various applications including environmental monitoring, urban planning, and disaster response.
+
+This mission allocation is designated with a priority level of 1, indicating it is part of our low priority importance tasks with flexible scheduling requirements. It serves as a background survey or testbed tracking task that can be dropped or rescheduled at convenience without compromising the overall operational workflow.
+
+The deadline for delivering this data product is strict and falls exactly on the target day, four days from now, around mid-day. This deadline represents an operational requirement rather than an orbital capture window. Our team will ensure to meet this deadline with the utmost diligence and efficiency, leveraging our automated satellite constellation planner to optimize resource allocation and mission execution.
+
+In summary, our Earth-observation mission aims to execute a SAR scan in the city of Nóvita, Colombia, around mid-day four days from now. This task is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters. It holds low priority importance but remains an integral component of our ongoing efforts to provide comprehensive Earth observation data to support various stakeholders and applications.

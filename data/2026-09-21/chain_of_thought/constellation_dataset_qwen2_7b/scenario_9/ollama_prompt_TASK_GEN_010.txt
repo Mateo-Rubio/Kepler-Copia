@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string which must appear literally in the final request is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request will adhere strictly to the deadline provided.
+
+STAGE 2 - FINAL REQUEST
+
+In response to your operational guidelines, we are tasked with capturing a low priority importance VNIR sensor observation on the day after tomorrow, specifically in the morning. This will involve a flexible schedule for opportunistic capture of daylight photography, aiming to assess chlorophyll absorption levels and calculate the NDVI index to evaluate surface reflectance. The geographical context involves Colombia, with our focus on Puerto Wilches city. This request is framed as a non-essential background filler task, where we are instructed to drop or reschedule at convenience, considering it part of a background survey or testbed tracking task. The deadline for data delivery is strictly adhered to, as specified by the target day and diurnal period provided.

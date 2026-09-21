@@ -1,0 +1,18 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+In response to the high importance request received for tomorrow's overnight period, our automated satellite constellation planner will prioritize capturing critical data over the region of Indonesia, specifically focusing on the equatorial city. This mission is designated as an absolute institutional priority due to its binding contract requirement involving a mandatory directive for a payload capture that must be executed with urgency and cannot be preempted.
+
+The primary sensor being utilized for this task is the near-infrared (NIR) instrument, which will provide essential data for water body boundary mapping and soil moisture assessment. This advanced technology allows us to discriminate gradients by capturing near-infrared reflections, ensuring a comprehensive understanding of environmental conditions.
+
+As per the operational guidelines, we are not altering or extending the deadline; instead, we are strictly adhering to the target day and time frame specified in the request. The focus will be on delivering highly accurate thermal mapping, enabling us to capture heat signatures and surface temperature profiles to identify thermal anomalies and map heat emissions effectively.
+
+This standard operational tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It is a routine monitoring activity that contributes to our ongoing efforts in environmental surveillance and data collection. The request acknowledges the flexible schedule for opportunistic capture, treating it as a non-essential background filler task where we can drop or reschedule at convenience if necessary.
+
+In summary, we are committed to fulfilling this high-priority request for tomorrow's overnight period with utmost efficiency and accuracy, ensuring that our satellite constellation planner delivers the required data products without compromising on quality or operational integrity.

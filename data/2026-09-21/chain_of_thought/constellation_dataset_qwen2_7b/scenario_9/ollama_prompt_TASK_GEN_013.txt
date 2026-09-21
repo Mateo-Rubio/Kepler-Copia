@@ -1,0 +1,1 @@
+In four days, our automated satellite constellation planner will be tasked with capturing a high-resolution optical snapshot of the city of Cumaral in Colombia, using the VNIR sensor. This mission allocation is of the highest importance and is considered an absolute institutional priority. The capture must occur overnight.

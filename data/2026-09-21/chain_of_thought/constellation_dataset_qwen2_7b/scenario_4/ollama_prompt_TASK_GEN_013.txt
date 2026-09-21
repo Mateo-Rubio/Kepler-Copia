@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+As an absolute institutional priority, we are tasked with capturing a critical payload overnight tomorrow. This involves using our near-infrared sensor to map water body boundaries and assess soil moisture levels for a high-resolution optical snapshot of Colombia's Tame region in the dead of night. This is a mandatory directive that requires an active radar scan to penetrate heavy weather conditions, ensuring we capture ground geometry with precision. The imagery will serve as a thermal anomaly detection tool, providing invaluable data on heat emissions and surface temperature profiles. Given the importance of this task, we emphasize that it must be executed with the utmost urgency and without any preemption. The deadline for delivering this data product is strictly tomorrow overnight, and no adjustments to the schedule will be entertained beyond fulfilling this critical operational requirement.

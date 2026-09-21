@@ -1,0 +1,5 @@
+In response to the operational guidelines and interpreting the provided JSON metadata, we are tasked with capturing high-resolution near-infrared (NIR) imagery of Malaysia's Kapit region today, specifically in the evening. This request is categorized as a standard operational tasking with fixed parameters, representing normal operational status. The imagery aims to map water body boundaries and assess soil moisture levels for environmental monitoring.
+
+Given the deadline for data delivery is today's evening period, we are to capture thermal anomalies and surface temperature profiles without altering or extending the timeframe. This mission is part of our baseline pipeline tracking setup with a focus on delivering critical payload capture under normal operational status. The imagery will provide essential insights for water management and soil health assessment, contributing to our routine monitoring efforts.
+
+Please proceed with the satellite constellation planning and allocation according to these guidelines.

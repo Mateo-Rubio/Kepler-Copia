@@ -1,0 +1,12 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the high priority level and the binding contract requirement, we are tasked with capturing a critical payload overnight tomorrow. This mission involves an active radar scan using microwave surface imaging to provide cloud-penetrating capture of ground geometry in Colombia, specifically focusing on San José del Guaviare. The objective is to obtain thermal mapping data that will help us identify heat signatures and surface temperature profiles, essential for thermal anomaly detection and mapping heat emissions.
+
+This operation is an urgent operational execution, an absolute institutional priority, involving a mandatory directive with un-preemptable mission lock. We aim to deliver high-quality data products by leveraging our advanced satellite constellation capabilities to ensure the capture of essential information under the strict deadline set for tomorrow's overnight period.
