@@ -1,1 +1,0 @@
-Log a commercial tasking for Ecuatorial in Indonesia as part of our baseline pipeline tracking with fixed parameters. We aim to capture high-resolution optical snapshots during the afternoon using proper daylight photography, providing true-color visual documentation of the local landscape and environment. The products should be integrated into the workflow by tomorrow afternoon.

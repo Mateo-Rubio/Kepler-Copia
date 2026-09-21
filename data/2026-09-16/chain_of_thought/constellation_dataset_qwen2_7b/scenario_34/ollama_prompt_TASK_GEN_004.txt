@@ -1,0 +1,5 @@
+Given today's operational context, we are tasked with capturing a critical thermal mapping dataset for Vegachí, Colombia, during the afternoon. This priority level 1 request involves utilizing thermal imaging sensors to gather data that will help us understand heat signatures and surface temperature profiles in this region. The deadline is strict, requiring the data products to be delivered by the end of today's afternoon session.
+
+As this is a low priority importance request, we have a flexible schedule for its execution. We may drop or reschedule this task at our convenience without impacting other high-priority missions. This background survey aims to provide valuable insights into thermal anomalies and heat emissions across Vegachí, contributing to our baseline pipeline tracking efforts with fixed parameters representing normal operational status.
+
+Please proceed with the capture of this non-essential background filler task, ensuring that it does not preempt or delay any critical payload capture operations. The data collected will serve as a testbed for further analysis and potential adjustments in our thermal mapping strategies for similar environments.

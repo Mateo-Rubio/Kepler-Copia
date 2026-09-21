@@ -1,2 +1,0 @@
-```prompt
-We are logging a standard operational tasking as part of our baseline pipeline tracking with fixed parameters over San Joaquín in Colombia. We need near-infrared reflection for water body boundary mapping and soil moisture assessment to discriminate gradients, so please capture this data around mid-day tomorrow.

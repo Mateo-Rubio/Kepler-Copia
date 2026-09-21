@@ -1,3 +1,0 @@
-Log a standard operational tasking over Puerto López in Colombia as part of our baseline pipeline tracking with fixed parameters. We aim to assess soil moisture gradients using near-infrared reflection during the night, helping us discriminate between different levels of ground wetness for agricultural analysis. This routine monitoring is scheduled for tomorrow around midnight at the latest.
-
-```prompt

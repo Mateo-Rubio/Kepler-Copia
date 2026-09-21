@@ -1,1 +1,0 @@
-This is a standard operational tasking for Norte in Italy as part of our baseline pipeline tracking with fixed parameters. We need an active radar scan using microwave surface imaging to provide cloud-penetrating capture that will reveal the ground geometry, regardless of weather conditions. The delivery deadline is set for today in the morning.

@@ -1,3 +1,0 @@
-Initiate a commercial tasking for San Carlos de Guaroa in Colombia, aiming for an NIR reflection analysis to delineate water body boundaries and evaluate soil moisture gradients. This is part of our regular workflow update with fixed parameters, expecting the delivery within four days in the afternoon.
-
-```prompt

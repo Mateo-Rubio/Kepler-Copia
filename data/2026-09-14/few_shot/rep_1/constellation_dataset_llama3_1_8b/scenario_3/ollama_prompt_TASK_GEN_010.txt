@@ -1,1 +1,0 @@
-This is a commercial tasking for Monterrey in Colombia as a workflow update on our water resources file. We want near-infrared reflection to discriminate water body boundaries and assess soil moisture levels across the surrounding catchment area. Normal operational status, fixed parameters, and the products should be ingested into the pipeline in three days in the morning.

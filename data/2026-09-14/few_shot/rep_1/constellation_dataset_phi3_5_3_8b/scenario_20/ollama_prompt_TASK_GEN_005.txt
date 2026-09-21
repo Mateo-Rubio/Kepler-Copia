@@ -1,1 +1,0 @@
-Prepare a commercial tasking for Pavullo nel Frignano in Italy, aiming for an overnight NIR reflection analysis. This is part of our standard operational workflow update with fixed parameters to assess soil moisture gradients and discriminate boundaries. The deliverables should be ready for integration into the pipeline within three days at night.

@@ -1,1 +1,0 @@
-This is a standard operational tasking for thermal mapping over Pulang Pisau in Indonesia. We need to capture a heat signature and surface temperature profile overnight tomorrow. This is part of our routine monitoring and falls under normal operational status with a fixed parameter set. The products are needed by tomorrow overnight.

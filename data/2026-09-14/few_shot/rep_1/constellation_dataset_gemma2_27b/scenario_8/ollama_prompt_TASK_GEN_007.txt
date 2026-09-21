@@ -1,1 +1,0 @@
-This is a standard operational tasking for thermal mapping over Tuluá in Colombia. We need to capture a surface temperature profile and flag any thermal anomalies. This is part of our baseline pipeline tracking with fixed parameters, and the delivery deadline is set for today in the morning.

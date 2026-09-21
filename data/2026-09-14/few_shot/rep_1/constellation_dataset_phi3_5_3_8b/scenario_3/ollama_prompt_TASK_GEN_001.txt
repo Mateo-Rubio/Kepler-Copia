@@ -1,1 +1,0 @@
-Log a standard operational tasking over Tame in Colombia for multispectral vegetation analysis to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance. This is routine monitoring as part of our baseline pipeline tracking, with fixed parameters set for normal operational status. The delivery deadline is tomorrow overnight at the latest.

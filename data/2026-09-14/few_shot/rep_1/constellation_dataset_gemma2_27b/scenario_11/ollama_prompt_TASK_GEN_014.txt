@@ -1,1 +1,0 @@
-This is a standard operational tasking for multispectral vegetation analysis over Norte. We need to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance for the region. Normal operational status applies, with fixed parameters, and the delivery deadline is set for in three days in the evening.
