@@ -1,0 +1,18 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string which must appear literally in the final request is "morning".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+To address the operational requirements set forth by our client, we are tasked with capturing thermal mapping data from the region of Claut, located in the beautiful country of Italia. The mission's priority level is designated as medium importance, indicating a standard operational tasking that aligns with our baseline pipeline tracking capabilities.
+
+Our primary sensor for this mission will be the TIR (Thermal Infrared) instrument, which will enable us to gather critical thermal information necessary for heat signature detection and surface temperature profiling. The data collection is scheduled for the day after tomorrow, specifically in the morning hours, when conditions are ideal for optimal imaging.
+
+This request is part of our normal operational status, with fixed parameters that represent our standard workflow update. We understand the importance of adhering to this deadline as it pertains to delivering the data products by the specified target day and time, not altering the orbital capture window.
+
+We will proceed with capturing high-resolution thermal imagery without compromising quality or efficiency, ensuring that our client receives the necessary data promptly and accurately. Our team is dedicated to providing exceptional service while maintaining flexibility in scheduling for low priority tasks, allowing for opportunistic captures where necessary.
+
+In conclusion, we are committed to fulfilling this mission as outlined, capturing thermal data from Claut, Italia on the day after tomorrow during the morning hours, adhering to our standard operational procedures and without shifting the deadline.

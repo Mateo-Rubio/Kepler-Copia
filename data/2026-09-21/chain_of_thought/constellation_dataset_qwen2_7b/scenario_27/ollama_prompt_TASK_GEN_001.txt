@@ -1,0 +1,10 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "today".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string is "evening".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+As part of our opportunistic background survey tasks, we're looking to capture a VNIR multispectral vegetation analysis on the ground in Colombia, focusing specifically on Puerto Rico. This data collection mission is tagged with a low priority importance level and is set for execution today, with the operational window opening in the evening hours. Our aim is to assess chlorophyll absorption levels and calculate the NDVI index while capturing surface reflectance data, providing us with valuable insights into the vegetation health and land use patterns under the twilight conditions that enhance the contrast of our imagery. This non-essential background filler task carries a flexible schedule for opportunistic capture, allowing us to adjust our mission execution as per operational convenience without compromising the integrity of our baseline pipeline tracking efforts.

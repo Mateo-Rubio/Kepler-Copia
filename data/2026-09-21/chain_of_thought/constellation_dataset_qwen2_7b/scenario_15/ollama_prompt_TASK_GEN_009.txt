@@ -1,0 +1,7 @@
+In response to the operational guidelines provided for the Earth-observation mission allocation, we are tasked with capturing high-resolution near-infrared (NIR) reflection data of the region in Indonesia, specifically the city of Ecuatorial, on the day after tomorrow. The critical deadline for this data collection is set for the evening hours.
+
+Given the priority level of 2, which signifies a standard operational tasking or commercial tasking within our baseline pipeline tracking setup, we understand that this request involves fixed parameters representing normal operational status or a routine update in our workflow.
+
+The mission aims to map water body boundaries and assess soil moisture levels using the near-infrared sensor capabilities. This will be achieved with an active radar scan employing microwave surface imaging techniques, allowing for cloud-penetrating capture and detailed mapping of ground geometry under varying weather conditions.
+
+Please note that this deadline represents a strict operational requirement for delivering data products by the evening on the day after tomorrow, not altering or interpreting the orbital capture window in any way. We are committed to adhering to these guidelines while executing our task with the utmost professionalism and efficiency.

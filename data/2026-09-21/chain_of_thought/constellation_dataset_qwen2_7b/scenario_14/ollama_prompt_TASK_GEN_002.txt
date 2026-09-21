@@ -1,0 +1,13 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The word contained in that string which must appear literally in the final request is "afternoon".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+As an automated satellite constellation planner, we are tasked with a standard operational tasking involving the acquisition of data from an active radar scan using microwave surface imaging during the afternoon on 'tomorrow'. This mission aims to capture cloud-penetrating imagery for Norte, providing essential insights into ground geometry without interference from atmospheric conditions. The requirement is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. We will ensure that this critical payload capture adheres to contractual obligations and institutional priorities, maintaining an un-preemptable mission lock as it pertains to high importance within our operational hierarchy.

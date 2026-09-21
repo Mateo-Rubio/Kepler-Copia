@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+In response to the operational request with a priority level of medium importance and a clear deadline for today during the afternoon, our automated satellite constellation planner will allocate resources to capture thermal mapping data over France, specifically focusing on the city of Corte. This task aims to provide critical insights into surface temperature profiles and heat emissions, essential for understanding regional thermal dynamics.
+
+The mission will utilize the TIR sensor to conduct an active radar scan using microwave surface imaging technology, piercing through any cloud cover or weather conditions to ensure comprehensive coverage of the target area. The data collected during this operational window will be invaluable for applications ranging from environmental monitoring to urban heat island analysis and disaster response planning.
+
+With a focus on delivering high-quality thermal mapping results by today's afternoon deadline, our team ensures that the assets are prioritized accordingly, aligning with the established baseline pipeline tracking protocols and maintaining normal operational status. This task is part of an ongoing effort to provide routine monitoring services for our clients, contributing to informed decision-making processes across various sectors.
+
+As per the guidelines, this request does not alter the deadline but rather emphasizes the importance of adhering to it as a standard operational tasking, ensuring that the data products are delivered promptly without compromising quality or accuracy.

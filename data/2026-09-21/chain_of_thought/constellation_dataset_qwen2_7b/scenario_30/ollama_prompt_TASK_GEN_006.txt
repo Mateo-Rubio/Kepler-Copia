@@ -1,0 +1,5 @@
+Given the operational guidelines, we are tasked with capturing high-resolution near-infrared (NIR) imagery of Bukit Mabong, Malaysia, on a critical payload capture mission allocated with a low priority importance level. This request is framed as a flexible schedule task that allows for opportunistic capture but remains an essential background survey to assess soil moisture levels and water body boundaries.
+
+The deadline is set for tomorrow around mid-day, which is a strict operational deadline for delivering the data products. The imagery will be collected during daylight hours when the conditions are optimal for clear optical photography and true-color visual documentation. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please ensure that the satellite constellation prioritizes this request based on its low priority importance level, allowing for scheduling adjustments as needed. The imagery will be crucial for soil moisture assessment and water body boundary mapping, providing valuable insights without compromising other higher-priority missions.

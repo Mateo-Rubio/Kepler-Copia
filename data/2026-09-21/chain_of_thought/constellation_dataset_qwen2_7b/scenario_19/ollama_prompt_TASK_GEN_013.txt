@@ -1,0 +1,10 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string is "evening".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+Given the operational context provided, our Earth-observation mission is tasked with capturing a low priority importance snapshot using the VNIR sensor. Specifically, we aim to gather daylight photography for a clear optical imagery and true-color visual documentation in Vista Hermosa, Colombia, tomorrow evening. This "background survey" request does not require an urgent operational execution or an un-preemptable mission lock; instead, it fits into our baseline pipeline tracking with fixed parameters representing normal operational status. The deadline to deliver the data products is strictly set for tomorrow evening, and we will treat this as a non-essential background filler task, noting that it can be dropped or rescheduled at convenience if necessary.

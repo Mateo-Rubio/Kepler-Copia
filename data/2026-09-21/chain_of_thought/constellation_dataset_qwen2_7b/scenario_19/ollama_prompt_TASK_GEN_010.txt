@@ -1,0 +1,7 @@
+In response to the operational guidelines and interpreting the metadata provided, we are tasked with capturing a thermal mapping of the region named Colombia, specifically focusing on the city of Puerto Wilches. This request falls under priority level 1, indicating a low importance for operational execution but still requiring attention as it is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline to deliver this data product is set for tomorrow evening, which means we are aiming for a thermal map that captures the heat signature and surface temperature profile of the region during this time. This task involves utilizing our TIR sensor for its unique capability in thermal mapping, allowing us to assess heat emissions and detect any anomalies that might be present.
+
+Given that the deadline is strictly tomorrow evening, it's important to note that there is a flexible schedule for this task, implying that we can drop or reschedule it at convenience if necessary. This request can be treated as a non-essential background filler task, akin to conducting an opportunistic survey or utilizing our testbed tracking capabilities.
+
+To summarize, the operational request involves capturing thermal mapping data of Colombia's Puerto Wilches city using our TIR sensor during the evening hours of tomorrow. This task aligns with our normal operational status and is subject to flexible scheduling considerations, emphasizing its role as a background survey within our institutional priorities.

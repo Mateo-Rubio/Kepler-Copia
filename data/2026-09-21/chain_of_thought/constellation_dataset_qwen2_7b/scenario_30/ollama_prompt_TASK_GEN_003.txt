@@ -1,0 +1,10 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+As an automated satellite constellation planner, I'm tasked with capturing a near-infrared reflection dataset for a low priority importance request from Indonesia, specifically from Malinau. The objective is to gather thermal mapping data that will help in assessing soil moisture and water body boundaries overnight, which falls on "tomorrow". This request is labeled as a non-essential background filler task, where the operator explicitly notes that it can be dropped or rescheduled at convenience. The imagery required for this task will contribute to background survey efforts or serve as a testbed tracking task without affecting the operational deadlines.

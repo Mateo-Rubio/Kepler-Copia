@@ -1,0 +1,20 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string is "evening".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+In response to the operational guidelines and the provided JSON metadata, our Earth-observation mission operator requests a task focused on capturing thermal mapping data from the region of Pulang Pisau, Indonesia. The primary sensor used for this task will be the TIR (Thermal Infrared) sensor, which is essential for identifying heat signatures and mapping surface temperature profiles across the area.
+
+The request is classified as a "standard operational tasking" with a priority level that reflects its importance within our baseline pipeline tracking setup. This task involves capturing thermal data exclusively during the evening hours of tomorrow, which is the target day specified in the JSON metadata.
+
+The deadline for delivering this thermal mapping dataset is strictly set for tomorrow evening, and no alterations or extensions to this timeframe are contemplated. The operator emphasizes that while this request carries a specific deadline, it does not imply an immediate need for the data products; rather, it represents a standard operational tasking with fixed parameters that align with our normal workflow updates.
+
+As part of this mission, we aim to capture heat emissions and thermal anomalies across Pulang Pisau using the TIR sensor's capabilities. This will provide valuable insights into surface temperature dynamics, which are crucial for various applications such as environmental monitoring, urban heat island studies, and agricultural assessments.
+
+The operator acknowledges that there is flexibility in scheduling this task due to its low priority importance, but they stress that it should be executed promptly as part of our ongoing operational commitments. This request serves as a background survey or testbed tracking task, which can be dropped or rescheduled at convenience without compromising the overall operational flow of our Earth-observation activities.
+
+In summary, our mission operator requests thermal mapping data from Pulang Pisau, Indonesia, to be captured using the TIR sensor exclusively during the evening hours of tomorrow. This task is classified as a standard operational tasking with fixed parameters and represents a baseline pipeline tracking setup within our Earth-observation program. The deadline for delivering this dataset is strictly set for tomorrow evening, adhering to our operational guidelines without altering or extending the timeframe.

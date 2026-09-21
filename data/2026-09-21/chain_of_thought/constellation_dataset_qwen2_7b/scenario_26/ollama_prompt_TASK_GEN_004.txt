@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+As per our operational guidelines, we are tasked with capturing high-resolution optical imagery for a critical payload capture involving a standard operational tasking. The region of interest is Colombia, specifically focusing on the city of Lebrija. Our priority level stands at medium importance, which means this request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor we will be utilizing for this mission is the Near-Infrared (NIR) instrument, which will provide us with essential data for water body boundary mapping and soil moisture assessment. We aim to collect this data in the evening on "tomorrow", as specified by our target day parameter.
+
+This request is based on a heat signature and surface temperature profile requirement, aiming to capture thermal anomalies and map heat emissions accurately. The deadline to deliver the data products is strictly set for tomorrow evening, as per the operational guidelines provided.
+
+In summary, our mission allocation priority is medium importance, and we are scheduled to conduct an active radar scan using microwave surface imaging techniques in the evening of "tomorrow" over the city of Lebrija, Colombia. The primary sensor used will be the Near-Infrared (NIR) instrument for water body boundary mapping and soil moisture assessment.

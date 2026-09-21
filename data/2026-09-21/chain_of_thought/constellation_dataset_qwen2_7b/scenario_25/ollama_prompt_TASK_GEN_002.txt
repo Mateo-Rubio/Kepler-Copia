@@ -1,0 +1,7 @@
+Given the operational guidelines and the provided JSON metadata, our Earth-observation mission request involves capturing a thermal mapping dataset using the TIR sensor. This task is classified as a low priority importance request due to its 'priority_level' being set at 1. The geographic context focuses on Norte, although specific country details are not available.
+
+The mission is allocated with an absolute institutional priority, as indicated by the deadline of "in three days" for capturing thermal data during the "evening" period. This deadline represents a strict operational deadline to deliver the data products and is not related to the orbital capture window.
+
+To ensure accurate thermal mapping, we aim to capture heat signatures and surface temperature profiles without interference from daylight or other external factors. The mission will involve a "non-essential background filler task", which can be scheduled flexibly and treated as a "background survey" for thermal anomaly detection and mapping heat emissions.
+
+The deadline of "in three days" in the evening ensures that we capture the thermal data under optimal conditions, free from cloud cover or atmospheric disturbances, providing high-quality thermal imagery for analysis. We will adhere to this deadline without altering, extending, or shifting the time frame.

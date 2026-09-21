@@ -1,0 +1,7 @@
+Given the operational guidelines and interpreting the provided metadata, we are tasked with capturing a high-resolution optical snapshot of Puerto Libertador, Colombia, using our visible light sensor. This daylight photography will serve as a true-color visual documentation of the region's landscape, providing valuable insights into its natural features and urban developments.
+
+The mission is set for "in three days", with the primary objective to capture the imagery around mid-day. This timing aligns with the operational priority level of "low importance", allowing for a flexible schedule that can be accommodated as part of our background survey or testbed tracking tasks. The deadline is strict, representing an absolute institutional priority to deliver the data products by mid-day on the target day.
+
+The imagery will be collected using our visible light sensor, which will offer clear optical imagery suitable for various applications such as environmental monitoring, urban planning, and disaster response. The data will contribute to our baseline pipeline tracking setup with fixed parameters, maintaining normal operational status and supporting our workflow updates without compromising quality or efficiency.
+
+As we proceed with this task, it's important to adhere to the deadline specified for "in three days", capturing the mid-day imagery as planned. This will ensure that we meet the requirements of our institutional priority while maintaining the flexibility to adjust schedules as needed in our low priority importance request.

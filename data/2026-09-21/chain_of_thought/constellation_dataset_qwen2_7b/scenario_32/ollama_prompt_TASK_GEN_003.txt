@@ -1,0 +1,5 @@
+In accordance with our standard operational tasking guidelines, we are scheduled for a routine monitoring mission on the day after tomorrow. Our focus will be on capturing thermal mapping data during the afternoon period in Indonesia's Ketapang region. This involves an active radar scan using microwave surface imaging to provide cloud-penetrating capture of ground geometry. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note, this request carries a medium importance level as indicated by the priority number. It falls under our standard workflow update and will be treated as a non-essential background filler task, allowing for flexible scheduling to accommodate any potential rescheduling or dropping at your convenience. Our aim is to capture a heat signature, surface temperature profile, or perform thermal anomaly detection and mapping of heat emissions as part of our routine monitoring activities.
+
+Thank you for considering this request in your planning process.

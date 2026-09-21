@@ -1,0 +1,7 @@
+Given the operational guidelines, our request for the Earth-observation mission should be framed as follows: 
+
+On the day after tomorrow, during the morning hours, we are seeking a high-resolution optical snapshot of Indonesia's beautiful yet industrious island of Hiang Karya. This request is classified under Priority 1 (Low Importance), indicating that while it is not an absolute institutional priority or a binding contract requirement, it is still considered a non-essential background filler task. We understand that this mission may be executed with a flexible schedule and that it does not have a strict deadline for execution, allowing us to drop or reschedule the task at our convenience.
+
+The primary sensor required for this operation will be a VIS (Visible Imaging System), which will provide us with clear optical imagery for daylight photography and true-color visual documentation. The goal is to capture the essence of Hiang Karya's landscape, ensuring that we can identify key features and environmental conditions during the morning light. This task serves as an opportunistic survey or testbed tracking task, focusing on gathering data that will help us better understand the region's natural beauty and potential challenges.
+
+As always, our team is dedicated to delivering the highest quality data products within the specified deadline of the day after tomorrow in the morning hours. We appreciate your understanding and cooperation in ensuring that this mission is executed according to these operational guidelines.

@@ -1,0 +1,14 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string which must appear literally in your final request is "afternoon".
+d) I confirm that I am not shifting the deadline to an adjacent part of the day, as the target is strictly defined as "in three days during the afternoon".
+
+STAGE 2 - FINAL REQUEST:
+
+In three days, our automated satellite constellation planner will capture a thermal mapping dataset from an active radar scan over France's Norte region. This mission allocation has been categorized as having a medium importance level, which translates to a standard operational tasking with fixed parameters representing normal operational status. The deadline is set for capturing the data during the afternoon, adhering strictly to the target day without any adjustments or extensions.
+
+The primary sensor utilized will be the TIR (Thermal Infrared) system, which will provide us with critical information on heat signatures and surface temperature profiles across the region. This dataset will be crucial for thermal anomaly detection and mapping heat emissions, offering valuable insights into various operational needs such as environmental monitoring, urban planning, or agricultural assessments.
+
+Please note that this request does not involve any alterations to the deadline time frame; it is fixed for capture during the afternoon on the specified target day, three days from now.

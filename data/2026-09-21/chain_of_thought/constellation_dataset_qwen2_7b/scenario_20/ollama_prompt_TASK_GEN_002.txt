@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string which must appear literally in your final request is "evening".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+As per our operational guidelines, we are tasked with capturing a near-infrared (NIR) optical snapshot of a location in Norte, which lies within the country yet lacks specifics on city or landmarks. Given the priority level of 'medium importance', this request is part of our standard operational tasking schedule, representing normal operational status.
+
+We aim to capture this high-resolution imagery tomorrow, specifically in the evening, when conditions are optimal for gathering detailed data without interference from sunlight. The deadline for delivering the data products is set for this time frame, emphasizing the criticality of adhering to this schedule rather than altering it for convenience or adjusting the timeframe to an adjacent part of the day.
+
+The imagery will serve as a thermal mapping tool, enabling us to assess surface temperatures and detect any anomalies indicative of heat emissions. This task involves an active radar scan using microwave surface imaging capabilities, which will allow us to penetrate cloud cover and capture ground geometry with precision, providing essential data for our baseline pipeline tracking setup.
+
+We are committed to delivering this data product by the deadline specified in the evening, ensuring that our standard parameters are met without compromising on quality or operational standards.

@@ -1,0 +1,10 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational context, we're tasked with capturing a "low priority importance" request for a "non-essential background filler task". This involves using the VNIR sensor for "multispectral vegetation analysis", aiming to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. The capture will be executed overnight, specifically "overnight", on "tomorrow". This request is part of a "flexible schedule" meant for "opportunistic capture", indicating that it can be "dropped or rescheduled at convenience". This task falls under the category of a "background survey" or "testbed tracking task", which represents a "standard workflow update" in our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status".

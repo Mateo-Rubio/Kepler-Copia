@@ -1,0 +1,7 @@
+Given the high importance of this mission, we are looking to capture a critical payload on the designated day, which falls exactly three days from now. The operational window for this task is set in the morning, allowing for optimal conditions and ensuring that our assets can provide the necessary data products within the strict deadline.
+
+The primary sensor involved will be conducting near-infrared reflection observations, focusing on water body boundaries and soil moisture assessments to discriminate gradients accurately. This mission requires a high-resolution optical snapshot as well, aiming for clear daylight photography or true-color visual documentation to ensure comprehensive coverage of the area of interest.
+
+As we prioritize this task, we are aware that it is a binding contract requirement involving a critical payload capture, necessitating an urgent operational execution and an un-preemptable mission lock. This task is part of our standard pipeline tracking setup with fixed parameters, representing normal operational status and contributing to our baseline workflow updates.
+
+Please ensure that all necessary preparations are made for the morning session on the target day, as this is a non-essential background filler task that can be dropped or rescheduled at convenience if needed. However, given its importance, we aim to complete this task efficiently without any delays or adjustments to the deadline.

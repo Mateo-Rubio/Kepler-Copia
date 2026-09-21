@@ -1,0 +1,7 @@
+Given the operational guidelines and the context provided, I'm formulating a request for an Earth-observation mission focusing on the region of Italia, specifically the city of Monte Romano. The primary sensor utilized will be the Near-Infrared (NIR) instrument, aimed at capturing near-infrared reflection data to map water body boundaries and assess soil moisture levels.
+
+The mission is categorized with a priority level of 1, indicating it's a low-priority importance task with a flexible schedule for opportunistic capture. The operational deadline for delivering the data products is set for four days from now, specifically during the overnight period. This means we are targeting a time when conditions may be most conducive for capturing clear imagery and data without the interference of sunlight.
+
+The request emphasizes the need to capture high-resolution optical snapshots of the region during daylight photography, as well as detailed thermal mapping to detect heat signatures and surface temperature profiles. The goal is to ensure comprehensive coverage and accurate data collection for our baseline pipeline tracking setup, which represents normal operational status.
+
+In summary, we are looking to acquire critical data on water body boundaries and soil moisture assessment in Monte Romano, Italia, using the Near-Infrared sensor during the overnight period four days from now. This task is part of our standard workflow update, aligning with our low-priority importance tasks that can be scheduled flexibly.

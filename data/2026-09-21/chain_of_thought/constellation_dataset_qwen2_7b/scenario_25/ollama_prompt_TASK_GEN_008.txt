@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string contained in 'target_day' is "in four days".
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string which must appear literally in the final request is "morning".
+d) The deadline is not being shifted or altered to an adjacent part of the day.
+
+STAGE 2:
+
+To address the operational needs outlined, we are tasked with capturing high-resolution multispectral vegetation data using VNIR sensors for the region of Prati di Tivo, located in the picturesque country of Italia. This standard operational tasking is scheduled for execution in the morning light, precisely four days from today's date. The primary objective involves assessing chlorophyll absorption levels across various vegetation types within this area, thereby contributing to our baseline pipeline tracking and normal operational status. The captured data will serve as a critical component for ongoing ecological studies and environmental monitoring initiatives, ensuring accurate representation of the region's plant health and growth patterns under natural daylight conditions. This request is positioned at priority level 2, indicating it is part of our standard workflow update without any immediate critical payload capture requirements. However, should unforeseen circumstances arise that necessitate a change in schedule, this task can be flexibly rescheduled or dropped as a non-essential background filler task, maintaining operational efficiency and adaptability within the overall mission framework.

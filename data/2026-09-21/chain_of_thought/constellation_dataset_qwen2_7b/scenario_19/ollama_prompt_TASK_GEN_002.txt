@@ -1,0 +1,7 @@
+In response to your request for a satellite mission allocation, we are scheduled to capture high-resolution optical imagery of the region known as Valle Castellana, located in the picturesque country of Italia. This task is categorized as medium importance, aligning with our standard operational tasks and commercial requirements.
+
+Our imaging will occur during the afternoon on the specified target day, precisely three days from now. We aim to capture clear daylight photography that will serve as a true-color visual documentation of the landscape, providing valuable insights into the terrain and features under natural sunlight conditions. This imagery is essential for baseline pipeline tracking and will contribute to our routine monitoring efforts.
+
+Please note that this deadline represents a strict operational requirement for delivering the data products, not an orbital capture window. We are committed to meeting this deadline without altering or extending it.
+
+Thank you for your understanding and cooperation in this matter.

@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in the string from step (b) is "morning".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the metadata provided, our Earth-observation mission operator requests a task with the following specifications:
+
+We are tasked with capturing high-resolution optical imagery of the city of Oderzo, located in the beautiful country of Italia. This request is categorized as a low priority importance task, indicating that it falls under the "flexible schedule" and "background survey" category, serving as a "non-essential background filler task". The primary sensor involved will be the VNIR (Visible Near-Infrared) camera, designed to perform "multispectral vegetation analysis", which includes assessing the chlorophyll absorption level and calculating the vegetation NDVI index and surface reflectance.
+
+The mission is set for execution on "the day after tomorrow", with the critical operational deadline being in the morning. This deadline represents the strict time frame within which the data products must be delivered, adhering to the baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
+
+In summary, our operator is requesting a low priority task to capture "multispectral vegetation analysis" images of Oderzo, Italia, using the VNIR sensor on the day after tomorrow in the morning, as per the baseline operational guidelines and deadlines.

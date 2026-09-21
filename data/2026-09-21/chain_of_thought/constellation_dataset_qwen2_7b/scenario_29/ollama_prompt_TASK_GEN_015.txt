@@ -1,0 +1,7 @@
+Given the operational context, our priority task is scheduled for the day after tomorrow, specifically during the afternoon. We're focusing on Malaysia, specifically Sebauh city. This request carries a low priority importance and is framed as a non-essential background filler task that can be accommodated with a flexible schedule, allowing for opportunistically capturing data when convenient.
+
+The mission involves utilizing near-infrared (NIR) sensors to conduct a thermal mapping operation. The goal is to capture the heat signature of the region, assessing surface temperatures and detecting any thermal anomalies. This will provide valuable insights into surface conditions and potential issues that require attention during this specific afternoon timeframe.
+
+As part of our standard baseline pipeline tracking setup with fixed parameters, we aim to document the operational status without disrupting regular workflows. The use of near-infrared reflection will enable us to map water body boundaries and assess soil moisture levels, contributing to a comprehensive understanding of environmental conditions in Sebauh.
+
+Please ensure that the data products are delivered by the deadline specified for the afternoon of the day after tomorrow, adhering strictly to the operational requirements without altering the timeframe. This task is part of our ongoing efforts to provide accurate and timely information using our satellite constellation, supporting decision-making processes with reliable Earth observation data.

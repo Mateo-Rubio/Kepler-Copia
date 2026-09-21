@@ -1,0 +1,9 @@
+In response to our operational guidelines, we are tasked with capturing a high-resolution active radar scan using microwave surface imaging technology. This task aims to penetrate heavy weather conditions and capture ground geometry for a location in Colombia, specifically in Antiguo ETCR La Guajira, also known as Mariana Páez. The priority level of this mission allocation is medium importance, signifying it as a standard operational tasking that fits into our baseline pipeline tracking with fixed parameters representing normal operational status.
+
+Given the deadline for today's evening period, we are to deliver thermal mapping data capturing heat signatures and surface temperature profiles. This request involves assessing heat emissions across the region, providing critical insights for potential thermal anomalies or heat distribution patterns.
+
+With the primary sensor being SAR (Synthetic Aperture Radar), our mission will involve capturing images that are not only cloud-penetrating but also capable of delivering detailed ground geometry information. The operational objective is to ensure that we adhere to the strict deadline set for today's evening, without altering or extending the timeframe.
+
+This task is part of our routine monitoring activities and represents a standard workflow update within our operational pipeline. It is important to note that while this mission carries medium importance, it does not necessitate an urgent operational execution or an un-preemptable mission lock. Instead, it is a standard task that fits into our regular schedule.
+
+We are committed to delivering the data products by tonight's specified deadline, ensuring that we capture the essence of our mission without compromising on quality or adherence to operational guidelines.

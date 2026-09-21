@@ -1,0 +1,7 @@
+Given the operational context, we are tasked with capturing a near-infrared (NIR) reflection data set for a region located in the picturesque country of Italia, specifically in the city of Vigonza. The mission is categorized as medium importance, signifying it's part of our standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The deadline to deliver this critical payload capture is set for the day after tomorrow, which falls during the evening hours. This means we need to ensure that our satellite constellation is properly configured to capture the desired data in the evening timeframe on the specified future date. The imagery gathered will focus on mapping water body boundaries and assessing soil moisture levels, providing essential information for agricultural and environmental monitoring purposes.
+
+As this task is part of a baseline pipeline tracking setup with fixed parameters, it does not require any urgent operational execution or an un-preemptable mission lock. Instead, our satellite assets will be allocated to this task as part of the normal workflow update process.
+
+In summary, our automated satellite constellation planner will coordinate to capture high-quality near-infrared imagery for the region of Vigonza in Italia during the evening hours on the day after tomorrow, adhering to the predefined operational guidelines and priorities.

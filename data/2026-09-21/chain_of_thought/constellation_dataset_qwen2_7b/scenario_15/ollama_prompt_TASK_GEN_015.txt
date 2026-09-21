@@ -1,0 +1,14 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in that string is "overnight".
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+Given the operational guidelines and interpreting the provided metadata, we are tasked with capturing thermal mapping data for a highly important mission involving Indonesia's region, specifically focusing on the area around the city of Basa Ampek Balai Tapan. The primary sensor required is the Thermal Infrared (TIR) instrument, which will enable us to map heat signatures and detect thermal anomalies overnight on "the day after tomorrow". This critical payload capture is of high institutional priority, representing a binding contract requirement for an urgent operational execution that cannot be preempted or rescheduled.
+
+The deadline for delivering this data product is set for the "overnight" period on the specified target day. This temporal parameter represents a strict operational deadline to meet the mission's requirements, ensuring that thermal mapping activities are conducted under ideal conditions for accurate data collection without altering or extending the deadline itself.
+
+In summary, our task involves capturing high-resolution thermal imagery of the designated area in Indonesia during the overnight hours on "the day after tomorrow", leveraging the capabilities of the TIR sensor to provide essential thermal mapping data. This mission is an absolute institutional priority with a critical payload capture requirement that must be executed with un-preemptable urgency and precision, adhering to the specified operational timeframe without any adjustments or delays.

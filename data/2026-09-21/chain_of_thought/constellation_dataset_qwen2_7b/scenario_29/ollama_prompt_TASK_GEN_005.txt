@@ -1,0 +1,7 @@
+Given the operational guidelines and the input data, our Earth-observation mission requires capturing a high-resolution active radar scan using microwave surface imaging techniques. This scan aims to provide cloud-penetrating capture capabilities for detailed ground geometry observation. The task is classified as a low priority importance request, with flexible scheduling requirements for opportunistic capture.
+
+The deadline for delivering the data products is set for "the day after tomorrow" in the evening. This temporal parameter represents a strict operational deadline for data delivery, not an orbital capture window. We are not altering, extending, or interpreting this deadline in any way.
+
+Our geographical context involves a location with no specified country, but it's in Norte city. Although specific details about landmarks are not provided, the region name will be sufficient for contextual understanding.
+
+With these considerations and operational guidelines, our satellite constellation planner should allocate resources accordingly to ensure that the "in the evening" deadline is met without compromising the quality or integrity of the captured data. This task falls under a baseline pipeline tracking setup with fixed parameters, representing normal operational status. It is part of our standard workflow update process, designed for background survey tasks or testbed tracking activities.

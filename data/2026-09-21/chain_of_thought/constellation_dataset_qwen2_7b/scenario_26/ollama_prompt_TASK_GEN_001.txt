@@ -1,0 +1,7 @@
+As per our operational guidelines, this task is designated with a high priority level, as indicated by the 'priority_level' field being set to '3'. This signifies an absolute institutional priority or a binding contract requirement involving a critical payload capture that demands urgent attention and cannot be preempted.
+
+The region of interest spans across the country of Colombia, specifically focusing on the city of Silvania. Our mission aims to capture a high-resolution optical snapshot in daylight photography, utilizing our primary sensor capabilities. This will provide clear optical imagery and true-color visual documentation for the area.
+
+Scheduled for delivery exactly 'in three days', at the specified 'target_diurnal_period' of 'in the evening', we are tasked with capturing this critical data within the strict deadline provided. The operational context highlights that our tasking is part of a baseline pipeline tracking setup with fixed parameters, representing normal operational status and a workflow update.
+
+Please ensure that this mission allocation adheres to its priority level, maintaining an authoritative tone throughout its execution. This is an essential requirement for our contractual obligations and operational commitments, emphasizing the importance of delivering the data products by the deadline specified for 'in the evening' three days from now.
