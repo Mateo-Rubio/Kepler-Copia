@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a thermal mapping of Desa Muaro Sentajo, located in Indonesia. This task is part of our standard operational pipeline tracking setup and involves fixed parameters for normal operational status.
+
+Our primary sensor requirement is the TIR (Thermal Infrared) system, which will help us assess surface temperature profiles and detect any thermal anomalies. We're aiming to gather this data during the afternoon on tomorrow's day, ensuring that the products are ingested into our pipeline before the deadline set for that time.
+
+This request carries a medium importance level, meaning it's part of our baseline tasks with a standard operational priority. However, we understand that there might be some flexibility in scheduling, should any other higher-priority tasks require our attention first.
+
+Thank you for your understanding and prompt action on this matter.
+
+Best regards,
+[Your Name]

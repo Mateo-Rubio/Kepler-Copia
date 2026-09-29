@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Norte, which is located in an unspecified country. This task is part of our standard operational pipeline tracking setup and carries normal operational status.
+
+Our primary sensor requirement is an active radar scan using microwave surface imaging technology. The goal here is to penetrate heavy weather conditions or capture ground geometry with precision. We're aiming for cloud-penetrating capture capabilities that will provide us with invaluable insights into the terrain beneath.
+
+Given the nature of our request, we're treating this as a routine monitoring task with fixed parameters. This means it's part of our baseline workflow update and represents our standard operational status. We're not dealing with any urgent deadlines here; instead, we're focusing on delivering high-quality data products that will be ingested into our pipeline before the day after tomorrow, in the evening.
+
+Please ensure that the SAR data is ready by then at the latest. This deadline is critical for us to meet our contractual obligations and maintain our baseline pipeline tracking setup without any disruptions. We appreciate your attention to this matter and look forward to receiving the data as per our request.
+
+Thank you for your cooperation.

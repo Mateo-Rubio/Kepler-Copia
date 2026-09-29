@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection snapshot of the Ecuatorial region in Indonesia, specifically focusing on water body boundaries and soil moisture assessment. This task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+We aim to gather this data by the day after tomorrow in the morning, ensuring the products are ingested into our pipeline before that time frame. This request falls under medium importance, aligning with our baseline workflow updates and contractual obligations.
+
+Please note that while this task is not an absolute institutional priority or a binding contract requirement involving a critical payload capture, it's essential for our ongoing monitoring activities. We appreciate your attention to this matter and look forward to receiving the data products as per the specified deadline.
+
+Thank you for your cooperation and understanding in managing this request within our operational guidelines.
