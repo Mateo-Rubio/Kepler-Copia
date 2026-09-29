@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region in "Italia", specifically focusing on the area around "Norte". Given its importance, we classify this task as medium priority, meaning it's part of our standard operational pipeline but with some specific parameters that need to be met.
+
+Our primary sensor requirement is an active radar scan using microwave surface imaging. This will allow us to penetrate through any heavy weather conditions and capture ground geometry with precision. The goal here is to gather data that can help us understand the terrain better, which is crucial for our ongoing projects.
+
+We're targeting today's deadline, specifically overnight, meaning we need the data by tomorrow morning at the latest. This is not just a request; it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're looking to ensure that this task is completed within these constraints without any delays.
+
+Please note that while this is a standard operational tasking, we appreciate your attention to detail and adherence to the deadline. This will help us maintain our workflow updates and keep our operations running smoothly. Thank you for your cooperation in ensuring that this task meets all our requirements on time.
