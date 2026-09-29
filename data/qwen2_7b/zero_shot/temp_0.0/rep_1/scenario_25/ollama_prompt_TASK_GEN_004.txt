@@ -1,0 +1,9 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet still requires our attention. Our focus is on a background survey in Colombia, specifically in the area around La Macarena. We're looking for a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+The operational objective here is to gather data that will help us understand the health of the vegetation in this region. This task is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters. We're treating it as a non-essential background filler task where we can drop or reschedule at convenience if needed.
+
+We need these data products by the day after tomorrow, with a strict delivery deadline set for the overnight block. This means ensuring that all the data is ingested into our pipeline before the day after tomorrow's night time. We're looking forward to your support in capturing this information efficiently and delivering it within the specified timeframe.
+
+Thank you for your understanding and cooperation in this matter.

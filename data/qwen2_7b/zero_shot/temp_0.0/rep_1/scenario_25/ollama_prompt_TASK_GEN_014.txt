@@ -1,0 +1,8 @@
+Good day to our automated satellite constellation planner. We're looking at a task that's been allocated with medium importance, which means it's part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. The mission involves capturing thermal mapping data using the TIR sensor for a specific location in Claut, Italia. This is crucial for assessing surface temperature profiles and detecting thermal anomalies.
+
+The geographical context here is quite interesting; we're focusing on Claut, which is nestled within the beautiful region of Italia. We're aiming to gather this data in the morning of the day after tomorrow, ensuring that the products are ingested into our pipeline before then. This task is part of our baseline workflow update and will contribute to our ongoing monitoring efforts.
+
+Please ensure that the data is ready by the day after tomorrow in the morning, as we have a strict delivery deadline set for this time. We appreciate your attention to this matter and look forward to receiving the data products that will help us in our critical payload capture process. Thank you for your cooperation and understanding in meeting these operational guidelines.
+
+Best regards,
+[Your Name]

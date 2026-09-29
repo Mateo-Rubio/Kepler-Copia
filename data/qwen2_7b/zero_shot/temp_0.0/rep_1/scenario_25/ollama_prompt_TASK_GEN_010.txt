@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're looking at an urgent operational tasking for a critical payload capture involving thermal mapping in Colombia, specifically focusing on Chima. This mission is of high importance and requires an absolute institutional priority due to its binding contract requirement.
+
+Our primary sensor will be the TIR, which we'll use for capturing thermal anomalies and surface temperature profiles. We're aiming for a heat signature that will help us detect any unusual emissions or patterns in the region.
+
+The deadline for delivering this data product is set for four days from now, with a strict delivery deadline of the morning. We need to ensure that the products are ingested into our pipeline before then, as per our operational guidelines.
+
+This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a mandatory directive that involves a critical payload capture and must be treated with urgency and importance.
+
+Thank you for your attention to this matter. We appreciate your swift action in allocating the necessary assets to meet these requirements.
+
+Best regards,
+[Your Name]
