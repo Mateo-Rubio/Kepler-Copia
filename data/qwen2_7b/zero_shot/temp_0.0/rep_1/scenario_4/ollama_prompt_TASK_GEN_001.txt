@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution optical imagery of Calamar, Colombia, using a VNIR sensor. This is a low priority importance request, so please treat it as a flexible schedule background survey or testbed tracking task.
+
+The goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for this region. We aim to gather detailed information about the land cover and vegetation health, which will be crucial for our ongoing environmental monitoring project.
+
+We need this data by the evening of the day that's three days from now at the latest. This deadline is strictly set to ensure the products are ingested into our pipeline before the evening timeframe on that day. Please note that this request does not require an urgent operational execution or an un-preemptable mission lock, as it falls under the category of non-essential background filler tasks.
+
+Thank you for your understanding and cooperation in fulfilling this task. We appreciate your prompt attention to this matter.
