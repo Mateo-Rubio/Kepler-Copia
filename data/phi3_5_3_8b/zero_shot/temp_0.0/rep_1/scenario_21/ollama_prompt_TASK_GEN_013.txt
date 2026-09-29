@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for high-resolution optical snapshot photography in Carmen del Darién, specifically targeting clear optical imagery during tomorrow's afternoon block. This is part of our routine monitoring and should be completed as per the established pipeline tracking setup with fixed parameters. The data must be ready by tomorrow afternoon at the latest to ensure it can be ingested into our workflow without delay.
+```
