@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging over Burzanella, Italy, with a focus on capturing ground geometry and penetrating any heavy weather conditions. This task is of low priority importance, so please consider it as flexible within our operations timeline. We aim to have this data ready by the afternoon three days from now at the latest for further analysis or integration into our existing datasets. Feel free to drop or reschedule this request if necessary, treating it more like a background survey than an urgent directive.
+```prompt

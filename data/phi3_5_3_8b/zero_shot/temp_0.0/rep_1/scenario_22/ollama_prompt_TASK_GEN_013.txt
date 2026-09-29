@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Ráquira, Colombia, around midday in three days. This is a low priority importance task with a flexible schedule; please drop or reschedule at your convenience as it serves as non-essential background filler for our ongoing surveillance efforts. The data will be ingested into the pipeline before the specified deadline to ensure we maintain an up-to-date visual record of the area.
+```prompt
