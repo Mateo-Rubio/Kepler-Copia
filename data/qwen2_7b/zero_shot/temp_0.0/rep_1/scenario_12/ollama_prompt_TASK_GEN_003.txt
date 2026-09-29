@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia during the afternoon on the day after tomorrow. This is part of our standard operational tasking, which involves commercial tasking and baseline pipeline tracking with fixed parameters representing normal operational status.
+
+Our priority for this mission allocation is medium importance, meaning it's a standard operational task that needs to be executed as scheduled. We're aiming for clear optical imagery to provide true-color visual documentation of the area, which will help us monitor environmental changes and support our ongoing projects in the region.
+
+We understand the deadline for delivering the data products is set for the day after tomorrow during the afternoon, and we're committed to ensuring these products are ingested into our pipeline before that time. This request falls under our baseline pipeline tracking setup with normal operational status, and we appreciate your attention to this task.
+
+Thank you for your cooperation and prompt action in fulfilling this request.
+
+Best regards,
+[Your Name]
