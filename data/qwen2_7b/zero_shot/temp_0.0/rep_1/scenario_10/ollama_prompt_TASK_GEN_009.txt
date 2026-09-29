@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia, ideally in daylight photography or clear optical imagery, for true-color visual documentation purposes. This request is part of our standard operational tasking and represents normal pipeline tracking with fixed parameters.
+
+We aim to have this data by the day after tomorrow in the morning at the latest, ensuring the products are ingested into our pipeline before then. This is a standard operational task with a priority level of medium importance, indicating it's part of our baseline workflow update setup.
+
+Thank you for your attention and please let us know if there are any adjustments needed to meet these requirements.
