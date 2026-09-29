@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Bulungan, Indonesia for daylight photography purposes. This task is considered low priority and can be scheduled flexibly. The data products are needed by in four days overnight at the latest, ensuring they're ready for integration into our regular monitoring pipeline before then. Feel free to drop or reschedule this background survey if necessary, as it serves more of an opportunistic filler task within our broader observational efforts.
+```
