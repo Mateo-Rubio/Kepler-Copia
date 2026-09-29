@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking for an upcoming mission allocation. Our priority is set at medium importance, which means this request carries significant weight in our baseline pipeline tracking setup.
+
+Our objective involves capturing thermal mapping data using the TIR sensor. We aim to assess surface temperature profiles and detect any thermal anomalies across our region of interest, which we refer to as "Ecuatorial". This area doesn't have a specific country or city designation, but it's located within our region name.
+
+The deadline for delivering this data is set for the day after tomorrow during the afternoon. We're looking to ensure that the products are ingested into our pipeline before then, adhering strictly to the deadline we've established.
+
+This task is part of our routine monitoring activities and represents a normal operational status with fixed parameters. We appreciate your attention to detail and timely execution in fulfilling this request.
+
+Thank you for your cooperation and understanding.
+
+Best regards,
+[Your Name]

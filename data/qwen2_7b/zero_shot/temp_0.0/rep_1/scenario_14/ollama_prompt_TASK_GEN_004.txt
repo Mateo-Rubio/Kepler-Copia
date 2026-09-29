@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a high-resolution optical snapshot of Suárez, Colombia, with a focus on daylight photography and clear optical imagery. This is part of our standard operational tasking, which involves routine monitoring and baseline pipeline tracking. We aim to provide you with fixed parameters representing normal operational status.
+
+The request is for an active radar scan using microwave surface imaging capabilities, which will help us capture ground geometry and cloud-penetrating data. This is essential for our ongoing project, ensuring that we can pierce through heavy weather conditions and gather detailed information about the area's terrain.
+
+We're targeting a delivery deadline set for three days from now, with a strict requirement to have the products ingested into our pipeline by mid-day on the target day. This means we need the data ready by tomorrow's overnight block at the latest.
+
+Thank you for your attention and cooperation in ensuring this task is completed according to our operational guidelines.
+
+Best regards,
+[Your Name]
