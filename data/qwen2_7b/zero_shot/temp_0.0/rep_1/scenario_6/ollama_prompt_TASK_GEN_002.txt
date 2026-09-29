@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution optical imagery of a specific area in the region of Italia, focusing on the city of Norte. The primary sensor we're utilizing for this task is the VNIR (Visible Near-Infrared) sensor, which will enable us to assess chlorophyll absorption levels and calculate the vegetation NDVI index for the area.
+
+This request carries low priority importance, as it's part of our flexible background survey tasks. We understand that this might not be an urgent operational execution, and we're treating it as a non-essential background filler task. However, we do need to ensure that the data is collected within today's timeframe, with a strict delivery deadline set for tomorrow's overnight block. This means that the products must be ingested into our pipeline before the end of tonight.
+
+Thank you for your understanding and cooperation in fulfilling this request. We appreciate your timely response and look forward to receiving the data products as soon as possible.

@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking at an urgent operational tasking for a critical payload capture involving our high-priority mission. This is a binding contract requirement that involves active radar scanning using microwave surface imaging technology. Our objective is to pierce through heavy weather conditions and capture ground geometry with precision.
+
+The target location is San Vicente del Caguán, Colombia, which we aim to observe around mid-day in three days. We're dealing with an area of high importance here, so please ensure that the data products are ingested into our pipeline before the deadline set for that day's overnight block.
+
+This request is framed as an "absolute institutional priority" and involves a "critical payload capture". We're looking for cloud-penetrating capture capabilities to gather detailed information about the region. The data must be ready by tomorrow's overnight block at the latest, adhering strictly to our deadline.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request.
+
+Best regards,
+[Your Name]
