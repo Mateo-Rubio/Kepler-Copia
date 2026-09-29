@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture. We need thermal mapping of the Norte region, ensuring the products are ingested into the pipeline before in three days overnight at the latest.
