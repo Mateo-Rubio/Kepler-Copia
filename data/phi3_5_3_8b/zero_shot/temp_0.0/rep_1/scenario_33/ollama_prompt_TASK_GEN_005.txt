@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging over Arezzo, Italy, with a focus on cloud-penetrating capture and ground geometry. This task is of low priority importance, so please consider it as flexible within our operations timeline. We aim to have the data ready by tomorrow's morning block at the latest for routine monitoring purposes in our baseline pipeline tracking setup. Feel free to drop or reschedule this background survey request if necessary, keeping in mind that we need these insights promptly but without urgency.
+```prompt
