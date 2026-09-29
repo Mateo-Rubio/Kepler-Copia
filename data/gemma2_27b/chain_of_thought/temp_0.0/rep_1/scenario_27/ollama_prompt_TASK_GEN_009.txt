@@ -1,0 +1,1 @@
+Schedule a low priority importance task for opportunistic capture of multispectral vegetation analysis data around mid-day in three days. This non-essential background filler task can be dropped or rescheduled at convenience. The goal is to assess chlorophyll absorption level and calculate a vegetation NDVI index over Ecuatorial, Indonesia.
