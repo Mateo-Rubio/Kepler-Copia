@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This request involves capturing near-infrared reflection data from a specific location in Indonesia, specifically the city of Sintang. The purpose is to map water body boundaries and assess soil moisture levels for agricultural monitoring purposes.
+
+Given the nature of this task, it's considered a flexible schedule background survey or testbed tracking task that doesn't require immediate attention. We're looking to gather this data opportunistically at your convenience. The deadline for delivering these data products is set for three days from now, with a strict delivery deadline being overnight. This means we need the data ingested into our pipeline before the night falls on the target day.
+
+Please note that this task doesn't involve any critical payload capture or mandatory directives and doesn't have an urgent operational execution requirement. It's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your understanding and flexibility in scheduling this task.
+
+Thank you for your attention to this request. We look forward to receiving the data products that will contribute to our ongoing monitoring efforts.
