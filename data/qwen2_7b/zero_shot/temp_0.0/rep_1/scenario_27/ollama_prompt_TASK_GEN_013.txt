@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution for a critical payload capture involving a high-resolution optical snapshot of Chivatá, Colombia. This task is of the highest importance and requires immediate attention due to its binding contract requirement.
+
+Our primary sensor requirement is for VNIR data, which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. We aim to capture the heat signature and surface temperature profile through TIR data as well, which will aid in thermal anomaly detection and mapping of heat emissions.
+
+We are targeting a delivery deadline set for three days from now during the afternoon. This means that the data products must be ingested into our pipeline before the end of the day on the specified target date to ensure timely processing and analysis. We understand this is an absolute institutional priority and will treat it as such, ensuring all necessary resources are allocated to meet these requirements.
+
+Thank you for your swift attention to this matter. We appreciate your cooperation in delivering the data products by our strict deadline. Please confirm receipt of this request and let us know if there are any questions or concerns regarding its execution.
