@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution for a critical payload capture involving thermal mapping operations. Our focus is on Norte, a region in the country where we require a detailed heat signature and surface temperature profile to ensure optimal operational planning.
+
+We're looking to conduct this mission allocation with a high level of importance, which means it's an absolute institutional priority and a binding contract requirement. The task involves capturing thermal anomalies and mapping heat emissions using our TIR sensor. This is essential for our ongoing project, and we need the data products by tomorrow evening at the latest.
+
+Our primary objective is to gather comprehensive information on heat signatures and surface temperatures for Norte, which will help us make informed decisions regarding resource allocation and operational strategies. We're aiming for high-resolution thermal mapping that can provide insights into various environmental conditions and potential issues within the region.
+
+Please ensure that the data products are ingested into our pipeline before tomorrow evening to meet our strict deadline. This task is part of a baseline pipeline tracking setup with fixed parameters, representing normal operational status. We appreciate your immediate attention to this request and look forward to receiving the data as soon as possible.
+
+Thank you for your cooperation and understanding in handling this high-priority mission allocation.
