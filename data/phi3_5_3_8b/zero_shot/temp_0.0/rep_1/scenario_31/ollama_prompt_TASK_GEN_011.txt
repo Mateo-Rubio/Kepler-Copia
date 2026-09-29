@@ -1,0 +1,2 @@
+Ensure that we conduct a thermal mapping of Radicondoli, Italy, in the evening timeframe the day after tomorrow. This task is considered low priority importance and can be adjusted or postponed at your convenience. The goal is to capture heat signatures for surface temperature profiling within our Earth-observation mission schedule.
+```prompt

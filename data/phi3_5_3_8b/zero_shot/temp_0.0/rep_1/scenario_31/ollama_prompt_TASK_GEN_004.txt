@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflections for water body boundary mapping in La Chapa, Colombia. This is a non-essential background filler task that we can drop or reschedule at our convenience. The data products are needed by three days from now during the afternoon and should be ready as soon as possible to ensure they're ingested into the pipeline before then.
+```prompt
