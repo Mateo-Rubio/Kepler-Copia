@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-importance task for us. Our absolute institutional priority involves capturing a critical payload using our thermal imaging sensor (TIR) for a specific area in Italia, specifically the city of Crespino. We aim to gather detailed thermal mapping data that will help us detect heat signatures and surface temperature profiles.
+
+The geographical context is straightforward: we're focusing on the city of Crespino within the country of Italia. Our mission's priority level is set at 'High Importance', which means this task carries significant weight in our operational pipeline tracking setup. We're looking for a standard operational tasking that aligns with our baseline workflow updates, but given its high priority, we need to emphasize its importance.
+
+The deadline for delivering the data products is set for tomorrow, specifically in the evening. This means we require the data by the latest overnight block of tomorrow. The thermal mapping data must be ready and available for ingestion into our pipeline before that time.
+
+We're looking forward to your swift response and action on this matter. Thank you for your attention to this critical directive.
+
+Best regards,
+[Your Name]
