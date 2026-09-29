@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent operational request on behalf of our institution. We're looking to capture a detailed view of Medio San Juan, Colombia, using our active radar system for an in-depth surface imaging task. This is a critical payload capture that requires immediate attention due to its high importance and contractual obligations.
+
+Our priority is to ensure we have the data by tomorrow morning at the latest, as this is a binding contract requirement involving a cloud-penetrating capture of ground geometry. We're looking for an active radar scan that can provide us with high-resolution images, piercing through any weather conditions to deliver unparalleled detail.
+
+Please note that this tasking is an absolute institutional priority and must be treated with the utmost urgency. We understand the importance of adhering to our deadlines and will not compromise on the quality or timeliness of the data we receive. This request is part of a baseline pipeline tracking setup, but given its high priority, it's essential that we receive the data as soon as possible.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request. If there are any issues with scheduling or if you need more information, please feel free to reach out. We're looking forward to receiving the SAR data by tomorrow morning, ensuring our products are ingested into the pipeline before that deadline.
+
+Best regards,
+[Your Name]
