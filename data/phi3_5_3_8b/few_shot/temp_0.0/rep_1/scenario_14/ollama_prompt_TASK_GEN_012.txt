@@ -1,0 +1,1 @@
+Log a standard operational tasking for Ecuatorial with an active radar scan using microwave surface imaging to capture ground geometry during heavy cloud cover, as part of our baseline pipeline tracking. This is routine monitoring at normal operational status, and the delivery deadline is set for the day after tomorrow in the afternoon.
