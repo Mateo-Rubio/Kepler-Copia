@@ -1,0 +1,2 @@
+Ensure a SAR active radar scan is scheduled for Rome, Italy, tomorrow in the evening to penetrate any potential cloud cover and capture detailed ground geometry. This tasking falls under standard operational tracking within our baseline pipeline setup. The data products must be ready by tomorrow's overnight block at the latest, adhering strictly to our delivery timeline for routine monitoring purposes.
+```
