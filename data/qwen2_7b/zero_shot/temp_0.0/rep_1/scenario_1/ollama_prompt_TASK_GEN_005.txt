@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking at an absolute institutional priority task involving a critical payload capture for our client in Ponte-Novo, France. The mission's urgency is paramount, as we need high-resolution optical snapshots of the region by tomorrow's overnight block at the latest. This daylight photography will serve as clear optical imagery and true-color visual documentation to ensure our client receives the most detailed and accurate representation possible.
+
+The operational context here is quite specific: we're dealing with a high-priority task that requires an authoritative approach, reflecting the binding contract requirement involved in this "critical payload capture". The language must heavily imply an urgent operational execution and an un-preemptable mission lock. This request is not just about capturing data; it's about delivering a piece of work that meets the client's expectations with the highest level of detail and accuracy.
+
+Our primary sensor for this task will be the VIS (visual imaging system), which will provide us with a comprehensive view of the region during daylight hours. The imagery captured will be used to assess various aspects, including land use, urban planning, and environmental monitoring. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for this task is set for tomorrow's overnight block, ensuring that the products are ingested into the pipeline before the specified time. We're treating this as a standard operational tasking, commercial tasking, or routine monitoring activity that is essential to our workflow update process.
+
+Please ensure that all technical details and operational guidelines are followed meticulously to meet these stringent requirements. Thank you for your attention to this matter.

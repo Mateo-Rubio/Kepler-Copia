@@ -1,0 +1,8 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution near-infrared (NIR) reflection data over the region of Mesetas, Colombia. This task involves assessing soil moisture and delineating water body boundaries using the unique spectral signature of the NIR band.
+
+Given the importance of this request, I'm designating it as a low priority importance task with a flexible schedule for opportunistic capture. We understand that this might be considered a background survey or testbed tracking task, but we appreciate your prompt attention to ensure that the data is collected and available by today's evening timeframe at the latest.
+
+We're looking forward to receiving the data products before tonight's deadline, ensuring they are ingested into our pipeline before the target day's evening period. Thank you for your cooperation and understanding in meeting this request.
+
+Best regards,
+[Your Name]

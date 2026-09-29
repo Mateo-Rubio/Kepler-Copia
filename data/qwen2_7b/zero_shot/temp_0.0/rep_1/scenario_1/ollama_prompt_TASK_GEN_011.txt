@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and smoothly. Our focus is on capturing thermal mapping data for the region around Grottaferrata, Italy, during the afternoon of tomorrow. We're looking to gather information about heat signatures and surface temperature profiles in this area using active radar scans with microwave surface imaging capabilities.
+
+This task falls under our background survey category, which means it's not a critical payload capture or a mandatory directive. However, we'd appreciate your team's attention to ensure the data products are ready for ingestion into our pipeline before tomorrow's overnight block. We're treating this as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+Thank you for your understanding and cooperation in handling this request promptly. We look forward to receiving the thermal mapping data that will help us better understand the heat emissions and surface temperature dynamics in Grottaferrata.
+
+Best regards,
+[Your Name]
