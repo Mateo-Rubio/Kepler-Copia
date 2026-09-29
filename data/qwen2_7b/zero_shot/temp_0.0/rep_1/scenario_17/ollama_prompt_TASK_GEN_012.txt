@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at a task that's been allocated with medium importance, involving an active radar scan using microwave surface imaging technology. Our objective is to capture cloud-penetrating imagery of the Ecuatorial region in Indonesia, which is crucial for understanding ground geometry and terrain features amidst heavy weather conditions.
+
+We're aiming for a high-resolution snapshot that will serve as a critical piece of data for our baseline pipeline tracking setup. This task is part of our standard operational tasks and represents normal operational status with fixed parameters set in place. We're focusing on the thermal mapping aspect to detect surface temperature profiles and identify any thermal anomalies, which are essential for our ongoing projects.
+
+The deadline for this mission is set for four days from now, with a strict delivery deadline scheduled for the morning of that day. We need the data products ingested into our pipeline before the night falls on the target day to ensure timely processing and analysis. This task is part of our routine monitoring activities and contributes to our ongoing efforts in commercial tasking.
+
+Thank you for your attention to this request, and we look forward to receiving the data as per the outlined specifications.
