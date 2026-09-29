@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Chiusi, Italy, using our SAR sensor. The imagery needs to be ready by tomorrow morning at the latest, as this is part of our standard operational tasking for baseline pipeline tracking. We're focusing on capturing ground geometry and surface features, which will help us understand the terrain better under various weather conditions.
+
+Chiusi, nestled in Tuscany, is a beautiful city with rich history and cultural significance. Our mission aims to provide high-resolution data that can be used for urban planning, environmental monitoring, and heritage preservation. We're treating this request as a routine monitoring task with fixed parameters, representing our normal operational status.
+
+Please ensure the products are ingested into our pipeline before tomorrow morning, adhering to the strict deadline set for this task. This is part of our baseline workflow update, contributing to our ongoing efforts in satellite data collection and analysis. Thank you for your attention to this matter.

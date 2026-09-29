@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a highly prioritized task for an upcoming data acquisition. Our objective is to capture detailed information about the region in Colombia, specifically focusing on the city of Sabana de Torres using the VNIR sensor.
+
+This request carries a high level of importance as it involves a critical payload capture that aligns with our institutional priorities and contractual obligations. We're looking for a high-resolution optical snapshot that will provide us with clear daylight photography, true-color visual documentation, and multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index.
+
+The urgency of this task cannot be overstated. We need the data products by the target day, which is four days from now, in the morning at the latest. This deadline is non-negotiable as it's crucial for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please ensure that the satellite captures the required data within this timeframe to meet our operational needs. We appreciate your attention to this matter and look forward to receiving the data products before the set deadline. Thank you for your cooperation in handling this high-priority task.
