@@ -1,0 +1,12 @@
+Good day, automated satellite constellation planner. I'm reaching out on behalf of our Earth observation mission to request a highly critical task that falls under our 'Priority 3' category due to its high importance and contractual obligations.
+
+Our objective is to capture a thermal mapping of the region in Colombia, specifically focusing on San Martín city. We aim to gather detailed information about heat signatures and surface temperature profiles for this area. This task requires an active radar scan using microwave surface imaging technology, which will help us penetrate heavy weather conditions and provide us with ground geometry data.
+
+We are looking for a high-resolution optical snapshot that can serve as true-color visual documentation of the region during daylight hours. This is essential for our mission to ensure accurate and detailed analysis of the area's thermal dynamics.
+
+The deadline for this task is set for the day after tomorrow, specifically during the afternoon period. We need the data products to be ready by then at the latest, ensuring they are ingested into our pipeline before the specified time frame. This task is an absolute institutional priority and involves a critical payload capture that must be executed with urgency and without any preemption.
+
+Please note that this request carries significant weight in our operational status and contractual agreements. We appreciate your understanding and prompt attention to this matter. Thank you for your cooperation and support in fulfilling this binding contract requirement.
+
+Best regards,
+[Your Name]

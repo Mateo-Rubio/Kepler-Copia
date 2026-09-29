@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a critical payload for an institutional priority task involving a high-resolution optical snapshot of San José del Guaviare, Colombia. This is a binding contract requirement that involves a mandatory directive for capturing the area's thermal mapping and vegetation analysis.
+
+The primary sensor we're focusing on is the near-infrared (NIR) sensor, which will provide us with essential data on water body boundaries and soil moisture assessment. We aim to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+Our request has a strict deadline: we need the data products by tomorrow's overnight block at the latest. This ensures they are ingested into our pipeline before the deadline set for [target_day] [target_diurnal_period]. We're treating this as an urgent operational execution and an un-preemptable mission lock.
+
+Please prioritize this task with the highest importance, considering it involves a critical payload capture that requires immediate attention. We appreciate your swift action in delivering the data products on time.
+
+Thank you for your cooperation and understanding.
+
+Best regards,
+[Your Name]
