@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Norte, which is part of an ongoing environmental monitoring project. This task involves taking clear daylight photography and true-color visual documentation for the region. Given its importance, we classify this request as a low priority importance task with a flexible schedule for opportunistic capture.
+
+We aim to deliver these data products by tomorrow's overnight block at the latest, ensuring they are ingested into our pipeline before then. This is a non-essential background filler task that can be dropped or rescheduled at convenience if necessary. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter.

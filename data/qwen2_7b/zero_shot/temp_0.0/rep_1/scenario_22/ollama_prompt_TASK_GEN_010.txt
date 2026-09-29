@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture thermal mapping data using a TIR sensor over the region of Colombia, specifically focusing on the city of Paimadó. This request carries low priority importance and can be treated as a flexible background survey or testbed tracking task.
+
+The operational context involves capturing a heat signature or surface temperature profile for this area, which will aid in thermal anomaly detection and mapping heat emissions. We aim to achieve this by conducting an active radar scan using microwave surface imaging technology, ensuring that the data is cloud-penetrating and captures ground geometry accurately.
+
+Given the nature of our request, we're looking to deliver these data products by tomorrow's overnight block at the latest. This deadline is crucial for us to ensure the timely ingestion of the products into our pipeline before the specified time. We understand that this task might not require immediate attention but can be scheduled conveniently according to your operational schedule.
+
+Thank you for your understanding and cooperation in fulfilling this request. We appreciate your support in making this mission a success.
