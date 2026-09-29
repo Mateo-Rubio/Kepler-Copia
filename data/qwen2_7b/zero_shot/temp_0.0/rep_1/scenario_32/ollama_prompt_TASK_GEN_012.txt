@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for a near-infrared (NIR) sensor observation in Indonesia, specifically focusing on the city of Murung Raya. Our objective is to capture detailed thermal mapping data that will help us assess soil moisture levels and delineate water body boundaries. This mission is part of our baseline pipeline tracking setup, representing normal operational status.
+
+The critical context here is that we need this data by the target day, which is four days from now, with a strict delivery deadline set for overnight. We're looking to ensure that the products are ingested into our pipeline before the deadline is met. This request falls under medium importance, so please treat it accordingly in your scheduling and asset allocation.
+
+Thank you for your attention to this matter. We appreciate your professional handling of this standard operational tasking.

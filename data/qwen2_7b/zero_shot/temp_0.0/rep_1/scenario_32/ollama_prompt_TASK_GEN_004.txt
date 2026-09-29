@@ -1,0 +1,11 @@
+Good day to our automated satellite constellation planner. We're looking at a task that's been allocated with medium importance, which means it's part of our standard operational pipeline tracking setup. Our focus is on the region of Colombia, specifically El Piñal city, where we need an active radar scan using microwave surface imaging technology. This scan aims to capture ground geometry and penetrate heavy weather conditions for a comprehensive view.
+
+The primary objective here is to gather detailed information about the area's terrain and infrastructure, which will be crucial for our ongoing projects in the region. We're aiming for high-resolution data that can help us understand the landscape better and make informed decisions based on the captured information.
+
+Given the nature of this task, we're requesting that it be executed with fixed parameters to ensure consistency within our baseline pipeline tracking setup. This is a routine monitoring activity that falls under our normal operational status, contributing to our ongoing efforts in maintaining and updating our data resources.
+
+We're targeting delivery by the specified day, which is three days from now, with the strict deadline set for the evening of that day. This means we need the data products ingested into our pipeline before the night falls on the target day to ensure timely processing and analysis.
+
+Please note that this task might be considered a background filler, as it's not an absolute institutional priority or a binding contract requirement. However, it's still important for our operational workflow updates and will contribute to our overall data collection efforts. We appreciate your attention to this request and look forward to receiving the data products on schedule.
+
+Thank you for your cooperation and understanding in meeting our operational guidelines.
