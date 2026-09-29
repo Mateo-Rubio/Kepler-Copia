@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Rokan Hilir, Indonesia, during tomorrow's afternoon hours. This is a non-essential background filler task with a flexible schedule; please drop or reschedule at your convenience as it has low priority importance. The goal is to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance analysis. With a strict delivery deadline set for tomorrow afternoon, we aim to have these data products ingested into our monitoring pipeline promptly.
+```prompt
