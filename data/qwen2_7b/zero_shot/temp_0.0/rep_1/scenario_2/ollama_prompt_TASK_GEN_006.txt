@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+I'm reaching out with a task request that involves capturing a detailed view of the Ecuatorial region in Indonesia using our VNIR sensor. This is a low priority importance request, so please consider it as a flexible schedule background survey or testbed tracking task.
+
+The primary objective here is to assess the chlorophyll absorption level across various ecosystems and calculate the vegetation NDVI index for environmental monitoring purposes. We aim to gather high-resolution optical snapshots that provide clear visual documentation of the landscape during daylight hours.
+
+We're targeting delivery by three days from today, with a strict deadline set for the afternoon period. This means we need the data products ingested into our pipeline before the night falls on that day to ensure timely processing and analysis.
+
+Thank you for your attention to this request. We appreciate your cooperation in scheduling this task according to our guidelines.
+
+Best regards,
+[Your Name]

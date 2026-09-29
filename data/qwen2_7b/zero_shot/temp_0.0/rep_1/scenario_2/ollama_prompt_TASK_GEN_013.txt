@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture a high-resolution optical snapshot of Mesetas, Colombia, using our VIS sensor. This daylight photography will serve as true-color visual documentation for our ongoing project.
+
+Given the importance of this task, I'm designating it as a low priority importance request with a flexible schedule for opportunistic capture. We understand that this might be treated as a background survey or testbed tracking task and can be dropped or rescheduled at your convenience if necessary.
+
+The deadline for delivering the data products is set for the day after tomorrow, around mid-day. This means we need the captured imagery by then to ensure it's ingested into our pipeline before the specified time. We're aware of the urgency and understand that this deadline represents a strict operational requirement.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting this deadline and ensuring the quality of our data products. Please let us know if you need any further information or clarification on this request.

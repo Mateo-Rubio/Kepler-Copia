@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection snapshot of San Joaquín, Colombia, for a commercial tasking operation. This involves assessing soil moisture levels and water body boundaries using the satellite's advanced imaging capabilities.
+
+Our priority is medium importance, meaning this request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We aim to capture this data with high accuracy and efficiency, ensuring it aligns with our standard workflow updates.
+
+The deadline for delivering these data products is set for tomorrow's overnight block, needed by the target day at the latest. This ensures the products are ingested into our pipeline before the specified time frame. We appreciate your team's attention to this task and look forward to receiving the data promptly.
+
+Thank you for your cooperation in meeting this operational requirement.
