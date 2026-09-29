@@ -1,0 +1,2 @@
+We're looking to schedule an opportunistic SAR scan over Norte, Brazil, aiming for a high-resolution radar capture in the morning of tomorrow. This task is considered low priority and can be adjusted or postponed at our convenience. Please ensure that we have this data ready by then for potential use as background survey material.
+```prompt
