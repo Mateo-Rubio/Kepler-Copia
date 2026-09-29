@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution for a high-resolution optical snapshot of Barrancabermeja, Colombia. This daylight photography mission is of paramount importance and requires absolute attention to detail. We're looking to capture clear optical imagery that will serve as true-color visual documentation for our ongoing project.
+
+This task is designated as an "absolute institutional priority" due to its critical payload capture nature. We are bound by a contractual requirement that necessitates the execution of this mission with utmost urgency and without any possibility of preemption. Our team needs these data products by tomorrow's overnight block at the latest, ensuring they are ingested into our pipeline before then.
+
+We're utilizing our primary sensor, the VIS (Visible Imaging System), to gather high-quality images that will provide us with a comprehensive view of the region under daylight conditions. This mission is not just routine monitoring; it's a binding commitment that involves normal operational status and workflow updates within our baseline pipeline tracking setup.
+
+Please treat this request with the highest level of priority, as it involves fixed parameters that represent our standard operational status. We appreciate your understanding and prompt action in fulfilling this critical directive. Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]
