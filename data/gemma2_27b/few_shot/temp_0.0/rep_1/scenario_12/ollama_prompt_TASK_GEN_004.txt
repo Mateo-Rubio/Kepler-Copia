@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over La Paz in Colombia. We need to capture a heat signature and surface temperature profile of the city. This is routine monitoring as part of our baseline pipeline tracking with fixed parameters, and the delivery deadline is set for tomorrow around mid-day.
