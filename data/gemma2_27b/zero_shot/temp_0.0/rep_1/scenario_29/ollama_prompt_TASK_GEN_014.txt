@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Northern Italy. We need an active radar scan of the region using microwave surface imaging, capable of piercing any cloud cover. This data is needed by tomorrow morning at the latest.

@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Aipe, Colombia. We need multispectral vegetation analysis of the region, specifically chlorophyll absorption level and NDVI index calculation.  Ensure the products are ingested into the pipeline before the day after tomorrow overnight at the latest.
