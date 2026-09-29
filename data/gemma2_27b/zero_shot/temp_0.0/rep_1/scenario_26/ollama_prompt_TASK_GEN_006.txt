@@ -1,0 +1,1 @@
+This is a critical payload capture of the Pantu region in Malaysia. We need multispectral vegetation analysis, specifically chlorophyll absorption level and NDVI index calculation, for this area. This is an absolute institutional priority with a strict delivery deadline set for tomorrow evening at the latest. Please ensure the products are ingested into the pipeline before then.
