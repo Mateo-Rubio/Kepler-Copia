@@ -1,0 +1,7 @@
+Good day to you! I'm reaching out as an Earth-observation mission operator, tasked with a medium-importance request that falls under our standard operational pipeline tracking. We're looking to capture high-resolution optical imagery of the beautiful region in Italia, specifically focusing on Prati di Tivo, using our VNIR sensor for a detailed assessment of the vegetation health and NDVI index.
+
+Our primary objective is to gather valuable data that will help us understand the chlorophyll absorption levels across various landscapes within this area. This information is crucial for environmental monitoring and agricultural management purposes. We aim to provide you with a comprehensive snapshot of the region's vegetation status, ensuring that our findings are as accurate as possible.
+
+We're setting a strict deadline for the delivery of these data products, which must be ingested into your pipeline by the target day, in four days, at the latest, with a specific focus on capturing the morning light conditions. This timeframe is critical to capture the optimal conditions for our VNIR sensor to perform at its best.
+
+Please note that this task is part of our baseline operational tasks and represents normal status within our workflow update cycle. We appreciate your understanding and cooperation in meeting this deadline. Thank you for considering our request, and we look forward to collaborating with you on this important mission.
