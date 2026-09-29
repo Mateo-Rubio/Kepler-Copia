@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and smoothly. Our objective is to capture thermal mapping data for the region around Puerto López, Colombia. This area is known for its unique landscapes and diverse ecosystems, so we're particularly interested in observing surface temperature profiles and detecting any thermal anomalies.
+
+We're utilizing our active radar scan capabilities, which will allow us to perform microwave surface imaging, piercing through heavy weather conditions to capture ground geometry. This task doesn't require an urgent operational execution; instead, we're looking for a flexible schedule that allows for opportunistic capture. We aim to have the data products ingested into the pipeline before our deadline set for three days from now, around mid-day.
+
+Thank you for your attention and cooperation in ensuring this background survey task is completed according to our guidelines.
+
+Best regards,
+[Your Name]
