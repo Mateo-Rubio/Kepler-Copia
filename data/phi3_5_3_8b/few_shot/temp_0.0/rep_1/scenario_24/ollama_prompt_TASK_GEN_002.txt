@@ -1,0 +1,2 @@
+Putting in a commercial tasking for Saas-Almagell in Switzerland as a workflow update on our agricultural monitoring file. We want to assess soil moisture gradients using near-infrared reflection, which will help us discriminate between different levels of vegetation health and water content across the farmlands. This is routine monitoring at normal operational status, with fixed parameters set for a high level of precision in our measurements. The delivery deadline for this data collection is scheduled for the day after tomorrow in the evening.
+```
