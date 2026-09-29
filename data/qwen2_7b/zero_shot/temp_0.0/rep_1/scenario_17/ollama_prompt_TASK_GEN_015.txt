@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our commercial monitoring pipeline. Our focus is on capturing near-infrared reflection data from the Indonesian region, specifically within the Kepulauan Meranti area. This request carries medium importance and involves assessing soil moisture levels and water body boundaries using near-infrared technology.
+
+The deadline for this mission is set with a strict delivery requirement: we need the data products ingested into our pipeline by the target day, which is four days from now, in the morning. We're looking to ensure that our satellite constellation captures the necessary information before the sun rises on that day, adhering to our baseline operational parameters.
+
+Please proceed with the capture of this background survey task as part of our routine monitoring activities. Thank you for your attention and cooperation in meeting these requirements.

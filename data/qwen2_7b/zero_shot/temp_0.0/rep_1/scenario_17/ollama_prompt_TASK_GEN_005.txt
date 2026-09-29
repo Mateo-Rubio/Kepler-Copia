@@ -1,0 +1,11 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a thermal mapping of Norte, which is located in an unspecified country. Our primary sensor requirement is TIR for this mission, as we aim to assess heat signatures and detect thermal anomalies across the region.
+
+Given Norte's geographical location, it's crucial that we receive the data products by the day after tomorrow, with a strict delivery deadline set for overnight. This task carries high importance, as it involves a critical payload capture that is part of an institutional priority or contractual requirement involving a mandatory directive.
+
+We're seeking to understand surface temperature profiles and map heat emissions accurately. The data must be ingested into our pipeline before the day after tomorrow's overnight period to ensure timely processing and analysis.
+
+Please prioritize this request, as it involves a binding contract requirement with a critical payload capture that needs to be executed urgently and cannot be preempted. We appreciate your understanding and cooperation in meeting these operational guidelines.
+
+Thank you for your attention to this matter.
