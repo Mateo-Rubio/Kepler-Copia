@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture thermal mapping data using our TIR sensor for a location in Slovenia, specifically the city of Norte. This request carries low priority importance and can be scheduled as a flexible background survey or testbed tracking task.
+
+The primary goal is to assess surface temperature profiles and detect any thermal anomalies through this thermal mapping process. We aim to obtain high-quality data that will help us understand heat emissions from various sources in the area. The operational context is straightforward: we need this data by the target day, which is three days ahead, with a strict delivery deadline set for overnight.
+
+Please ensure that the products are ingested into our pipeline before the specified time to meet our operational requirements. We appreciate your cooperation and look forward to receiving the data as per our request. Thank you for your attention to this matter.
