@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture a multispectral vegetation analysis using the VNIR sensor for the region of interest in Borgo San Lorenzo, Italia. The goal here is to assess the chlorophyll absorption levels across various areas, which will help us calculate the NDVI index and understand surface reflectance patterns.
+
+We're looking for high-resolution optical imagery that can provide clear visual documentation during daylight hours. This task is part of a background survey aimed at gathering data on vegetation health and environmental conditions in the area. We understand that this request might not be as urgent as others, but we appreciate your attention to detail and flexibility in scheduling.
+
+We need these data products by the day after tomorrow, with a strict delivery deadline set for the overnight period. This means ensuring the products are ingested into our pipeline before the day after tomorrow's nightfall. We're aware that this deadline is critical for our operational planning, so please consider this request as a non-essential background filler task that can be dropped or rescheduled at your convenience.
+
+Thank you for your understanding and cooperation in fulfilling this request. We look forward to receiving the data products that will contribute to our ongoing research and monitoring efforts.
+
+Best regards,
+[Your Name]
