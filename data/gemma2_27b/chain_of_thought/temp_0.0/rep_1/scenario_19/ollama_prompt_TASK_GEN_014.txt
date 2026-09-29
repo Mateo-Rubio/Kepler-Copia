@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Northern Italy. We require a high-resolution VNIR snapshot for calculating vegetation indices and surface reflectance. Please schedule this capture during the afternoon in three days.
