@@ -1,0 +1,2 @@
+We need a flexible schedule for an overnight SAR scan in Petreto-Bicchisano, France. The goal is to capture cloud-penetrating microwave surface imagery as part of our routine monitoring. This task should be completed by tomorrow night at the latest, ensuring that we can ingest the data into our pipeline before then. Please consider this a non-essential background filler task and feel free to drop or reschedule it according to your convenience.
+```
