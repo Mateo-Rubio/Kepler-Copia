@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Arezzo, Italia, for daylight photography purposes. This is part of our standard operational tasking and represents normal operational status. We aim to provide clear optical imagery and true-color visual documentation that will contribute to our baseline pipeline tracking setup.
+
+Our request involves the VIS sensor, which will deliver the necessary data for this task. We're targeting the day after tomorrow with a strict delivery deadline set for the overnight block. This means we need the data products ingested into the pipeline before the day after tomorrow's nighttime period at the latest. Our priority level is medium importance, so please ensure that this request receives the appropriate attention without compromising other critical tasks.
+
+Thank you for your understanding and cooperation in meeting our deadline. We appreciate your support in delivering these essential data products promptly.
