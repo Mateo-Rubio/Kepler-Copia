@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for tomorrow's evening period. Our focus is on capturing a high-resolution optical snapshot of Kuning Selatan, Malaysia, using our VIS sensor. We're aiming for clear daylight photography and true-color visual documentation to ensure we capture the essence of this beautiful region under the Malaysian sky.
+
+This request carries medium importance as part of our baseline pipeline tracking setup. It's essential that we adhere to fixed parameters representing normal operational status. We understand the urgency involved, but please note that this task is not a critical payload capture or a mandatory directive. It's simply a routine monitoring activity that fits into our standard workflow update.
+
+We're looking forward to receiving the data products by tomorrow evening at the latest, ensuring they are ingested into our pipeline before the deadline set for our target day. This will allow us to continue our background survey and testbed tracking tasks without any interruptions.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting our operational guidelines and delivering the data as requested. Have a great day!
