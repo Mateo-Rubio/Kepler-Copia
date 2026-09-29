@@ -1,0 +1,9 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+The mission objective is to capture a high-resolution thermal map of the region around Crespino in Italy. This thermal mapping will involve active thermal scanning using microwave surface imaging to detect heat signatures and surface temperature profiles. The goal is to capture a true thermal anomaly detection and mapping of heat emissions in the area.
+
+This task is an absolute institutional priority, representing a critical payload capture and mandatory directive for our contractual obligations. We require an urgent operational execution with an un-preemptable mission lock. The data must be ready by tomorrow evening at the latest, ensuring that the products are ingested into the pipeline before this deadline.
+
+The location details are as follows: the region is located in Italy, specifically around the city of Crespino. This task will involve a standard operational tasking with fixed parameters representing normal operational status and a baseline pipeline tracking setup.
+
+Please translate this metadata into a natural user request for the satellite constellation planner.
