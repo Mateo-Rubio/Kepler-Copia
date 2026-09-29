@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking for tomorrow, specifically focusing on thermal mapping needs in Colombia's vibrant city of Cali. Our mission involves capturing the heat signature and surface temperature profile of the region using our thermal imaging sensor, which is crucial for detecting any thermal anomalies or heat emissions.
+
+This request carries medium importance as it aligns with our baseline pipeline tracking setup, where we have fixed parameters set for normal operational status. We're looking to ensure that the data products are ingested into our pipeline before tomorrow's overnight block, adhering strictly to the deadline set for our critical payload capture.
+
+We appreciate your attention to this standard tasking and look forward to receiving the high-quality thermal imagery that will contribute to our ongoing monitoring efforts in Colombia. Thank you for your cooperation and timely execution of this operational directive.
+
+Best regards,
+[Your Name]
