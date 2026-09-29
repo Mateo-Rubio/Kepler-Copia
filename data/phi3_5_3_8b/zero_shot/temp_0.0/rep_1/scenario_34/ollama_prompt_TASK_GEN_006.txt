@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Ecuatorial, Indonesia during tomorrow nighttime. This is a non-essential background filler task that can be dropped or rescheduled at our convenience. Please ensure the data products are ingested into the pipeline before in four days overnight for review and analysis purposes.
+```prompt
