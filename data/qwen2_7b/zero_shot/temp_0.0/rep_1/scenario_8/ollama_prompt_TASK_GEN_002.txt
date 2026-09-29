@@ -1,0 +1,9 @@
+Good day to you! I'm reaching out on behalf of our Earth-observation mission operator team, requesting a highly important task that aligns with our operational guidelines. We're focusing on a specific area in Italy, specifically the city of Gordona, which is quite an interesting location for our satellite constellation planner.
+
+Our primary sensor requirement is for an active radar scan using microwave surface imaging technology. This will allow us to capture detailed ground geometry and penetrate through heavy weather conditions, ensuring we gather comprehensive data that can't be obtained under normal circumstances. The goal here is to assess the impact of recent weather events on the landscape without being hindered by cloud cover.
+
+We're looking for a high-resolution snapshot of this area, which will serve as a critical piece in our ongoing monitoring efforts. This task is classified as having a low priority importance, meaning it's part of our background survey and testbed tracking tasks. We understand that there might be more pressing matters at hand, so we're flexible with scheduling and can drop or reschedule this task based on your operational convenience.
+
+The deadline for delivering the data products to us is set for the day after tomorrow, with a strict delivery deadline set for the evening of that day. This means we need the data ready by then, ensuring it's ingested into our pipeline before the evening timeframe. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for considering our request. We're looking forward to collaborating with you on this task and hope to receive confirmation soon. If you have any questions or need further clarification, please don't hesitate to reach out. Have a great day!

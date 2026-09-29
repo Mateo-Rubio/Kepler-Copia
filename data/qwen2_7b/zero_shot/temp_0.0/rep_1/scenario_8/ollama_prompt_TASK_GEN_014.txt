@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection snapshot of Norte, focusing on water body boundaries and soil moisture assessment for an upcoming environmental study. This task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+We aim to gather this data by tomorrow during the afternoon, ensuring the products are ingested into the pipeline before then. This request aligns with our baseline priority level, indicating a standard operational tasking that doesn't require immediate attention but should be completed within the set timeframe.
+
+Thank you for your attention and cooperation in fulfilling this request.
