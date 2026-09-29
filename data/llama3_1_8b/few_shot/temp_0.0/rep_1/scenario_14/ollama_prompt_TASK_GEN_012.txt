@@ -1,0 +1,1 @@
+This is a standard operational tasking over Ecuatorial as part of our baseline pipeline tracking with fixed parameters. We need thermal mapping to capture a heat signature and surface temperature profile, and we're looking for any thermal anomaly detection and mapping heat emissions in the area. The delivery deadline is set for the day after tomorrow during the afternoon.
