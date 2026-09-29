@@ -1,0 +1,8 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the Ecuatorial region using our SAR sensor. This is a standard operational tasking that involves active microwave surface imaging for cloud-penetrating capture, ensuring we can gather ground geometry data even under heavy weather conditions. We aim to provide you with high-resolution imagery that will be crucial for our baseline pipeline tracking setup.
+
+Given the importance of this request, we're setting a strict delivery deadline for the data products. We need them by the day after tomorrow around mid-day at the latest. This is part of our normal operational status and represents a fixed parameter in our workflow update process. We appreciate your attention to this task and look forward to receiving the data products before the specified time.
+
+Thank you for your cooperation and understanding in meeting this deadline. If there are any issues or delays, please inform us so we can adjust our plans accordingly. This is a routine monitoring task that falls under our commercial tasking category, contributing to our standard operational status.
+
+Best regards,
+[Your Name]

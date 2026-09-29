@@ -1,0 +1,7 @@
+Good day to you! I'm reaching out on behalf of our Earth-observation mission, requesting a highly realistic and detailed image capture for our client's needs. We're focusing on a specific location in Italia, specifically Olmo al Brembo, which is a picturesque area that we aim to document with a high-resolution optical snapshot for daylight photography purposes.
+
+Our request is classified as a low priority importance task, meaning it can be scheduled flexibly and treated as a background survey or testbed tracking task. We're looking to capture the essence of this region through clear optical imagery and true-color visual documentation that will provide our client with an accurate representation of the area.
+
+Given the operational guidelines, we understand the urgency of our request and are committed to adhering to the deadline set for us. Our target day is the day after tomorrow, with a strict delivery deadline set for overnight at the latest. This means that the data products must be ingested into the pipeline before the day after tomorrow's overnight block.
+
+We appreciate your understanding and cooperation in ensuring that our request meets these requirements. Thank you for your attention to detail and commitment to delivering high-quality data products.
