@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in San Vicente del Caguán, Colombia, with an emphasis on assessing chlorophyll absorption levels and calculating the NDVI index for surface reflectance. This is considered a low priority importance task, so it can be scheduled flexibly. We need this data ready by four days from now overnight at the latest to ensure we have enough time for processing before delivery. Please adjust your plans accordingly or let us know if you're unable to meet this deadline.
+```prompt
