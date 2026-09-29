@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Ecuatorial, Indonesia, using our visible light sensor. This daylight photography will serve as true-color visual documentation for our ongoing project. Given the importance of this task, we classify it as a low priority importance request with a flexible schedule for opportunistic capture. We aim to drop or reschedule this task at convenience if necessary.
+
+We need these data products by the target day, which is four days from now, with a strict delivery deadline set for overnight. This means ensuring the products are ingested into our pipeline before the next day's overnight block. Our goal is to capture the heat signature and surface temperature profile of Ecuatorial, Indonesia, using thermal mapping capabilities.
+
+Thank you for your attention to this background survey task. We appreciate your support in meeting these operational guidelines and delivering the data as requested.
