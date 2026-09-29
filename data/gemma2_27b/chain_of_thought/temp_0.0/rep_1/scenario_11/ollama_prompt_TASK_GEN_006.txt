@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Setiris, Indonesia. This requires a near-infrared reflection capture overnight today to assess chlorophyll absorption levels and calculate a vegetation NDVI index.
