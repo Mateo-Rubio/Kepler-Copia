@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflection data for water body boundary mapping in Bangka, Indonesia. This is a non-essential background filler task that we can drop or reschedule at our convenience. The goal is to discriminate gradients and assess soil moisture levels. We need this information by the day after tomorrow morning at the latest for additional contextual analysis in our environmental studies.
+```prompt
