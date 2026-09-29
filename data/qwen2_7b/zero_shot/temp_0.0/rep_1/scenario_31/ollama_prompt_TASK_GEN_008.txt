@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+I'm reaching out with a task request for an Earth observation mission that requires your expertise and swift action. Our objective is to capture high-resolution optical imagery of the region in Hrvatska, specifically focusing on Primorsko-goranska županija. This task involves a VNIR sensor, which will provide us with valuable data on vegetation health through multispectral analysis.
+
+We're looking for a "true-color visual documentation" that can help us assess chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance. This is crucial for our ongoing environmental monitoring project.
+
+Given the importance of this task, we classify it as a low priority importance request with a flexible schedule for opportunistic capture. We explicitly note that this is a "non-essential background filler task" where we can drop or reschedule at convenience if necessary. However, we do require your attention to ensure that the data collection process adheres to our baseline pipeline tracking setup.
+
+Our deadline for delivering the data products is set for tomorrow during the afternoon. We need these results by then to ensure they are ingested into our pipeline before the day ends. This is a strict operational deadline, not an orbital capture window.
+
+Thank you for your understanding and swift action in fulfilling this request. We appreciate your cooperation in meeting our requirements within the specified timeframe.
+
+Best regards,
+[Your Name]
