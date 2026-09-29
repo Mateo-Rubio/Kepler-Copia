@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving a high-resolution optical snapshot of Indonesia's Lalap city. This task is of paramount importance and requires immediate attention due to its high priority level.
+
+Our primary sensor requirement is the VNIR, which will be used for multispectral vegetation analysis. We aim to assess chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance patterns. This data collection is essential for our ongoing environmental monitoring project.
+
+We're targeting tomorrow's morning period for this capture, with a strict delivery deadline set for the products by that time. The data must be ingested into our pipeline before the overnight block of tomorrow to ensure timely processing and analysis.
+
+Please prioritize this task as an absolute institutional priority, as it involves a binding contract requirement and a mandatory directive for capturing this critical data. We appreciate your swift action in scheduling this mission allocation.
+
+Thank you for your cooperation and understanding in this matter.
+
+Best regards,
+[Your Name]
