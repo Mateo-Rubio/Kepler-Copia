@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a near-infrared reflection snapshot of El Playón, Colombia, for a commercial tasking operation. This involves assessing soil moisture levels and water body boundaries using the satellite's imaging capabilities.
+
+Our priority is medium importance, meaning this request fits into our standard operational pipeline tracking setup with fixed parameters representing normal operational status. We aim to deliver these data products by today, in the evening, at the latest. This deadline is crucial for ensuring they are ingested into our pipeline before the set target day's evening timeframe.
+
+We appreciate your attention to this task and look forward to receiving the high-quality imagery that will help us better understand the environmental conditions of El Playón. Thank you for your cooperation in meeting this request.

@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving a high-resolution optical snapshot of Melgar, Colombia. This task is of paramount importance and requires immediate attention due to its high priority level.
+
+Our primary sensor requirement is the VNIR system, which will be used for multispectral vegetation analysis. We aim to assess chlorophyll absorption levels and calculate the NDVI index to provide comprehensive surface reflectance data. This information is essential for our ongoing environmental monitoring project.
+
+The deadline for this task is set for three days from now, with a strict delivery deadline of the morning hours. We need the data products ingested into our pipeline before the overnight block on that day to ensure timely processing and analysis.
+
+We appreciate your swift action in prioritizing this request as an absolute institutional priority. This task involves a binding contract requirement and is part of a critical baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your understanding and cooperation in meeting this urgent need. We look forward to receiving the data products that will contribute significantly to our ongoing research efforts.
+
+Best regards,
+[Your Name]

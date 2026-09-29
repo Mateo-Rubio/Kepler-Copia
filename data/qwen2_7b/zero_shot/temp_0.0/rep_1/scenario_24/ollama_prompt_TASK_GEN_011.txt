@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd appreciate your attention nonetheless. Our focus is on a background survey in the beautiful region of Italia, specifically within the charming city of Campli. The objective here is to capture near-infrared reflection data for water body boundaries and soil moisture assessment, which will help us understand the environmental conditions more accurately.
+
+We're looking for a high-resolution optical snapshot as well, to ensure we have clear visual documentation that can provide insights into the landscape during daylight hours. This task is part of our routine monitoring efforts, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for delivering these data products is set for four days from now, with a strict delivery deadline marked for the morning hours. We understand this might be tight, but we assure you that it's within your capabilities to meet this requirement without altering or extending the deadline.
+
+Thank you for considering our request and ensuring the products are ingested into the pipeline before the specified time frame. We appreciate your cooperation in making this happen.
+
+Best regards,
+[Your Name]
