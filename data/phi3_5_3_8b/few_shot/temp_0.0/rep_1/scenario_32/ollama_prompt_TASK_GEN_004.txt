@@ -1,0 +1,1 @@
+Log a commercial tasking for El Piñal in Colombia as part of our baseline pipeline tracking with fixed parameters. We need an active radar scan using microwave surface imaging to capture the ground geometry, especially since we're expecting some cloud cover this weekend. The delivery deadline is set for three days from now in the evening.
