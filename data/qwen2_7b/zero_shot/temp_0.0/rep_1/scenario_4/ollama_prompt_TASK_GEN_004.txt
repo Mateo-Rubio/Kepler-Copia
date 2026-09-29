@@ -1,0 +1,16 @@
+Good day to all satellite planners and mission operators,
+
+I'm reaching out with a standard operational tasking for our automated satellite constellation planner. Our focus is on a commercial tasking involving the capture of near-infrared (NIR) data from San Carlos de Guaroa, Colombia. This request carries medium importance as it's part of our baseline pipeline tracking setup.
+
+Our primary sensor requirement is the NIR, which will be used for mapping water body boundaries and assessing soil moisture levels. We aim to gather this information through a series of observations that will provide us with critical data on water bodies and soil conditions in the region.
+
+The geographical context is straightforward: we're looking at San Carlos de Guaroa, Colombia. The city itself might not be a landmark of note, but it's part of our ongoing monitoring efforts in the country. We're not specifying any particular landmarks since they are not relevant to this task.
+
+As for timing, we have a strict deadline set for delivery. The data must be ready by the target day, which is four days from now, with the latest delivery time being overnight. This means that we need the products ingested into our pipeline before the end of the night on the target day.
+
+This request is part of our normal operational status and represents a standard workflow update. We're looking forward to receiving the data in time for our analysis and subsequent actions based on the insights provided by the satellite constellation.
+
+Thank you for your attention to this matter, and we appreciate your cooperation in ensuring that our mission priorities are met with efficiency and accuracy.
+
+Best regards,
+[Your Name]
