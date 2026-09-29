@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture thermal mapping data for the region of Indonesia, specifically focusing on the city of Berau. We aim to gather information about heat signatures and surface temperature profiles in this area.
+
+The primary sensor required for this task is a TIR (Thermal Infrared) sensor, which will help us assess heat emissions and thermal anomalies across the region. This data collection should be executed with a flexible schedule, allowing for opportunistic capture without compromising the quality of the information gathered.
+
+We're targeting the day after tomorrow, with a strict delivery deadline set for that evening. This means we need the data products ingested into our pipeline before the day after tomorrow's evening timeframe. We understand this deadline is crucial for our operational needs and will ensure to drop or reschedule this task if it conflicts with more urgent priorities.
+
+Thank you for your attention to this background survey task. We appreciate your cooperation in making sure we receive the necessary data products on time.
+
+Best regards,
+[Your Name]
