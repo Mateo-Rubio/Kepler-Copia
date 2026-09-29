@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution optical imagery of the Ecuatorial region in Indonesia using a VNIR sensor. This task is classified as a low priority importance request, which means it can be scheduled flexibly and treated as a background survey or testbed tracking task.
+
+The primary goal is to assess the chlorophyll absorption level across various vegetation types for an upcoming environmental study. We aim to gather this data promptly, ensuring that the products are ingested into our pipeline before tomorrow's overnight block at the latest. This deadline is crucial for our operational workflow update and does not extend beyond the specified target day and diurnal period.
+
+Please note that this request does not require any urgent operational execution or contractual binding commitments. We appreciate your understanding and flexibility in scheduling this task according to your operational capacity and priorities. Thank you for your attention to this matter.

@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with an urgent operational request on behalf of our institution. We're in need of thermal mapping data for a critical payload capture involving a heat signature analysis in the region of Italia, specifically focusing on the city of Povici di sotto. This task is of high importance and requires immediate attention due to its binding contract requirement.
+
+Our priority is to obtain this data by the target day, which is four days from now, with a strict delivery deadline set for the morning hours. We're looking to capture thermal anomalies and map heat emissions across the region using our TIR sensor. This task is essential for our baseline pipeline tracking setup and represents a critical part of our normal operational status.
+
+Please ensure that the products are ingested into our pipeline before the specified time frame, as we cannot extend this deadline. We appreciate your swift action in addressing this request and ensuring its timely delivery. Thank you for your cooperation and understanding in this matter.

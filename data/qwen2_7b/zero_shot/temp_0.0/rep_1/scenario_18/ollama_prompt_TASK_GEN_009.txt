@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture a high-resolution optical snapshot of the region in Indonesia, specifically focusing on the city of Pura Sajau. This daylight photography will serve as true-color visual documentation for our purposes.
+
+We're looking to conduct this routine monitoring task as part of our baseline pipeline tracking setup. The parameters are fixed and represent our normal operational status. We understand that this request might be treated as a background survey or testbed tracking task, and we're perfectly fine with it being dropped or rescheduled at your convenience.
+
+Our deadline for the data products is set for the day after tomorrow, with a strict delivery deadline to ensure they are ingested into our pipeline before the overnight block. We appreciate your understanding of this deadline constraint.
+
+Thank you for your attention to this low priority importance task.
+
+Best regards,
+[Your Name]
