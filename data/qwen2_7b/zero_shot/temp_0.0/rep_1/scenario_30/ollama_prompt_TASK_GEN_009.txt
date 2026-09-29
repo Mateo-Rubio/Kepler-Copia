@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-importance task for us. This mission involves capturing critical data using our active radar system (SAR) for Indonesia's Gilirang region. The country's strategic location makes it essential for our baseline pipeline tracking setup.
+
+Our priority here is to ensure that the data we gather meets the highest standards of operational quality and relevance. We're aiming for a high-resolution optical snapshot, which will help us understand the ground geometry and surface features under various weather conditions. This task requires an active radar scan that can penetrate clouds and capture detailed information about the terrain.
+
+We're setting a strict deadline for this mission: we need the data by the target day, which is three days from now, with the latest delivery time being overnight. This means our products must be ingested into the pipeline before the end of the night on the target day to ensure timely processing and analysis.
+
+This request is an absolute institutional priority, involving a binding contract requirement for a critical payload capture. We're looking forward to your support in executing this mission with the utmost efficiency and accuracy.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]
