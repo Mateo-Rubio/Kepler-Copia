@@ -1,0 +1,1 @@
+This is a standard operational tasking for Kepulauan Meranti in Indonesia, part of our baseline pipeline tracking with fixed parameters. We need multispectral vegetation analysis to assess chlorophyll absorption level and calculate an NDVI index along with surface reflectance for the region.  The delivery deadline is set for in four days overnight.
