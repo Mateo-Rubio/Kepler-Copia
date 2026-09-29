@@ -1,0 +1,1 @@
+We need a thermal mapping of Ecuatorial, Indonesia, to capture surface temperature profiles and detect any heat anomalies. This task is part of our routine monitoring and should be completed by the day after tomorrow around mid-day at the latest for integration into our standard operational tracking pipeline.
