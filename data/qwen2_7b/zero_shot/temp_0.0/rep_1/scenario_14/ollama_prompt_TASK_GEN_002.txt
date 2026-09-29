@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Norte, using microwave surface imaging technology. Our objective is to penetrate through any heavy weather conditions and capture ground geometry with precision. This task is part of our standard operational pipeline tracking setup, representing normal operational status.
+
+We aim to deliver this data by tomorrow during the afternoon, ensuring that the products are ingested into our pipeline before then. This request falls under medium importance, so please treat it as a standard operational tasking with fixed parameters representing our baseline workflow update.
+
+Thank you for your attention and cooperation in meeting this deadline. We appreciate your support in maintaining our satellite constellation's operational efficiency.
