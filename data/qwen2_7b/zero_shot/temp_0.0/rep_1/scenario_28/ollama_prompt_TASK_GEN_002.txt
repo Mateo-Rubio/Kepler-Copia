@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners. We're looking to capture a low priority importance task, which involves assessing vegetation health through a multispectral VNIR scan. Our objective is to gather data on the chlorophyll absorption levels and calculate the NDVI index for the region known as Norte, located in an unspecified country. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We aim to achieve this by conducting a daylight photography mission using high-resolution optical imagery during the afternoon of tomorrow. The goal is to provide clear visual documentation and surface reflectance data for the area. We're treating this as a non-essential background filler task, which can be dropped or rescheduled at convenience if necessary.
+
+The deadline for delivering the data products is set for tomorrow's overnight block, ensuring they are ingested into our pipeline before that time. This request aligns with our flexible schedule and will serve as a testbed tracking task to help us monitor vegetation health without impacting critical payload capture operations.
+
+Thank you for your attention to this matter.

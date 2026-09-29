@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and smoothly. Our objective is to capture thermal mapping data for the region of Colombia, specifically focusing on the city of Cimitarra. We aim to gather information about heat signatures and surface temperature profiles in this area.
+
+Given the nature of our request, we're looking at a flexible schedule for capturing this data, treating it as a background survey or testbed tracking task. We understand that there might be other higher priority tasks on your plate, so please feel free to drop or reschedule this request at your convenience.
+
+Our deadline for receiving these data products is set for the day after tomorrow, with a strict delivery deadline being in the evening. We're aiming to ensure that the products are ingested into our pipeline before then, adhering to the operational constraints we've been given.
+
+Thank you for your understanding and cooperation. We appreciate your efforts in making this happen.
+
+Best regards,
+[Your Name]

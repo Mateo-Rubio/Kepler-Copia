@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking for tomorrow's overnight period, involving a critical payload capture. Our focus is on thermal mapping of San Pablo, Colombia, using our TIR sensor. The goal is to capture a heat signature and surface temperature profile for this area, which will be essential for thermal anomaly detection and mapping heat emissions.
+
+This request carries a high level of importance as it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're looking to ensure that the products are ingested into the pipeline before tomorrow's overnight block at the latest. This task is a standard operational requirement, and we appreciate your attention to this binding contract requirement involving a mandatory directive.
+
+Thank you for your swift action in fulfilling this request. We're counting on your expertise to deliver these critical data products by our deadline.
+
+Best regards,
+[Your Name]
