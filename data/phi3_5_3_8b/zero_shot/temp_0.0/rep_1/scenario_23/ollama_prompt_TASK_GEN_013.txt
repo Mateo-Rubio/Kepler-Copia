@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflection imagery of water bodies and assess soil moisture gradients in Puerto Lleras, Colombia. This is a non-essential background filler task that we can drop or reschedule at our convenience. We need the data by tomorrow morning at the latest for some additional analysis work.
+```prompt

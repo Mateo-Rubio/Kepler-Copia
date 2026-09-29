@@ -1,0 +1,2 @@
+Ensure that a thermal mapping task is scheduled for tomorrow's evening to capture surface temperature profiles and heat signatures in Norte, as part of our routine monitoring. This standard operational tasking will contribute to the baseline pipeline tracking with fixed parameters representing normal operational status. The data products must be ingested into the system before the end of the day to maintain our workflow update cycle.
+```
