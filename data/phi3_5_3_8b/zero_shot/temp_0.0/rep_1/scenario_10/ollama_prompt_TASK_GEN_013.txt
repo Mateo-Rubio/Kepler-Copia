@@ -1,0 +1,3 @@
+We're looking to schedule a flexible SAR scan over Baraya, Colombia, aiming for high-resolution microwave surface imaging. This task is of low priority importance and can be adjusted as needed; however, we need the data ready by in four days morning at the latest. Please consider this background survey or testbed tracking task with a non-urgent deadline but ensure it's completed promptly to maintain our regular workflow update.
+```prompt
+</TEXT>
