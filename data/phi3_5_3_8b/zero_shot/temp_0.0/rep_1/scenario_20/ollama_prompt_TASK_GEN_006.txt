@@ -1,0 +1,3 @@
+We need a standard operational tasking to capture thermal mapping of Sekadau, Indonesia. This is part of our routine monitoring and should be completed during tomorrow's afternoon session. The data must be ready by the day after tomorrow afternoon at the latest for integration into our baseline pipeline tracking system.
+```prompt
+...your text here...
