@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that involves capturing data using the VNIR sensor. Our geographic context is centered around Rokan Hilir, Indonesia, where we aim to gather high-resolution optical imagery for daylight photography and true-color visual documentation of the area.
+
+Given the nature of this request, I'm categorizing it as a low priority importance task with a flexible schedule for opportunistic capture. We're looking to drop or reschedule this at convenience if necessary, treating it as a background survey or testbed tracking task. The deadline for delivering the data products is set for tomorrow during the afternoon, ensuring they are ingested into our pipeline before that time.
+
+Thank you for your attention and cooperation in fulfilling this request. We appreciate your support in making this mission a success.

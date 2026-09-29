@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking for an upcoming mission involving the capture of near-infrared (NIR) data from Indonesia, specifically from the city of Mulya Bakti. This request is of medium importance and requires your team's attention.
+
+Our primary objective is to assess soil moisture levels and delineate water body boundaries using this technology. We're aiming for a high-resolution optical snapshot as well, which will provide us with clear imagery for our analysis.
+
+The deadline for delivering the data products is set for three days from now, with a strict delivery deadline of overnight. This means that we need the data ready by tomorrow's night time at the latest to ensure it can be ingested into our pipeline before the deadline.
+
+We appreciate your team's expertise in handling this task and ensuring that our mission parameters are met within the specified timeframe. Thank you for your cooperation and prompt attention to this request.
+
+Best regards,
+[Your Name]
