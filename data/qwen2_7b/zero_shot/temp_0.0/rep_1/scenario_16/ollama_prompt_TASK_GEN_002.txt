@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving our high-priority mission. This task is essential for our contractual obligations and involves a binding directive that requires immediate attention.
+
+Our objective is to gather near-infrared reflection data from the region of Italia, specifically focusing on the city of Silea. We aim to capture detailed information about water body boundaries and soil moisture levels using this sensor. The goal is to obtain high-resolution imagery that will help us assess gradients in these parameters accurately.
+
+We're looking for a high-quality dataset that will serve as a valuable addition to our baseline pipeline tracking setup, contributing to normal operational status and workflow updates. This request is part of our standard operational tasks and should be treated with the same level of professionalism and efficiency as any other routine monitoring activity.
+
+The deadline for this task is set for three days from now, with a strict delivery deadline for the evening hours. We need the data products ingested into our pipeline before the specified target day and diurnal period to ensure timely processing and analysis.
+
+Please prioritize this request as an absolute institutional priority, considering it involves a critical payload capture that requires an urgent operational execution and cannot be preempted or rescheduled. We appreciate your understanding and cooperation in meeting these requirements.
+
+Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]
