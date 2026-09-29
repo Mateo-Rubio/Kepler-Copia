@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner, we're looking to capture a detailed view of Tagliole, Italia using our VNIR sensor. This is a standard operational tasking for us, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We aim to assess the chlorophyll absorption level and calculate the vegetation NDVI index along with surface reflectance.
+
+The deadline for this request is set for three days from now, with a strict delivery deadline at overnight. We're looking to ensure that the products are ingested into our pipeline before the target day's overnight period. This task doesn't require any urgent operational execution or an un-preemptable mission lock as it falls under our standard workflow update.
+
+Thank you for your attention and we look forward to receiving the data products in due time.

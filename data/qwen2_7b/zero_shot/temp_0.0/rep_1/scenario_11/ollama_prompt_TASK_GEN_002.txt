@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task that's of low priority importance, but we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture thermal mapping data for the region around Serravalle di Chienti, located in Italia. We aim to assess heat signatures and surface temperature profiles across this area.
+
+The primary sensor required for this task is Thermal Infrared (TIR), which will help us identify thermal anomalies and map heat emissions accurately. This request falls under our background survey category, where we're looking for a non-essential background filler task that can be scheduled at your convenience.
+
+We're targeting the day after tomorrow with a strict delivery deadline set for the morning. This means that by the time the sun rises on the day after tomorrow, we need to have the data products ingested into our pipeline. We understand this deadline is critical for our operational workflow update.
+
+Thank you for your attention and cooperation in ensuring this task is completed efficiently. We appreciate your understanding of our flexible scheduling needs for this low priority importance request.
+
+Best regards,
+[Your Name]
