@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request that falls under the category of 'High Importance'. Our mission involves capturing a detailed, active radar scan using microwave surface imaging technology. The objective is to penetrate heavy weather conditions and capture ground geometry for a specific area in Indonesia, focusing on Kapuas Hulu.
+
+This task requires a high-resolution snapshot of the region, which we envision as an essential tool for understanding the terrain and its features under various weather conditions. We're particularly interested in cloud-penetrating capture capabilities that SAR technology offers, ensuring we gather comprehensive data even when visibility is compromised by clouds or other atmospheric obstructions.
+
+The geographical context is centered around Indonesia, with Kapuas Hulu being our primary focus area. This location is of paramount importance to us due to its unique environmental conditions and potential for valuable insights into land use and natural resources.
+
+We're setting a strict deadline for the delivery of this data product, which must be ingested into our pipeline by the day after tomorrow, specifically during the overnight period. This deadline is not negotiable; it's an absolute institutional priority that involves a critical payload capture and a mandatory directive from our operational team.
+
+Please ensure that the data is ready for us by the specified time to meet our baseline pipeline tracking requirements. We're looking forward to receiving this data as part of our standard operational tasking, contributing to our commercial tasking and routine monitoring activities.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request.
+
+Best regards,
+[Your Name]
