@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Tagliole, Italia. We need a high-resolution capture of near-infrared reflection for vegetation analysis and NDVI index calculation. This is part of a routine monitoring workflow update with fixed parameters. Please deliver the data products overnight in three days.
