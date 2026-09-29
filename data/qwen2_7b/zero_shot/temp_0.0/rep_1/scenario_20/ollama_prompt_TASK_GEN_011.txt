@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent request for a critical payload capture involving thermal mapping operations. Our focus is on the beautiful region of Sabaudia, located in the picturesque country of Italia. The operational context here requires us to capture a heat signature or surface temperature profile as part of our baseline pipeline tracking setup.
+
+The mission's priority level is set at 'High Importance', which means this task is an absolute institutional priority and a binding contract requirement. We're dealing with a mandatory directive that involves a critical payload capture, emphasizing the need for an urgent operational execution and an un-preemptable mission lock.
+
+Our primary sensor of choice for this mission is the TIR (Thermal Infrared) sensor, which will allow us to assess thermal anomalies and map heat emissions accurately. This sensor is essential for our scientific endeavors, providing invaluable data on surface temperatures that are crucial for various applications.
+
+The deadline for delivering the data products is set for tomorrow, with a strict delivery deadline of overnight. We need these data by tomorrow's overnight block at the latest, ensuring they are ingested into our pipeline before the deadline.
+
+We appreciate your swift attention to this matter and look forward to your support in fulfilling this mission. Thank you for your understanding and cooperation.
+
+Best regards,
+[Your Name]
