@@ -1,0 +1,3 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Ecuatorial, Indonesia, in daylight photography for clear optical imagery and true-color visual documentation. This is a low priority importance request with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task.
+
+We aim to deliver this data by tomorrow morning, ensuring the products are ingested into the pipeline before then. This is a non-essential background filler task where we explicitly note to drop or reschedule at convenience if needed. Thank you for your attention and cooperation in meeting our deadline.

@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture a high-resolution optical snapshot of the region in Colombia, specifically focusing on the city of Cáchira. This daylight photography will serve as true-color visual documentation for our purposes.
+
+We're looking to conduct this routine monitoring task as part of our baseline pipeline tracking setup. The parameters are fixed and represent our normal operational status. We're not in a rush for this task; it's more of an opportunistic capture that we can drop or reschedule at your convenience, treating it as a background survey or testbed tracking task.
+
+We need the data by the target day, which is four days from now, with a strict delivery deadline set for overnight. This means ensuring the products are ingested into our pipeline before the next day's overnight block. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this request.
+
+Best regards,
+[Your Name]
