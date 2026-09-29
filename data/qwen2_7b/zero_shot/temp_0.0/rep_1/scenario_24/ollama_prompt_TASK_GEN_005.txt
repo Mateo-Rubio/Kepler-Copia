@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture a near-infrared reflection of a location in Norte, which will help us assess soil moisture levels and delineate water body boundaries. This is a low priority importance request, but we do emphasize the need for flexibility in scheduling, as this task can be considered a background survey or testbed tracking task.
+
+The geographical context involves an area in Norte, which might not have specific country or city details provided, so we'll focus on capturing the essence of the region. Our deadline is set for three days from now, with a strict delivery deadline to ensure the products are ingested into our pipeline before the evening timeframe. We understand that this deadline represents the upper limit for data availability and is not related to an orbital capture window.
+
+Please note that we're looking for a high-resolution optical snapshot of the area, which will serve as true-color visual documentation. This task doesn't require any technical system tags or coordinate arrays; instead, we aim to provide a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. We appreciate your understanding and cooperation in meeting this request.
+
+Thank you for your attention to this matter.

@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a critical payload for an institutional priority task involving a high-resolution optical snapshot of Santa Sofia, Colombia. This is a binding contract requirement that involves a mandatory directive for us to ensure the capture of a heat signature and surface temperature profile of the area.
+
+The primary sensor we're utilizing for this mission is the Near-Infrared (NIR) sensor, which will provide us with invaluable data on water body boundaries and soil moisture assessment. This task is essential for our baseline pipeline tracking setup, representing normal operational status.
+
+We need this data by the day after tomorrow, overnight at the latest. This deadline is strictly set to ensure that the products are ingested into our pipeline before the specified time frame. We understand the urgency of this request and will treat it with the utmost importance.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this high-priority task.
+
+Best regards,
+[Your Name]

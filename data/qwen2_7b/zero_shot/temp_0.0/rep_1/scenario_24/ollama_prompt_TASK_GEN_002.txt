@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection snapshot of the region around Saas-Almagell, located in the beautiful country of Schweiz/Suisse/Svizzera/Svizra. This task is part of our standard operational pipeline tracking setup and represents a routine monitoring request.
+
+Our primary sensor for this mission will be the near-infrared (NIR) sensor, which will help us map water body boundaries and assess soil moisture levels. We aim to gather this data with fixed parameters that represent our normal operational status, ensuring we capture the necessary information without any deviation from our standard procedures.
+
+The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline of 'in the evening'. This means we need to ensure the products are ingested into our pipeline before the evening of that day. We're treating this as a standard tasking request and will not alter or extend this deadline.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting these operational guidelines and ensuring the data meets our requirements.

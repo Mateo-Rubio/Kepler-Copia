@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Beringin Jaya, Indonesia, using our SAR sensor. This is a standard operational tasking that involves the use of microwave surface imaging technology for cloud-penetrating capture and ground geometry mapping. We aim to obtain high-resolution imagery that will help us understand the terrain and surface features accurately.
+
+Given the importance of this request, we're setting a strict delivery deadline for the data products. We need these by tomorrow evening at the latest, ensuring they are ingested into our pipeline before then. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request.

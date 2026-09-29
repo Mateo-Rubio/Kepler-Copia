@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our commercial monitoring pipeline. Our focus is on the region of Colombia, specifically the city of Sabana de Torres, where we aim to capture high-resolution optical imagery using our VNIR sensor.
+
+Our mission's priority level is set at medium importance, which means this request carries a standard operational status and represents a baseline pipeline tracking setup with fixed parameters. We're looking for a "true-color visual documentation" that will help us assess the chlorophyll absorption levels and calculate the vegetation NDVI index for environmental monitoring purposes.
+
+The deadline for delivering these data products is set for three days from now, with a strict delivery deadline of overnight. This means we need the data ready by tomorrow's night time block to ensure they are ingested into our pipeline before the deadline.
+
+Please note that this task is part of our normal operational status and should be treated as a routine monitoring activity. We appreciate your attention to this request and look forward to receiving the data products on schedule. Thank you for your cooperation in maintaining our baseline pipeline tracking setup.
