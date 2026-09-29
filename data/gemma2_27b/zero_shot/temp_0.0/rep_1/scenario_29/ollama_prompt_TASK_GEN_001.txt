@@ -1,0 +1,1 @@
+This is a low priority importance request for an opportunistic capture of Uribe, Colombia using active radar scan. I need this data as a non-essential background filler task, and it can be dropped or rescheduled at convenience. Please ensure the products are ingested into the pipeline before in three days in the morning at the latest.
