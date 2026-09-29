@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Sesta Godano, located in beautiful Italia, for daylight photography purposes. This is part of our standard operational tasking and will be treated as a routine monitoring activity within our baseline pipeline tracking setup. We have fixed parameters set for this request, representing our normal operational status.
+
+The imagery we're seeking should ideally be ready by the day after tomorrow, with a strict delivery deadline set for overnight. This means that the products must be ingested into our pipeline before the day after tomorrow's nighttime block. We aim to capture a clear optical image of Sesta Godano, providing true-color visual documentation that will contribute to our ongoing monitoring efforts.
+
+Thank you for your attention and please ensure this request is given the appropriate priority level based on its importance within your operational hierarchy. We appreciate your cooperation in meeting these requirements promptly.

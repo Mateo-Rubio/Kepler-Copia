@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking to capture a thermal mapping of Norte, which is located in an unspecified country. Our mission allocation priority for this task is medium importance, meaning it's part of our standard operational pipeline tracking with fixed parameters representing normal operational status.
+
+The primary sensor we're utilizing for this operation is the TIR sensor, which will allow us to gather data on surface temperature profiles and thermal anomalies. This is crucial for identifying heat emissions across various surfaces in Norte.
+
+We're requesting this data by tomorrow evening at the latest, ensuring that the products are ingested into our pipeline before then. This deadline is strict and cannot be extended; it's a part of our baseline workflow update process.
+
+Please note that this task is not an urgent operational execution or a binding contract requirement but rather a standard commercial tasking request. We appreciate your attention to this matter and look forward to receiving the data products as per our guidelines.
+
+Thank you for your cooperation.
