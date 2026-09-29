@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an operational mission involving the Indonesian region, specifically focusing on Kubu Raya city. Our priority is set to 'low importance', which means this request can be accommodated within our flexible schedule as a 'non-essential background filler task'. 
+
+The primary sensor required for this mission is 'SAR', which will be used for an active radar scan to capture the region's surface geometry, penetrating through any heavy weather conditions. This task aims to gather detailed information about the ground structure and features using microwave surface imaging.
+
+We're looking to have this data ready by the target day, which is 'in three days', with a strict delivery deadline set for 'in the evening'. The SAR imagery will be crucial for our ongoing baseline pipeline tracking setup, contributing to normal operational status updates without any urgency in terms of timing.
+
+Please note that this request does not require immediate attention or an urgent operational execution. We appreciate your understanding and flexibility in scheduling this task as a background survey or testbed tracking task. Thank you for your cooperation and look forward to receiving the data products before our specified deadline.
+
+Best regards,
+[Your Name]

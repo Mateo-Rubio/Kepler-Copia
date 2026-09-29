@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our focus is on a background survey in Colombia, specifically within the region around El Castillo. We're looking for a multispectral vegetation analysis using VNIR sensors during the afternoon timeframe, which means we need the data by the day after tomorrow at the latest.
+
+This task involves assessing chlorophyll absorption levels or calculating the NDVI index to understand surface reflectance patterns. It's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're treating this as a non-essential background filler task, so feel free to drop or reschedule it at your convenience.
+
+Thank you for your understanding and cooperation in managing this request efficiently.
+
+Best regards,
+[Your Name]
