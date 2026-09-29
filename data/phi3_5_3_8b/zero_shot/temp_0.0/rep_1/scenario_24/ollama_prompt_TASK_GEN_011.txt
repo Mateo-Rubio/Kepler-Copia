@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflection data for water body boundary mapping in Campli, Italy. This is a low priority importance task with a flexible schedule; however, we aim to have the initial findings ready by tomorrow morning at the latest. Please consider this as an opportunistic capture that can be dropped or rescheduled according to convenience.
+```prompt
