@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region in Colombia, specifically focusing on the city of Chaparral. Given its importance, we classify this task as medium priority, meaning it's part of our standard operational pipeline but with fixed parameters that ensure normal operational status.
+
+Our primary objective is to gather high-resolution data using an active microwave surface imaging technique, which will allow us to penetrate through heavy weather conditions and capture ground geometry accurately. This is crucial for our ongoing project, and we aim to achieve this by tomorrow morning at the latest.
+
+We're aware of the deadline set for data availability, which is tomorrow in the morning block. We understand that this deadline represents the strict upper limit for delivering the data products to our users. Our request is clear: we need the data ready by tomorrow morning, ensuring that the products are ingested into our pipeline before the deadline.
+
+Thank you for your attention and cooperation in meeting this requirement. We appreciate your team's expertise in handling such critical tasks efficiently.
