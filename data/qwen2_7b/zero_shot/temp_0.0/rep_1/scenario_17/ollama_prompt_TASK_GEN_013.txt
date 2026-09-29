@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a high-resolution optical snapshot of San Pablo, Colombia, using our VIS sensor. This daylight photography will serve as true-color visual documentation for our ongoing project. Given the importance of this task, I classify it as a low priority importance request with a flexible schedule for opportunistic capture.
+
+We aim to have these images ready by the target day, which is in four days, around mid-day, ensuring they are ingested into our pipeline before that time frame. This non-essential background filler task is part of our baseline pipeline tracking setup and will be treated as a background survey or testbed tracking task.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting the deadline set for this mission.
+
+Best regards,
+[Your Name]
