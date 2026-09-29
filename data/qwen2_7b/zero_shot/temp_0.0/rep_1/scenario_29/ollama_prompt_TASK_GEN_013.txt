@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-priority task for us. Our mission involves capturing critical data on vegetation health and land use in the region of Colombia, specifically focusing on the city of Aipe. We aim to gather detailed information through multispectral imaging using VNIR sensors.
+
+The objective is to obtain a comprehensive view of the chlorophyll absorption levels and NDVI index across various landscapes within this area. This will help us assess vegetation health and monitor environmental changes accurately. The data collection must be executed with precision, ensuring that we capture the essence of daylight photography and true-color visual documentation for our analysis.
+
+We're setting a strict deadline for the delivery of these data products, which is by the day after tomorrow, with a focus on the overnight period. This means that we need the data ready for ingestion into our pipeline before the night falls on the day after tomorrow. We understand this deadline is non-negotiable and must be adhered to without any extensions.
+
+This task is an absolute institutional priority, involving a critical payload capture that requires immediate attention. We're looking forward to your support in ensuring we meet this deadline with high-quality data products that will contribute significantly to our ongoing research and monitoring efforts.
+
+Thank you for your understanding and swift action in addressing this request.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at a standard operational tasking involving the VNIR sensor for a routine monitoring purpose, which is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request involves capturing high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation from France, specifically in the city of Venaco.
+
+The mission allocation priority here is medium importance, implying that this task is a standard operational task but carries some weight in our workflow update process. We're aiming to ensure that the data products are ingested into the pipeline before the strict delivery deadline set for the target day, which is in three days, with the latest requirement being by the morning.
+
+Please note that this request is part of our regular monitoring activities and should be treated as a standard operational tasking without altering or extending the deadline. We appreciate your attention to this matter and look forward to receiving the data products on time. Thank you for your cooperation.
