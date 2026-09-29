@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture a near-infrared reflection of a location in Norte, which will help us assess soil moisture levels and delineate water body boundaries. This is a low priority importance request, but we do emphasize the need for flexibility in scheduling. We aim to drop or reschedule this task at your convenience.
+
+The geographical context involves an area in Norte, which might not be fully described due to certain details being unavailable. However, our main focus is on capturing the necessary data by the day after tomorrow, with a strict delivery deadline set for that evening. This means we need the data products ingested into the pipeline before the day after tomorrow's evening timeframe.
+
+We're looking for a high-resolution optical snapshot of this area to ensure clarity and detail in our imagery. The goal is to provide us with true-color visual documentation that will help us understand the landscape better. We appreciate your understanding and cooperation in meeting these requirements as efficiently as possible.
+
+Thank you for your attention to this task. We're looking forward to receiving the data products that will contribute to our ongoing research and monitoring efforts.
