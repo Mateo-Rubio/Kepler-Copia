@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of San Pablo, Colombia, around midday in four days. This task is considered low priority and can be rescheduled at your convenience; it will serve as an opportunistic background filler for our visual documentation needs. Please ensure the data products are ingested into our pipeline before this timeframe expires.
+```
