@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that involves capturing data using near-infrared (NIR) sensors. The geographical context is centered around the beautiful region of Italia, specifically focusing on the city of Norte. This request carries a low priority importance, indicating it's part of our standard operational tasks.
+
+The primary objective here is to assess soil moisture levels and delineate water body boundaries through near-infrared reflection analysis. We're aiming for a high-resolution snapshot that will provide us with critical insights into the environmental conditions of the area.
+
+Given the operational guidelines, I'm requesting this task to be treated as a non-essential background filler task, which can be scheduled flexibly. Our main concern is ensuring that the data collection process adheres to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're looking to have these data products ready by the target day, which is in three days, with a strict delivery deadline set for the evening of that day. This means we need the data ingested into our pipeline before the night falls on the target day to ensure timely processing and analysis.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting these requirements and ensuring the smooth execution of this task.

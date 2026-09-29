@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an operational mission that requires your immediate attention. Our team is in need of a detailed radar scan using the SAR sensor to capture the unique landscape of Colombia, specifically focusing on the city of Nóvita. This request carries low priority importance but adheres to our standard operational procedures.
+
+The primary objective is to gather high-resolution data that will help us understand the ground geometry and surface features of the region, which might be obscured by heavy weather conditions. The SAR sensor will provide us with an active radar scan that can penetrate clouds and capture essential information about the terrain beneath.
+
+We're looking for this task to be executed around mid-day on the day four days from now, ensuring that the data products are ready for ingestion into our pipeline before the night falls. This deadline is crucial as it aligns with our operational guidelines for delivering data within the specified timeframe.
+
+Please note that this request is a non-essential background filler task and can be dropped or rescheduled at your convenience if there are more pressing matters to attend to. We appreciate your understanding and flexibility in managing this task alongside your other responsibilities.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products as per our request.
