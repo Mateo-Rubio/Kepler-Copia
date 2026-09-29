@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging in Tarazá, Colombia, with a focus on cloud-penetrating capture and ground geometry. This is a low priority importance task that we can fit into our flexible schedule. The data products are needed by in three days overnight at the latest for opportunistic survey purposes. Please consider dropping or rescheduling this background filler task if necessary, as it's not urgent but still valuable for our baseline pipeline tracking.
+```
