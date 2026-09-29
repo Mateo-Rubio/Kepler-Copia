@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflections around mid-day in Riofrío, Colombia, as part of our routine monitoring. This task is a low priority importance and can be dropped or rescheduled at your convenience. The data products are needed by in three days around the same time frame for baseline pipeline tracking purposes.
+```
