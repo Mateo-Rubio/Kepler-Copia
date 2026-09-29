@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled for convenience. Our objective is to capture a multispectral vegetation analysis using the VNIR sensor over the beautiful region of Italia, specifically focusing on the charming city of Oderzo. This task aims to assess the chlorophyll absorption levels across various landscapes and calculate the NDVI index for surface reflectance.
+
+We're looking to gather this data in the morning of the day after tomorrow, ensuring that the products are ingested into our pipeline before then. This request is a non-essential background filler task that doesn't require an urgent operational execution but should be treated with care as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention and flexibility in scheduling this task. We appreciate your cooperation in making sure it's accommodated within your operational constraints.
+
+Best regards,
+[Your Name]
