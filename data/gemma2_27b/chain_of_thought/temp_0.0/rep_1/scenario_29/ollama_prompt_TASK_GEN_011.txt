@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Venaco, France. We need a high-resolution VNIR snapshot to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please schedule this capture in the morning in three days. The data products are required by then.
