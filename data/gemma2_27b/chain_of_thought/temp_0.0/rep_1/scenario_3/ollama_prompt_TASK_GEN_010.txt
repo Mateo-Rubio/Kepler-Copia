@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for near-infrared reflection capture over Monterrey, Colombia. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We need a high-resolution near-infrared image to map water body boundaries and assess soil moisture gradients overnight in three days.
