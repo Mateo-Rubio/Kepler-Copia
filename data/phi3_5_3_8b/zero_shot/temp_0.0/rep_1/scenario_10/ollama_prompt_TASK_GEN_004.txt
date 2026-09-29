@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of San Vicente del Caguán in Colombia around midday tomorrow, as part of our routine monitoring. This task is considered low priority and can be dropped or rescheduled at your convenience; it serves as an opportunistic background filler for the baseline pipeline tracking.
+```prompt
