@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission focusing on Colombia, specifically Vegachí. Our objective is to capture thermal mapping data using our TIR sensor, aiming to identify heat signatures and surface temperature profiles across the region. This is a low priority importance request, so we're treating it as a flexible schedule background survey or testbed tracking task.
+
+We're looking for high-resolution optical snapshots during daylight photography, clear optical imagery, or true-color visual documentation of Vegachí's landscape. Our primary goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance for environmental monitoring purposes.
+
+The deadline for delivering this data product is today, with a strict delivery deadline set for today during the afternoon. We need the products ingested into our pipeline before tonight's overnight block to ensure timely processing and analysis. Please note that this task can be dropped or rescheduled at your convenience if it conflicts with more urgent priorities.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting these requirements as efficiently as possible.

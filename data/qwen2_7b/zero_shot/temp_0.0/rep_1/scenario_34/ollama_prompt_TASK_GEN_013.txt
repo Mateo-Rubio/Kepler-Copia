@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture essential data using near-infrared (NIR) sensors for a critical survey in Colombia, specifically focusing on the region around Carmen del Darién (Curbaradó). This location is of particular interest due to its unique environmental conditions and potential for valuable insights.
+
+Given the high-resolution nature of our request, we aim to obtain detailed imagery that can help us assess soil moisture levels and delineate water body boundaries. The operational context necessitates a flexible schedule, as this task is classified as low priority importance. However, it's important to note that while not an urgent requirement, we do recommend scheduling this task for an opportune time when resources are available.
+
+We're targeting the delivery of these data products by today, in the evening, at the latest. This deadline is crucial for ensuring timely integration into our baseline pipeline tracking setup. We understand that this might fall within the overnight period, but rest assured, we'll be accommodating any necessary adjustments to meet your operational constraints.
+
+Please proceed with capturing the required data and ensure it's ready for review by tomorrow evening. If there are any questions or if you need further clarification on our requirements, please feel free to reach out. Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]

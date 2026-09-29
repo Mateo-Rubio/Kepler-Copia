@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution near-infrared (NIR) reflection data of the region around Ramiseto, located in the beautiful country of Italia. This request carries low priority importance and can be scheduled as a flexible background survey or testbed tracking task.
+
+The primary sensor involved will be the NIR camera, tasked with mapping water body boundaries and assessing soil moisture levels for our purposes. We aim to gather this data to provide valuable insights into environmental conditions without imposing any strict deadlines on the capture window; however, we do have a strict delivery deadline set for the day after tomorrow in the morning.
+
+Please ensure that the products are ingested into our pipeline before the day after tomorrow at the latest, allowing us to analyze and utilize the data effectively. Thank you for your understanding and cooperation in this matter. We appreciate your prompt attention to this request.

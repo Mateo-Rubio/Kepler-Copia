@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at a task that's quite important for us, involving Malaysia, specifically in the equatorial region of Ecuatorial City. The mission is centered around an active radar scan using microwave surface imaging technology, which we aim to use for cloud-penetrating capture and ground geometry mapping.
+
+Our primary objective here is to gather detailed information about the area, which will be crucial for our ongoing projects. We're targeting a specific day in four days, with the strictest deadline being in the morning of that day. This task falls under the category of a low priority importance request, meaning we understand it might not be an urgent mission but still requires our attention.
+
+We're looking to capture thermal mapping data to identify heat signatures and surface temperature profiles, as well as assess vegetation health through multispectral analysis and calculate the NDVI index for surface reflectance. This task is part of a background survey or testbed tracking task that we can drop or reschedule at convenience if needed.
+
+Please ensure that the data products are ready by the specified day and time, adhering to our deadline set for the morning of that day. We appreciate your cooperation in meeting this requirement. Thank you.
