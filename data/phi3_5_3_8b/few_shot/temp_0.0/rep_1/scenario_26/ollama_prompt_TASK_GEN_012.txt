@@ -1,0 +1,3 @@
+This is a standard operational tasking for Ecuatorial, where we aim to capture near-infrared reflection in the morning. It's part of our baseline pipeline tracking with fixed parameters, and we expect to have these water body boundary mappings ready by tomorrow.
+
+```prompt
