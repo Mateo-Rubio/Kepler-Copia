@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an operational mission involving the 'SAR' sensor, which is to be deployed over the beautiful region of Italia, specifically the city of Arezzo. This request carries a low priority importance, indicating that it's part of our standard operational tasks and should be treated as a flexible schedule background filler task.
+
+The primary objective here is to conduct an active radar scan using microwave surface imaging technology. Our goal is to capture cloud-penetrating imagery that will provide us with detailed ground geometry information, essential for our ongoing projects in the area. This data collection is crucial for understanding the landscape and urban planning needs of Arezzo.
+
+We're looking to have this data ready by the target day, which is three days from now, with a strict delivery deadline set for the morning hours. This means that we need the products ingested into our pipeline before the overnight block on the target day. We understand the urgency and appreciate your team's commitment to meeting these deadlines.
+
+Thank you for your attention to this request. If there are any questions or adjustments needed, please feel free to reach out. We're looking forward to receiving the data that will help us in our ongoing efforts to monitor and support the development of Arezzo.
+
+Best regards,
+[Your Name]
