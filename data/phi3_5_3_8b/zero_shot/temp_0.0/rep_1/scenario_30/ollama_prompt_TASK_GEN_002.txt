@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Peroj, Hrvatska tomorrow during the early hours of the morning. This is a low priority importance task with a flexible schedule; however, we aim to have this high-resolution optical snapshot ready by then for our routine monitoring and baseline pipeline tracking. Please ensure that the data products are ingested into the system before the deadline set for tomorrow's early morning block.
+```
