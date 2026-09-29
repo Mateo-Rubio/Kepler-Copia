@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent operational request on behalf of our institution. We're in need of a high-resolution optical snapshot for daylight photography purposes, capturing clear optical imagery and true-color visual documentation from Indonesia, specifically the city of Ecuatorial. This task is considered a binding contract requirement involving a critical payload capture, which must be executed with absolute authority and priority.
+
+Our priority level is set to 'High Importance', implying an urgent operational execution and an un-preemptable mission lock. We're looking for an active radar scan using microwave surface imaging capabilities to pierce through heavy weather conditions or capture ground geometry. This task is essential for cloud-penetrating capture, ensuring we have the most detailed and accurate data possible.
+
+The primary sensor required is Near-Infrared (NIR), which will be used for water body boundary mapping and soil moisture assessment, allowing us to discriminate gradients effectively. We're aiming to assess vegetation health through chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance.
+
+We have a strict deadline set for the delivery of these data products, which must be ingested into our pipeline before tomorrow's overnight block. This deadline is not negotiable; we need the data by tomorrow afternoon at the latest to ensure timely processing and analysis.
+
+Please treat this request with the utmost urgency and importance, as it involves critical operational tasks that cannot be delayed or rescheduled. We appreciate your cooperation in meeting these requirements promptly. Thank you for your attention to this matter.

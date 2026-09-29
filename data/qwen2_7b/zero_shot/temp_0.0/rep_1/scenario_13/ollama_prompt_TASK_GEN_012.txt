@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for an optical snapshot of Indonesia's Bangka Selatan region. Our primary sensor requirement is high-resolution visual imagery to capture clear daylight photography and true-color visual documentation of the area.
+
+Bangka Selatan, being part of Indonesia, is known for its diverse landscapes and economic activities. We aim to gather detailed information about the region's urban development, environmental conditions, and natural resources. This task falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please ensure that the data products are ingested into our pipeline by the latest in four days during the morning hours. This request is part of our standard operational tasks and carries a medium importance level, indicating it's a routine monitoring activity that contributes to our ongoing efforts in environmental surveillance and urban planning.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting our deadline and providing us with the necessary data to support our operations.
