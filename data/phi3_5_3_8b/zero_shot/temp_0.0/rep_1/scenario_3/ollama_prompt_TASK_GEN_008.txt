@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Gazzola, Italy, aiming for high-resolution optical snapshot of daylight photography. This is a low priority importance task with a flexible schedule; however, we need the data products ready by tomorrow night at the latest as part of our routine monitoring to ensure they're ingested into the pipeline on time.
+```prompt
