@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a background survey aimed at capturing a high-resolution optical snapshot of the region in Colombia, specifically focusing on the city of El Retorno. The goal is to obtain clear daylight photography and true-color visual documentation of the area.
+
+The primary sensor we're utilizing for this task is a VIS sensor, which will provide us with detailed imagery that can help us assess various environmental conditions and features on the ground. We're looking to gather data that can assist in monitoring vegetation health through multispectral analysis or evaluate soil moisture levels using near-infrared reflection.
+
+Given the operational guidelines, I understand that we have a strict deadline for delivering these data products. The target day for this mission is the day after tomorrow, with the requirement that the data must be ready by the morning of that day. This ensures that our pipeline can ingest and process the information before the deadline is met.
+
+Please note that this task is considered a low priority importance request, and we're flexible on scheduling. We can drop or reschedule this mission at your convenience if it doesn't align with your current operational status or baseline pipeline tracking setup. Thank you for your attention to this matter.

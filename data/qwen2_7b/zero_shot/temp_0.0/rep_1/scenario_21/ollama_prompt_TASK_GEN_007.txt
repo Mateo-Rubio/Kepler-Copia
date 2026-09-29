@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent request for a critical payload capture involving our high-priority mission. This task is of utmost importance and involves a binding contract requirement, necessitating the capture of essential data.
+
+Our objective is to gather detailed information on vegetation health in the region of Colombia, specifically focusing on the city of Aguadas. We aim to conduct a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. This will provide us with invaluable insights into the environmental conditions and health of the local flora.
+
+The data collection must be executed with precision, adhering to our operational guidelines. We require high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation to ensure comprehensive coverage of the area. The active radar scan using SAR technology will also play a crucial role in capturing ground geometry and cloud-penetrating capture, providing us with detailed information about the region's topography.
+
+We're setting a strict deadline for data availability, needing the products by tomorrow's overnight block at the latest. This ensures that our pipeline tracking setup can ingest the data into our baseline workflow without any delays.
+
+Please prioritize this request as an absolute institutional priority and ensure that all necessary resources are allocated to meet these requirements. We appreciate your swift action in addressing this critical task.
+
+Thank you for your attention and cooperation in fulfilling this mission.
+
+Best regards,
+[Your Name]

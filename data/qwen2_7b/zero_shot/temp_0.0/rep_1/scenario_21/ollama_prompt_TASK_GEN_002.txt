@@ -1,0 +1,15 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a critical payload capture for an upcoming Earth observation mission. Our focus is on thermal mapping of a specific area in Italy, specifically Santa Croce sull'Arno, which is a beautiful city nestled along the Arno River. The primary sensor we're utilizing for this task is the TIR (Thermal Infrared) sensor, which will allow us to capture detailed heat signatures and surface temperature profiles across the region.
+
+The urgency of this mission cannot be overstated. We require high-resolution thermal imagery needed by the following day's overnight period at the latest. This deadline is not negotiable; it's a binding contract requirement involving a critical payload capture that must be executed with absolute priority.
+
+Please ensure that the products are ingested into our pipeline before the specified target day and overnight period, as this is when we need them to be available for analysis. We're looking for thermal anomaly detection and mapping heat emissions across Santa Croce sull'Arno, which will provide valuable insights into local environmental conditions and potential issues.
+
+This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. However, given the nature of this mission, we would appreciate your full attention and commitment to meet our deadline. We understand that this might involve some adjustments in your operational workflow, but rest assured, it's a non-essential background filler task that can be dropped or rescheduled at convenience if necessary.
+
+Thank you for your understanding and cooperation. We look forward to receiving the data products on time so we can proceed with our analysis and contribute to our ongoing research efforts.
+
+Best regards,
+
+[Your Name]
