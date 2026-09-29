@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture a near-infrared reflection of a specific area in the region named "Italia Norte". This location is situated within the country of Italia and is marked by the city of Norte.
+
+The primary sensor we're utilizing for this mission is the Near-Infrared (NIR) sensor, which will help us map water body boundaries and assess soil moisture levels. The goal here is to gather detailed information about these elements without any interference from atmospheric conditions.
+
+Given the importance of this task, I'm designating it as a low priority importance request with a flexible schedule for opportunistic capture. We're treating this as a non-essential background filler task that can be dropped or rescheduled at your convenience. However, we do have a specific deadline in mind: the data products must be ready by the target day, which is four days from now, and with a strict delivery deadline set for overnight.
+
+Please ensure that the products are ingested into our pipeline before the target day's overnight period to meet our operational requirements. We appreciate your understanding and cooperation in meeting this deadline. Thank you for your attention to this matter.
