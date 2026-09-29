@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture a high-resolution optical snapshot of the region around Belalcázar, Colombia, which is known for its vibrant landscapes and rich biodiversity. We aim to obtain clear daylight photography or true-color visual documentation that can help us assess the environmental conditions and natural beauty of this area.
+
+The primary sensor we're focusing on is VIS (visual imagery), which will provide us with detailed information about the region's surface features, vegetation health, and overall landscape. This data will be crucial for our ongoing research project aimed at understanding the ecological dynamics in this part of Colombia.
+
+We're requesting that this task be treated as a non-essential background filler task, where we can drop or reschedule it based on your operational availability. We understand that you might have other priorities, and we appreciate your flexibility in accommodating this request.
+
+The deadline for delivering the data products is set for the day after tomorrow, with a strict delivery deadline of around mid-day. This means that we need to ensure the products are ingested into our pipeline before the specified time frame ends. We're aware of the importance of adhering to deadlines and understand that this task might not require immediate attention but should be completed within the given timeframe.
+
+Thank you for your understanding and cooperation in fulfilling this request. We look forward to receiving the data as soon as possible.
+
+Best regards,
+[Your Name]
