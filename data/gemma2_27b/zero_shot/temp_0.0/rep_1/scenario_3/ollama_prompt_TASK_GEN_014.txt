@@ -1,0 +1,1 @@
+This is an absolute institutional priority tasking. We require a critical payload capture of multispectral vegetation analysis over Borgo Valsugana, Italia. The objective is to assess chlorophyll absorption levels and calculate the vegetation NDVI index for this region.  We need these products ingested into the pipeline before the day after tomorrow overnight at the latest.
