@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent operational request on behalf of our institution. We're looking to capture a detailed image of Mogotes, Colombia, using our active radar system. The goal is to perform a cloud-penetrating scan that will provide us with invaluable ground geometry data.
+
+This task is considered a binding contract requirement and involves a critical payload capture. We need this data by the day after tomorrow in the morning at the latest. This request carries high importance and must be treated as an absolute priority, with no room for preemption or delay.
+
+Please ensure that the products are ingested into our pipeline before the deadline set for the day after tomorrow in the morning. We're looking for a microwave surface imaging product that will provide us with clear optical imagery of Mogotes, Colombia, to support our ongoing research and operational activities.
+
+Thank you for your immediate attention to this matter. We appreciate your cooperation in meeting this urgent requirement.
