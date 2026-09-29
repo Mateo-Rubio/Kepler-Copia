@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Belalcázar, Colombia, around midday tomorrow for true-color visual documentation. This is a low priority importance task with flexible scheduling; please feel free to drop or reschedule at your convenience as it serves as non-essential background filler data collection. Ensure the products are ingested into our system before the day after tomorrow midday deadline for review and archiving purposes.
+```prompt

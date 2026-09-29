@@ -1,0 +1,2 @@
+We have an absolute institutional priority to capture high-resolution optical snapshots for true-color visual documentation of Aipe, Colombia. This task is critical payload capture and must be executed with urgency. The data products are needed by the day after tomorrow overnight at the latest, ensuring they are ingested into our pipeline in time for analysis.
+```
