@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-importance task for us. Our absolute institutional priority involves capturing a critical payload using our thermal mapping capabilities, specifically focusing on the region of Italia Norte. We aim to gather detailed thermal data that will help us understand heat signatures and surface temperature profiles in this area.
+
+Our primary sensor, the TIR (Thermal Infrared), will be used for this mission, allowing us to detect thermal anomalies and map heat emissions accurately. This task is essential for our ongoing research and operational monitoring activities.
+
+We're looking to receive these data products by the target day, which is four days from now, with a strict delivery deadline set for the morning of that day. We need to ensure that the products are ingested into our pipeline before the overnight block on the target day to meet our operational requirements.
+
+Please note that this request carries a high level of importance and urgency, as it involves a binding contract requirement involving a critical payload capture. We appreciate your swift attention to this matter and look forward to receiving the data in time for our operational needs.
+
+Thank you for your cooperation and understanding.
+
+Best regards,
+[Your Name]
