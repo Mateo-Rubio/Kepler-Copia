@@ -1,0 +1,18 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving thermal mapping of a specific area in Italy. Our mission is to gather essential data on heat signatures and surface temperature profiles for a region located in Latina, which is part of the beautiful country of Italia.
+
+The priority level for this task is High Importance, indicating that it's an absolute institutional priority and a binding contract requirement. We're dealing with a mandatory directive that requires us to capture this thermal mapping data as soon as possible, ensuring that we meet our contractual obligations.
+
+Our primary sensor for this mission will be the TIR (Thermal Infrared) sensor, which will allow us to assess heat emissions and conduct thermal anomaly detection. This is crucial for understanding the thermal dynamics of the area in question.
+
+We're targeting a specific day for this operation, which is tomorrow, with a strict delivery deadline set for the evening. We need the data products ingested into our pipeline before the evening of tomorrow, ensuring that we meet our operational deadlines without any delays.
+
+This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a standard workflow update that involves routine monitoring and assessment of the area using our satellite constellation.
+
+Please prioritize this request as it carries significant importance for our operations. We appreciate your swift attention to this matter and look forward to receiving the data products in time.
+
+Thank you for your cooperation and understanding.
+
+Best regards,
+[Your Name]

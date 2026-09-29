@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-importance task for us. Our priority level is set at 'High Importance', indicating that this mission allocation is absolutely critical and requires immediate attention.
+
+Our objective involves capturing thermal data from the region of Indonesia, specifically focusing on the city of Murung Raya. We're interested in conducting a comprehensive thermal mapping operation to identify heat signatures and surface temperature profiles. This task aims to detect any thermal anomalies and map heat emissions accurately.
+
+Given the nature of our request, we're looking for an active radar scan using microwave surface imaging capabilities. This will allow us to penetrate through heavy weather conditions and capture ground geometry with precision. The primary sensor involved here is 'NIR', which will help us in mapping water body boundaries and assessing soil moisture levels.
+
+We need this data by the target day, which is three days from now, with a strict delivery deadline set for overnight. This means that we require the products to be ingested into our pipeline before the end of the night on the target day. We understand the urgency and appreciate your team's commitment to meeting this deadline.
+
+Thank you for your attention to this matter. We're looking forward to receiving the data as soon as possible, ensuring that our operational needs are met with the highest level of accuracy and reliability.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our focus is on capturing thermal mapping data for the region of Colombia, specifically in Restrepo, which is a critical area for monitoring land use and potential environmental changes.
+
+Our primary sensor requirement is an active radar scan using microwave surface imaging technology. This will allow us to capture cloud-penetrating imagery that can help us understand ground geometry and surface conditions, even under heavy weather conditions. The goal here is to assess the heat signature of the area, which could be crucial for detecting thermal anomalies or mapping heat emissions.
+
+We're looking to gather this data by tomorrow, with a strict delivery deadline set for the morning hours. This means that the products must be ingested into our pipeline before the day progresses into the afternoon. We understand that this might not be an urgent operational execution, but we appreciate your team's flexibility in scheduling this task as a background survey or testbed tracking task.
+
+Thank you for your attention to this request. We're looking forward to receiving the data products that will help us better understand and manage our resources in Restrepo, Colombia.
+
+Best regards,
+[Your Name]

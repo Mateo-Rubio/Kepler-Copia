@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Mapiripán, Colombia, in the morning tomorrow. This daylight photography will serve as clear optical imagery and true-color visual documentation for our ongoing project. As this request carries medium importance, we aim to integrate it into our standard operational tasking without compromising the quality or timeliness of our baseline pipeline tracking setup.
+
+Our priority is to ensure that the data products are ready by tomorrow morning, adhering to the strict deadline set for our target day. We're focusing on fixed parameters representing normal operational status and a routine monitoring task that complements our ongoing workflow updates.
+
+Please note that this request is part of our standard operational tasks but carries a binding contract requirement due to its medium priority level. We appreciate your understanding and cooperation in delivering the data products before the deadline, ensuring they are ingested into our pipeline before tomorrow's overnight block.
+
+Thank you for your attention to this matter. We look forward to receiving the captured data as soon as possible, contributing to our ongoing efforts in providing comprehensive Earth observations.
