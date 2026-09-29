@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Corte in France. We need to pull a clean surface temperature profile and flag any thermal anomaly across the region.  The delivery deadline is set for today during the afternoon.
