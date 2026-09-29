@@ -1,0 +1,17 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving thermal mapping of a specific area in Colombia. Our mission is to gather essential data on heat signatures and surface temperature profiles for Cubarral, which is located within the country's geographical boundaries.
+
+The priority level for this task is High Importance, signifying that it's an absolute institutional priority and a binding contract requirement. We're dealing with a mandatory directive that involves capturing thermal anomalies and mapping heat emissions in Cubarral. This request carries significant weight in our baseline pipeline tracking setup, as it represents normal operational status with fixed parameters.
+
+The primary sensor we're utilizing for this mission is the TIR (Thermal Infrared) sensor, which will provide us with invaluable insights into the thermal dynamics of the region. We aim to capture high-resolution optical snapshots for daylight photography and true-color visual documentation that can help us understand the complex thermal patterns in Cubarral.
+
+We're setting a strict deadline for data availability, needing the products by the day after tomorrow in the morning. This means we require the data to be ingested into our pipeline before the day after tomorrow's overnight block. We're treating this task as an urgent operational execution that cannot be preempted or rescheduled.
+
+Please ensure that the data products are ready for delivery by the specified deadline, as adherence to this timeline is crucial for our ongoing operations and decision-making processes. We appreciate your team's expertise in handling such critical tasks efficiently and look forward to receiving the data promptly.
+
+Thank you for your attention to this matter, and we're counting on your support to meet these high standards of operational excellence.
+
+Best regards,
+[Your Name]
+[Your Position]

@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request that falls under the category of 'High Importance'. Our mission involves capturing a detailed view of the Ecuatorial region in Indonesia using the VNIR sensor. This task is critical for assessing the health and productivity of local vegetation, which plays a crucial role in our ongoing environmental monitoring program.
+
+The primary objective is to gather high-resolution multispectral data that will help us understand the chlorophyll absorption levels across various ecosystems. This information is vital for predicting crop yields and managing natural resources effectively. We aim to achieve this through an active radar scan using microwave surface imaging, which will allow us to penetrate cloud cover and capture ground geometry with precision.
+
+We're setting a strict deadline for delivering these data products by the day after tomorrow, in the morning. This means that we need the raw data ingested into our pipeline before the sun rises on that day. We understand the importance of adhering to this deadline as it directly impacts our ability to make timely decisions based on the data.
+
+Please ensure that our request is prioritized accordingly and that the satellite constellation is allocated to capture this data promptly. We appreciate your team's dedication to meeting these requirements and look forward to receiving the data products in a timely manner.
+
+Thank you for your attention to this matter, and we're looking forward to working with you on this important task.
+
+Best regards,
+[Your Name]
