@@ -1,0 +1,3 @@
+We're looking to capture near-infrared reflection data for water body boundary mapping in San Alberto, Colombia. This is a low priority importance task with a flexible schedule; however, we aim to have the initial findings ready by tomorrow morning at the latest. Feel free to drop or reschedule this background survey as needed, keeping in mind that while it's not urgent, timely processing would be appreciated for our ongoing environmental monitoring efforts.
+```prompt
+...your text here...
