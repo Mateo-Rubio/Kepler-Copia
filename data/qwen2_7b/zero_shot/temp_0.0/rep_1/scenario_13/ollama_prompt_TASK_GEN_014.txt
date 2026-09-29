@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Norte, a region in Brazil, for daylight photography purposes. This is a low priority importance request, so we're treating it as a flexible schedule task that can be dropped or rescheduled at convenience. The goal here is to document the area with clear optical imagery and true-color visual details.
+
+We're aiming to have this data by the target day, which is in three days, with a strict delivery deadline set for overnight. This means we need the products ingested into our pipeline before the next day's overnight block. We're not looking for any specific time within the night; just ensure that the data is ready by then.
+
+Thank you for your attention to this background survey task. We appreciate your cooperation in meeting these requirements.

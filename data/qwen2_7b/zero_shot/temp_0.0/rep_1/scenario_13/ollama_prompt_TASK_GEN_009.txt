@@ -1,0 +1,8 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for tomorrow's evening timeframe. Our focus is on thermal mapping in Indonesia, specifically within the city of Pulang Pisau. We're looking to capture a heat signature and surface temperature profile for this area using our thermal imaging capabilities. This request carries medium importance as it involves monitoring critical environmental conditions that require timely analysis.
+
+The deadline for delivering these data products is set for tomorrow evening, ensuring they are ingested into the pipeline before then. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your attention to this standard operational task and look forward to receiving the results in due time.
+
+Thank you for your cooperation and understanding in meeting this deadline. Should there be any issues or if you require further clarification, please feel free to reach out. Have a great day!
+
+Best regards,
+[Your Name]
