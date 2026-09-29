@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution for a critical payload capture involving a high-resolution optical snapshot of Colombia's beautiful city of Aguazul. This task is of the highest importance and requires immediate attention due to its binding contract requirement.
+
+Our primary sensor of choice for this mission is the VNIR, which will provide us with invaluable data on the chlorophyll absorption levels across various vegetation types in the region. We aim to capture this essential information in daylight photography format, ensuring a true-color visual documentation that will be crucial for our ongoing research projects.
+
+We are setting a strict deadline for the delivery of these data products, needing them by tomorrow morning at the latest. This deadline is not negotiable and represents an absolute institutional priority. We understand the importance of adhering to this timeline as it directly impacts our operational status and workflow updates.
+
+Please ensure that the products are ingested into our pipeline before tomorrow's overnight block, as per our operational guidelines. We appreciate your swift action in addressing this request and look forward to receiving the data promptly. Thank you for your attention to this matter.
