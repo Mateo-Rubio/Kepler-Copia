@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Pradis di Sopra, Italy during tomorrow nighttime. This is a low priority importance task with flexible scheduling; please drop or reschedule at your convenience as it serves as an opportunistic background filler for our ongoing surveillance efforts. The data products are expected to be ready by the day after tomorrow overnight and should be ingested into our system promptly following their acquisition.
+```prompt
