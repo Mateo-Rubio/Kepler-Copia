@@ -1,0 +1,11 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+The mission objective is to capture a high-resolution thermal map of the region, specifically focusing on the heat signature and surface temperature profile. The location of interest is in Italy, near Povici di sotto, where we need to capture a clear thermal image of the area.
+
+This task is an absolute institutional priority, as it involves a critical payload capture that is binding contractually. We require an urgent operational execution with an un-preemptable mission lock, and the data must be ready by in four days in the morning at the latest.
+
+The primary sensor to be used for this task is thermal infrared (TIR), which will enable us to capture a high-resolution thermal map of the region. This will help us assess the heat signature and surface temperature profile of the area, allowing us to identify any thermal anomalies or heat emissions.
+
+We need to ensure that the products are ingested into the pipeline before in four days in the morning, as this is a strict delivery deadline. The data must be ready by then, and any delays will compromise the mission's success.
+
+Please translate this request into a natural user request for the satellite constellation planner.
