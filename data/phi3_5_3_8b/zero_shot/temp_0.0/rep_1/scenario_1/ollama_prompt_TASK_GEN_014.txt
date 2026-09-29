@@ -1,0 +1,1 @@
+We need a standard operational tasking to capture an active radar scan using microwave surface imaging in Norte, with a strict delivery deadline set for tomorrow around mid-day. This will be part of our routine monitoring and baseline pipeline tracking setup, ensuring the products are ingested into the system before the specified time frame.
