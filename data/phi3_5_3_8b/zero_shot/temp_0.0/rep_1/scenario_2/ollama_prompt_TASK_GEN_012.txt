@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging in Sanggau, Indonesia. This task is of low priority importance and needs to be completed by the day after tomorrow morning at the latest for opportunistic capture purposes. Please consider this as a non-essential background filler task that can be dropped or rescheduled according to convenience.
+```prompt
