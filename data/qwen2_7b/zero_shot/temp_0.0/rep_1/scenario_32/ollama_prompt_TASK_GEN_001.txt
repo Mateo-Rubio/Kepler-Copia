@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture thermal mapping data for the region of Colombia, specifically focusing on the city of Tame. We aim to gather information about heat signatures and surface temperature profiles in this area.
+
+Given the nature of our request, we're looking at a routine monitoring task that doesn't require immediate attention. We understand that there might be other higher priority tasks in your queue, so please feel free to drop or reschedule this task as per your operational schedule. Our main goal is to provide you with a non-essential background survey that can help us better understand the thermal dynamics of the region.
+
+We're targeting delivery by the day after tomorrow, specifically during the overnight period. This means we need the data products ingested into our pipeline before the day after tomorrow's nightfall. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this task request. We look forward to receiving the thermal mapping data that will contribute to our ongoing research efforts.
+
+Best regards,
+[Your Name]

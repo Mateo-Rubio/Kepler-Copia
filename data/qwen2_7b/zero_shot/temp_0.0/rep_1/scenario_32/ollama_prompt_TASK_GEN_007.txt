@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an operational mission that requires your immediate attention. Our priority is to capture high-resolution data on the region of Colombia, specifically focusing on the city of Tarazá using our active radar scan capabilities. This is a low priority importance request, but we do emphasize the need for flexibility in scheduling as this task can be dropped or rescheduled at convenience if necessary.
+
+The primary objective here involves an "active radar scan" that will provide us with "microwave surface imaging", allowing us to pierce through heavy weather conditions and capture ground geometry. This is crucial for our baseline pipeline tracking setup, representing normal operational status with fixed parameters.
+
+We're aiming to deliver this data by the target day, which is in three days, with a strict delivery deadline set for overnight at the latest. This means ensuring the products are ingested into the pipeline before the target day's overnight block. We understand the urgency and appreciate your prompt action to meet this deadline.
+
+Thank you for your attention to this task. We look forward to receiving the data that will contribute to our ongoing monitoring efforts in this region.

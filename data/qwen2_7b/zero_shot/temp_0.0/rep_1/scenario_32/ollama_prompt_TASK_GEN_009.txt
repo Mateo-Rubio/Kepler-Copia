@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture a near-infrared reflection for water body boundary mapping or soil moisture assessment in the region of Malaysia, specifically focusing on the city of Tatau. This is part of a background survey task designed to discriminate gradients in the area.
+
+The primary sensor we're utilizing for this mission is the near-infrared (NIR) sensor, which will help us map water bodies and assess soil moisture levels accurately. We aim to gather this data around mid-day tomorrow, ensuring that the products are ingested into our pipeline before the deadline set for that day's overnight block.
+
+We appreciate your understanding and flexibility in scheduling this task. If there are any issues or if it needs to be rescheduled at a more convenient time, please feel free to adjust as necessary. Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]
