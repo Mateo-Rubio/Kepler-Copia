@@ -1,0 +1,2 @@
+Ensure that we conduct an active radar scan using microwave surface imaging in Bossico, Italy, with a flexible schedule. We aim to capture cloud-penetrating images and map the ground geometry as part of our routine monitoring. The data is needed by the day after tomorrow morning at the latest for baseline pipeline tracking purposes. Please feel free to drop or reschedule this task at your convenience; it's a non-essential background filler task that can be adjusted according to current workload and satellite availability.
+```prompt
