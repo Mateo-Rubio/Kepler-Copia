@@ -1,0 +1,1 @@
+This is a binding contract requirement for a critical payload capture over Valle-di-Rostino, France. We need near-infrared reflection data for water body boundary mapping and soil moisture assessment. Ensure the products are ingested into the pipeline before the day after tomorrow around mid-day at the latest.
