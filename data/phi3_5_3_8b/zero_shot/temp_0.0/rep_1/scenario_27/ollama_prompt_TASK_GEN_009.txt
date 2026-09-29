@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis around midday in three days, aiming for high-resolution optical snapshots of chlorophyll absorption levels and surface reflectance. This is a non-essential background filler task that can be dropped or rescheduled at our convenience; however, we'd appreciate it if the data products are ingested into our pipeline before midday in three days to maintain our regular workflow update.
+```

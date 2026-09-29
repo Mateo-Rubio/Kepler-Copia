@@ -1,0 +1,2 @@
+We're looking to capture a high-resolution optical snapshot of Hiang Karya in Indonesia during tomorrow's overnight block, with an eye towards daylight photography. This task is marked as low priority importance and can be rescheduled at our convenience; however, we aim to have the data ready by then for routine monitoring purposes. Please ensure this becomes a non-essential background filler task in our workflow tracking system.
+```prompt
