@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Sabana de Torres, Colombia. We require a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index. Please schedule this task for overnight in three days. The data products are required by that deadline.
