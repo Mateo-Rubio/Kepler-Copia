@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for tomorrow nighttime, focusing on an active radar scan using microwave surface imaging over Ecuatorial city in Indonesia. This is part of our routine monitoring and should be integrated into the baseline pipeline tracking with fixed parameters representing normal operational status. The data must be ready by tomorrow's overnight block to ensure it can be ingested into our system without delay.
+```prompt
