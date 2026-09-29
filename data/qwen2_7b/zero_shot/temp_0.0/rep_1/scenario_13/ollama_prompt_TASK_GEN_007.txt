@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a near-infrared reflection snapshot of Puerto López, Colombia, during the afternoon tomorrow. This task is part of our standard operational pipeline tracking setup and represents a routine monitoring request with fixed parameters.
+
+Our goal is to assess soil moisture levels and water body boundaries using this data. We aim for high-resolution imagery that will provide us with valuable insights into the environmental conditions at this location.
+
+Please ensure that the products are ingested into our pipeline before tomorrow's overnight block, adhering to the strict deadline set for this task. This request is categorized as medium importance, and we appreciate your prompt attention to this standard operational tasking.
+
+Thank you for your cooperation and timely delivery of this critical payload capture.
+
+Best regards,
+[Your Name]
