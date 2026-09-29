@@ -1,0 +1,2 @@
+Ensure that we conduct a non-essential background survey of Norte's water bodies, capturing near-infrared reflections in the evening to assess soil moisture gradients. This task is flexible and can be dropped or rescheduled at our convenience; it's not urgent but should be completed by tomorrow night for a routine update within our baseline pipeline tracking system.
+```
