@@ -1,0 +1,3 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Bossico, Italia, using our SAR sensor. This is a low priority importance task, so we're treating it as a flexible schedule background survey or testbed tracking task. We aim to gather this data by the day after tomorrow in the morning, ensuring the products are ingested into the pipeline before then. The goal here is to get an active radar scan that can penetrate heavy weather and capture ground geometry for our purposes.
+
+Thank you for your attention to this request.

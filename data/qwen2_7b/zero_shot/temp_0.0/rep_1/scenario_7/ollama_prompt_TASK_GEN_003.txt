@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a high-resolution SAR scan of Malaysia, specifically focusing on Bukit Mabong. This mission is of absolute institutional priority and involves a critical payload capture that requires our most advanced radar technology to penetrate heavy weather conditions and capture ground geometry accurately.
+
+The operational deadline for this task is set for tomorrow morning, with a strict delivery deadline of "tomorrow in the morning" at the latest. We aim to ensure that the products are ingested into our pipeline before this time frame expires.
+
+This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It involves an active radar scan using microwave surface imaging technology for cloud-penetrating capture, which is essential for our ongoing monitoring and data collection efforts.
+
+Please treat this as a binding contract requirement involving a critical payload capture that must be executed with the utmost urgency and without any preemption of other missions. We appreciate your team's dedication to meeting these stringent deadlines and ensuring the quality and timeliness of our data products.
+
+Thank you for your attention to this matter, and we look forward to your swift response and action.
+
+Best regards,
+[Your Name]
