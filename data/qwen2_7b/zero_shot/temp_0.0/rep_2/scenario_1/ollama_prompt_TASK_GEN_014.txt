@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Norte, focusing on its unique topography and surface geometry. This task is part of our standard operational pipeline tracking, ensuring we maintain a baseline of information for this area.
+
+Given the importance of this request, we classify it as medium priority (Priority Level 2). While not an urgent mission lock or a critical payload capture, it's essential to us that this SAR scan be executed with precision and delivered promptly. We aim to have the data ready by tomorrow, around mid-day, adhering strictly to our deadline.
+
+Please note that this task is part of our normal operational status and represents fixed parameters for routine monitoring. We appreciate your team's flexibility in managing this request within your workflow updates.
+
+Thank you for your attention to this matter. We look forward to receiving the SAR imagery that will contribute to our understanding of Norte's landscape.

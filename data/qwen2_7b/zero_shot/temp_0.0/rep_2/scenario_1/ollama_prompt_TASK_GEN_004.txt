@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture a multispectral vegetation analysis using the VNIR sensor for a region in Colombia, specifically focusing on the city of Ibagué. This task aims to assess the chlorophyll absorption level across various ecosystems within the area.
+
+We're looking for high-resolution optical imagery that can provide us with true-color visual documentation of the landscape during daylight hours. The data collection should be executed with flexibility in scheduling, as this is a non-essential background filler task that we can drop or reschedule according to your operational needs.
+
+The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline by overnight. We're aiming to ensure that the products are ingested into our pipeline before the specified target day and diurnal period, adhering to the operational constraints without altering or extending the deadline.
+
+Thank you for your attention to this request. We appreciate your cooperation in managing this task within the outlined parameters.
+
+Best regards,
+[Your Name]
