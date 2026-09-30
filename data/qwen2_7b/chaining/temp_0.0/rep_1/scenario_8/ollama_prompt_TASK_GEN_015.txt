@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Indonesia's Ketapang region overnight tomorrow using the Near-Infrared (NIR) sensor for a standard operational tasking.
+
+The geographical context is set in Indonesia, with the focus on Ketapang city. The mission allocation priority is medium importance, indicating that this request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must reflect an authoritative tone without implying urgency or contractual binding.
+
+The primary sensor, Near-Infrared (NIR), aims to capture data for near-infrared reflection purposes, such as mapping water body boundaries or assessing soil moisture levels. This task is not time-sensitive and does not involve critical payload capture or mandatory directives; instead, it's a routine monitoring activity that fits into our standard workflow update.
+
+The delivery deadline is set for tomorrow overnight, which means the upper limit for data availability is strictly by this time. The request must be inserted verbatim, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task involves observing Indonesia's Ketapang region overnight using the Near-Infrared sensor for standard operational monitoring purposes. This activity aligns with our baseline pipeline tracking setup and represents normal operational status. The deadline for data availability is tomorrow overnight, as specified.
