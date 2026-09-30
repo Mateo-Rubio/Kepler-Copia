@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis tonight in Kutai Kartanegara, Indonesia. This is a non-essential background filler task with a flexible schedule; please drop or reschedule at your convenience as it has low priority importance. The goal is to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. We need this data by tonight's overnight block, so we can ingest it into our monitoring pipeline promptly.
+```
