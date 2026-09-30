@@ -1,0 +1,3 @@
+We're looking to capture near-infrared reflection data for water body boundary mapping in Ecuatorial, Indonesia. This is a low priority importance task with a flexible schedule; however, we aim to have the information ready by three days from now in the evening at the latest. Please consider this as an opportunistic capture that can be dropped or rescheduled according to convenience. It's essentially a background survey for our ongoing environmental monitoring efforts.
+```prompt
+</TEXT>

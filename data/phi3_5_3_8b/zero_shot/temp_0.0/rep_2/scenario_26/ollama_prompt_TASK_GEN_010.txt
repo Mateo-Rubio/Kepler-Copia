@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for Puerto López, Colombia, with an emphasis on capturing high-resolution radar scans using microwave surface imaging. This is part of our routine monitoring and should be completed within three days by the upcoming evening deadline. The data will then be integrated into our baseline pipeline tracking system to maintain normal operational status or workflow updates.
+```
