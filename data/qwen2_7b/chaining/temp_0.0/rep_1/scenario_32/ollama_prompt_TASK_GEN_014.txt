@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data from the region of "Italia", specifically focusing on the city of "Pranzalito". This location will be observed using an advanced SAR sensor, which will perform an active radar scan employing microwave surface imaging. The goal is to penetrate heavy weather conditions or capture ground geometry with precision.
+
+This request carries a high priority level, indicating it's an absolute institutional priority or a binding contract requirement involving a critical payload capture. We must execute this task urgently and ensure it's not pre-empted by any other mission, as it represents a mandatory directive.
+
+The deadline for this task is "in three days overnight", which means the data availability upper limit is set for the period between midnight and early morning on the third day from now. This timeframe is crucial for capturing specific phenomena that are best observed under these conditions.
+
+In summary, our request involves observing "Italia" with a focus on "Pranzalito" using an advanced SAR sensor to perform an active radar scan during the overnight period three days from now. This task carries high importance and must be executed with urgency, ensuring it's not pre-empted by other missions. The deadline is strictly set for the overnight period of the third day, emphasizing the need for timely data collection under specific conditions.
