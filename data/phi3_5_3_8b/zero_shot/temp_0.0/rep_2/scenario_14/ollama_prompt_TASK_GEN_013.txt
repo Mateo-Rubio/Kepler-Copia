@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging over Colombia, specifically in Suratá. This task is of low priority importance and should be completed within the next three days around mid-day. Please ensure that this data can be integrated into our regular monitoring workflow by then. If there are any conflicts or if it's more convenient to reschedule, feel free to let us know as we have some flexibility with this background survey task.
+```
