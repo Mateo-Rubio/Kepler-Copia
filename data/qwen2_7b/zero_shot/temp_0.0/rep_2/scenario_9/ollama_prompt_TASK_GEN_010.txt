@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a low priority importance task, which is a flexible schedule background survey for our operational needs. The mission involves assessing vegetation health using a VNIR sensor, aiming to gather data on chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+The geographical context is set in Colombia, specifically in the city of Puerto Wilches. We're targeting this task for the day after tomorrow, with a strict delivery deadline set for that day in the morning. This request falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
+
+Please note that this task is a non-essential background filler task and can be dropped or rescheduled at your convenience. We appreciate your understanding and flexibility in accommodating this request within your operational schedule. Thank you for your attention to this matter.

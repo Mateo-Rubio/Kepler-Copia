@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled with flexibility and convenience. Our focus is on the Indonesian region, specifically in an area known as Ecuatorial City, which is a unique location for our observational needs.
+
+Our primary sensor requirement is the VNIR (Visible Near-Infrared) sensor, which will be used for a vegetation analysis task. This involves assessing the chlorophyll absorption levels and calculating the NDVI index to understand surface reflectance patterns in this region. We're aiming for high-resolution data that captures the essence of the vegetation's health and diversity.
+
+We're looking to capture this data by tomorrow, with a strict delivery deadline set for overnight. This means ensuring the products are ingested into our pipeline before the day ends, allowing us to process and analyze them efficiently without any delays.
+
+Thank you for your understanding and cooperation in scheduling this task. We appreciate your flexibility and look forward to receiving the data as per our request.
+
+Best regards,
+[Your Name]
