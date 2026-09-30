@@ -1,0 +1,1 @@
+We need a low priority importance VNIR capture for multispectral vegetation analysis over Singkep, Indonesia. This is a flexible schedule task for opportunistic capture and can be dropped or rescheduled at convenience. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index. We need the data in four days in the morning.
