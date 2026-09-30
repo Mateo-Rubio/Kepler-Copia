@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Primorsko-goranska županija region in Hrvatska using a VNIR sensor during the target day of tomorrow afternoon.
+
+Primorsko-goranska županija, a picturesque coastal area in Croatia, is our geographic focus. We aim to capture high-resolution optical snapshots for daylight photography and true-color visual documentation of this beautiful region. The VNIR sensor will provide us with valuable insights into the chlorophyll absorption levels and surface reflectance, enabling us to assess vegetation health and environmental conditions.
+
+This task is classified as a low priority importance request, with flexible scheduling and a 'drop or reschedule at convenience' approach. It's explicitly framed as a non-essential background filler task, fitting well into our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language used reflects a casual, highly flexible tone, treating this as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module: "tomorrow during the afternoon." This phrase is inserted verbatim into our request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day. Our focus remains on delivering accurate and meaningful data that contributes to our understanding of the region's environmental conditions.
+
+In conclusion, this task request encapsulates our operational guidelines, translating technical metadata into a natural and conversational English request that aligns with our mission's priorities and deadlines.
