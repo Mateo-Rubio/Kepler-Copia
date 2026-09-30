@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving thermal mapping of the region in Colombia, specifically focusing on Bolívar. This task is of paramount importance and requires your immediate attention due to its high priority level.
+
+Our objective is to gather detailed thermal data that will help us understand heat signatures and surface temperature profiles across the area. We're looking for a comprehensive thermal mapping that can assist in detecting any potential anomalies or heat emissions, which could be crucial for various applications such as environmental monitoring or disaster response planning.
+
+Given the nature of this request, we're targeting an active radar scan using microwave surface imaging capabilities to ensure that our data is cloud-penetrating and captures ground geometry accurately. This will allow us to gather precise information even under adverse weather conditions.
+
+We need this data by tomorrow evening at the latest, ensuring that the products are ingested into our pipeline before then. This deadline is non-negotiable as it's part of a binding contract requirement involving a critical payload capture.
+
+Please note that this task carries a high level of importance and should be treated with the utmost priority. We appreciate your team's expertise in handling such requests efficiently and look forward to receiving the data products that will help us achieve our operational goals.
+
+Thank you for your attention to this matter, and we're looking forward to your prompt response.
+
+Best regards,
+[Your Name]
