@@ -1,0 +1,3 @@
+I would like to submit a standard operational tasking for a multispectral vegetation analysis over the region of Norte in Italy. This task involves capturing data to assess chlorophyll absorption levels and calculate the NDVI index, which is part of our baseline pipeline tracking setup with fixed parameters. The request should be treated as a routine monitoring activity within our normal operational workflow.
+
+Please ensure that this data is ready for delivery by the afternoon in three days at the latest. This will help us maintain our standard operational status and keep our workflow updated efficiently.
