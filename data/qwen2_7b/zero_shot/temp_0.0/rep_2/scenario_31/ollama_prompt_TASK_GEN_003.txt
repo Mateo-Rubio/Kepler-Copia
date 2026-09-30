@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for today's evening period. Our focus is on capturing near-infrared reflection data from Indonesia, specifically from the equatorial region. We're looking to assess water body boundaries and soil moisture levels in this area.
+
+Our mission involves a routine monitoring setup with fixed parameters that represent our normal operational status. This request is part of our baseline pipeline tracking efforts, ensuring we maintain standard workflow updates. The deadline for delivering these data products is set for today's evening period at the latest. We aim to ensure that the products are ingested into our pipeline before this time.
+
+Please note that this task carries a medium importance level and adheres to our contractual obligations. It's not an urgent operational execution or a binding contract requirement involving a critical payload capture, but it's essential for our ongoing monitoring activities. We appreciate your attention to this request and look forward to receiving the data products by today's evening.
+
+Thank you for your cooperation and understanding in managing this task within our operational guidelines.
