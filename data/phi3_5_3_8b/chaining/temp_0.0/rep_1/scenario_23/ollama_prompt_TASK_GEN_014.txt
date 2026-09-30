@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a specific operational directive to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here are the details:
+
+We require today's afternoon session to conduct thermal mapping over Corte, France, with an emphasis on capturing surface temperature profiles and identifying any potential thermal anomalies. This task is part of our routine monitoring efforts aimed at understanding local heat dynamics within this region. The request must be framed as a standard operational tasking that aligns with the normal workflow update for Corte, France.
+
+The satellite assets are to perform an active radar scan using microwave surface imaging technology, which is essential for cloud-penetrating capture and detailed ground geometry analysis even under adverse weather conditions. This objective falls within our baseline pipeline tracking setup, ensuring comprehensive environmental monitoring capabilities.
+
+Given the nature of this task, it has been assigned a priority level that reflects its importance in maintaining continuous data flow for Corte's climate studies without disrupting other critical operations. The request must convey an urgency to secure these high-resolution thermal images and radar scans within today's afternoon window as part of our ongoing commitment to environmental stewardship and scientific inquiry.
+
+The finalized operational directive, incorporating all the specified elements from the metadata, should read:
