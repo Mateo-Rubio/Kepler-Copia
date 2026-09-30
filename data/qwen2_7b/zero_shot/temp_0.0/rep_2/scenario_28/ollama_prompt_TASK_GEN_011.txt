@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a low priority importance task, which is part of our flexible schedule for opportunistic data collection. Our objective involves assessing vegetation health through a multispectral VNIR sensor, aiming to gather information on chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+The region of interest is Norte, although we're not specifying a country due to the lack of details. We're targeting the day after tomorrow with a strict delivery deadline set for the morning. This task falls under our background survey category, where we can drop or reschedule it at convenience if needed.
+
+We appreciate your attention to this non-essential background filler task and look forward to receiving the data products before the deadline is met. Thank you for your cooperation in ensuring the products are ingested into our pipeline before the set time.
+
+Best regards,
+[Your Name]

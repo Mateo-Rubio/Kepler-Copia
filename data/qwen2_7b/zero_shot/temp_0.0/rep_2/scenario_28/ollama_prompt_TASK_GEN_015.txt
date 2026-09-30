@@ -1,0 +1,12 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a low priority importance task for an Earth observation mission. This task involves capturing data using a VNIR sensor, which will be used for multispectral vegetation analysis. The goal is to assess the chlorophyll absorption level and calculate the NDVI index to understand surface reflectance.
+
+The region of interest is located in Malaysia, specifically in Rumah Budak. Given the nature of this request, it's important to note that we're looking at a flexible schedule for opportunistic capture, treating this as a background survey or testbed tracking task.
+
+We aim to deliver the data products by the target day, which is four days from now, with a strict delivery deadline set for overnight. This means ensuring the products are ingested into the pipeline before the target day's overnight block.
+
+Thank you for your attention and cooperation in fulfilling this request.
+
+Best regards,
+[Your Name]
