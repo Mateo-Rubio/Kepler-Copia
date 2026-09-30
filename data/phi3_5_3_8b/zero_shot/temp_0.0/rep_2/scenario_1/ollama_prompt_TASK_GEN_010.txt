@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in El Castillo, Colombia, during tomorrow's afternoon block. This is a low priority importance task with flexible scheduling; please drop or reschedule at your convenience as it serves as non-essential background filler for our ongoing surveys and testbed tracking tasks. The data products are needed by in three days afternoon at the latest to ensure they're ingested into our pipeline timely.
+```
