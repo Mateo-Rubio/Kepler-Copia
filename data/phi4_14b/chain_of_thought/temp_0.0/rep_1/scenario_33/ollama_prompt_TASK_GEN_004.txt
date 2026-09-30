@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The deadline specified is for "tomorrow in the morning." There is no indication or allowance to shift this deadline to any other part of the day. It is critical to adhere strictly to this timeframe as it represents a strict operational deadline for delivering the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an opportunistic capture in Zetaquira, Colombia. This task involves using near-infrared reflection to map water body boundaries and assess soil moisture levels. Given its flexible schedule, please feel free to drop or reschedule this non-essential background filler task at your convenience. We aim to complete this background survey by tomorrow morning.
