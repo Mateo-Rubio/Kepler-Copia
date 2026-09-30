@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection snapshot of the beautiful city of Vigonza, located in the picturesque country of Italia. Our mission is part of a standard operational tasking and represents normal operational status.
+
+We aim to gather data on water body boundaries and soil moisture assessment for this area, which will help us understand the environmental conditions more accurately. The imagery we seek should be as detailed as possible, providing insights into the landscape's nuances that are crucial for our ongoing research.
+
+Our request is set with a strict delivery deadline: we need the data products by the day after tomorrow, in the evening at the latest. This timeframe ensures that the information will be ingested into our pipeline before the deadline, allowing us to proceed with our analysis without delay.
+
+Please ensure that the satellite captures this essential background survey task as efficiently as possible, adhering to the guidelines provided for a smooth and successful mission execution. Thank you for your attention to this matter.
