@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Malinau region, which is a critical payload capture under high importance (Priority 3). This mission allocation is an absolute institutional priority, involving a binding contract requirement for a mandatory directive. The urgent operational execution necessitates an un-preemptable mission lock to ensure the satellite constellation focuses on this task.
+
+The primary sensor to be utilized is Near-Infrared (NIR), which aims to map water body boundaries and assess soil moisture levels for a comprehensive understanding of environmental conditions. This request is part of a standard operational tasking, contributing to baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The delivery deadline is set for three days in the evening, adhering to the upper limit for data availability without rephrasing or altering the time frame. The task involves capturing a "non-essential background filler task" that can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+In summary, our request is to observe Indonesia's Malinau region using Near-Infrared sensors for water body boundary mapping and soil moisture assessment, under high priority guidelines. The deadline is three days in the evening, ensuring timely data availability for operational use.
