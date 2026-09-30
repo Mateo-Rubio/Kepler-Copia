@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing San Gil, Colombia, which is a picturesque town nestled in the Colombian Andes. This location requires capturing high-resolution optical imagery for daylight photography, clear optical imagery, and true-color visual documentation to showcase its natural beauty and cultural heritage.
+
+The mission allocation priority is medium importance, indicating that this request falls under standard operational tasks or commercial tasking within our baseline pipeline tracking setup. We're dealing with fixed parameters representing normal operational status or a routine monitoring activity that doesn't require urgent execution but maintains the integrity of our workflow updates.
+
+The primary sensor to be utilized is VNIR (Visible Near-Infrared), which will enable us to assess chlorophyll absorption levels and calculate the vegetation NDVI index for environmental monitoring purposes. This task aims to provide insights into the health of local ecosystems, supporting conservation efforts and agricultural management in the region.
+
+The delivery deadline is set for "the day after tomorrow during the afternoon," which means we must ensure that our satellite constellation captures this data within these specific hours. This timeframe is crucial for optimizing the quality of the imagery and ensuring that it aligns with our operational schedules.
+
+In summary, our request involves capturing high-resolution optical imagery of San Gil, Colombia, using VNIR technology, as part of a standard operational tasking activity. The deadline for this task is "the day after tomorrow during the afternoon," emphasizing the importance of adhering to this specific time slot for optimal data collection and analysis.

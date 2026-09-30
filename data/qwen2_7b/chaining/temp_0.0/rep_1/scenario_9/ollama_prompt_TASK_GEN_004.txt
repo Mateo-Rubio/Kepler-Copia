@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data from the region of Colombia, specifically focusing on the city of San Martín. This location requires an organic interpretation of the provided JSON parameters without resorting to raw technical system tags or coordinate arrays. The request aims to combine the 'country', 'city', and 'landmark' fields naturally, describing the location using realistic combinations that include the clean 'region_name' if necessary.
+
+The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This implies an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be utilized is 'TIR', which will be employed for thermal mapping purposes. The goal is to capture a heat signature, surface temperature profile, or perform thermal anomaly detection and mapping of heat emissions. This physical objective requires a natural weaving of operational objectives and descriptors into the request, emphasizing the importance of understanding heat signatures and mapping heat emissions.
+
+The delivery deadline stipulates that the task must be completed by "the day after tomorrow during the afternoon". This phrase must be inserted verbatim into the request as the stated upper limit for data availability. The deadline does not require raw UTC timestamps, digits, or countdown metrics.
+
+In conclusion, this task request integrates the provided metadata in a manner that respects operational guidelines, ensuring a natural and accurate representation of the Earth-observation mission's objectives and priorities.

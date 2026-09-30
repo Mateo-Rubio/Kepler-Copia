@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region named "Conca", located in France's picturesque landscapes. This daylight photography aims to provide clear optical imagery and true-color visual documentation for our mission's requirements.
+
+Given the priority level of 3, this task is an absolute institutional priority, involving a critical payload capture that must be executed with urgency and without any preemption. It represents a binding contract requirement with fixed parameters, indicating normal operational status and a part of our baseline pipeline tracking setup.
+
+The primary sensor to be utilized is VIS (visual imagery), which will provide us with a comprehensive view of the region during the overnight period on "the day after tomorrow". This active radar scan using microwave surface imaging will pierce through heavy weather conditions, capturing ground geometry and ensuring cloud-penetrating capture.
+
+The delivery deadline for this task is set as "the day after tomorrow overnight", which serves as the upper limit for data availability. We must adhere to this phrase verbatim in our request, without any rephrasing or shortening.
+
+In conclusion, this low priority importance request is treated as a flexible schedule opportunity for opportunistic capture. It's labeled as a non-essential background filler task, where we explicitly note that it can be dropped or rescheduled at convenience. This task will serve as a background survey or testbed tracking task, contributing to our ongoing efforts in Earth observation and satellite constellation management.
