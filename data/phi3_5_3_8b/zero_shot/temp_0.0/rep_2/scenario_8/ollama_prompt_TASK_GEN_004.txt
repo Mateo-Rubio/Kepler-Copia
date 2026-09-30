@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Ituango, Colombia, using high-resolution optical snapshots for daylight photography. This is a non-essential background filler task that we can drop or reschedule at our convenience. We need the data products ready by tomorrow's morning block to ensure they are ingested into our pipeline on time. Please keep this flexible and opportunistic capture in mind, as it doesn't have an absolute institutional priority but is part of our routine monitoring efforts.
+```prompt
