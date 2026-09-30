@@ -1,0 +1,1 @@
+Schedule a low priority importance task for an active radar scan using microwave surface imaging over Bossico, Italia. This is a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience. The goal is cloud-penetrating capture to map the ground geometry.  Please aim to have the data available the day after tomorrow in the morning.
