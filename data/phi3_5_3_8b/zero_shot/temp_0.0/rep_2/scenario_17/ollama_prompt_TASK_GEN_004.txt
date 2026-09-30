@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Caramanta, Colombia, using high-resolution optical snapshots for true-color visual documentation. This is a low priority importance task with a flexible schedule; however, we aim to have the data ready by tomorrow evening at the latest as part of our routine monitoring efforts. Please ensure that this background survey or testbed tracking task can be dropped or rescheduled according to operational convenience but remember it's needed within three days in the evening for pipeline integration.
+```
