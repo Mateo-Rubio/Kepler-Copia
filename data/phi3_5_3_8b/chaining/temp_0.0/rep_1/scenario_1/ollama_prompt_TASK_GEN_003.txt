@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We need to conduct an overpass of Mamuju, Indonesia, focusing on thermal mapping using Thermal Infrared (TIR) technology. The goal is to capture heat signatures across the region to identify any potential thermal anomalies and create a comprehensive surface temperature profile. This task has been designated as low priority importance; hence, it can be scheduled flexibly with an understanding that it may need to be dropped or rescheduled at our convenience due to its non-essential nature in comparison to other operational demands.
+
+The targeted delivery for this data collection is set for the day after tomorrow around mid-day. This deadline has been established by upstream modules and must be adhered to strictly, as it represents the latest time we can expect fresh data without delaying subsequent mission phases or analysis processes.
+
+In summary, I am requesting a low priority TIR thermal mapping task over Mamuju, Indonesia, with an expected delivery of results by mid-day two days from now. This will serve as background surveillance and contribute to our broader environmental monitoring efforts without imposing on the higher-priority missions currently in operation.
