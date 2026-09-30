@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for an urgent operational execution. The priority level is set at 'High Importance', indicating an absolute institutional priority and a binding contract requirement involving a critical payload capture. This request is to be executed with an authoritative tone, emphasizing the necessity of an "urgent operational execution" and an "un-preemptable mission lock".
+
+The geographic context for this task involves Indonesia, specifically the city of Ecuatorial. The primary sensor required is 'SAR', which will perform an active radar scan using microwave surface imaging to capture cloud-penetrating data. This is essential for cloud-penetrating capture and ground geometry assessment, especially in heavy weather conditions.
+
+The mission allocation priority is set at 'High Importance', requiring a standard operational tasking that aligns with our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status and a workflow update. The deadline for this task has been resolved by an upstream module, with the upper limit for data availability being "tomorrow overnight".
+
+The physical objectives of this mission involve capturing high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation. This will provide invaluable insights into the landscape under various lighting conditions.
+
+In conclusion, this task is a critical payload capture that must be executed with utmost urgency and importance. The 'SAR' sensor will perform an active radar scan to gather cloud-penetrating data, essential for our operational needs. The deadline for this task is set for "tomorrow overnight", ensuring timely delivery of the required data.
