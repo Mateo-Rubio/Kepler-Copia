@@ -1,0 +1,3 @@
+I'd like to submit a low-priority task for an Earth-observation mission over Mesetas, Colombia. This is a flexible schedule request with a focus on opportunistic capture, so please feel free to drop or reschedule it at your convenience. The objective is to obtain a high-resolution optical snapshot using visible light sensors, capturing clear optical imagery and true-color visual documentation of the area.
+
+The data products are needed by the day after tomorrow around mid-day at the latest. This ensures they are ingested into the pipeline before that time. Thank you for accommodating this non-essential background filler task.
