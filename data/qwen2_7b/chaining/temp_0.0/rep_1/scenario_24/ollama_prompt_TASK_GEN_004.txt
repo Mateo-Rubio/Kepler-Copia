@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly prioritized mission allocation. The objective is to capture a comprehensive thermal mapping of the region surrounding Santa Sofía, Colombia, using our near-infrared (NIR) sensor. This critical payload capture is essential for assessing soil moisture levels and delineating water body boundaries with precision.
+
+Given the high importance of this task, I emphasize that it is an absolute institutional priority, involving a binding contract requirement with a mandatory directive for thermal anomaly detection and mapping heat emissions. The urgency of this operational execution necessitates an un-preemptable mission lock, ensuring that no other tasks are scheduled to interfere with this critical data collection.
+
+The target day for this task is the day after tomorrow, with the specific diurnal period being overnight. This deadline represents the upper limit for data availability, as stipulated by our upstream module. We must adhere to this timeframe without any rephrasing or adjustment of the phrase "the day after tomorrow overnight."
+
+In summary, this request is a standard operational tasking that requires meticulous attention and execution. The operational status is normal, with fixed parameters set for this baseline pipeline tracking setup. The mission's priority level reflects its importance in our workflow update, aligning with our routine monitoring activities.
+
+I trust that our automated satellite constellation planner will allocate the necessary resources to capture this essential data, ensuring that our mission objectives are met with the highest level of accuracy and reliability.
