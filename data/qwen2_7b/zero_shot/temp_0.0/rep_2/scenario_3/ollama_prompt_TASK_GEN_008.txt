@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled for our convenience. Our focus is on the beautiful region of Italia, specifically the charming town of Gazzola, where we aim to capture the essence of its natural beauty through a multispectral vegetation analysis.
+
+Our objective is to assess the chlorophyll absorption levels across various landscapes in Gazzola using near-infrared (NIR) sensors. This will help us understand the health and diversity of vegetation in the area, which is crucial for environmental monitoring and management purposes. We're looking for a "NDVI index" and surface reflectance data that can provide insights into the ecological conditions.
+
+We request this task to be executed as part of our background survey activities, with a flexible schedule that allows us to drop or reschedule at our convenience. The deadline for delivering the data products is set for three days from now, ensuring they are ingested into our pipeline before the overnight period on the target day. This timeframe aligns with our operational requirements and respects the urgency of the task without compromising quality.
+
+Thank you for your attention to this matter. We appreciate your cooperation in making this happen smoothly.
+
+Best regards,
+[Your Name]

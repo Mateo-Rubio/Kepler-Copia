@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture a multispectral vegetation analysis using the VNIR sensor for the region around Porto Recanati, Italy. We aim to assess the chlorophyll absorption levels and calculate the NDVI index as well as surface reflectance.
+
+The geographical context involves the beautiful coastal town of Porto Recanati in the picturesque country of Italia. We're looking to gather this data with a flexible schedule, treating it as a background survey or testbed tracking task. Our request is straightforward: we need high-quality multispectral imagery that will help us understand the vegetation health and land use patterns.
+
+We're targeting delivery by the day after tomorrow, in the morning, ensuring the products are ingested into our pipeline before then. This deadline is crucial for our ongoing research project on environmental monitoring and agricultural health assessment.
+
+Thank you for your attention to this task. We appreciate your cooperation in scheduling this request according to our guidelines.
+
+Best regards,
+[Your Name]
