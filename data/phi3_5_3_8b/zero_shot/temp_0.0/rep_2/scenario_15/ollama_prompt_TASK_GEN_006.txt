@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Sintang, Indonesia, using high-resolution optical snapshots for true-color visual documentation. This is considered a low priority importance task with a flexible schedule. We aim to have the data ready by tomorrow morning at the latest, ensuring it can be integrated into our regular monitoring workflow without disrupting other operations. Feel free to drop or reschedule this background survey if necessary, as we're not under any strict deadline for its completion.
+```prompt
