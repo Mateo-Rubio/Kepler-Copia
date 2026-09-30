@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for tomorrow in the morning. The priority level is set at High Importance (Priority 3), indicating an absolute institutional priority and a binding contract requirement involving a critical payload capture that must be executed urgently without any preemption.
+
+The geographical context of this mission revolves around Medio San Juan, Colombia, a region rich in biodiversity and agricultural activities. Our primary sensor for this task is the SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging to capture cloud-penetrating data. This will allow us to pierce through heavy weather conditions and capture ground geometry with unparalleled precision.
+
+The mission's objective is to gather detailed information about the region, focusing on its unique landscape and potential environmental challenges. The SAR imagery will provide invaluable insights into the area's topography, enabling us to monitor land use changes, assess infrastructure impacts, and support disaster management efforts.
+
+Given the nature of this request, it is explicitly framed as an "absolute institutional priority" or a "binding contract requirement". This means that the data must be collected promptly and accurately, reflecting our commitment to providing high-quality information for decision-making processes. The language used in this request heavily implies an "urgent operational execution" and an "un-preemptable mission lock", ensuring that all resources are allocated accordingly.
+
+In conclusion, this task is a standard operational tasking that requires immediate attention due to its high priority level. It is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. The data collected will contribute to our ongoing efforts in monitoring and understanding the Earth's dynamic systems, providing essential information for various stakeholders.
+
+Please ensure that the SAR imagery is captured in Medio San Juan, Colombia, tomorrow in the morning, adhering to the guidelines provided for this mission allocation priority. Thank you for your attention to this matter.

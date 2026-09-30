@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data on the day after tomorrow around mid-day over the region of Valle-di-Rostino, France. This location is described using the country and city fields from 'location_details', providing a realistic combination that avoids raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor specified is Near-Infrared (NIR), which aims to map water body boundaries and assess soil moisture for discriminating gradients. This goal is explained as capturing near-infrared reflection for water body boundary mapping or soil moisture assessment.
+
+In summary, this task request is for a low priority importance (Priority 1) background filler task that can be dropped or rescheduled at convenience, treated as a background survey or testbed tracking task. The naturalness and validation accuracy of the dataset are maximized by interpreting metadata organically according to these operational guidelines.
+
+The final request reads: "On the day after tomorrow around mid-day, our mission operator requests the capture of data over Valle-di-Rostino, France, using Near-Infrared sensors for water body boundary mapping and soil moisture assessment. This task is considered a standard operational tasking with fixed parameters, representing normal operational status or a routine monitoring part of a baseline pipeline tracking setup."
+
+This request integrates specific operational phrases to reflect the structural hierarchy of priority levels, avoids raw technical system tags or coordinate arrays, and weaves in natural language to explain physical phenomena based on sensor objectives. The delivery deadline is clearly stated as "the day after tomorrow around mid-day," adhering to the guidelines provided.
