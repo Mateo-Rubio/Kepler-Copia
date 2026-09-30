@@ -1,0 +1,7 @@
+Given the operational context and the specified parameters, our Earth-observation mission operator is tasked with capturing a near-infrared (NIR) reflection snapshot of the region in Indonesia, specifically focusing on Bangka Tengah. This request is categorized as a low priority importance task, implying that it can be accommodated within a flexible schedule without compromising critical operational workflows.
+
+The deadline for this data collection is set for today, with the primary focus on capturing imagery during the evening hours. The operator understands that this temporal constraint represents a strict operational deadline for delivering the data products, not altering the orbital capture window.
+
+To ensure the most accurate and relevant data, the mission will prioritize capturing the near-infrared reflection to map water body boundaries or assess soil moisture levels, which are crucial for environmental monitoring and agricultural management. The imagery acquired during this specific time of day is expected to provide valuable insights into the landscape's characteristics under low-light conditions.
+
+The operator acknowledges that this task may be treated as a background survey or testbed tracking task, with the understanding that it can be dropped or rescheduled at convenience without affecting the core operational priorities. The goal is to gather comprehensive data while adhering to the outlined parameters and respecting the deadline for delivering the evening's imagery.
