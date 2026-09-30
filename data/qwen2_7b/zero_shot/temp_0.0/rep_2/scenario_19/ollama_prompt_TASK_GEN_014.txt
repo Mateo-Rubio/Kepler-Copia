@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a multispectral vegetation analysis using VNIR sensors for an area in Northern Italy, specifically in the city of Norte. This task is part of our standard operational pipeline tracking setup and represents normal operational status.
+
+Our priority here is medium importance, meaning this request falls into our baseline workflow update category with fixed parameters that represent our normal operational status. We're aiming to assess chlorophyll absorption levels and calculate a vegetation NDVI index for the region.
+
+The deadline for delivering these data products is set for three days from now, during the afternoon period. We need to ensure that the products are ingested into our pipeline before this time frame ends. This task is crucial for our ongoing monitoring efforts and will contribute to our understanding of the local vegetation health.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting these requirements promptly.

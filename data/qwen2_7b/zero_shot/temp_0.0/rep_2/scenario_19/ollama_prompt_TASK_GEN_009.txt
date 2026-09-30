@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent request for a critical payload capture involving thermal mapping operations. Our focus is on Indonesia, specifically in the equatorial region, where we aim to gather comprehensive data on heat signatures and surface temperature profiles.
+
+Our primary sensor requirement is the TIR (Thermal Infrared) system, which will enable us to capture detailed thermal anomalies and map heat emissions across the region. This task is of absolute institutional priority, as it involves a binding contract requirement that necessitates an "urgent operational execution" and an "un-preemptable mission lock".
+
+We're looking for high-resolution optical snapshots as well, to ensure clear visual documentation of the area under consideration. The imagery should be true-color visual, providing us with a detailed picture of the landscape during daylight hours.
+
+The deadline for delivering these data products is set for tomorrow's overnight block, ensuring that they are ingested into our pipeline before the specified target day and diurnal period. This strict delivery deadline is crucial to meet our operational requirements.
+
+We appreciate your swift attention to this matter and look forward to your support in fulfilling this mission.
+
+Thank you,
+[Your Name]

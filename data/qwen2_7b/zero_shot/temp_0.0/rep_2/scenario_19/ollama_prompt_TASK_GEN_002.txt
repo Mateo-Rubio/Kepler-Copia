@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a high-resolution optical snapshot of Valle Castellana, located in beautiful Italia. Our primary sensor requirement is VIS, which we'll use for daylight photography and true-color visual documentation of the area.
+
+As this task falls under medium importance, it's part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. We're aiming to deliver these data products by the target day, which is in three days during the afternoon, ensuring they are ingested into the pipeline before that time.
+
+We appreciate your attention to this request and look forward to receiving the data as per our deadline.
+
+Thank you,
+[Your Name]
