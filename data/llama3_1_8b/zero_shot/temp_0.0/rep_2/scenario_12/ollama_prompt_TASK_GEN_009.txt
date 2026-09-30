@@ -1,0 +1,1 @@
+We require a standard operational tasking for multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and calculate a vegetation NDVI index in Malaysia, specifically in Kapit. The data must be ready by today in the evening at the latest.
