@@ -1,0 +1,1 @@
+This is a low priority importance request for an opportunistic capture. Please schedule a SAR active radar scan over the city of Norte. I need this data ingested into the pipeline before in three days overnight at the latest.  Feel free to drop or reschedule at your convenience, treating this as a background survey task.
