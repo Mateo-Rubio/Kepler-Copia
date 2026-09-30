@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a background survey task that doesn't require immediate attention and can be scheduled at your convenience.
+
+The objective is to capture multispectral vegetation data using VNIR sensors over the region of interest in Italia, specifically focusing on the city of Montaquila. The goal here is to assess the chlorophyll absorption levels across various vegetation types and calculate the NDVI index for each area. This will help us understand the health and productivity of the local flora.
+
+We're aiming to gather this data by tomorrow's overnight period at the latest, ensuring that the products are ingested into our pipeline before then. This task is not a critical payload capture or a mandatory directive; it's more of a testbed tracking task that fits into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention to this request. We appreciate your flexibility and look forward to receiving the data as per our agreed-upon schedule.
