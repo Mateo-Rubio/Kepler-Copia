@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture thermal mapping data for the region of Colombia, specifically focusing on the city of Tuluá. This request involves observing the heat signature and surface temperature profile of the area using our thermal imaging sensor (TIR).
+
+The operational context here is straightforward: we're looking for a high-resolution snapshot that will help us understand the thermal anomalies and heat emissions in the region. This task doesn't require any specific urgency, but we do need to ensure that the data products are ingested into our pipeline before the target day, which is three days from now, preferably during the overnight period.
+
+We appreciate your flexibility on this one and look forward to receiving the data as soon as possible. If there's any need to reschedule or drop this task due to other priorities, please feel free to do so at your convenience. This is a non-essential background filler task that complements our ongoing monitoring efforts.
+
+Thank you for your attention to this request.
+
+Best regards,
+[Your Name]
