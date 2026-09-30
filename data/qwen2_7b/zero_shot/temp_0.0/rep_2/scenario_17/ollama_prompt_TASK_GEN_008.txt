@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at a mission allocation for a medium importance task, which involves capturing an active radar scan using microwave surface imaging technology. This is for a location in Italy, specifically Giugliano in Campania. The primary objective here is to pierce through heavy weather conditions and capture ground geometry with precision.
+
+We're aiming for a standard operational tasking that aligns with our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status. This request is part of our routine monitoring activities and involves capturing data that will be used for cloud-penetrating capture.
+
+The deadline for delivering the data products to the user is set for three days from now, around mid-day. We're ensuring that the products are ingested into the pipeline before this time frame ends. This task is crucial for our ongoing projects and contributes to our commercial tasking and routine monitoring efforts.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request.
