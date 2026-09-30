@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region in Northern Italy, specifically focusing on the city of Norte. Our mission is part of our standard operational tasking and represents a baseline pipeline tracking setup with fixed parameters that reflect our normal operational status.
+
+We aim to gather this information using an active microwave surface imaging technique provided by our SAR sensor. The goal is to penetrate through any heavy weather conditions or clouds, capturing ground geometry and providing us with high-resolution data that will be invaluable for our ongoing projects.
+
+The urgency of this request is paramount as we need the data products delivered by tomorrow during the afternoon at the latest. This deadline is strictly set to ensure the products are ingested into our pipeline before the end of the day. We appreciate your team's commitment to meeting these requirements and look forward to receiving the data in time for our analysis.
+
+Thank you for your attention to this matter, and we trust that your automated system will handle this request with the care and precision it deserves.

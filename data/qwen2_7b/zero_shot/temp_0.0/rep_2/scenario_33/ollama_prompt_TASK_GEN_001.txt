@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an operational mission that involves capturing high-resolution data on the city of Dolores in Colombia using our active radar system (SAR). This is a low priority importance request, so please treat it as a flexible schedule background survey or testbed tracking task.
+
+The primary objective here is to conduct an active radar scan of the area, which will allow us to penetrate through heavy weather conditions and capture ground geometry. We're aiming for clear microwave surface imaging that will provide us with detailed information about the city's landscape and infrastructure.
+
+We need this data by tomorrow morning at the latest, ensuring the products are ingested into our pipeline before then. This deadline is strict and cannot be extended or altered in any way. Our goal is to gather thermal mapping data that will help us detect heat signatures and surface temperature profiles, which could be crucial for various applications such as urban planning and environmental monitoring.
+
+Thank you for your attention to this task. We appreciate your cooperation in meeting our operational guidelines and ensuring the naturalness and validation accuracy of the dataset. Please let me know if you need any further information or clarification on this request.

@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in the region of Rokan Hilir, Indonesia. This involves assessing gradients and distinguishing various soil types based on their moisture content.
+
+We're looking for a flexible schedule that allows us to drop or reschedule this task as needed, treating it as a background survey or testbed tracking task. Our request is straightforward: we need the data by the day after tomorrow, with a strict delivery deadline set for the overnight period. This means ensuring the products are ingested into our pipeline before the day after tomorrow's night time block.
+
+Thank you for your understanding and cooperation in managing this low-priority task request. We appreciate your flexibility and prompt attention to our needs.
+
+Best regards,
+[Your Name]
