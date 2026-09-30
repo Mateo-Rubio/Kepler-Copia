@@ -1,0 +1,17 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a high-resolution optical snapshot of the region around Licciana Nardi, Italia. This is an absolute institutional priority, as we require a clear optical imagery capture that will serve as a critical payload for our ongoing project. We aim to achieve this by capturing the essence of the area in daylight photography, ensuring every detail is visible and accurate.
+
+Our request involves utilizing our primary sensor, which operates in the VIS (visual spectrum) range, to gather data that will provide us with true-color visual documentation of the region. This task is part of a binding contract requirement involving a mandatory directive for our team. We're looking to capture this data by the day after tomorrow, in the evening, ensuring the products are ingested into our pipeline before then.
+
+This mission allocation carries a high importance level, as it involves a critical payload capture that must be executed with utmost urgency and without any preemption. We're treating this request as an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the need for immediate attention and action.
+
+Please note that this task is part of our baseline pipeline tracking setup, representing normal operational status and standard workflow updates. However, due to its high priority, we are requesting that all resources be allocated accordingly to ensure timely delivery.
+
+We appreciate your understanding and cooperation in meeting this deadline. Our team is looking forward to receiving the data products by the day after tomorrow, in the evening, as per our strict delivery deadline set for this task.
+
+Thank you for your attention and swift action on this matter.
+
+Best regards,
+[Your Name]
+[Your Position]

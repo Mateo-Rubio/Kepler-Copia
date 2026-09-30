@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking at a task that requires your immediate attention due to its high importance, as it involves a critical payload capture under a binding contract requirement. Our objective is to conduct an active radar scan using microwave surface imaging technology for cloud-penetrating capture of ground geometry. This is essential for our operations and must be executed with urgency.
+
+The geographical context is centered around Norte, though we're not specifying the country as it's not relevant to our task. We're focusing on capturing detailed imagery of this area using our SAR sensor, which will provide us with high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation.
+
+We're setting a strict deadline for data availability, needing the results by the target day at the latest, which is in three days overnight. This means we require the products to be ingested into our pipeline before the end of the night on that day to ensure timely processing and analysis.
+
+Please note that this task carries a flexible schedule for opportunistic capture, as it's labeled as a low priority importance request. We understand that there might be instances where this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+Thank you for your attention to this matter and we look forward to receiving the data products in accordance with our operational guidelines.
