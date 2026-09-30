@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing thermal mapping data over the region of Italia, specifically focusing on the city of Norte. This location requires an "absolute institutional priority" due to its importance, as it involves a "critical payload capture" that is part of a "binding contract requirement". The urgency of this mission allocation necessitates an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor to be utilized for this task is the TIR (Thermal Infrared), which will enable us to capture a "heat signature" or conduct "thermal anomaly detection" over the region. This process involves mapping surface temperatures and identifying heat emissions, essential for various applications such as environmental monitoring and disaster response.
+
+The delivery deadline for this task has been set as "in four days in the morning". This upper limit for data availability must be strictly adhered to, ensuring timely and accurate information is provided without any rephrasing or alteration of the phrase.
+
+In conclusion, this request embodies a high-priority operational task that requires meticulous attention to detail and adherence to strict guidelines. The goal is to provide comprehensive thermal mapping data over Italia's Norte region, utilizing the TIR sensor for an "unmatched level of precision" in capturing surface temperatures and heat emissions. This mission is part of our "standard operational pipeline tracking", representing a "critical component" of our baseline workflow.
+
+Let us proceed with the execution of this task, ensuring that all guidelines are followed to deliver the most accurate and valuable data possible.
