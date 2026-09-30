@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at a mission allocation for a standard operational tasking involving an active radar scan using microwave surface imaging technology, aimed at capturing cloud-penetrating data for a specific area in France, specifically the city of Norte. This request carries medium importance and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our priority here is to ensure that this standard tasking is executed efficiently without any preemption or delay. We're aiming for a delivery deadline set for the day after tomorrow, with a strict requirement that the data products are ingested into the pipeline before the overnight block of that day. This is crucial for maintaining our operational status and ensuring that all baseline tasks are completed on time.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request.
