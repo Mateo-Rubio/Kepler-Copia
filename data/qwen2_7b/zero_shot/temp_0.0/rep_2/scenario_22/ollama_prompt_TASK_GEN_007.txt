@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Sesquilé, Colombia, using an active microwave surface imaging technique. Our objective is to gather comprehensive data on the ground geometry and any cloud-obscured areas, ensuring we can penetrate through heavy weather conditions for accurate representation.
+
+This task falls under our low priority importance category, meaning it's a flexible schedule request that doesn't require immediate attention. We're treating this as a background survey or testbed tracking task, with no strict deadlines attached beyond the operational guidelines provided.
+
+We aim to have the data products ready by the target day, which is in three days, with a strict delivery deadline set for overnight. This means we need the data ingested into our pipeline before the end of the night on that day, ensuring it's available for processing without any extensions.
+
+Thank you for your attention and cooperation in fulfilling this request.
