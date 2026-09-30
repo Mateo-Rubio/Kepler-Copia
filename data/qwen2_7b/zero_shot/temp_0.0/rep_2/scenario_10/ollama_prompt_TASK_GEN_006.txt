@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for a routine monitoring activity involving the VNIR sensor. Our focus is on Indonesia, specifically the city of Simabur, where we aim to capture high-resolution optical snapshots for daylight photography and true-color visual documentation.
+
+The mission's priority level is set at medium importance, which means this request falls into our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're looking to gather data that will help us assess chlorophyll absorption levels and calculate the vegetation NDVI index along with surface reflectance.
+
+Given the urgency of this task, we need the data by the target day, which is in three days, with a strict delivery deadline set for the morning. This ensures the products are ingested into our pipeline before the deadline is met. We appreciate your attention to this request and look forward to receiving the data that will contribute to our ongoing monitoring efforts.
+
+Thank you for your cooperation and understanding.
