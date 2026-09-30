@@ -1,0 +1,7 @@
+In response to the urgent operational execution required by our binding contract with the Indonesian government for the Ecuatorial region, we are tasked with conducting a high-priority SAR scan tomorrow morning. This active radar scan aims to pierce through heavy weather conditions and capture detailed ground geometry using microwave surface imaging techniques. The deadline is strictly set for the morning of the target day, as per the operational guidelines provided.
+
+The primary objective is to ensure that our satellite constellation delivers critical data products by leveraging the unique capabilities of SAR technology in cloud-penetrating capture. This mission allocation is an absolute institutional priority, involving a mandatory directive for capturing essential information that cannot be pre-empted or rescheduled.
+
+Given the high importance and the need for immediate action, we are prepared to allocate our most advanced assets to this task, ensuring that the data collected will meet the highest standards of quality and reliability. The operational tone reflects the professional nature of this standard operational tasking, which is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that while this request carries a high level of importance, it does not affect the deadline for other tasks in our workflow update. This task is considered a non-essential background filler, allowing for flexibility in scheduling and can be dropped or rescheduled at convenience if necessary.
