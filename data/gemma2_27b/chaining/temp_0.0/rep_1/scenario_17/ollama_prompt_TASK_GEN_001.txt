@@ -1,0 +1,1 @@
+We need a non-essential background filler task for multispectral vegetation analysis in San Martín, Colombia. This is a low priority importance request with a flexible schedule for opportunistic capture. Please aim for near-infrared reflection to assess chlorophyll absorption levels and calculate a vegetation NDVI index.  The data should be delivered in four days overnight.
