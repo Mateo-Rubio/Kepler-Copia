@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The specified timeframe is strictly "in three days" and "around mid-day," which means the task must be completed by this exact time without any adjustments or extensions.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule, allowing for opportunistic capture in Suratá, Colombia. This is a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking to conduct an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the area's ground geometry. The data should be delivered by "in three days" and specifically "around mid-day."
