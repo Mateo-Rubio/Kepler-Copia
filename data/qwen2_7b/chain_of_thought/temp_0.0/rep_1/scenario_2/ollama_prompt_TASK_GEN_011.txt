@@ -1,0 +1,9 @@
+In response to the high-priority directive received from our esteemed institution, we are tasked with capturing a critical payload on behalf of a binding contract requirement involving the use of our VNIR sensor. This absolute institutional priority necessitates an urgent operational execution and an un-preemptable mission lock.
+
+The mission allocation is for a standard operational tasking that involves the capture of high-resolution optical imagery from the region of Italia, specifically focusing on the city of Fobello. The primary objective is to conduct a detailed daylight photography session, which will provide us with clear optical imagery and true-color visual documentation of the area.
+
+This tasking is scheduled for execution in three days, precisely during the morning hours when the conditions are most favorable for capturing high-quality images. The deadline represents a strict operational deadline to deliver the data products, not an orbital capture window.
+
+The imagery will be collected using our VNIR sensor, which will assess the chlorophyll absorption level and calculate the vegetation NDVI index, providing us with valuable insights into the health of the vegetation in the region. This task is part of our baseline pipeline tracking setup with fixed parameters that represent normal operational status.
+
+We are committed to delivering this critical payload capture as per the contractual obligations and operational guidelines set forth by our institution. The deadline for this mission is firmly set for three days from now, during the morning hours, and we will ensure that the data products meet the highest standards of quality and accuracy.
