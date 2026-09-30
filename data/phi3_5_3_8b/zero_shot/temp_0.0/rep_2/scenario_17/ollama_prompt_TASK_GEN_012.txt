@@ -1,0 +1,1 @@
+We need a standard operational tasking to capture an active radar scan using microwave surface imaging in Ecuatorial, Indonesia. This is part of our routine monitoring and should be completed within the next four days by tomorrow morning's overnight/nighttime block. The data will then be integrated into our baseline pipeline tracking system as per normal operational status.
