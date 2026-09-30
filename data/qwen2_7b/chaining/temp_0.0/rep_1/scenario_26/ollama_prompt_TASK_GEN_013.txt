@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Betulia, Colombia, which is a part of the broader region. We'll describe this location using the country and city fields provided in 'location_details'. Since there's no landmark specified, we'll combine these details to create a realistic description.
+
+The mission allocation priority for this task is set at Level 1 (Low Importance), indicating that it's a flexible schedule request with a "non-essential background filler task". The operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor involved in this observation is VNIR, which translates to "multispectral vegetation analysis". Our goal is to assess the "chlorophyll absorption level" and calculate the "NDVI index" for surface reflectance. This will help us understand the health and composition of vegetation in the area.
+
+The delivery deadline for this task has been resolved by an upstream module, stating that the data should be available "in four days overnight". We've inserted this phrase verbatim into our request, as it represents the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request to the satellite constellation planner is to capture a multispectral vegetation analysis of Betulia, Colombia, with a low priority importance and a flexible schedule. The deadline for data availability is set at "in four days overnight". This task aligns with our operational guidelines, ensuring natural language usage and accurate representation of the mission's objectives.

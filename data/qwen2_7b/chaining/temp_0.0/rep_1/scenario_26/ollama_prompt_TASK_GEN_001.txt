@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region named "Silvania", located in the country of Colombia. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the area, essential for detailed analysis and monitoring purposes.
+
+Given the priority level of 3 (High Importance), this mission allocation is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution and cannot be preempted. The language reflects an authoritative tone, emphasizing the binding contract requirement and the need for an un-preemptable mission lock.
+
+The primary sensor to be utilized is VIS (visual imagery), which will provide us with a comprehensive view of the region during the target day, "in three days", specifically in the evening period. This active radar scan using microwave surface imaging will allow cloud-penetrating capture, enabling us to pierce through heavy weather conditions and capture ground geometry accurately.
+
+The task is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status or a standard workflow update. It is a standard operational tasking that contributes to our commercial tasking and routine monitoring activities.
+
+In conclusion, this low priority importance request has a flexible schedule for opportunistic capture, labeled as a non-essential background filler task. The operator explicitly notes that it can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task is resolved by an upstream module, with the upper limit for data availability being "in three days in the evening". This phrase must be inserted verbatim into our request, without rephrasing, shortening, or moving it to a different part of the day. The request does not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, this task request encapsulates the essence of our Earth-observation mission, ensuring that the automated satellite constellation planner understands the operational context, priority level, sensor objectives, and delivery deadline with clarity and precision.
