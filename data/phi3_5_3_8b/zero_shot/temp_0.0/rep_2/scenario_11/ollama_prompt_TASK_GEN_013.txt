@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging over Restrepo, Colombia, with a focus on cloud-penetrating capture and ground geometry. This task is of low priority importance; therefore, it can be arranged flexibly. We aim to have the data ready by tomorrow morning at the latest for our routine monitoring purposes within the baseline pipeline tracking setup. Please consider this as an opportunistic capture that we can drop or reschedule according to convenience.
+```prompt
