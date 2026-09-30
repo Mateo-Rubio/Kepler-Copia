@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Colombia's Riofrío region using the Near-Infrared (NIR) sensor on a specific target day, which is "in three days", around mid-day.
+
+The geographic context is centered around Colombia, with Riofrío as the city of interest. This location is described using realistic combinations of country and city names, providing a vivid picture of the operational environment. The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is part of a flexible schedule for opportunistic capture tasks, acting as a non-essential background filler or testbed tracking task.
+
+The primary sensor, NIR, is tasked with capturing near-infrared reflection data to map water body boundaries and assess soil moisture. This involves a detailed analysis of surface reflectance, crucial for environmental monitoring and agricultural applications. The operational tone reflects the low priority importance, allowing for scheduling adjustments as needed.
+
+In summary, our request is to capture high-resolution optical imagery using the Near-Infrared sensor on Colombia's Riofrío region on "in three days", around mid-day, for water body boundary mapping and soil moisture assessment. This task aligns with our baseline pipeline tracking setup, maintaining normal operational status while acknowledging its low priority importance.
+
+Please ensure that this request is processed accordingly, respecting the flexible schedule for opportunistic capture tasks. Thank you for your attention to this matter.

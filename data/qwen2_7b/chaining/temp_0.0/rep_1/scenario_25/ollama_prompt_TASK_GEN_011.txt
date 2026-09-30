@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the picturesque region of Montepulciano, nestled in the heart of Italia. This location, known for its rich history and stunning landscapes, will be our focal point for detailed imagery acquisition. The primary sensor to be utilized is VIS (visual imaging), which will provide us with daylight photography, clear optical imagery, and true-color visual documentation of this beautiful city.
+
+Given the priority level of 3, this task is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution. We are bound by contractual obligations to ensure this mission's success, as it involves capturing essential data for our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status and a standard workflow update.
+
+The deadline for this task has been set for tomorrow around mid-day, which is the upper limit for data availability. We must adhere to this time frame without any rephrasing or adjustments.
+
+In conclusion, our request is to capture detailed VIS imagery of Montepulciano, Italia, with an emphasis on daylight photography and clear optical documentation. This task carries high importance, necessitating immediate attention and execution by our satellite constellation planner. Let us proceed with the mission allocation, ensuring that this critical payload capture is executed with the utmost priority and efficiency.
