@@ -1,0 +1,3 @@
+We're looking to capture near-infrared reflections for water body boundary mapping in Sebauh, Malaysia. This is a non-essential background filler task that we can drop or reschedule at our convenience. The data needs to be ready by the afternoon of the day after tomorrow as part of our routine monitoring efforts.
+```prompt
+...your text here...
