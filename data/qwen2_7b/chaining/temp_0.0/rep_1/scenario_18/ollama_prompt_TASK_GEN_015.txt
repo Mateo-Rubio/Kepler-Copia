@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Indonesian city of Ecuatorial using a near-infrared sensor on the target day, which is "the day after tomorrow", during the afternoon.
+
+The mission allocation priority is set at low importance, indicating that this request is part of a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task with a "drop or reschedule at convenience" note, treating it as a background survey or testbed tracking task. The operational tone is casual and highly flexible.
+
+The primary sensor, NIR, aims to map water body boundaries and assess soil moisture, providing critical information for environmental monitoring and agricultural applications. This request is not about the urgency of the deadline but rather about capturing this data during the specified time frame as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+In summary, our task involves observing Ecuatorial, Indonesia, using a near-infrared sensor on "the day after tomorrow" during the afternoon. This is a low priority importance request that fits into our standard workflow update, emphasizing flexibility and opportunistic capture within our normal operational status.

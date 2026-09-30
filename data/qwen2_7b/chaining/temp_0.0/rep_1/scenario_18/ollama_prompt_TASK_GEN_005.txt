@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing a high-resolution optical snapshot of the region named "Italia Norte", using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is "N/A", we'll describe the location using the remaining valid fields.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', which means this request is treated as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly framed as a "non-essential background filler task" that can be dropped or rescheduled at convenience, acting as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is 'VIS', which will provide us with a "true-color visual documentation" for daylight photography and clear optical imagery. This request aims to capture the essence of the region under natural light conditions.
+
+The delivery deadline is set for "the day after tomorrow in the evening". This phrase must be inserted verbatim into our request, as it represents the upper limit for data availability. We're not rephrasing or shortening this phrase and are not moving it to a different part of the day.
+
+In summary, our task request involves capturing a high-resolution optical snapshot of "Italia Norte" using a VIS sensor, with a flexible schedule for data collection on "the day after tomorrow in the evening". This low priority importance task is treated as a background survey or testbed tracking task, aligning with our operational guidelines for naturalness and validation accuracy.
