@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Tanjung Jabung Timur, located in Indonesia. This area requires a detailed thermal mapping operation using the TIR sensor, aiming to capture heat signatures and surface temperature profiles for critical applications such as thermal anomaly detection and heat emission mapping.
+
+Given the priority level of 3, this task is an absolute institutional priority, involving a binding contract requirement with a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock, reflecting the high importance of this request.
+
+The delivery deadline for this task is tomorrow in the morning, as stipulated by an upstream module. This phrase serves as the upper limit for data availability, without any rephrasing or alteration.
+
+In conclusion, our mission allocation involves a professional and standard operational tasking using the TIR sensor to gather thermal mapping data of Tanjung Jabung Timur in Indonesia. This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The high priority ensures that this task receives immediate attention and prioritization within our satellite constellation planning.
+
+Let's proceed with the execution of this critical mission, ensuring that we capture the necessary data for our clients' requirements and contribute to the advancement of Earth observation technology.
