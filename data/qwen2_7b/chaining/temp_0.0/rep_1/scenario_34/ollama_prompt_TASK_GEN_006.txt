@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing a high-resolution optical snapshot of the Ecuatorial region in Indonesia using a visible light sensor. This imagery will serve as daylight photography, providing clear optical details for documentation purposes.
+
+The mission allocation priority is set at low importance, indicating that this task is part of a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task, with the operator explicitly noting to drop or reschedule at convenience. This request aligns with our baseline pipeline tracking setup, representing normal operational status and fitting into our standard workflow update.
+
+The delivery deadline is set for four days overnight, which means we aim to have the data available by that time frame without any rephrasing or alteration of the phrase "in four days overnight". This upper limit for data availability is crucial for ensuring timely data capture without compromising on quality or operational efficiency.
+
+In summary, our request involves capturing a visible light image of the Ecuatorial region in Indonesia with a low priority importance level. The deadline for this task is set for four days overnight, emphasizing the urgency and importance of timely data collection while maintaining operational flexibility.

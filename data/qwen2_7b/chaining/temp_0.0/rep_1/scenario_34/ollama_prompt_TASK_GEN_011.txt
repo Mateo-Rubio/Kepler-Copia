@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves capturing data for the region of Istria, Croatia, focusing on a critical payload capture with an urgent operational execution.
+
+The primary sensor required is Near-Infrared (NIR), which will be used for near-infrared reflection to map water body boundaries and assess soil moisture levels. This task is of high importance, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock.
+
+The target day is today, with the specific diurnal period being in the evening. This deadline serves as the upper limit for data availability, ensuring that the data captured meets our operational needs without any rephrasing or shortening of the phrase.
+
+In summary, we are requesting a detailed and comprehensive dataset using Near-Infrared technology to map water bodies and assess soil moisture levels in Istria, Croatia, with an emphasis on capturing high-quality data during the evening hours. This task is prioritized as a high importance request, requiring immediate attention and execution to ensure the integrity and accuracy of our Earth observation mission.
