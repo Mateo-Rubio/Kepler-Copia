@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We need to conduct a standard operational tasking focused on multispectral vegetation analysis in El Marmol, Colombia. This involves assessing chlorophyll absorption levels or calculating a Normalized Difference Vegetation Index (NDVI) and surface reflectance using near-infrared reflection capabilities of our satellites. The target area is identified as having significant agricultural activity that requires monitoring for environmental studies and crop health analysis.
+
+Given the nature of this task, it falls under a medium importance priority level. Therefore, I am requesting a routine monitoring part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or standard workflow update. The aim is to maintain consistent data collection for long-term environmental assessment and agricultural productivity studies in the region.
+
+The delivery deadline has been resolved by an upstream module, stating "the day after tomorrow during the afternoon" as the upper limit for data availability. This means we expect the satellite imagery to be captured within this timeframe, ensuring timely analysis and reporting without any need for rephrasing or shortening of the deadline specifics.
+
+In summary, I am requesting a standard operational tasking with medium importance priority for multispectral vegetation analysis in El Marmol, Colombia, to be completed by "the day after tomorrow during the afternoon." The data collected will contribute significantly to our ongoing environmental and agricultural monitoring efforts.
