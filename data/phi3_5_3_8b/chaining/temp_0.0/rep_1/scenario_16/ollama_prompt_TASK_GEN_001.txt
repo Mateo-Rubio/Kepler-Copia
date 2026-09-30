@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a specific operational directive to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a coherent and realistic English request for immediate action. Here are the details:
+
+We require a standard operational tasking focused on multispectral vegetation analysis in Santander de Quilichao, Colombia. This involves assessing chlorophyll absorption levels or calculating a Normalized Difference Vegetation Index (NDVI) to understand surface reflectance and overall plant health within the region. The target for this routine monitoring is set for three days from now, specifically in the evening hours when daylight conditions are optimal for true-color visual documentation.
+
+This tasking falls under a medium importance category, which means it's part of our baseline pipeline tracking with fixed parameters representing normal operational status. The request must be communicated clearly to ensure that this standard commercial tasking is executed as scheduled without any deviation from the established workflow update protocol.
+
+Please proceed accordingly and confirm receipt of this directive for immediate action, enssuring that all necessary preparations are in place for a successful mission execution within the specified delivery deadline.
