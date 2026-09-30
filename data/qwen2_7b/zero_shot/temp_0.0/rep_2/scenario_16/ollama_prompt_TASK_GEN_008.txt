@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture the chlorophyll absorption levels across the region of Cossogno, nestled in the beautiful country of Italia, using our VNIR sensor. We aim for a high-resolution optical snapshot, akin to daylight photography or true-color visual documentation, to assess the health and vitality of the vegetation.
+
+Given the operational nature of this request, we're treating it as a non-essential background filler task that can be scheduled at your earliest convenience. We understand that this might not be an urgent mission, but we appreciate your attention to detail nonetheless.
+
+We're looking for this data by the target day, which is in four days, with a strict delivery deadline set for the morning of that day. This ensures the products are ingested into our pipeline before the day ends, allowing us to process and analyze them efficiently.
+
+Thank you for your understanding and cooperation in fulfilling this task. We're looking forward to receiving the data that will contribute to our ongoing research and monitoring efforts.
+
+Best regards,
+[Your Name]

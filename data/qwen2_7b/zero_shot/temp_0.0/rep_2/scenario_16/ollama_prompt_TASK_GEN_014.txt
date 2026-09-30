@@ -1,0 +1,3 @@
+Good day to our satellite constellation planners. We're looking to capture a high-resolution optical snapshot of Norte, which is located in an unspecified country. This daylight photography will serve as true-color visual documentation for our ongoing project. Given its low priority importance, we understand that this task can be scheduled flexibly and treated as a background survey or testbed tracking task.
+
+We aim to receive the data products by tomorrow evening at the latest, ensuring they are ingested into our pipeline before then. This request is a non-essential background filler task, which we can drop or reschedule at convenience if necessary. Thank you for your understanding and cooperation in managing this low-priority importance task efficiently.
