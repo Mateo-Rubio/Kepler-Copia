@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing a location with the primary sensor being Thermal Infrared (TIR), which aims to capture thermal mapping for heat signature detection and surface temperature profiling.
+
+Given the operational guidelines, I'll interpret the geographic context without using raw technical system tags or coordinate arrays. The target location is Norte, a city in an unspecified country, as the 'country' field is marked as "N/A". The mission allocation priority is set at Level 1 (Low Importance), indicating this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+The delivery deadline is set for three days in the evening. This upper limit for data availability must be included verbatim in the request, without any rephrasing or adjustments to the time frame.
+
+To maximize naturalness and validation accuracy, I'll interpret the metadata organically:
+
+"Please observe the location of Norte, a city in an unspecified country, focusing on thermal mapping to capture heat signatures and surface temperature profiles. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a low priority importance request, with a flexible schedule for opportunistic capture. The deadline for this task is three days in the evening, as per our upstream module's resolution."
+
+This request integrates specific operational phrases to reflect the structural hierarchy of mission allocation priorities and naturally weaves the physical objectives associated with the TIR sensor into the description of the physical phenomenon to be observed.
