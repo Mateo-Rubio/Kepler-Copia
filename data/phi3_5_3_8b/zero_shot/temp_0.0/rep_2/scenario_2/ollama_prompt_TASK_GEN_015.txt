@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for multispectral vegetation analysis in Bangka Selatan, Indonesia. This routine monitoring is part of our baseline pipeline tracking and should be completed within three days by the morning timeframe. The data products must be ingested into the system before this deadline to maintain our regular workflow update cycle.
+```
