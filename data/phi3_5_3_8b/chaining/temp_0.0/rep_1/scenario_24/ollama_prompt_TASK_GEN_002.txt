@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a specific operational directive to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We require an NIR multispectral vegetation analysis of Saas-Almagell, Switzerland, with the aim of assessing chlorophyll absorption levels or calculating the Normalized Difference Vegetation Index (NDVI) and surface reflectance to monitor plant health. This task is a standard operational part of our baseline pipeline tracking setup that maintains normal operational status. The data collection must be executed as a routine monitoring activity, with an emphasis on precision in capturing near-infrared reflections for water body boundary mapping or soil moisture assessment to discriminate gradients effectively.
+
+The deadline for this task is the day after tomorrow in the evening, which has been resolved by our upstream module as the upper limit for data availability. It's imperative that we adhere strictly to these parameters without any deviation or delay. The request must be communicated with a professional and direct tone, reflecting its importance within our standard operational framework but not exceeding it in urgency.
+
+Here is the formalized task request:
