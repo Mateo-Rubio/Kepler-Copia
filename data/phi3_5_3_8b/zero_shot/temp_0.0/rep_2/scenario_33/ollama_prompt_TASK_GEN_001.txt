@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging in Dolores, Colombia, with a focus on cloud-penetrating capture and ground geometry. This is a low priority importance task that we can fit into our flexible schedule for opportunistic capture. The data products are needed by in three days morning at the latest to ensure they're ingested into the pipeline before then. Please let us know if this timing works or suggest an alternative drop-off point, as it's not urgent but still within our operational scope.
+```prompt
