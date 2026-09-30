@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for tomorrow's overnight period. The priority level is set at 'High Importance', indicating an absolute institutional priority and a binding contract requirement involving a critical payload capture that must be executed urgently without any preemption or delay.
+
+Our objective is to obtain a high-resolution optical snapshot of the region named 'Ponte-Novo', located in France, using our primary sensor. This daylight photography will serve as a true-color visual documentation for capturing clear optical imagery and assessing the landscape's condition under natural light conditions.
+
+The country of France and city of Ponte-Novo are key geographic coordinates that define our target area. The 'country' field specifies the national boundary within which we aim to gather data, while 'city' provides a more localized reference point for our mission allocation priority.
+
+Given the 'High Importance' status, this request is framed as an "absolute institutional priority" or a "binding contract requirement". We are tasked with capturing a "critical payload" that involves a "mandatory directive", emphasizing the urgency and importance of this mission. The language used reflects an "urgent operational execution" and an "un-preemptable mission lock", ensuring that our satellite constellation prioritizes this task over others.
+
+The deadline for this task has already been resolved by an upstream module, with the data availability set for "tomorrow overnight". This phrase is inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or alteration.
+
+In conclusion, our mission allocation priority is 'High Importance', and we are tasked with capturing a high-resolution optical snapshot of the region named 'Ponte-Novo' in France using our primary sensor. This request is framed as an "absolute institutional priority" or a "binding contract requirement", indicating that this task must be executed urgently without any preemption or delay.
