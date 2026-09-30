@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data on Malaysia, specifically focusing on Bukit Mabong. This location is described using the country and city details provided in 'location_details', combining them naturally without technical system tags or coordinate arrays. If any of these fields are "N/A", we would describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. This request must be framed as an "absolute institutional priority" or a "binding contract requirement". We emphasize that this involves a "critical payload capture" and requires "urgent operational execution", with an "un-preemptable mission lock".
+
+The primary sensor to be used is 'SAR', which will perform an active radar scan using microwave surface imaging. This technique allows for cloud-penetrating capture, essential for capturing ground geometry even under heavy weather conditions.
+
+The target day and diurnal period are set for "tomorrow in the morning". This phrase must be inserted verbatim into our request, as it represents the upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task request involves capturing high-resolution SAR imagery of Malaysia's Bukit Mabong region during the morning hours tomorrow. This is a "standard operational tasking" with "fixed parameters", representing "normal operational status" or a "workflow update". The priority level ensures that this request receives immediate attention and execution without delay.
+
+Please proceed with the allocation of assets and scheduling to ensure this critical payload capture is executed as per our guidelines.
