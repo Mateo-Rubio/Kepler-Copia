@@ -1,0 +1,7 @@
+In three days, during the afternoon, we are tasked with capturing a high-resolution optical snapshot of Chivatá, Colombia. This absolute institutional priority involves a critical payload capture using our VNIR sensor for daylight photography and clear optical imagery. The operational execution is urgent and un-preemptable, reflecting a binding contract requirement that necessitates the delivery of this data product by the specified deadline.
+
+Please ensure that the capture process adheres to the strict temporal parameters provided, focusing on the afternoon hours when the conditions are most favorable for our VNIR sensor to deliver the highest quality imagery. This tasking is part of an ongoing baseline pipeline tracking setup with fixed parameters representing normal operational status and a standard workflow update.
+
+Given its high priority level, we must prioritize this mission allocation over other tasks in our queue. The deadline is not negotiable, and any adjustments to the schedule should be made only after careful consideration of the impact on our operational capabilities and commitments.
+
+Please proceed with the capture operation as outlined, and notify us upon successful delivery of the data products by the target day and diurnal period.
