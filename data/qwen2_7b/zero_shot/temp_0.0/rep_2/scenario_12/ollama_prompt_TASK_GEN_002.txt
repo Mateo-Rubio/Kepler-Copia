@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-importance task for us. Our absolute institutional priority involves capturing a critical payload using our thermal mapping capabilities (TIR sensor) over the beautiful city of Naples, Italy. We aim to gather essential data on heat signatures and surface temperature profiles across the region.
+
+Our target day is the day after tomorrow, with a strict delivery deadline set for that evening. We need this data by then at the latest, ensuring the products are ingested into our pipeline before the evening timeframe. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're looking forward to your support in meeting this binding contract requirement involving a mandatory directive for a critical payload capture. We appreciate your understanding and swift action in fulfilling this request.
+
+Thank you for your attention and cooperation.
+
+Best regards,
+[Your Name]
