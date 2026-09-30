@@ -1,0 +1,7 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner.
+
+The mission objective is to capture a high-resolution thermal map of the region in Indonesia, specifically focusing on the city of Ecuatorial. This thermal mapping will involve active microwave surface imaging using the TIR sensor to detect heat signatures and surface temperature profiles. The goal is to identify thermal anomalies and map heat emissions in the area.
+
+This task is an absolute institutional priority, as it involves a critical payload capture and mandatory directive for a binding contract requirement. The data must be ready by in three days overnight at the latest, ensuring that the products are ingested into the pipeline before this deadline.
+
+The mission allocation authority and asset contractual value are of high importance, making this task a strict operational priority. The operator must treat this as an urgent operational execution with an un-preemptable mission lock.
