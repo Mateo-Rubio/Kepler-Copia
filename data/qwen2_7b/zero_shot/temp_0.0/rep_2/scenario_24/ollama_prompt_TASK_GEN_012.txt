@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution for a critical payload capture involving a high-resolution optical snapshot of Indonesia's Ecuatorial region. This task is of the highest importance and requires immediate attention due to its binding contract requirement.
+
+Our primary sensor of choice is the VNIR, which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. We aim to capture this data around mid-day tomorrow, ensuring that the products are ingested into our pipeline before the deadline set for that day's overnight block.
+
+This request is an absolute institutional priority, involving a mandatory directive for capturing essential data on vegetation health and environmental conditions in the region. We understand the urgency and will treat this task with the utmost importance, ensuring it receives the highest priority allocation possible within your system.
+
+Thank you for your attention to this matter. We appreciate your swift action in delivering the data products by tomorrow's overnight block at the latest. Please let us know if there are any questions or concerns regarding our request.
