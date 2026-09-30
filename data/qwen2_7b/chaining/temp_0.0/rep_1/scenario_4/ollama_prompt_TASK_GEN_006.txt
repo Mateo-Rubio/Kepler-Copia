@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing the Indonesian city of Air Itam, which is located in the country of Indonesia. The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task with a "drop or reschedule at convenience" note.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This scan aims to capture cloud-penetrating imagery, providing invaluable data for cloud-penetrating capture and ground geometry assessment under heavy weather conditions.
+
+The delivery deadline is set for "the day after tomorrow in the evening", as stipulated by an upstream module. This phrase must be included verbatim in our request, serving as the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our task request involves capturing high-resolution SAR imagery of Air Itam, Indonesia, on a flexible schedule with a deadline set for "the day after tomorrow in the evening". This mission is part of a low priority importance task, acting as a background survey or testbed tracking task that can be conveniently dropped or rescheduled as needed.
