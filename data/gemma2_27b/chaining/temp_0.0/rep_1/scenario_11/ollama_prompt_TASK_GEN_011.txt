@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis in Tagliole, Italia. We need a high-resolution capture of the area overnight to assess chlorophyll absorption levels and calculate the vegetation NDVI index.  The data needs to be delivered in three days overnight.
