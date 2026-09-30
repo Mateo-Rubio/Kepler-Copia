@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the guidelines provided.
+
+The geographic context involves capturing a high-resolution optical snapshot of Città di Castello, Italy, using a visible light sensor (VIS). This daylight photography aims to provide clear optical imagery and true-color visual documentation of the region. The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This urgent operational execution necessitates an un-preemptable mission lock.
+
+The delivery deadline for this task is "in four days overnight", which serves as the upper limit for data availability, without any rephrasing, shortening, or relocation of this phrase within the day.
+
+In conclusion, our request is to capture the essence of Città di Castello through a detailed VIS sensor observation, ensuring that the imagery captures the region's beauty and provides valuable insights into its landscape. This task is an 'absolute institutional priority', requiring immediate attention and execution without delay.

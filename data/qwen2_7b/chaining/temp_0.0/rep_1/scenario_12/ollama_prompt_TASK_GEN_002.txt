@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English translation of the raw physical simulation metadata provided in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy by interpreting it organically according to the outlined operational guidelines.
+
+The geographic context involves the region of "Italia", specifically the city of "Napoli". We aim to capture a thermal mapping of the area, focusing on heat signatures and surface temperature profiles. This task is of high importance, as it involves a critical payload capture that requires an absolute institutional priority and represents a binding contract requirement. The language must heavily imply an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor for this mission is "TIR", which will be used to perform thermal mapping. This process will allow us to detect thermal anomalies and map heat emissions accurately. The deadline for this task is set for the day after tomorrow in the evening, as stipulated by an upstream module.
+
+In conclusion, our request is for a detailed thermal mapping of Napoli, Italia, with a focus on capturing heat signatures and surface temperature profiles using the TIR sensor. This task is of high importance and requires immediate attention to ensure that it is executed according to the outlined guidelines and deadlines.

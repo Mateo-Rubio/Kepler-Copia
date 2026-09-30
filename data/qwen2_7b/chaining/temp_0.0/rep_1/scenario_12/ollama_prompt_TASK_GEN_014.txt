@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing a location with the primary sensor being Thermal Infrared (TIR), which aims to capture thermal mapping for heat signature detection and surface temperature profiling.
+
+Given that the geographic context includes a country marked as "N/A" and a city named "Norte", we'll describe this location using realistic combinations of available fields. Since there's no specific country or city provided, we'll focus on the region name from 'region_name' if available or use the clean 'region_name' directly.
+
+The mission allocation priority is set at Level 1 (Low Importance), which means this request should be treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted to be a "non-essential background filler task", where the operator can drop or reschedule it at convenience, considering it as a "background survey" or "testbed tracking task".
+
+The deadline for this task is set for "the day after tomorrow during the afternoon". This phrase should be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing, shortening, or moving to a different part of the day.
+
+In summary, our request to the satellite constellation planner is to capture thermal mapping data for heat signature detection and surface temperature profiling at a location described using realistic combinations of available fields. This task is marked as a low priority background survey with a flexible schedule for opportunistic capture, adhering to the deadline set for "the day after tomorrow during the afternoon".
