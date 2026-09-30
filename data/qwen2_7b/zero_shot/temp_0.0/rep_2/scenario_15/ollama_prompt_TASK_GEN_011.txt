@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region around Corteno Golgi, located in beautiful Italia. Our mission is part of our standard operational tasking and involves using an active microwave surface imaging technique to gather cloud-penetrating data that will help us understand ground geometry.
+
+We aim to deliver this information by tomorrow evening at the latest, ensuring it's ingested into our pipeline before then. This request falls under medium importance, so please treat it with professional attention but don't worry about rushing; we're just looking for a routine monitoring task that fits into our baseline pipeline tracking setup.
+
+Thank you for your cooperation and understanding in managing this request efficiently.

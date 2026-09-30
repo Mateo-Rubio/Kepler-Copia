@@ -1,0 +1,8 @@
+Good day to our automated satellite constellation planner. We're looking to capture a thermal mapping of Norte, which is located in an unspecified country. Our objective is to assess heat signatures and surface temperature profiles for this area. We aim to gather this information through a TIR sensor, which will provide us with valuable insights into thermal anomalies and heat emissions.
+
+Given the nature of our request, we classify it as a low priority importance task, allowing for flexible scheduling. We understand that this might be considered a non-essential background filler task, but we appreciate your attention to detail nonetheless. Our operational guidelines require us to adhere strictly to deadlines, which in this case is set for the day after tomorrow, with a strict delivery deadline set for overnight.
+
+We're looking forward to receiving the data products before our deadline so they can be ingested into our pipeline efficiently. Thank you for your cooperation and understanding in ensuring that our request meets these operational guidelines.
+
+Best regards,
+[Your Name]

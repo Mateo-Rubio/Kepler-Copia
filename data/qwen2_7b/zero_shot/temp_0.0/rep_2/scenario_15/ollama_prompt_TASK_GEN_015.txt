@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture thermal mapping data for the region around Basa Ampek Balai Tapan in Indonesia. This involves assessing heat signatures and surface temperature profiles, which will be crucial for thermal anomaly detection and mapping heat emissions.
+
+We're looking for a "non-essential background filler task" that can be scheduled opportunistically. The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline of overnight. We aim to ensure that the products are ingested into our pipeline before this time frame expires.
+
+Thank you for your understanding and cooperation in scheduling this task according to our guidelines. We appreciate your support in making this happen.
+
+Best regards,
+[Your Name]
