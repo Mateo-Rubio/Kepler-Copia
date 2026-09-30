@@ -1,0 +1,1 @@
+We need a standard operational tasking to capture multispectral vegetation analysis in Tame, Colombia, using high-resolution optical snapshots for daylight photography. This routine monitoring is part of our baseline pipeline tracking and must be completed by tomorrow evening at the latest to ensure timely data integration into our workflow update.
