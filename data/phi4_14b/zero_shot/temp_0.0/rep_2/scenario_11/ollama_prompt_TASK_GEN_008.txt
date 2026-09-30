@@ -1,0 +1,1 @@
+I need to schedule a standard operational tasking for an active radar scan over Rome, Italy. This mission involves using microwave surface imaging to achieve cloud-penetrating capture, which is part of our baseline pipeline tracking setup with fixed parameters. The data products must be ingested into the pipeline before tomorrow evening at the latest.
