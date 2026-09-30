@@ -1,0 +1,3 @@
+We have an absolute institutional priority task that requires a high-resolution optical snapshot of the region in Northern Italy. This mission is a binding contract requirement involving a critical payload capture, and it must be executed with urgent operational execution as a mandatory directive. The imagery should provide clear optical imagery and true-color visual documentation during daylight photography.
+
+The data products for this mission are needed by the afternoon in three days at the latest, ensuring they are ingested into the pipeline before that time. This is an un-preemptable mission lock, so please prioritize accordingly.
