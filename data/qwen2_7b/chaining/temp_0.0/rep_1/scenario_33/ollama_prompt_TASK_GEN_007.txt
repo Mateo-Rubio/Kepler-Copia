@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing a specific location in Colombia using the Near-Infrared (NIR) sensor. The target day is tomorrow overnight, which means we're looking for data availability by the end of the night.
+
+The geographic context is centered around Ibagué, a city within the country of Colombia. We'll describe this location as part of the operational guidelines provided. The mission allocation priority is set at Low Importance (Priority 1), indicating that this request is a flexible schedule task with a non-essential background filler nature. It's framed as a low priority importance request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are straightforward: we're focusing on the Near-Infrared sensor to map water body boundaries and assess soil moisture. This involves capturing near-infrared reflection data to discriminate gradients in the environment, which is crucial for understanding water bodies and soil conditions.
+
+In summary, our request is to capture high-resolution optical snapshots using the Near-Infrared sensor over Ibagué, Colombia, tomorrow overnight. This task is part of a low priority importance request with a flexible schedule, aiming to provide background survey data or testbed tracking tasks that can be dropped or rescheduled at convenience. The deadline for this task has already been resolved by an upstream module, and we're targeting availability by the end of the night.
+
+Let's proceed with the automated satellite constellation planner to ensure our request is executed efficiently and in accordance with these guidelines.
