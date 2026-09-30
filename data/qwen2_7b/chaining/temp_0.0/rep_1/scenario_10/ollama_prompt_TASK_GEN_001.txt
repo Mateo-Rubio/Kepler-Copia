@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region named "Pajarito", located in the country of Colombia. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the area, essential for detailed analysis and monitoring purposes.
+
+Given the priority level of 3 (High Importance), this mission allocation is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution and cannot be preempted. The language reflects an authoritative tone, emphasizing the binding contract requirement and the need for an un-preemptable mission lock.
+
+The primary sensor to be utilized is VIS (visual imagery), which will provide us with a comprehensive view of the region during the target day, "in four days", in the morning. This active radar scan employs microwave surface imaging capabilities, allowing for cloud-penetrating capture and the ability to observe ground geometry under various weather conditions.
+
+The task request is part of our baseline pipeline tracking setup, featuring fixed parameters that represent normal operational status or a standard workflow update. It is a standard operational tasking that contributes to our commercial tasking and routine monitoring activities.
+
+In conclusion, this low priority importance request has a flexible schedule for opportunistic capture, labeled as a non-essential background filler task. The operator explicitly notes that it can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task is resolved by an upstream module, with the data availability upper limit set for "in four days in the morning". This phrase must be inserted verbatim into our request, without rephrasing, shortening, or moving it to a different part of the day. The request does not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, this task request encapsulates the essence of our Earth-observation mission, integrating operational guidelines for natural language and prioritization, while adhering to strict deadlines and utilizing specific sensors for comprehensive data collection.
