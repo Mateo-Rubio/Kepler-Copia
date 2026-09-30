@@ -1,0 +1,11 @@
+Good day to our satellite constellation planners,
+
+We're looking at an urgent operational tasking for a critical payload capture involving a high-resolution optical snapshot of Cumaral, Colombia. This is an absolute institutional priority, as it's part of a binding contract requirement that involves a mandatory directive for assessing the vegetation health and NDVI index in this region.
+
+Our primary sensor will be the VNIR, which will provide us with multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This is essential for understanding the environmental conditions and health of the ecosystem in Cumaral.
+
+The deadline for delivering these data products is set for four days from now, with a strict delivery deadline at the latest being overnight. We need this information to be ingested into our pipeline before that time frame ends, ensuring we capture all necessary data within the operational window.
+
+Please prioritize this request as it involves high importance and contractual obligations. We appreciate your swift action in scheduling this mission allocation.
+
+Thank you for your attention to this matter.
