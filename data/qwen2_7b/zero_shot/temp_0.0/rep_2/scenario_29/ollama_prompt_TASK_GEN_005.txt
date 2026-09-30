@@ -1,0 +1,10 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture thermal mapping data for Norte, which is located in the region we're focusing on. Given the nature of the task, we're looking for a "heat signature" or a "surface temperature profile" that can help us detect any thermal anomalies and map heat emissions.
+
+We understand this request might not be as urgent as others, but we'd appreciate if you could schedule it within our timeframe constraints. We need the data by the day after tomorrow, in the evening, at the latest. This means ensuring the products are ingested into our pipeline before that specific time frame.
+
+Thank you for your understanding and cooperation. We're looking forward to receiving the data that will help us complete our background survey or testbed tracking task.
+
+Best regards,
+[Your Name]
