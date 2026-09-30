@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data on the Italian region of Radicondoli, a picturesque area in Tuscany. The primary sensor designated for this mission is Thermal Infrared (TIR), which will be used to map thermal signatures and detect heat anomalies across the landscape. This task falls under Priority Level 1, indicating it's a low-priority importance request with a flexible schedule for opportunistic capture. We explicitly note that this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The delivery deadline is set for "the day after tomorrow in the evening," which serves as the upper limit for data availability without rephrasing or altering the time frame. The request is to capture high-resolution thermal mapping data that will provide insights into surface temperature profiles and heat emissions across Radicondoli.
+
+In summary, our task involves capturing thermal data on a flexible schedule with an emphasis on natural language description and adherence to operational guidelines. The deadline for this task is "the day after tomorrow in the evening," ensuring that all data collection efforts are completed by then.
