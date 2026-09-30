@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically the city of Bugalagrande, using thermal mapping capabilities provided by the TIR sensor.
+
+The mission allocation priority for this task is Low Importance, indicating that it's a flexible schedule "background survey" or "testbed tracking task". We're aiming to capture a "heat signature" or "surface temperature profile" for this location, which will help in detecting thermal anomalies and mapping heat emissions. This request doesn't carry an urgent operational execution or an un-preemptable mission lock; instead, it's treated as a "non-essential background filler task" that can be "dropped or rescheduled at convenience".
+
+The delivery deadline for this task is tomorrow in the evening, which is the upper limit for data availability. We're not concerned with raw UTC timestamps or countdown metrics; rather, we focus on ensuring that our satellite constellation captures the necessary thermal data within this timeframe.
+
+In summary, our request involves observing Colombia's Bugalagrande region using TIR sensor capabilities to map heat signatures and detect thermal anomalies. This task is part of a low priority importance background survey, with a clear deadline set for tomorrow in the evening.
