@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a specific operational directive to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We require a standard operational tasking that involves multispectral vegetation analysis in Banyuasin, Indonesia. This operation will focus on assessing chlorophyll absorption levels to calculate a Vegetation Normalized Difference Index (NDVI) and surface reflectance. The targeted area is within the country's diverse landscape, where we aim to understand vegetative health and coverage patterns.
+
+The task has been assigned with medium importance, indicating its role as part of our routine monitoring setup that maintains a baseline pipeline tracking system for environmental assessments. This request aligns with our regular workflow updates and is essential for ongoing ecological studies within the region.
+
+To ensure we meet this operational necessity, please schedule an active radar scan using microwave surface imaging to capture ground geometry and water body boundaries effectively. The deadline for data acquisition has been resolved by upstream modules as "in three days around mid-day." This precise timing is critical for our analysis phase, where we expect the highest quality of daylight photography or true-color visual documentation due to optimal lighting conditions at this time.
+
+Please note that while this task holds significant value within our operational framework, it does not supersede any urgent directives currently in place. Therefore, if there are conflicts with other high-priority missions, please consider rescheduling or dropping this request to maintain the integrity of our primary objectives.
