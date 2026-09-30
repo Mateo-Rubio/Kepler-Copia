@@ -1,0 +1,15 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving a high-resolution optical snapshot of Greve in Chianti, Italy. This picturesque location nestled within the heart of Tuscany's rolling hills requires immediate attention due to its unique geographical context and the importance of capturing its current state.
+
+Our primary sensor requirement is a VNIR (Vegetation Normalized Difference Index) scan, which will allow us to assess the chlorophyll absorption levels across the region. This data is essential for understanding the health and vitality of the local vegetation, providing valuable insights into environmental conditions and potential issues that may arise.
+
+Given the nature of our request, we're setting a strict delivery deadline for the data products by the target day, which is four days from now, with the latest requirement being overnight. This timeframe ensures that the information can be promptly integrated into our baseline pipeline tracking setup, allowing us to monitor and manage the region's environmental status efficiently.
+
+We appreciate your team's expertise in handling such high-priority tasks and look forward to receiving the data products that will contribute significantly to our ongoing research and operational activities.
+
+Thank you for your attention to this matter. We trust that your satellite constellation will capture the essence of Greve in Chianti with the precision and detail required for our mission.
+
+Best regards,
+
+[Your Name]

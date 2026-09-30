@@ -1,0 +1,7 @@
+Good day to our satellite constellation planners. We're looking to capture a thermal mapping of Tuluá, Colombia, with a high-resolution infrared sensor. Our mission is part of a standard operational tasking and involves monitoring the city's heat signature for potential anomalies or temperature profiles. The request carries medium importance as it's crucial for understanding local urban heat islands and planning mitigation strategies.
+
+We aim to gather this data by today, in the evening, ensuring that the products are ingested into our pipeline before the deadline set for tonight. This task is a routine monitoring activity that contributes to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that while this request carries medium priority, it's not an urgent operational execution or a binding contract requirement. It falls under our standard workflow update and can be scheduled accordingly without impacting critical payload capture or contractual obligations. We appreciate your attention to this task and look forward to receiving the data products as per the outlined specifications.
+
+Thank you for your cooperation and understanding in managing this request within the constraints of our operational guidelines.
