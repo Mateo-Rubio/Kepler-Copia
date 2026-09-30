@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data from Indonesia, specifically the city of Lumpatan II. This location will be described using realistic combinations of country, city, and landmark fields from 'location_details', gracefully ignoring any "N/A" entries.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be used is Near-Infrared (NIR), which will be explained as capturing near-infrared reflection for water body boundary mapping or soil moisture assessment, allowing us to discriminate gradients effectively. This request is part of a standard operational tasking setup with fixed parameters representing normal operational status or a routine monitoring task within our baseline pipeline tracking.
+
+The delivery deadline is set for the day after tomorrow overnight. This phrase must be inserted verbatim into the request as the stated upper limit for data availability, without any rephrasing, shortening, or moving to a different part of the day.
+
+In conclusion, this low priority importance (Priority 1) task is framed as a flexible schedule opportunity for opportunistic capture, treating it as a background survey or testbed tracking task. The request is submitted with the understanding that it may be dropped or rescheduled at convenience, emphasizing its non-essential background filler nature.
+
+Let's proceed with the execution of this mission, ensuring that all guidelines are followed to maximize the naturalness and validation accuracy of our dataset.
