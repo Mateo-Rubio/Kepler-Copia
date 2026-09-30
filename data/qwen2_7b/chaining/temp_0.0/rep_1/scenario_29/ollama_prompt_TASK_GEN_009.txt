@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Indonesia's Ecuatorial region using the VNIR sensor. This task falls under priority level 2, indicating it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The primary sensor, VNIR, will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index, providing valuable insights into surface reflectance. The mission aims to capture these data in daylight photography, offering clear optical imagery and true-color visual documentation of the region's vegetation health.
+
+Given the deadline is "tomorrow in the evening", we're focusing on collecting this information during that specific diurnal period to ensure optimal conditions for our observations. This task is part of a baseline pipeline tracking setup with normal operational status, emphasizing its importance without implying urgency or contractual binding.
+
+With these details in mind, I request the satellite constellation to allocate resources accordingly and proceed with the mission allocation. The task is ready for execution, and we're looking forward to receiving the data by "tomorrow in the evening" as per our predefined schedule.
