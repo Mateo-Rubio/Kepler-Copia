@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves capturing data for France, specifically in the city of Corte. The mission allocation priority is medium importance, indicating it's part of our standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be utilized is Thermal Infrared (TIR), which will enable us to capture thermal mapping data for heat signature detection and surface temperature profiling. This is crucial for identifying thermal anomalies and mapping heat emissions across the region.
+
+The delivery deadline is today during the afternoon, as per our upstream module's resolution. We aim to provide this data within the specified timeframe without any rephrasing or alteration of the time frame.
+
+In summary, our request involves capturing high-resolution thermal imagery of France, specifically in Corte, using a TIR sensor during the afternoon of today. This task is part of our baseline pipeline tracking setup with normal operational status and fixed parameters, ensuring we maintain our standard workflow updates while adhering to our medium priority level commitment.

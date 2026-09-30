@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data from Colombia, specifically focusing on Cubarral city. This location requires a detailed description that combines the country and city names naturally, without using raw technical system tags or coordinate arrays. The 'primary_sensor' is set to TIR, which will be interpreted as thermal mapping for capturing heat signatures, surface temperature profiles, or thermal anomalies.
+
+The mission allocation priority is marked as 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request must be executed with urgency and cannot be preempted, reflecting the structural hierarchy of priority levels.
+
+The delivery deadline is set for "the day after tomorrow in the morning", which serves as the upper limit for data availability without rephrasing or altering the time frame. The sensors and physical objectives will be described using natural language that explains the goal of capturing high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation.
+
+In conclusion, this task request is to capture thermal mapping data from Colombia's Cubarral city using a TIR sensor on the day after tomorrow in the morning. The priority level ensures an authoritative tone with an urgent operational execution, emphasizing the importance of this mission as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
