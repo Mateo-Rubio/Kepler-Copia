@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for a thermal mapping mission involving Indonesia's Kutai Timur region. Our priority is set at medium importance, which means this is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor requirement is the TIR (Thermal Infrared) system, aimed at capturing heat signatures and surface temperature profiles for thermal anomaly detection and mapping heat emissions. We're looking to gather this data in the evening on the day that's three days ahead of our current date, ensuring the products are ingested into the pipeline before the night falls.
+
+This request is part of our routine monitoring activities, and we appreciate your attention to deliver the data by the specified deadline. If there are any delays or issues with scheduling, please consider this task as a standard operational priority that can be adjusted according to your operational schedule without impacting our baseline pipeline tracking setup.
+
+Thank you for your cooperation and prompt response. We look forward to receiving the data products in due time.
