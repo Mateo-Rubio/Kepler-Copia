@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for multispectral vegetation analysis in Pantanillo, Colombia. This routine monitoring is part of our baseline pipeline tracking and should be completed within three days by the morning timeframe. The data must be ready by tomorrow's overnight/nighttime block at the latest to ensure it integrates seamlessly into our current workflow updates.
+```prompt
