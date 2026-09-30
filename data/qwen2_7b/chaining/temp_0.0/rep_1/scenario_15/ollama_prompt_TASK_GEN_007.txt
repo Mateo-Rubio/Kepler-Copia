@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data from the region of Colombia, specifically focusing on the city of Bolívar. This location will provide us with valuable insights into thermal mapping, as our primary sensor is set to TIR (Thermal Infrared). The goal here is to capture a heat signature or surface temperature profile, which will be crucial for thermal anomaly detection and mapping heat emissions.
+
+Given the priority level of 3, this task is an absolute institutional priority, representing a binding contract requirement involving a critical payload capture. We must ensure that this mission is executed with urgency and that it cannot be preempted or rescheduled; it's a mandatory directive that requires immediate attention.
+
+The delivery deadline for this task has been set for three days in the evening. This upper limit for data availability must be strictly adhered to, as it represents the final window for capturing the necessary data.
+
+In summary, our request is to capture high-resolution thermal imagery of Bolívar, Colombia, using a TIR sensor, with an emphasis on thermal mapping and anomaly detection. This task carries high importance and must be executed with the utmost priority, ensuring that we meet the deadline in three days during the evening hours. The data collected will provide critical insights for our ongoing projects and will contribute significantly to our understanding of the region's thermal dynamics.
