@@ -1,0 +1,8 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking request for a near-infrared (NIR) sensor observation in Colombia, specifically focusing on the city of Lebrija. Our objective is to capture detailed data on water body boundaries and soil moisture levels using this sensor.
+
+Given the importance of this task, we're looking at a deadline that's set for tomorrow evening, with a strict delivery requirement by then. This request falls under our baseline pipeline tracking setup, representing normal operational status. We aim to ensure that the products are ingested into our data processing pipeline before the evening timeframe.
+
+Please note that this is a standard operational task and part of our routine monitoring activities. We appreciate your attention to this request and look forward to receiving the data products by tomorrow's evening deadline. Thank you for your cooperation in maintaining our baseline pipeline tracking with fixed parameters.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,5 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our commercial monitoring pipeline. Our focus is on assessing vegetation health in the beautiful region of Corteno Golgi, located in the picturesque country of Italia. We're utilizing the VNIR sensor to conduct a multispectral vegetation analysis, aiming to capture the chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+Our priority here is to ensure that this task doesn't interfere with our baseline workflow updates or contractual obligations. We're looking for high-quality data products that will help us understand the current state of the vegetation in the area. The deadline for delivering these data products is set for three days from now, with a strict delivery deadline being in the evening at the latest.
+
+Please ensure that the products are ingested into our pipeline before the specified time to meet our operational requirements. We appreciate your attention to this matter and look forward to receiving the results that will contribute to our ongoing monitoring efforts. Thank you for your cooperation.

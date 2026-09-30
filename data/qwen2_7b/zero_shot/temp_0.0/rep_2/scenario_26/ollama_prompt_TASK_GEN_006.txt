@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving a high-resolution optical snapshot of Malaysia's Pantu region. This task is of paramount importance and requires your immediate attention.
+
+Our primary sensor requirement is the VNIR, which will be used for multispectral vegetation analysis. We aim to assess chlorophyll absorption levels and calculate the NDVI index to provide detailed surface reflectance data. This information is essential for our ongoing environmental monitoring efforts.
+
+The operational context involves capturing a heat signature through thermal mapping using our TIR sensor. This task aims to detect thermal anomalies and map heat emissions accurately, which will contribute significantly to our understanding of local environmental conditions.
+
+We're targeting the delivery deadline set for tomorrow evening, ensuring that the products are ingested into our pipeline before then. This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that this task carries a high priority level and must be treated as an absolute institutional priority or a binding contract requirement involving a critical payload capture. We're looking for an authoritative, explicit, and commanding tone to reflect the urgency and importance of this mission.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this request.
+
+Best regards,
+[Your Name]
