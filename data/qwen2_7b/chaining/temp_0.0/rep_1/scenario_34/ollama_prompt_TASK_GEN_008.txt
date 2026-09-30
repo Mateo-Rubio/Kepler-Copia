@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing thermal mapping data of Norte, a region in Brazil, using the TIR sensor. The location details are not provided with country or city specifics, so we'll describe it as capturing heat signatures across the area known as Norte. This task is of high importance, requiring an authoritative tone and emphasizing that this is an absolute institutional priority or a binding contract requirement involving a critical payload capture.
+
+The mission allocation priority is set at level 3, indicating an urgent operational execution and an un-preemptable mission lock. The delivery deadline is "in three days overnight", which means the data must be available by the end of the third day following the submission of this request.
+
+The primary sensor, TIR, will be used for thermal mapping to capture a heat signature across Norte's surface, aiming to detect thermal anomalies and map heat emissions accurately. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
+
+In conclusion, this low priority importance request allows for a flexible schedule, treating it as a background survey or testbed tracking task. The operator explicitly notes that this task can be dropped or rescheduled at convenience if necessary. Our team is committed to delivering the requested data by the deadline, ensuring our satellite constellation planner understands the operational context and urgency of this mission.
