@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Norte, a region in Brazil, using our SAR sensor. The objective is to gather high-resolution microwave surface imagery that can penetrate heavy weather conditions and provide us with ground geometry details. This task is classified as a low priority importance request, meaning it's part of our standard operational tasks but doesn't require immediate attention.
+
+We're aiming to have this data ready by tomorrow's overnight block at the latest. This means we need the SAR data products ingested into our pipeline before the sun rises on the following day. Norte is an area of interest for us due to its unique geographical features and potential environmental changes that could benefit from such detailed radar observations.
+
+Please note, this task can be dropped or rescheduled at your convenience if it doesn't align with your current operational priorities. We appreciate your understanding and flexibility in managing this background survey task. Thank you for your attention to this matter.
