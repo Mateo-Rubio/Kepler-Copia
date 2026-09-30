@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing imagery of Bossico, Italy, which is nestled within the picturesque region of Italia. This location is described using realistic combinations of country, city, and landmark fields from 'location_details'. The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture, treating it as a non-essential background filler task.
+
+The primary sensor to be utilized is the SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This technique allows for cloud-penetrating capture, enabling us to pierce through heavy weather conditions or capture ground geometry with precision.
+
+The delivery deadline is set for "the day after tomorrow in the morning", serving as the upper limit for data availability. This phrase must be inserted verbatim into our request, without any rephrasing, shortening, or altering the time of day.
+
+In summary, our task request involves capturing high-resolution SAR imagery of Bossico, Italy, with a focus on active radar scans for cloud-penetrating capture and ground geometry assessment. The mission is classified as low priority importance, allowing for flexible scheduling to accommodate opportunistic capture within the specified timeframe. This request aligns with our operational guidelines, ensuring naturalness and validation accuracy in the dataset.

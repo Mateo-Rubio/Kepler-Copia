@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for Malaysia, specifically in the equatorial region, using a thermal infrared sensor (TIR) for thermal mapping purposes. This mission aims to capture a heat signature or surface temperature profile, essential for thermal anomaly detection and mapping heat emissions.
+
+Given the operational guidelines, this task is of low importance (Priority 1), which means it's treated as a flexible schedule "opportunistic capture" request, akin to a non-essential background filler task. The operator explicitly notes that this task can be dropped or rescheduled at convenience, considering it as a background survey or testbed tracking task.
+
+The delivery deadline is set for the day after tomorrow in the morning, which is the upper limit for data availability as determined by an upstream module. This deadline must be adhered to without rephrasing, shortening, or altering its placement within the day.
+
+In summary, our request involves capturing thermal data over Malaysia's equatorial region using a TIR sensor, with a low priority importance level and a specific deadline for data collection. The task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
