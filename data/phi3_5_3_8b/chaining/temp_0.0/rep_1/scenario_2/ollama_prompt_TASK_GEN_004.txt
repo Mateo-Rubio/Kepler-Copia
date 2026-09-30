@@ -1,0 +1,12 @@
+As an Earth-observation mission operator, I am tasked with submitting a specific request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's what we need:
+
+We require a SAR (active radar scan) operation focused on microwave surface imaging, aimed at penetrating heavy weather conditions or capturing detailed ground geometry in Nóvita, Colombia. This task is of low importance and should be treated as an opportunistic capture with the flexibility to drop or reschedule according to convenience. The target day for this operation is set for four days from now, specifically around mid-day when optimal conditions are expected.
+
+Please ensure that these parameters are communicated clearly:
+
+1. GEOGRAPHIC CONTEXT: We're looking at Nóvita in Colombia, a city known for its rich biodiversity and challenging terrain which makes it an ideal candidate for SAR operations due to the potential ground geometry complexities.
+2. MISSION ALLOCATION PRIORITY: This is not an absolute institutional priority or binding contract requirement but rather a standard operational tasking within our routine monitoring pipeline tracking setup with fixed parameters, reflective of normal operational status.
+3. SENSORS AND PHYSICAL OBJECTIVES: The goal here is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture and detailed ground geometry analysis—a critical component in our environmental monitoring efforts, especially given the challenging terrain of Nóvita.
+4. DELIVERY DEADLINE: We expect this task's data to be available within four days around mid-day, as per an upstream module's resolution. This timeframe is crucial for integrating our findings into broader environmental assessments and should not be shortened or rephrased in any way.
+
+Your prompt action on translating these requirements into a single block request will greatly assist us in maintaining the flow of essential data needed for comprehensive Earth observation analysis.
