@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and smoothly. Our objective is to capture thermal mapping data for the region around Poggi del Sasso, located in the beautiful country of Italia. We're aiming to gather insights into surface temperature profiles and detect any thermal anomalies that might be present.
+
+Given the nature of our request, we're looking at a flexible schedule for this task, treating it as a background survey or testbed tracking task. We understand that there might be other higher priority tasks in your queue, so please feel free to drop or reschedule this request at your convenience.
+
+Our target day is the day after tomorrow, with a strict delivery deadline set for the morning of that day. We're aiming to ensure that the products are ingested into our pipeline before the overnight block of that day. This data will be crucial for our ongoing research and development efforts.
+
+Thank you for your understanding and cooperation in handling this request. We appreciate your flexibility and look forward to receiving the data as soon as possible.
+
+Best regards,
+[Your Name]
