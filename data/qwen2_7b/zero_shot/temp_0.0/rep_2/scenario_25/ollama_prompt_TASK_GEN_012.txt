@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our focus is on the Indonesian region, specifically in an area known as Ecuatorial City, which is a notable landmark within this country.
+
+Our mission involves capturing data using a VNIR sensor for a vegetation analysis task. The goal here is to assess the chlorophyll absorption levels across various ecosystems and calculate the NDVI index to understand surface reflectance patterns. This will help us in monitoring plant health and environmental conditions accurately.
+
+We're aiming to gather this information by the day after tomorrow, with a strict delivery deadline set for that day's overnight period. We're aware of the urgency and understand that we're requesting a 'background survey' task that can be dropped or rescheduled at your convenience if needed.
+
+Thank you for your understanding and cooperation in fulfilling this request. We appreciate your efforts in ensuring our data products are ingested into the pipeline before the deadline is met.
+
+Best regards,
+[Your Name]

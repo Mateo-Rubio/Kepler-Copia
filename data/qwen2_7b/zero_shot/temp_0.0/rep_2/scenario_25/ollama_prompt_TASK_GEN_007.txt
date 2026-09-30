@@ -1,0 +1,6 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution optical imagery of Oiba, Colombia, during the afternoon today. This is a low priority importance request, but we kindly ask you to treat it as a flexible schedule background survey task. We understand that this might not be an urgent operational execution, and we're perfectly fine with dropping or rescheduling this at your convenience. The primary sensor for this mission will be the VNIR, which will help us assess the chlorophyll absorption level and calculate the vegetation NDVI index.
+
+We're looking to gather this data by today's target day during the afternoon at the latest. This deadline is crucial for our background survey task, ensuring that the products are ingested into our pipeline before the end of the day. We appreciate your understanding and cooperation in meeting this request. Thank you for your attention to detail and flexibility.
+
+Best regards,
+[Your Name]
