@@ -1,0 +1,3 @@
+We have an absolute institutional priority task that requires a critical payload capture over Napoli, Italy. This mission involves obtaining thermal mapping data to detect surface temperature profiles and any potential thermal anomalies in the area. The objective is to utilize thermal infrared imaging for this high-importance task, ensuring we capture heat emissions effectively.
+
+This request is a binding contract requirement with an urgent operational execution needed by the day after tomorrow evening at the latest. It's crucial that the data products are ingested into our pipeline before this strict delivery deadline to meet our operational commitments.
