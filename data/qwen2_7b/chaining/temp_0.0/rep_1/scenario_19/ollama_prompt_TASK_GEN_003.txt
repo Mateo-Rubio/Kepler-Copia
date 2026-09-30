@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Ecuatorial region, combining the country with a realistic description of the location using available details. Since 'city' and 'landmark' are "N/A", we focus on the 'region_name', which provides a clear and concise geographical reference.
+
+The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request demands urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be utilized is 'TIR', which will be employed for thermal mapping purposes. The goal is to capture a heat signature, surface temperature profile, or perform thermal anomaly detection, mapping heat emissions with precision.
+
+The delivery deadline is set for "in three days overnight", as determined by an upstream module. This phrase serves as the upper limit for data availability, without any rephrasing, shortening, or relocation of the time frame within the day.
+
+In summary, our request involves observing Indonesia's Ecuatorial region using a 'TIR' sensor for thermal mapping purposes, with a high priority level indicating an urgent operational execution requirement. The deadline for this task is "in three days overnight", ensuring that the data will be available by this specific time frame.
