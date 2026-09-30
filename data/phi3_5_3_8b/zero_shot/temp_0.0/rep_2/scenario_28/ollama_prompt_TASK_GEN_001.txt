@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging over Cimitarra, Colombia. This task is of low priority importance and requires a flexible schedule. We aim to have the data ready by tomorrow evening at the latest for opportunistic capture purposes. Please consider this as a non-essential background filler task where we can drop or reschedule according to convenience. Treat it as part of our routine monitoring, with an understanding that while not urgent, timely ingestion into our data pipeline is appreciated but not critical.
+```prompt

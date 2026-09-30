@@ -1,0 +1,3 @@
+We're looking to capture a multispectral vegetation analysis around midday in Ecuatorial, Indonesia. This is a non-essential background filler task that can be dropped or rescheduled at our convenience. The data products are needed by the day after tomorrow afternoon at the latest for routine monitoring purposes within our baseline pipeline tracking setup.
+```prompt
+...your text here...
