@@ -1,0 +1,1 @@
+We're looking to capture near-infrared reflections for water body boundary mapping in Bata, Indonesia. This is a non-essential background filler task that we can drop or reschedule at our convenience. The data products are needed by the day after tomorrow afternoon at the latest, ensuring they're ready well before then to be ingested into our regular monitoring pipeline.
