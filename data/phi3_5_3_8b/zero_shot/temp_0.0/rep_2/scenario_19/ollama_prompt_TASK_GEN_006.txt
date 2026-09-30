@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflections for water body boundary mapping in Ecuatorial, Indonesia. This is a low priority importance task with a flexible schedule; please drop or reschedule at your convenience as it serves as non-essential background filler tracking. We need the data ready by tomorrow nighttime at the latest to ensure we can ingest it into our monitoring pipeline without delay.
+```
