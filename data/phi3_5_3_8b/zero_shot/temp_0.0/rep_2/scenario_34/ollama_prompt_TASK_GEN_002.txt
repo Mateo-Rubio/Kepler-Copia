@@ -1,0 +1,2 @@
+We're looking to schedule a flexible SAR scan over Norte, France, with an aim for high-resolution microwave surface imaging. This task is of low priority importance and can be adjusted as needed; however, we need the data ready by in four days morning at the latest. Please consider this background survey or testbed tracking task within our standard operational capacity to ensure it doesn't interfere with more critical missions.
+```prompt
