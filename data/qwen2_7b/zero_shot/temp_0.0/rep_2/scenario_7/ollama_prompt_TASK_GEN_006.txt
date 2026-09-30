@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent request for a high-resolution optical snapshot of the Ecuatorial region in Indonesia, specifically focusing on the city of Ecuatorial. This task is of absolute institutional priority and involves capturing a critical payload that requires immediate attention.
+
+Our primary sensor requirement is VIS (visual imagery), which will provide us with daylight photography, clear optical imagery, and true-color visual documentation of the area. We're looking to penetrate through any cloud cover or heavy weather conditions using our active radar scan capabilities provided by SAR technology.
+
+The operational deadline for this task is set for three days from now, with a strict delivery deadline for the data products being in the evening. We need these data sets by that time at the latest, ensuring they are ingested into our pipeline before the deadline.
+
+This request is part of a baseline pipeline tracking setup involving fixed parameters and represents a standard operational tasking. However, given its high importance, we emphasize the need for an urgent operational execution and an un-preemptable mission lock.
+
+Thank you for your attention to this matter. We appreciate your swift action in fulfilling this critical directive.
+
+Best regards,
+[Your Name]
