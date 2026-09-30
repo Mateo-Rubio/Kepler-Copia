@@ -1,0 +1,5 @@
+Good day to you! I'm reaching out on behalf of our Earth-observation mission, requesting a highly realistic and detailed image capture for our client's needs. We're focusing on the beautiful region of Italia, specifically the charming town of Premilcuore. Our primary sensor requirement is a high-resolution optical snapshot, which will serve as a true-color visual documentation of the area during daylight hours.
+
+This task is classified as a low priority importance request, with flexible scheduling for opportunistic capture. We're looking to capture this imagery by the day after tomorrow, in the morning, ensuring that the products are ingested into our pipeline before then. This is a non-essential background filler task, where we explicitly note that it can be dropped or rescheduled at convenience.
+
+Thank you for your attention and cooperation in fulfilling this request. We appreciate your understanding of our operational guidelines and look forward to receiving the data as per our requirements.

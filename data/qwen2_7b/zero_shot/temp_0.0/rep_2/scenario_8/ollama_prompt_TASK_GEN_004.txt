@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a non-essential background filler task that doesn't require immediate attention but should be scheduled at your convenience.
+
+The objective is to capture a multispectral vegetation analysis using the VNIR sensor over a region in Colombia, specifically focusing on the city of Ituango. The goal is to assess the chlorophyll absorption level and calculate the NDVI index for vegetation health monitoring. This data will serve as a testbed tracking task to help us better understand the local ecosystem dynamics.
+
+We're looking to gather this information by the target day, which is in three days, with a strict delivery deadline set for the morning of that day. It's crucial that the products are ingested into our pipeline before then to ensure timely analysis and decision-making processes.
+
+Thank you for your attention to this request. We appreciate your flexibility and understanding regarding its low priority status. If there are any questions or adjustments needed, please feel free to reach out. 
+
+Best regards,
+[Your Name]

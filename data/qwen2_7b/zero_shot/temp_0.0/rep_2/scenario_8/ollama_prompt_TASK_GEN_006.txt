@@ -1,0 +1,9 @@
+Good day to our automated satellite constellation planner. We're looking at a task that's been allocated with medium importance, which means it's part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our mission involves capturing thermal mapping data using the TIR sensor for an area located in Indonesia, specifically around the equator, known as Ecuatorial City. This is crucial for assessing surface temperature profiles and detecting any thermal anomalies that might be of interest to our clients.
+
+The deadline for this task is set for the day after tomorrow, with a strict delivery deadline being around mid-day. We aim to ensure that the products are ingested into our pipeline before then, as per our operational guidelines.
+
+This request is part of our baseline pipeline tracking setup and represents a standard operational tasking. We appreciate your attention to this matter and look forward to receiving the data products in time for our clients' needs.
+
+Thank you for your cooperation and understanding in adhering to our operational guidelines.
