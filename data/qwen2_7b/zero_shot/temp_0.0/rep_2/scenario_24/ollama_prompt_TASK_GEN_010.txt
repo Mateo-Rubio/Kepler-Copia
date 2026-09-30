@@ -1,0 +1,9 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission that involves capturing data using Near-Infrared (NIR) sensors. The objective is to gather information about water body boundaries and soil moisture levels in the AMCO, Area Metropolitana Centro Occidente region of Colombia. This task falls under a low priority importance category, meaning it can be scheduled flexibly and treated as a background survey or testbed tracking task.
+
+The operational context for this mission is set for the day after tomorrow, with a strict delivery deadline for the data products to be ingested into our pipeline by around mid-day. We aim to ensure that all necessary data is ready before this time frame to meet our baseline pipeline tracking setup requirements.
+
+Please note that this request does not require an urgent operational execution or an un-preemptable mission lock, as it represents a standard workflow update with normal operational status. We appreciate your understanding and cooperation in fulfilling this task according to the outlined guidelines.
+
+Thank you for your attention to this matter.
