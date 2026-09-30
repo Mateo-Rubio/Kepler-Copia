@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Chaguaní, Colombia, using a visible light sensor (VIS). This daylight photography aims to provide clear optical imagery and true-color visual documentation of the region. The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This urgent operational execution necessitates an un-preemptable mission lock.
+
+The delivery deadline for this task is "tomorrow overnight", which serves as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day. The target day is tomorrow, and the diurnal period for this observation is overnight.
+
+In summary, our request is for an active radar scan using microwave surface imaging capabilities (SAR) to capture cloud-penetrating imagery that pierces heavy weather conditions. This will provide essential ground geometry data. Additionally, we aim to perform thermal mapping (TIR) to capture heat signatures and surface temperature profiles, crucial for thermal anomaly detection and mapping heat emissions.
+
+The multispectral vegetation analysis (VNIR) will assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance, providing valuable insights into plant health and environmental conditions. Lastly, near-infrared reflection (NIR) observations will map water body boundaries and assess soil moisture for distinguishing gradients.
+
+This task is a standard operational tasking that aligns with our baseline pipeline tracking setup, featuring fixed parameters representing normal operational status or a standard workflow update. The priority level ensures that this request is given the necessary attention without compromising other critical tasks.
+
+Let us proceed with the execution of this mission, ensuring that we adhere to these guidelines for naturalness and validation accuracy in our dataset.
