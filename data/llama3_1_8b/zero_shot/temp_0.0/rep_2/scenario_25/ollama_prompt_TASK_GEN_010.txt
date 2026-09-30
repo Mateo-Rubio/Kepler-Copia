@@ -1,0 +1,9 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner.
+
+The mission objective is to capture a high-resolution thermal map of the region in Colombia, specifically focusing on the city of Chima. This thermal mapping will involve active thermal imaging using microwave surface imaging to capture a heat signature and surface temperature profile. The goal is to detect and map thermal anomalies and heat emissions in the area.
+
+This task is an absolute institutional priority, representing a critical payload capture and mandatory directive for our contractual obligations. We require an urgent operational execution with an un-preemptable mission lock, ensuring that the data products are ingested into the pipeline before in four days in the morning at the latest.
+
+The request is classified as a high-importance task, and we expect the satellite constellation planner to allocate sufficient resources and assets to meet this deadline. The data will be used for thermal anomaly detection and mapping heat emissions, which is essential for our operational requirements.
+
+Please translate this metadata into a natural user request that reflects the operational guidelines provided.
