@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region in Colombia, specifically focusing on the city of Otanche. Given its importance, we classify this task as medium priority, which means it's part of our standard operational pipeline but with fixed parameters that ensure normal operational status.
+
+Our primary objective is to gather microwave surface imaging data that can penetrate heavy weather conditions and provide us with ground geometry details. This will be crucial for our ongoing projects requiring high-resolution data on the region's topography.
+
+We need this data by tomorrow, specifically during the overnight period, which means we're setting a strict deadline for data availability. This ensures that the products are ingested into our pipeline before the day ends, meeting our operational requirements without any delays.
+
+Thank you for your attention to this task. We appreciate your team's capability in delivering high-quality data within these time constraints. Please let us know if there are any questions or adjustments needed for this request.

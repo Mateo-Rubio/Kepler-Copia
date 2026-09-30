@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that involves capturing data using the VNIR sensor. Our geographic context is centered around Indonesia, specifically in the equatorial region of Ecuatorial City. This request carries a low priority importance, which means it's a flexible schedule task that can be dropped or rescheduled at convenience.
+
+The primary objective here is to conduct a multispectral vegetation analysis, focusing on assessing the chlorophyll absorption level and calculating the NDVI index for the area. We're aiming to gather detailed information about the vegetation health and land use patterns in this region.
+
+Given the operational guidelines, we're targeting the delivery of these data products by tomorrow evening at the latest. This deadline is crucial as it ensures the timely ingestion of the products into our baseline pipeline tracking setup. We understand that this request might be considered a non-essential background filler task, but it's still important for our ongoing research and monitoring activities.
+
+Thank you for your attention to this matter. Please let me know if you need any further information or clarification on this request.
