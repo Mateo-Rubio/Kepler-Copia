@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a flexible schedule background survey task, which we can drop or reschedule at your convenience.
+
+The objective is to capture a multispectral vegetation analysis using the VNIR sensor. We aim to assess the chlorophyll absorption level and calculate the NDVI index for the region around San Biagio di Callalta, located in Italia. This will help us understand surface reflectance patterns and vegetation health.
+
+We're looking for high-resolution optical snapshots that provide clear daylight photography and true-color visual documentation of the area. The goal is to gather detailed information about the landscape without any obstructions from clouds or weather conditions.
+
+The deadline for this task is set for tomorrow, with a strict delivery deadline by mid-day. We need the data products ingested into our pipeline before then to ensure timely processing and analysis.
+
+Thank you for your attention and cooperation in fulfilling this request.
+
+Best regards,
+[Your Name]
