@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an operational mission involving the Indonesian region, specifically focusing on Muara Asa city. Our priority is set to 'low importance', which means this request can be accommodated within our flexible schedule as a 'non-essential background filler task'. 
+
+The primary sensor we're utilizing for this mission is the SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging technology. The goal here is to capture cloud-penetrating imagery that will help us understand ground geometry and terrain features, even under heavy weather conditions.
+
+Our deadline for delivering the data products is set for tomorrow, with a strict delivery deadline of 'around mid-day'. This means we need the SAR data ready by the overnight block of tomorrow, ensuring it's ingested into our pipeline before the specified time. 
+
+Please note that this request does not require any urgent operational execution or an un-preemptable mission lock. We appreciate your understanding and flexibility in scheduling this task as part of our baseline pipeline tracking setup with 'fixed parameters'. Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]
