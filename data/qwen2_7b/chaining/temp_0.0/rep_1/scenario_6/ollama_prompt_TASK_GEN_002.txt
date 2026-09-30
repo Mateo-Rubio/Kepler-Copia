@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves capturing data for a specific location using the VNIR sensor, which aims to assess the chlorophyll absorption level and calculate the vegetation NDVI index.
+
+The geographic context is centered around "Italia", with the city being "Norte". This region is of low priority importance, indicating that this task is part of a flexible schedule for opportunistic capture. It's classified as a non-essential background filler task, which can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The delivery deadline is set for "today overnight", meaning the upper limit for data availability is resolved by an upstream module. This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our mission allocation priority reflects the structural hierarchy where Priority 1 tasks are low importance requests with flexible schedules for opportunistic capture. The naturalness and validation accuracy of the dataset are maximized by interpreting the metadata organically according to these operational guidelines.
