@@ -1,0 +1,5 @@
+Good day to our satellite constellation planners. We're looking to capture a multispectral vegetation analysis for Santander de Quilichao, Colombia, using our VNIR sensor. Our objective is to assess the chlorophyll absorption levels and calculate the NDVI index for this area. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We aim to deliver these data products by the target day, which is in three days, with a strict delivery deadline set for the evening at the latest. This request falls under standard operational tasking and should be treated as a routine monitoring activity. We appreciate your attention to this matter and look forward to receiving the data that will contribute to our ongoing research efforts.
+
+Thank you for your cooperation and understanding in meeting this deadline.

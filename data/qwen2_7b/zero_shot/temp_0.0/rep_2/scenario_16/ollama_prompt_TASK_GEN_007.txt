@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture a high-resolution optical snapshot of the region in Colombia, specifically focusing on the city of Páez. This daylight photography will serve as true-color visual documentation for our purposes.
+
+We're looking to conduct this routine monitoring task with fixed parameters, which represents our normal operational status. This request falls under the category of a background survey or testbed tracking task and doesn't require any urgent operational execution.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline set for the morning hours. We're aiming to ensure that the products are ingested into our pipeline before the overnight block on that day.
+
+Thank you for your attention to this task request. We appreciate your flexibility and understanding regarding its scheduling.
+
+Best regards,
+[Your Name]
