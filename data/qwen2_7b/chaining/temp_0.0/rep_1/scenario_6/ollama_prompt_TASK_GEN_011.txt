@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Schweiz/Suisse/Svizzera/Svizra with a focus on the city of Rheinwald using the primary sensor, which is Near-Infrared (NIR). This task is categorized under priority level 2, indicating it's part of our standard operational tasks or commercial tasking.
+
+The geographic context is centered around the picturesque Rheinwald in Schweiz/Suisse/Svizzera/Svizra. The mission aims to capture a thermal mapping snapshot of the area, which will help us assess soil moisture levels and water body boundaries. This is crucial for agricultural monitoring and environmental studies.
+
+The delivery deadline for this task has been set as "in four days around mid-day". This means that by the midpoint of the fourth day from now, we need to have the data available for analysis. The request emphasizes the importance of capturing the thermal signature accurately, which will provide insights into heat emissions and surface temperatures.
+
+In summary, our mission is to conduct a routine monitoring task using our satellite constellation to gather essential data on soil moisture and water body boundaries in Rheinwald, Schweiz/Suisse/Svizzera/Svizra. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We aim to ensure that the data collected meets our standard requirements for environmental monitoring and agricultural assessment.
+
+Please note that the deadline for this task is "in four days around mid-day", which serves as the upper limit for data availability. This phrase must be included verbatim in your response, without any rephrasing or alterations.
