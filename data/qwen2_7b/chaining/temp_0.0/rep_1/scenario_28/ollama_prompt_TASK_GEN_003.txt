@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for Indonesia, specifically in the region of Rokan Hilir, using the 'SAR' primary sensor with an overnight mission allocation priority.
+
+The operational guidelines dictate that we should interpret the metadata organically without using raw technical system tags or coordinate arrays. We're to combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we'll gracefully describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 1 (Low Importance), which requires a casual, highly flexible, or opportunistic tone. We're to explicitly frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". This is labeled as a "non-essential background filler task", treated as a "background survey" or "testbed tracking task".
+
+The 'SAR' sensor is interpreted as an active radar scan using microwave surface imaging, aimed at piercing heavy weather to capture ground geometry. The delivery deadline is set for tomorrow overnight, which must be inserted verbatim into the request as the stated upper limit for data availability.
+
+In summary, our request involves capturing detailed radar imagery of Rokan Hilir, Indonesia, with a focus on ground geometry and surface features, using an 'SAR' sensor during the overnight period. This task is considered low priority, allowing for flexible scheduling to fit into our "background survey" or "testbed tracking task" workflow.
