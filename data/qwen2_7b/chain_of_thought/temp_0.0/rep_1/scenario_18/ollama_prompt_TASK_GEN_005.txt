@@ -1,0 +1,7 @@
+On the day after tomorrow, at the specified time when the sun has set and the sky is painted with hues of twilight, our automated satellite constellation planner will capture a high-resolution optical snapshot of the region known as Italia, specifically focusing on the city of Norte. This request is designated as a low priority importance task, implying that it carries a flexible schedule for opportunistic capture without compromising the integrity of our operational workflow.
+
+The primary sensor to be deployed for this mission is the VIS (Visible Imaging System), which will provide us with clear optical imagery, capturing the essence of daylight photography and true-color visual documentation. This sensor aims to deliver a detailed view of the landscape, enabling us to assess environmental conditions and monitor natural phenomena without the interference of cloud cover or atmospheric disturbances.
+
+As we await this evening's capture, please note that this deadline represents an operational deadline for delivering data products, not an orbital capture window. We understand that this task may be scheduled as a background survey or testbed tracking task, with the flexibility to drop or reschedule at convenience if necessary.
+
+Please proceed with the mission allocation and ensure that our automated satellite constellation planner is aware of the specific time frame and geographical context for this request. Thank you for your attention to detail and adherence to operational guidelines.
