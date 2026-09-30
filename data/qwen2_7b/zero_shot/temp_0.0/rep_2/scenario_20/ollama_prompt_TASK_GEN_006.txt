@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking for an important thermal mapping mission. Our focus is on the region of Indonesia, specifically the city of Sekadau, where we aim to capture detailed thermal data.
+
+Our primary sensor requirement is the TIR (Thermal Infrared) system, which will allow us to map heat signatures and surface temperature profiles across the area. This task is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters that ensure a comprehensive assessment of the region's thermal dynamics.
+
+We're looking for high-resolution optical snapshots as well, to provide clear visual documentation of the landscape during daylight hours. This will complement our TIR data and offer a complete picture of the environmental conditions.
+
+The deadline for this mission is set for the day after tomorrow, with a strict delivery deadline for the data products by the afternoon. We're aiming to ensure that all the data is ingested into our pipeline before the target day's afternoon period.
+
+This request is part of our ongoing efforts to monitor and analyze various environmental conditions across different regions. We appreciate your attention to this task and look forward to receiving the data as per our guidelines.
+
+Thank you for your cooperation and support in fulfilling this mission.
+
+Best regards,
+[Your Name]
