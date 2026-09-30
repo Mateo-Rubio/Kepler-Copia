@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, which we're treating as a non-essential background filler task. Our objective is to capture a near-infrared reflection for water body boundary mapping or soil moisture assessment, which will help us discriminate gradients in the area.
+
+The region of interest is Norte, though we don't have specific details about the country. We're looking to gather this data with a flexible schedule, treating it as an opportunistic capture that can be dropped or rescheduled at our convenience. This task aligns with our background survey needs and testbed tracking tasks.
+
+We're aiming for a clear day in four days, with a strict delivery deadline set for the morning of that day. We need to ensure the products are ingested into the pipeline before the day ends, as per our operational guidelines.
+
+Thank you for your attention and cooperation in fulfilling this request.
+
+Best regards,
+[Your Name]

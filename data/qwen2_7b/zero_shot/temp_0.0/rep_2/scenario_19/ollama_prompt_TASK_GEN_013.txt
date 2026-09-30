@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution optical imagery of Vista Hermosa, Colombia, using a VNIR sensor. This is a low priority importance request, so please treat it as a flexible schedule background survey or testbed tracking task.
+
+The goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for this area. We're looking for detailed multispectral vegetation analysis that will help us understand the health of the local flora. The imagery should be clear and provide true-color visual documentation, which will be invaluable for our ongoing research project.
+
+We need these data products by tomorrow evening at the latest. This deadline is crucial as it ensures they are ingested into our pipeline before the day ends. Please note that this request does not extend the deadline; we're strictly adhering to the target day and diurnal period provided.
+
+Thank you for your understanding and prompt attention to this task. We appreciate your cooperation in meeting this requirement without compromising the quality or timeliness of the data.

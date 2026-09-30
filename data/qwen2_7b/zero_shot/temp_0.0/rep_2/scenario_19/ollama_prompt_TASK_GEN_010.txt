@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture thermal mapping data using a TIR sensor over the region of Colombia, specifically focusing on the city of Puerto Wilches. This request carries low priority importance and can be treated as a flexible schedule background survey or testbed tracking task.
+
+The operational context involves capturing a heat signature or surface temperature profile for this area, which will aid in thermal anomaly detection and mapping heat emissions. We aim to achieve this by conducting an active radar scan using microwave surface imaging technology, which is essential for cloud-penetrating capture and ground geometry assessment.
+
+Given the nature of our request, we're looking to deliver these data products by tomorrow evening at the latest. This deadline is critical as it ensures the timely ingestion of the products into our pipeline before the specified target day's evening period. Please note that altering or extending this deadline is not an option; we must adhere strictly to this timeframe.
+
+Thank you for your understanding and swift action in fulfilling this request. We appreciate your cooperation in ensuring the successful execution of this mission.
