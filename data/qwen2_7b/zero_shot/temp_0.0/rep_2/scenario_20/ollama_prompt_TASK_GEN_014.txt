@@ -1,0 +1,16 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving our high-priority mission. This task is bound by a contractual requirement and involves a binding directive that necessitates an absolute institutional priority.
+
+Our focus is on the beautiful region of Italia, specifically the stunning Isola del Gran Sasso d'Italia, where we aim to conduct an active radar scan using microwave surface imaging technology. Our goal is to capture cloud-penetrating imagery that will provide us with a detailed view of the ground geometry beneath heavy weather conditions.
+
+This task is essential for our baseline pipeline tracking setup and represents normal operational status. We're looking at fixed parameters that ensure our standard workflow update is seamlessly integrated into our system. However, this request carries a high level of importance due to its nature as a critical payload capture.
+
+We require the data products needed by tomorrow's overnight block at the latest. This deadline is set with strict adherence to our operational guidelines and represents the upper limit for data availability. We're ensuring that these products are ingested into our pipeline before the target day's overnight period.
+
+Please note that this request carries a high priority level, which means it must be given immediate attention without any preemption or delay. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your swift action and support in fulfilling this mission.
+
+Best regards,
+[Your Name]
