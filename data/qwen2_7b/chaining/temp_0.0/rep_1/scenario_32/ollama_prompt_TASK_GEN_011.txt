@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region named "Licciana Nardi", located in the country of Italia. This location is described using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. The primary sensor to be used for this mission is VIS, which will provide us with a daylight photography, clear optical imagery, or true-color visual documentation of the area.
+
+The priority level for this task is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request must be treated as an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability upper limit set for "the day after tomorrow in the evening". The sensors will perform their observations during this specific diurnal period to ensure optimal conditions for capturing the desired phenomena.
+
+In conclusion, our request is to capture high-quality VIS imagery of the region named "Licciana Nardi" in Italia, with a priority level indicating an urgent operational execution. The deadline for data availability is set for "the day after tomorrow in the evening", ensuring that we receive the information at the optimal time for analysis and decision-making.
