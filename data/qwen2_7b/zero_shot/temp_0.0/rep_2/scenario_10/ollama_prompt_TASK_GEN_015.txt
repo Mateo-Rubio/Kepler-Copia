@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Pesisir Selatan, Indonesia, using an advanced SAR system. Our objective is to gather comprehensive microwave surface imaging data that can penetrate heavy weather conditions and provide us with precise ground geometry information. This task is part of our standard operational pipeline tracking setup, representing normal operational status.
+
+We're aiming for a high-resolution snapshot by tomorrow's overnight period at the latest, ensuring the products are ingested into our pipeline before then. This request falls under medium importance, aligning with our baseline workflow updates and contractual obligations. We appreciate your team's attention to this task and look forward to receiving the data products that will contribute to our ongoing monitoring efforts.
+
+Thank you for your cooperation and understanding in meeting this deadline. Should there be any issues or if you require further clarification, please feel free to reach out. We value the efficiency and accuracy of our collaboration with your team.
