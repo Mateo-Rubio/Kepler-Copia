@@ -1,0 +1,1 @@
+We need a standard operational tasking to capture multispectral vegetation analysis in Venaco, France. This routine monitoring is part of our baseline pipeline tracking and should be completed within three days by the morning timeframe for data integration into our system. Please ensure this fits seamlessly with our current workflow updates.
