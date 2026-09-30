@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing high-resolution optical imagery of Fobello, a city in the country of Italia. This location requires a detailed snapshot for daylight photography, clear optical imagery, or true-color visual documentation that showcases its unique features under natural light conditions.
+
+Given the priority level of 3 (High Importance), this mission allocation is an absolute institutional priority, involving a critical payload capture with an urgent operational execution and an un-preemptable mission lock. The language must heavily imply that this task is a binding contract requirement, necessitating immediate attention and prioritization over other operational tasks.
+
+The primary sensor to be utilized is the VNIR (Visible Near-Infrared), which will be employed for multispectral vegetation analysis. This process aims to assess the chlorophyll absorption level or calculate the vegetation NDVI index and surface reflectance, providing valuable insights into the health and productivity of the local flora.
+
+The delivery deadline for this task has already been resolved by an upstream module: "in three days in the morning". This phrase must be inserted verbatim into our request, as the stated upper limit for data availability. The deadline is not to be rephrased, shortened, or moved to a different part of the day.
+
+In conclusion, this task request combines the operational guidelines with the provided JSON metadata to create a comprehensive and realistic English request that aligns with our mission's priorities and deadlines. We look forward to receiving the satellite data that will contribute to our understanding of Fobello's environmental conditions and support decision-making processes.
