@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing the region of Colombia, specifically focusing on Santa Rosa del Sur, a city within this country. Our mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request demands urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor to be utilized is the Near-Infrared (NIR), which aims to map water body boundaries and assess soil moisture, providing essential data for environmental monitoring and agricultural applications. The delivery deadline is set for 'in four days overnight', adhering to the specified upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our task request involves capturing detailed imagery of Santa Rosa del Sur using the Near-Infrared sensor during the overnight period four days from now. This high-resolution optical snapshot will serve as a critical tool for water body boundary mapping and soil moisture assessment, contributing to our baseline pipeline tracking and operational status with fixed parameters representing normal workflow updates.
+
+Please ensure that this request is prioritized accordingly, reflecting its 'High Importance' status and the need for urgent execution within the specified timeframe. Thank you for your attention to this matter.
