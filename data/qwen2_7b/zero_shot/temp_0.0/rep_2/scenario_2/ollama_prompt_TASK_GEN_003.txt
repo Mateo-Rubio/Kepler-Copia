@@ -1,0 +1,3 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the Ecuatorial region in Indonesia using our SAR sensor. This is a low priority importance task, so please treat it as a flexible schedule background survey or testbed tracking task. We aim to have this data ready by tomorrow's overnight block at the latest, ensuring the products are ingested into the pipeline before then. The goal here is to get an active radar scan that can pierce through heavy weather conditions and capture ground geometry for our purposes.
+
+Thank you for your attention to this request.
