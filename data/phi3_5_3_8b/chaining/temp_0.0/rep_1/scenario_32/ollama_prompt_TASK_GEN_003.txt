@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a specific operational directive to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here are the details:
+
+We require a thermal mapping of Ketapang, Indonesia, leveraging active radar microwave surface imaging capabilities. This task falls under our standard operational tracking regime, aimed at capturing heat signatures to map surface temperature profiles and identify any potential thermal anomalies within the region. The target area is situated in a country known for its diverse climatic conditions, which makes this kind of surveillance crucial for environmental monitoring purposes.
+
+Given that we are operating under a priority level designated as medium importance, it's essential to convey the necessity and expected outcomes clearly without overstating urgency. The directive is not just about fulfilling an obligation but also contributing valuable data to our ongoing efforts in environmental stewardship.
+
+The delivery deadline for this task has been firmly set as "the day after tomorrow during the afternoon." This timeframe ensures that we can integrate the acquired thermal imagery into our existing datasets promptly, maintaining a steady flow of information critical to our mission's success. It is imperative that these parameters are understood and acted upon with due diligence to meet this specific temporal window for data acquisition.
+
+Here is the formal request encapsulated within the required format:
