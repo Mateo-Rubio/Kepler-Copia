@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Indonesian region of Kutai Kartanegara using the Near-Infrared (NIR) sensor. This task falls under priority level 2, indicating it's part of our standard operational tasks with fixed parameters representing normal operational status.
+
+The geographical context is centered around Indonesia, specifically Kutai Kartanegara city, which is a key location for our monitoring activities. The primary sensor, NIR, will be utilized to capture the heat signature and surface temperature profile, essential for thermal anomaly detection and mapping heat emissions. This task aims to provide valuable insights into soil moisture assessment and water body boundaries.
+
+The delivery deadline is set for tomorrow in the morning, adhering to the upper limit for data availability as determined by an upstream module. We're treating this request as a standard operational task with normal operational status, ensuring that our baseline pipeline tracking remains intact without any preemption or alteration of existing workflows.
+
+In conclusion, our team will diligently observe and capture the necessary data using the Near-Infrared sensor in Kutai Kartanegara, Indonesia, tomorrow morning, contributing to our ongoing efforts in environmental monitoring and resource management.
