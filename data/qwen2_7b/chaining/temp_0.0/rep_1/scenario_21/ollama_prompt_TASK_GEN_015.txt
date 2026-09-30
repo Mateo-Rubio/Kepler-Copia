@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing the Indonesian city of Solok, which is part of our ongoing commercial tasking for baseline pipeline tracking.
+
+The mission allocation priority is set at medium importance, indicating that this request is part of our standard operational tasks with fixed parameters representing normal operational status. We're focusing on a VNIR sensor to capture a high-resolution optical snapshot for daylight photography and true-color visual documentation of the area. This will help us assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance.
+
+The delivery deadline is set for four days in the morning, which means we need to ensure that our satellite constellation captures this data within these parameters without any delays. This task is part of our routine monitoring activities and does not require urgent operational execution or an un-preemptable mission lock.
+
+In summary, our request involves capturing high-quality VNIR imagery of Solok, Indonesia, for standard commercial purposes with a clear deadline in mind. We're looking forward to receiving the data by four days in the morning to continue our baseline pipeline tracking activities.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for Malaysia, specifically in the city of Banting. The mission allocation priority is set at low importance, indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+The primary sensor to be utilized is TIR, which will enable thermal mapping to capture heat signatures and surface temperature profiles. This process involves assessing heat emissions across the region, providing valuable insights into thermal anomalies and mapping heat distribution effectively.
+
+The delivery deadline is set for "the day after tomorrow in the evening", marking the upper limit for data availability. This phrase must be included verbatim in our request, ensuring that the timing constraints are clearly communicated to the satellite constellation planner.
+
+In summary, our task involves capturing thermal data using TIR sensors over Malaysia's Banting region on the specified date and time. This low-priority importance request is part of a background survey or testbed tracking task, with no strict deadlines or contractual obligations attached. The focus is on gathering data that can be used for further analysis without impacting critical operational schedules.
