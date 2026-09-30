@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for a location in "Grumino, Italia", which is described as a picturesque town nestled within the beautiful landscapes of Italy.
+
+The mission allocation priority is set at 'Priority 1 (Low Importance)', indicating that this task is part of a flexible schedule for opportunistic capture. It's explicitly framed as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". The deadline for this task has already been resolved by an upstream module, and the upper limit for data availability is set as "tomorrow in the evening".
+
+The primary sensor to be utilized is "NIR", which will be employed for capturing "near-infrared reflection" to map water body boundaries or assess soil moisture. This sensor is crucial for discriminating gradients and providing valuable insights into environmental conditions.
+
+In summary, our request involves capturing data for Grumino, Italia, using a "NIR" sensor in the evening of tomorrow. This task is part of a low-priority background survey with a flexible schedule, emphasizing opportunistic capture as it aligns with our operational guidelines for handling tasks of this nature.
