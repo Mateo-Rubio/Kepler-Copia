@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Ecuatorial region. We're focusing on capturing high-resolution optical imagery for daylight photography, clear optical imagery, and true-color visual documentation of the area. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly labeled as a non-essential background filler task, to be treated as a background survey or testbed tracking task.
+
+The primary sensor involved is VNIR, which aims to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance. This mission allocation priority reflects a low importance level, with an "absolute institutional priority" or "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+The delivery deadline is set for the day after tomorrow during the afternoon. This phrase must be inserted verbatim into our request, as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task request involves capturing high-resolution optical imagery of Indonesia's Ecuatorial region using VNIR technology. This is a low priority importance task with a flexible schedule and a deadline set for the day after tomorrow during the afternoon. The request is framed to reflect operational guidelines that ensure naturalness and validation accuracy while adhering to the specified mission allocation priorities and deadlines.
