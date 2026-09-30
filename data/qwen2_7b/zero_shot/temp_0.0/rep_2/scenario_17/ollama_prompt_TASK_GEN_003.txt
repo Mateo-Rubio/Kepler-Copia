@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that involves capturing data using near-infrared (NIR) sensors. Our geographic context is centered around the Indonesian city of Berau, which is located in the country of Indonesia. This request carries low priority importance and can be treated as a flexible schedule background survey or testbed tracking task.
+
+The primary objective here is to gather information about water body boundaries and soil moisture assessment using near-infrared reflection capabilities. We aim to provide you with high-quality data that will help us discriminate gradients in the area efficiently.
+
+We're looking for this mission to be executed by tomorrow, specifically during the overnight period. This means we need the data products ingested into our pipeline before the deadline set for tomorrow's nighttime block. Please ensure that the data is ready and available for us by then, as it will play a crucial role in our ongoing research and monitoring activities.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting these requirements promptly and efficiently.
