@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Puerto Wilches, Colombia, using high-resolution optical snapshots for true-color visual documentation. This is a low priority importance task with a flexible schedule; however, we need the data products by tomorrow morning at the latest to ensure they're ingested into our pipeline on time. Feel free to drop or reschedule this background survey if necessary, as it serves more of an opportunistic capture purpose for now.
+```prompt
