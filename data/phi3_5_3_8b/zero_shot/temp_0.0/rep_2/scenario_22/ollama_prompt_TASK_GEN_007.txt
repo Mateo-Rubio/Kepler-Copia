@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging in Sesquilé, Colombia. This is a low priority importance task with a flexible schedule that we can drop or reschedule at our convenience. The goal is to capture cloud-penetrating images and understand the ground geometry. We need this data ready by tomorrow night's overnight block at the latest for some opportunistic analysis, but please note it's not urgent—feel free to adjust as needed within operational capacity.
+```prompt
