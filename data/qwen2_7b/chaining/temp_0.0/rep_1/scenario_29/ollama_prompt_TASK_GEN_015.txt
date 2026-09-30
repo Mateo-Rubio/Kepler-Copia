@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing data for Malaysia, specifically in Sebauh city. We're aiming for a high-resolution optical snapshot during the day after tomorrow afternoon, which will serve as a true-color visual documentation of the area. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture, treating it as a non-essential background filler task.
+
+The primary sensor involved is the near-infrared (NIR), which will be used to map water body boundaries and assess soil moisture. This will help discriminate gradients in the area efficiently. The deadline for this task has already been resolved by an upstream module: "the day after tomorrow during the afternoon," which must be inserted verbatim into our request.
+
+In summary, our mission allocation priority is set at low importance, indicating a standard operational tasking or routine monitoring part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language used reflects this structural hierarchy, emphasizing that this request is not tied to an urgent deadline but rather fits into the operator's workflow update as a background survey or testbed tracking task.
