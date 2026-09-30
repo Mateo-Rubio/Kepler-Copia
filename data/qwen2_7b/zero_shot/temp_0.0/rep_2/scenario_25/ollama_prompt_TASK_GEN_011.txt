@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a high-resolution optical snapshot of Montepulciano, located in the beautiful region of Italia. This is an absolute institutional priority, as we require a critical payload capture that involves a mandatory directive from our team. We're looking for clear optical imagery that will serve as true-color visual documentation to capture the essence of this picturesque city.
+
+The deadline for delivering these data products is set for tomorrow, around mid-day, with a strict delivery deadline that must be adhered to. This request is part of an ongoing baseline pipeline tracking setup involving fixed parameters that represent our normal operational status. We're looking forward to receiving thermal mapping data that will help us detect heat signatures and surface temperature profiles.
+
+We appreciate your swift attention to this matter and look forward to receiving the data products before the deadline. If there are any issues or delays, please ensure they do not impact the overnight block of tomorrow, as we need the products ingested into our pipeline before then.
+
+Thank you for your cooperation and understanding in this matter.
+
+Best regards,
+[Your Name]
