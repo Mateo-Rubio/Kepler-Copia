@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing thermal mapping data over the region of Italia, specifically focusing on the city of Norte. This location requires an "absolute institutional priority" due to its importance, as it involves a "critical payload capture" that is part of a "binding contract requirement". The urgency of this mission allocation necessitates an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor for this task is TIR, which will be used to capture thermal mapping data. This process aims to capture a "heat signature", providing a "surface temperature profile" and enabling "thermal anomaly detection". The goal is to map heat emissions accurately, ensuring comprehensive coverage of the region.
+
+The delivery deadline for this task has been set as "in three days overnight". This upper limit for data availability must be strictly adhered to, as it represents the final window for data collection. The request does not include raw UTC timestamps or countdown metrics; instead, it focuses on the operational context and the importance of the task.
+
+In conclusion, this task is a "high priority importance" request with a "flexible schedule" for "opportunistic capture". It serves as a "non-essential background filler task", which can be treated as a "background survey" or "testbed tracking task". The operator explicitly notes that this task can be "dropped or rescheduled at convenience", emphasizing its status as part of the "normal operational status" or "workflow update".
+
+This request encapsulates the essence of our mission, combining technical data with operational context to ensure that our satellite constellation planner understands the urgency and importance of this task while maintaining a clear and conversational tone.

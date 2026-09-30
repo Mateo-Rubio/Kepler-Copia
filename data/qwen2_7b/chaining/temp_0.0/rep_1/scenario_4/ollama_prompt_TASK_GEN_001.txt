@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically focusing on the city of Calamar, with a primary sensor designated as VNIR for a daylight photography mission.
+
+The mission allocation priority is set at low importance, indicating that this task is part of a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience. The goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index along with surface reflectance.
+
+The delivery deadline is set for three days in the evening, which means we aim to have the data available by that time frame. This upper limit for data availability is a fixed parameter representing normal operational status or a standard workflow update.
+
+In summary, our request involves capturing high-resolution optical imagery of Calamar, Colombia, using VNIR technology for multispectral vegetation analysis. The task is part of our baseline pipeline tracking setup with fixed parameters, reflecting a standard operational tasking. We're looking forward to receiving the data by three days in the evening, ensuring that it aligns with our flexible schedule and contributes to our background survey or testbed tracking tasks.

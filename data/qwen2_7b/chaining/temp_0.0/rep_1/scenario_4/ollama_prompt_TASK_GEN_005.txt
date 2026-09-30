@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing imagery of Santa Giustina, a charming town in the beautiful country of Italia. Our mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This urgent operational execution demands an un-preemptable mission lock, emphasizing the importance of this task.
+
+The primary sensor to be utilized is the SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This technique allows for cloud-penetrating capture, enabling us to pierce through heavy weather conditions or capture ground geometry with unparalleled precision.
+
+The delivery deadline is set for 'the day after tomorrow during the afternoon', marking the upper limit for data availability. This phrase must be inserted verbatim into our request, as it represents the stated time frame for data collection.
+
+In conclusion, this task requires a high-resolution optical snapshot of Santa Giustina using the SAR sensor to capture detailed imagery during daylight hours. The imagery will serve as a true-color visual documentation, providing invaluable insights into the town's landscape and urban features. This request is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status or a standard workflow update.
+
+Let us proceed with this standard operational tasking, ensuring that our satellite constellation captures the essence of Santa Giustina with utmost accuracy and detail, contributing to our comprehensive understanding of Earth's surface conditions.
