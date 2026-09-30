@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planner. We're looking at a task that's been allocated with medium importance, which means it's part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our mission involves capturing thermal mapping data using the TIR sensor for a location in France, specifically in Norte city. This is akin to assessing heat signatures and surface temperature profiles across the region, which could be crucial for detecting thermal anomalies or mapping heat emissions.
+
+The geographical context here is quite straightforward: we're focusing on a specific area within France's borders, with Norte city as our primary reference point. If you need more details about the location, feel free to ask!
+
+As for the deadline, we're looking at delivering this data by the target day, which is in three days, during the afternoon. This means we need the data products ingested into our pipeline before that time frame ends. We're treating this as a standard operational tasking with a strict delivery deadline set for the specified date and time.
+
+Please ensure that the data captures are ready to be analyzed promptly after collection, adhering to these guidelines for a smooth integration into our baseline pipeline tracking setup. Thank you for your attention to this matter.
+
+Best regards,
+[Your Name]
