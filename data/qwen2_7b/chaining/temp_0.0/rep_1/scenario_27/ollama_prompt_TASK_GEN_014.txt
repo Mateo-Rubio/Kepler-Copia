@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing thermal mapping data over the region of Cantù, located in the country of Italia. This area requires an "absolute institutional priority" due to its critical payload capture nature, which is a "binding contract requirement". The mission must be executed with "urgent operational execution" and is an "un-preemptable mission lock".
+
+The primary sensor for this task is TIR, aimed at capturing a "heat signature" through thermal mapping. This process involves assessing surface temperature profiles and detecting thermal anomalies to map heat emissions accurately.
+
+The deadline for this task has been resolved by an upstream module, with the data availability upper limit set for "tomorrow around mid-day". This phrase must be inserted verbatim into the request, as it represents the stated time frame for data delivery.
+
+In conclusion, our request is for a highly prioritized mission involving thermal mapping over Cantù, Italia, utilizing TIR sensors to capture heat signatures and thermal anomalies. The task must be executed with urgency and importance, adhering to the specified deadline of "tomorrow around mid-day".
