@@ -1,0 +1,1 @@
+As an Earth-observation mission operator, I am tasking our automated satellite constellation planner with a non-essential background filler task today overnight. The objective is to capture near-infrared reflection for water body boundary mapping in Marola, Italy. This request has been assigned low priority importance and can be dropped or rescheduled at convenience.

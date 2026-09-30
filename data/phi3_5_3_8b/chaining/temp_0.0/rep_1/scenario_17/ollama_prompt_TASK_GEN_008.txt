@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We require a standard operational tasking that involves conducting an active radar scan using microwave surface imaging over Giugliano in Campania, Italy. This operation is part of our routine monitoring efforts to capture cloud-penetrating images and assess ground geometry under varying weather conditions. The target area falls within the region known for its diverse landscape, which necessitates such comprehensive data collection.
+
+The task must be executed with a baseline pipeline tracking setup that maintains fixed parameters indicative of our normal operational status. This is not an emergency but rather a critical component in ensuring continuous surveillance and analysis capabilities over the region. The deadline for this mission allocation priority has been resolved by upstream modules, specifying data availability within three days around mid-day.
+
+Please proceed with scheduling this standard operational tasking as outlined above, adhering strictly to the established timeline without deviation. Your prompt attention and execution of these parameters are essential for maintaining our current level of situational awareness in Giugliano in Campania.
