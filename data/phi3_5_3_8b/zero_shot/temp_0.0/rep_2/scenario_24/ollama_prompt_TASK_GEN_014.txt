@@ -1,0 +1,2 @@
+We need to schedule a standard operational tasking for tomorrow's afternoon, focusing on an active radar scan using microwave surface imaging in Spoleto, Italy. This will facilitate cloud-penetrating capture and provide insights into ground geometry. The data products must be ingested into the pipeline before tomorrow afternoon to maintain our routine monitoring flow.
+```
