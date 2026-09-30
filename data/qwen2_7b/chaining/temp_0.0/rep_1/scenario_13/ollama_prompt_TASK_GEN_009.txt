@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing the Indonesian city of Pulang Pisau, which requires capturing thermal mapping data for heat signature detection and surface temperature profiling.
+
+The mission allocation priority is medium importance, indicating that this task is part of our standard operational pipeline tracking with fixed parameters representing normal operational status. We're focusing on a "critical payload capture" or "mandatory directive", emphasizing an "urgent operational execution" and an "un-preemptable mission lock".
+
+Our primary sensor for this task is TIR, which will be used to assess thermal anomalies and map heat emissions. This involves capturing detailed thermal data that can help us understand surface temperatures and identify any unusual heat patterns.
+
+The delivery deadline is set for tomorrow in the evening, which means we need to ensure that our satellite constellation is ready to capture this data by that time. We're not dealing with raw technical system tags or coordinate arrays; instead, we're combining the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'.
+
+In conclusion, this task request is a standard operational tasking that involves capturing thermal mapping data for heat signature detection and surface temperature profiling in Pulang Pisau, Indonesia. It's part of our baseline pipeline tracking with fixed parameters representing normal operational status. The deadline for this task is tomorrow in the evening, ensuring that our satellite constellation is prepared to capture this data by that time.

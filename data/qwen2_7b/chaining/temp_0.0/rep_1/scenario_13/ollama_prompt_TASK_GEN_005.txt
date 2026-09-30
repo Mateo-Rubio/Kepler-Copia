@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for Norte, Brazil, focusing on the region's unique characteristics without relying on raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at Low Importance, indicating that this task is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task. The language must reflect a casual tone with an explicit note to drop or reschedule the task at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor in play is SAR (Synthetic Aperture Radar), which will be used for an active radar scan employing microwave surface imaging. This technique allows for cloud-penetrating capture, enabling us to pierce through heavy weather conditions and capture ground geometry with precision.
+
+The delivery deadline is set for tomorrow in the morning, as determined by an upstream module. This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or adjustment of time.
+
+In summary, our task involves capturing detailed radar imagery of Norte, Brazil, with a focus on active surface mapping and ground geometry analysis. The low priority level ensures that this mission can be accommodated within our flexible schedule, allowing us to prioritize more critical tasks while still fulfilling this operational requirement.
