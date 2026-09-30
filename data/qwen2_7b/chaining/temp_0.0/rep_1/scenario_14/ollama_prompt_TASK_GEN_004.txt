@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves capturing a high-resolution optical snapshot of Suárez, Colombia, using daylight photography for clear optical imagery and true-color visual documentation. This request carries medium importance, framed as a standard operational tasking that aligns with our baseline pipeline tracking setup. The mission allocation priority is set at level 2, indicating fixed parameters representing normal operational status.
+
+The primary sensor involved is VIS, which will capture the essence of Suárez's landscape through its high-resolution optical capabilities. This imagery will serve as a valuable asset for monitoring and assessing various environmental conditions and urban developments in the region.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for three days around mid-day. This upper limit for data availability is to be strictly adhered to, as it represents the final window for capturing the desired information.
+
+In conclusion, our request is to capture a detailed VIS image of Suárez, Colombia, on the specified day and time frame, ensuring that this standard operational task contributes to our ongoing monitoring efforts without compromising quality or efficiency.
