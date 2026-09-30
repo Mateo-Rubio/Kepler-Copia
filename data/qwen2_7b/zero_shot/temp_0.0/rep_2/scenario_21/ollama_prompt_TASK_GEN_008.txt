@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at a standard operational tasking involving a VNIR sensor for a daylight photography mission in the beautiful region of Italia, specifically in the city of Norte. This is a routine monitoring activity that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our priority here is medium importance, meaning this request falls under our standard workflow update category. We're aiming to capture high-resolution optical imagery for a vegetation analysis task, focusing on assessing chlorophyll absorption levels and calculating the NDVI index along with surface reflectance.
+
+The deadline for delivering these data products is set for tomorrow's overnight block, ensuring they are ingested into our pipeline before that time. This request is part of our regular background survey tasks, which can be dropped or rescheduled at convenience if needed. We appreciate your attention to this matter and look forward to receiving the results.
+
+Thank you for your cooperation in handling this task with the utmost professionalism and efficiency.
