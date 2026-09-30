@@ -1,0 +1,3 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Petreto-Bicchisano, France, using our SAR sensor. This is a low priority importance task, so please treat it as a flexible schedule background survey or testbed tracking task. We aim to have the data ready by tomorrow's overnight block at the latest, ensuring the products are ingested into the pipeline before then. This request doesn't require any rush, but we appreciate your prompt attention to this non-essential background filler task.
+
+Thank you for your understanding and cooperation in managing our satellite constellation operations.
