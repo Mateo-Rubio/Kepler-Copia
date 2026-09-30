@@ -1,0 +1,1 @@
+This is a critical payload capture of the Tocaima region in Colombia. We need multispectral vegetation analysis, specifically chlorophyll absorption level and NDVI index calculation, for this area.  Ensure the products are ingested into the pipeline before today in the evening at the latest. This is an absolute institutional priority.
