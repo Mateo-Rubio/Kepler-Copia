@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection snapshot of Sarolangun, Indonesia, for a commercial tasking operation. Our primary sensor requirement is the near-infrared band, which will help us map water body boundaries and assess soil moisture levels in the area.
+
+We aim to achieve this by capturing high-resolution imagery around mid-day on the target day, which is three days from now. This request carries medium importance as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're looking for a standard operational tasking that aligns with our contractual obligations and standard workflow updates.
+
+Please ensure that the data products are ingested into our pipeline before the strict delivery deadline set for the target day, which is three days from now, around mid-day. This deadline is crucial for our operational planning and cannot be extended or altered in any way. We appreciate your attention to this matter and look forward to receiving the data as per our requirements.
+
+Thank you for your cooperation and understanding.

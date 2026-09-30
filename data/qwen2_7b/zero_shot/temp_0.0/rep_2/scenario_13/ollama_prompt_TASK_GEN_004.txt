@@ -1,0 +1,10 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a low-priority importance task for an Earth observation mission. This task involves capturing data using a VNIR sensor, which will be used for multispectral vegetation analysis. Our goal is to assess the chlorophyll absorption level and calculate the NDVI index for the region in Colombia, specifically focusing on the city of San Martín.
+
+Given the nature of this request, we're treating it as a flexible schedule task that can be dropped or rescheduled at convenience. We're looking to perform this background survey or testbed tracking task opportunistically. The deadline for delivering the data products is set for three days from now, with a strict delivery deadline marked for overnight.
+
+Thank you for your attention and cooperation in fulfilling this low-priority importance task.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,9 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an operational mission allocation involving our SAR sensor. Our objective is to capture an active radar scan of the region known as Norte, which is located in an unspecified country. The geographical context here involves a detailed focus on the area without specifying a particular city or landmark, as those details are not available.
+
+Given the nature of our request, I'm categorizing this as a low priority importance task, which means it's part of our flexible schedule and can be treated as a background survey or testbed tracking task. We're looking to perform an "active radar scan" using microwave surface imaging for cloud-penetrating capture, ensuring we can capture ground geometry even under heavy weather conditions.
+
+The primary goal is to gather data that will help us understand the region's surface characteristics and geometry without being overly concerned about the specific time of day. We're aiming for a "cloud-penetrating capture" that will provide us with detailed information on the area's topography and structure.
+
+Our deadline for this task is set for tomorrow, with a strict delivery deadline of "in the morning." This means we need the data products ingested into our pipeline before the morning hours of the following day. We're not looking to extend this deadline; it's crucial that we adhere to this timeframe to ensure timely processing and analysis.
+
+Thank you for your attention to this matter, and I look forward to receiving confirmation on the successful allocation of resources for this task. If you have any questions or need further clarification, please feel free to reach out.
