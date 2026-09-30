@@ -1,0 +1,2 @@
+We're looking to schedule an opportunistic SAR scan over Génova, Colombia, in the evening today. This task is of low priority importance and can be dropped or rescheduled at our convenience. The goal is to capture microwave surface imaging for cloud-penetrating data collection. Please ensure that this background survey is completed by tonight's end time, as we need these insights promptly but without immediate urgency.
+```prompt
