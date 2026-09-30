@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Ecuatorial using microwave surface imaging. We need cloud-penetrating capture around mid-day the day after tomorrow for routine monitoring and baseline pipeline tracking.
