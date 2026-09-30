@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing data for a location in Colombia, specifically the city of Aguadas. This area requires a detailed and comprehensive analysis due to its high priority level, which is designated as 'Priority 3'. This indicates an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed with urgency and cannot be preempted.
+
+The primary sensor for this mission is 'VNIR', which will be used for multispectral vegetation analysis. The goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index, providing valuable insights into surface reflectance patterns.
+
+The delivery deadline for this task has been set as "tomorrow overnight". This phrase serves as the upper limit for data availability, emphasizing that the data must be ready by this time without any rephrasing or alteration.
+
+In summary, our request is to capture high-resolution optical snapshots of the region in Colombia using VNIR technology, focusing on detailed vegetation analysis. This task is of utmost importance and requires immediate attention due to its priority level. The deadline for data delivery is tomorrow overnight, ensuring that our mission objectives are met with the highest standards of accuracy and timeliness.
