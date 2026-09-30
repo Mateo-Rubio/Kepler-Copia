@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan of Giugliano in Campania, Italia. We require cloud-penetrating capture using microwave surface imaging to map the ground geometry in this region. The data should be delivered in three days around mid-day.
