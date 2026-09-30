@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture a high-resolution optical snapshot of Suka Maju, Indonesia, using our VIS sensor. This daylight photography will serve as true-color visual documentation for our ongoing project.
+
+Given the importance of this task, I'm designating it with a low priority importance level. We understand that this request might be treated as a flexible schedule task and can be dropped or rescheduled at your convenience. However, we kindly ask you to consider this as a non-essential background filler task that complements our ongoing background survey.
+
+We're aiming to have the data products ready by the target day, which is in three days, with a strict delivery deadline set for the morning of that day. This means ensuring the products are ingested into our pipeline before the overnight block on the target day. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter. We look forward to receiving the data as soon as possible.
