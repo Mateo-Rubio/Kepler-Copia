@@ -1,0 +1,5 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+The mission objective is to capture a high-resolution thermal map of the region using thermal mapping to detect heat signatures and surface temperature profiles. The location is in Argenta, Italy, which is a critical area that requires an absolute institutional priority due to its binding contract requirements involving a critical payload capture.
+
+The data must be ready by the day after tomorrow overnight at the latest, ensuring the products are ingested into the pipeline before this deadline. This is a mandatory directive with an urgent operational execution and un-preemptable mission lock.
