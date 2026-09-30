@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data from the region of France, specifically focusing on the city of Calvi. This location will provide us with valuable insights into thermal mapping, as our primary sensor is set to TIR (Thermal Infrared). The goal is to capture a heat signature or surface temperature profile, which will be crucial for thermal anomaly detection and mapping heat emissions.
+
+Given the priority level of 3, this task is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution. We are bound by contractual obligations and must ensure that this mission lock is not preempted, as it represents a binding requirement with high importance.
+
+The deadline for this task has been set for tomorrow in the evening, which is the upper limit for data availability. We understand that this timeframe is non-negotiable and must be adhered to strictly.
+
+In conclusion, our request involves capturing high-resolution thermal imagery of Calvi, France, using our TIR sensor. This will enable us to assess surface temperatures accurately and detect any anomalies that may require immediate attention. The task is part of a baseline pipeline tracking setup with fixed parameters, representing normal operational status. We are committed to delivering the data by tomorrow evening as per the agreed-upon deadline.
