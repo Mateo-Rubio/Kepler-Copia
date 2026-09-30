@@ -1,0 +1,3 @@
+In response to the operational guidelines and interpreting the provided metadata, we are tasked with capturing a high-resolution optical snapshot of Delang Kerohong, Indonesia, tomorrow evening. This standard operational tasking involves a routine monitoring requirement for baseline pipeline tracking, utilizing fixed parameters that represent normal operational status. The imagery will serve as true-color visual documentation, providing clear optical imagery essential for our ongoing projects and assessments.
+
+Please note that the deadline for delivering this data product is strictly set for tomorrow evening, as indicated in the metadata, and we are not altering or extending this timeframe.
