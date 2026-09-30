@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging in Puerto López, Colombia. This task is of low priority importance and should be completed within three days from now, with a specific aim for around mid-day availability. Given its non-essential nature, please feel free to drop or reschedule this request at your convenience. The goal here is opportunistic capture, serving as background survey tracking that will contribute to our broader environmental monitoring efforts.
+```prompt
