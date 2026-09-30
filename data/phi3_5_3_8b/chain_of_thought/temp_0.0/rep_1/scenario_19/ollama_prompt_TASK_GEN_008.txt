@@ -1,0 +1,1 @@
+As a standard operational tasking, we require today's overnight window for executing an active radar scan using microwave surface imaging in Norte, Italy. This operation is scheduled within our routine pipeline tracking and will contribute to cloud-penetrating capture capabilities or detailed ground geometry analysis as part of the baseline workflow update.
