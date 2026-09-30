@@ -1,0 +1,1 @@
+This is a standard operational tasking for a high-resolution optical snapshot of Planadas, Colombia. We need this imagery ingested into the pipeline before tomorrow evening at the latest.
