@@ -1,0 +1,9 @@
+In response to a medium-importance operational tasking, we are tasked with capturing a routine monitoring of the region in Colombia, specifically focusing on the city of Curití. This standard operational task involves utilizing our VNIR sensor for a daylight photography mission, aiming to assess chlorophyll absorption levels and calculate the vegetation NDVI index along with surface reflectance. The primary objective is to gather comprehensive multispectral data that will provide insights into the health and distribution of vegetation in the area.
+
+Given the nature of this request, it is categorized as part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. We are to execute this task with standard procedures, ensuring that all data collected adheres to our established guidelines for quality and accuracy.
+
+The deadline for this task has been set for the day after tomorrow in the evening, which means we must ensure that all data is captured and processed by then. This timeframe is not subject to change and represents the upper limit for data availability.
+
+As part of our ongoing efforts to maintain operational efficiency and flexibility, this request is treated as a non-essential background filler task. We are instructed to drop or reschedule it at convenience if necessary, considering it as a background survey or testbed tracking task that can be accommodated within our broader operational scope without impacting critical mission priorities.
+
+In summary, our team will diligently capture the required VNIR data for the city of Curití in Colombia during the evening of the day after tomorrow, adhering to established procedures and guidelines while maintaining flexibility to accommodate any adjustments as needed.

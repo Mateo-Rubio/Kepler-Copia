@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing a high-resolution optical snapshot of the Ecuatorial region in Indonesia using a visible light sensor. This imagery will serve as daylight photography, providing clear optical details for documentation purposes.
+
+The mission allocation priority is medium importance, indicating that this task is part of our standard operational pipeline tracking with fixed parameters representing normal operational status. We're treating it as a routine monitoring activity that doesn't require urgent execution but maintains the integrity of our baseline workflow updates.
+
+Given the nature of the VIS sensor, we aim to capture true-color visual documentation that will help us understand the landscape and urban areas in the Ecuatorial region with high detail. This imagery will be invaluable for environmental studies, urban planning, and disaster response efforts.
+
+The delivery deadline is set for tomorrow overnight, which means our data availability upper limit is tomorrow's overnight period. We're not concerned with raw UTC timestamps or countdown metrics; instead, we're focusing on ensuring that the satellite constellation captures the required data within this timeframe.
+
+In summary, our request involves capturing high-resolution optical imagery of the Ecuatorial region in Indonesia using a visible light sensor for standard operational tracking purposes. This task is part of our baseline pipeline and doesn't require urgent execution but must be completed by tomorrow overnight to meet our operational requirements.

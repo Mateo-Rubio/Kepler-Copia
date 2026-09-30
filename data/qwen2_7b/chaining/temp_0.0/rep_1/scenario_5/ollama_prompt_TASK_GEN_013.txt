@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Andina, Colombia, using a visible light sensor during the afternoon tomorrow. This request carries an absolute institutional priority, as it involves a critical payload capture that is part of a binding contract requirement. The language heavily implies an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor is set to VIS, which will provide daylight photography, clear optical imagery, and true-color visual documentation of the target area. This task is essential for detailed analysis and monitoring purposes, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Given the priority level of 3, this request is treated as a standard operational tasking that involves critical payload capture and mandatory directive execution. The deadline for this task has already been resolved by an upstream module, with the upper limit for data availability being tomorrow during the afternoon.
+
+In conclusion, this low priority importance request carries a flexible schedule for opportunistic capture, labeled as a non-essential background filler task. It is treated as a background survey or testbed tracking task, where the operator explicitly notes to drop or reschedule at convenience if necessary.
+
+This request encapsulates our operational guidelines, ensuring that the naturalness and validation accuracy of the dataset are maximized through organic interpretation of the provided metadata.
