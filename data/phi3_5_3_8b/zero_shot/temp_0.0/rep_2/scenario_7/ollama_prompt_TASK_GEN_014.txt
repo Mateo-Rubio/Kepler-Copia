@@ -1,0 +1,3 @@
+We're looking to capture near-infrared reflections around mid-day tomorrow for water body boundary mapping, with a strict delivery deadline set for that day. This is a non-essential background filler task; please drop or reschedule at your convenience as it has the lowest priority importance.
+```prompt
+...your text here...

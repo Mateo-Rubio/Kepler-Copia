@@ -1,0 +1,1 @@
+As an Earth-observation mission operator, I am issuing a binding contract requirement for high-resolution optical snapshot imagery of Campagnatico in Italy. This task is critical payload capture with absolute institutional priority and must be executed urgently to ensure the products are ingested into our data pipeline by tomorrow nighttime at the latest.
