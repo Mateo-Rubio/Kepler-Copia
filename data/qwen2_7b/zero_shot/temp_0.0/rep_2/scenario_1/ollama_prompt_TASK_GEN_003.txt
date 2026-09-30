@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture thermal mapping data using a TIR sensor over the region of Indonesia, specifically focusing on the city of Mamuju. This request carries low priority importance and can be scheduled as a flexible background survey or testbed tracking task.
+
+The operational context involves capturing a heat signature or surface temperature profile for this area, which will aid in thermal anomaly detection and mapping heat emissions. We aim to achieve this by conducting an active radar scan using microwave surface imaging technology, which is essential for cloud-penetrating capture and ground geometry assessment.
+
+Given the urgency of our request, we need the data products delivered by the day after tomorrow, around mid-day at the latest. This deadline is strictly set to ensure that the information is ingested into our pipeline before the specified time frame. Please note that altering or extending this deadline is not an option, as it directly impacts our operational planning and decision-making processes.
+
+Thank you for your understanding and swift action in addressing this request. We appreciate your cooperation in meeting these requirements and ensuring the successful execution of this mission.
