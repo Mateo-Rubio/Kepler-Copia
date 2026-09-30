@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Indonesian city of Setiris using a VNIR sensor during today's overnight period.
+
+The geographic context is set in Indonesia, with the city of Setiris as our target location. This region is known for its diverse ecosystems and agricultural activities, making it an ideal area for multispectral vegetation analysis. Our mission aims to assess chlorophyll absorption levels and calculate the NDVI index to understand surface reflectance patterns.
+
+The priority level for this task is medium importance, indicating a standard operational tasking that fits into our baseline pipeline tracking setup with fixed parameters. This request represents normal operational status and is part of our routine monitoring activities.
+
+Given the deadline for this task is "today overnight," we are focusing on capturing data within this specific timeframe to ensure accurate representation of the area's vegetation health without interference from daylight conditions. The VNIR sensor will provide us with detailed information on the spectral characteristics of the land, enabling us to identify various plant species and their health status.
+
+In summary, our request is for a multispectral vegetation analysis using a VNIR sensor over Setiris, Indonesia, during today's overnight period. This task aligns with our standard operational procedures and will contribute to our ongoing monitoring activities without requiring urgent execution or impacting other higher-priority missions.
