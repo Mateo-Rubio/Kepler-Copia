@@ -1,0 +1,1 @@
+We need a standard operational tasking for multispectral vegetation analysis in Campo Capote, Colombia. This routine monitoring is part of our baseline pipeline tracking and must be completed tomorrow morning at the latest to ensure timely data integration into our workflow update. Please proceed with this fixed-parameter setup as per usual protocols.
