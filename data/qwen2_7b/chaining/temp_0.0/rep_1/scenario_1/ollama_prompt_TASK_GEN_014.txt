@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for Norte, Brazil, focusing on the operational guidelines provided.
+
+The mission allocation priority is medium importance, indicating that this task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. We're dealing with an active radar scan using microwave surface imaging to capture cloud-penetrating data, essential for understanding ground geometry under various weather conditions.
+
+The primary sensor used is SAR (Synthetic Aperture Radar), which will provide us with detailed information about the area of interest without being affected by cloud cover or darkness. This task is not time-sensitive; it's scheduled for tomorrow around mid-day, as per our predefined deadline.
+
+In summary, our request involves capturing high-resolution SAR imagery of Norte, Brazil, focusing on cloud-penetrating capture to understand ground geometry. This task is part of our baseline pipeline tracking setup with normal operational status and fixed parameters. We're looking forward to receiving the data by tomorrow around mid-day, as per our predefined deadline.
