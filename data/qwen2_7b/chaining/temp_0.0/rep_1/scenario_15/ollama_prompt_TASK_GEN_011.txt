@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing imagery of Corteno Golgi, Italy, using an active radar scan for microwave surface imaging. This task falls under the category of medium importance, as it represents a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will enable cloud-penetrating capture and provide ground geometry details. The mission allocation priority is set at level 2, indicating that this request is a standard operational task with normal operational status or a routine monitoring activity.
+
+The delivery deadline for this task has been resolved by an upstream module, and it's set for tomorrow in the evening. This phrase must be included verbatim in our request as the upper limit for data availability. The goal is to capture high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation of the region.
+
+In conclusion, this task involves capturing thermal mapping to assess heat signatures and surface temperature profiles, which will aid in thermal anomaly detection and mapping heat emissions. Additionally, we aim to perform multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance using VNIR (Visible Near-Infrared) sensor data.
+
+This request is part of our ongoing efforts to provide comprehensive Earth observation services, ensuring that our satellite constellation remains responsive to various operational needs while maintaining high-quality data collection standards.
