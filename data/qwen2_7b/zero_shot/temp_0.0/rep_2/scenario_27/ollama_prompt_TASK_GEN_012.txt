@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture thermal mapping data for Kapuas Hulu, Indonesia, which is an area of interest for monitoring surface temperature profiles and detecting any thermal anomalies.
+
+Given the nature of our request, we're looking at a "non-essential background filler task" that can be scheduled according to your operational availability. We understand that this might not be an urgent mission, but we appreciate your attention to detail nonetheless.
+
+The primary sensor required for this task is TIR, which will allow us to capture heat signatures and map out the thermal emissions across the region. This data will be crucial for our ongoing research efforts in understanding local environmental conditions.
+
+We're targeting delivery by "the day after tomorrow" during the afternoon block. This deadline is set with the understanding that it represents the latest time frame within which we need the data products to be ingested into our pipeline. We're not looking for an exact time slot but rather ensuring that the data is available before the end of the specified period.
+
+Thank you for your cooperation and understanding in managing this task request. We appreciate your flexibility and look forward to receiving the thermal mapping data as per our guidelines.
+
+Best regards,
+[Your Name]

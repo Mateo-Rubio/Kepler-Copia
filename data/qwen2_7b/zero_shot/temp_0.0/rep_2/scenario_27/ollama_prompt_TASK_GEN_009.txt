@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a background survey aimed at capturing the chlorophyll absorption levels across various ecosystems in Indonesia, specifically focusing on the city of Ecuatorial. We're looking to gather data using our VNIR sensor, which will provide us with valuable insights into vegetation health and density.
+
+The request involves taking a multispectral snapshot that will help us assess the NDVI index and surface reflectance for these areas. This task is part of our baseline pipeline tracking setup, representing normal operational status. We understand that this is a flexible schedule request and can be dropped or rescheduled at convenience if necessary.
+
+We're aiming to have the data products ready by the target day, which is in three days, with a strict delivery deadline set for mid-day. This ensures that the information will be ingested into our pipeline before the specified time frame. We appreciate your attention to this task and look forward to receiving the results.
+
+Thank you for your cooperation and understanding.
