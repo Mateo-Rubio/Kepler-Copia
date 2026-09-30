@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data from the region of Colombia, specifically focusing on the city of San José del Guaviare. This location is described using realistic combinations of country, city, and landmark fields from 'location_details', ensuring a natural and accurate representation without relying on raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request must be executed with urgency and cannot be preempted, reflecting the structural hierarchy of priority levels in our operational framework.
+
+The primary sensor to be utilized is Near-Infrared (NIR), which aims to map water body boundaries and assess soil moisture for this task. The goal is to perform near-infrared reflection analysis to discriminate gradients effectively.
+
+The delivery deadline for this task is "the day after tomorrow overnight", as stipulated by an upstream module. This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without any rephrasing, shortening, or relocation of the time frame.
+
+In summary, our request involves capturing high-resolution optical snapshots for daylight photography and clear optical imagery, leveraging active radar scans using microwave surface imaging for cloud-penetrating capture. We aim to assess chlorophyll absorption levels through multispectral vegetation analysis and calculate a vegetation NDVI index and surface reflectance. The task is of high priority, requiring urgent operational execution, and must be completed by the day after tomorrow overnight.
