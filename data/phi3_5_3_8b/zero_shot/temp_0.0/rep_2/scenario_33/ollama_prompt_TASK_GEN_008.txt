@@ -1,0 +1,1 @@
+We need to schedule an active radar scan using microwave surface imaging for cloud-penetrating capture in Norte, with a strict delivery deadline set for the day after tomorrow overnight. This task is part of our routine monitoring and should be integrated into our baseline pipeline tracking setup by then.
