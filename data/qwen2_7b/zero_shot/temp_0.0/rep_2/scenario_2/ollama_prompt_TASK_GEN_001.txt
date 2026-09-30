@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an operational mission that requires your immediate attention. Our priority is to capture high-resolution data using our active radar system (SAR) for a critical payload in Colombia. Specifically, we're focusing on the city of Génova, where we aim to conduct an in-depth microwave surface imaging scan.
+
+This task is of low importance but still requires our best efforts. We're looking to assess ground geometry and penetrate heavy weather conditions by capturing this data as soon as possible. The deadline for delivering these data products is set for today, with a strict delivery deadline for the evening hours. We understand that this might be an overnight period for some, but we assure you that the products must be ingested into our pipeline before tomorrow's nightfall.
+
+We're not looking for any specific time slots or detailed parameters; instead, we're seeking a flexible schedule to accommodate this task as a background survey or testbed tracking task. We appreciate your understanding and prompt action in fulfilling this request. Thank you for your cooperation.

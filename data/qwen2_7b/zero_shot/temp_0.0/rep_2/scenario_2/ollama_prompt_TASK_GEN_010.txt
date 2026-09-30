@@ -1,0 +1,12 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution near-infrared (NIR) reflection data over the beautiful city of Cimitarra in Colombia. This request falls under our low priority importance category, but we kindly ask you to treat it as a flexible schedule background survey task.
+
+Cimitarra, known for its rich cultural heritage and vibrant landscapes, is our primary focus. We aim to assess soil moisture levels and delineate water body boundaries using the near-infrared data. This information will be crucial for agricultural planning and environmental monitoring in the region.
+
+Given the operational guidelines, we understand that this request has a strict deadline set for today's afternoon period. We need the data products ingested into our pipeline before the day ends, ensuring timely availability for further analysis and decision-making processes.
+
+Please note that this task is not an urgent operational execution or a binding contract requirement but rather a non-essential background filler task that we can drop or reschedule at your convenience. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter, and we look forward to receiving the data products as per our request. If you have any questions or need further clarification, please feel free to reach out. 
+
+Best regards,
+[Your Name]
