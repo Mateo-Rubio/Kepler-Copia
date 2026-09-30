@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Banyuasin, Indonesia. We require a high-resolution capture of near-infrared reflection data to assess chlorophyll absorption levels and calculate the vegetation NDVI index. The target window for this routine monitoring task is in three days around mid-day.
