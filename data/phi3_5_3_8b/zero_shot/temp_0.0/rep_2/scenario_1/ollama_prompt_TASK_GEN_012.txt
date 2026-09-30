@@ -1,0 +1,2 @@
+We're looking to capture a thermal mapping of Bengkalis, Indonesia, in three days during tomorrow's morning hours. This is a non-essential background filler task with a flexible schedule; please drop or reschedule at your convenience as it has low priority importance. Ensure the heat signature data is ready for ingestion into our monitoring pipeline by then.
+```

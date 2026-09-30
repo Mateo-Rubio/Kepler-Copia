@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging over Kubu Raya, Indonesia. This is a low priority importance task with a flexible schedule for opportunistic capture in the evening three days from now. The data will be used primarily for cloud-penetrating capabilities and ground geometry analysis. Please ensure that this background survey or testbed tracking task can be dropped or rescheduled at your convenience, as it's not urgent but still valuable for our periodic monitoring needs.
+```

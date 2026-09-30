@@ -1,0 +1,2 @@
+Ensure that we conduct a thermal mapping to capture heat signatures and surface temperature profiles in Ecuador's equatorial region tonight, with a strict delivery deadline set for tomorrow evening. This non-essential background filler task can be dropped or rescheduled at your convenience, as it is of low priority importance.
+```prompt
