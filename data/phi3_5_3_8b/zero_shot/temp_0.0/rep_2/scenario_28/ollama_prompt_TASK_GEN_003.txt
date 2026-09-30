@@ -1,0 +1,2 @@
+We're looking to schedule an active radar scan using microwave surface imaging over Rokan Hilir in Indonesia, aiming for cloud-penetrating capture. This task is of low priority importance and requires a flexible schedule. The data we gather will be needed by tomorrow night at the latest, ensuring it's ready to drop or reschedule according to convenience as part of our routine monitoring efforts. Please align this with your current workflow setup for baseline pipeline tracking.
+```
