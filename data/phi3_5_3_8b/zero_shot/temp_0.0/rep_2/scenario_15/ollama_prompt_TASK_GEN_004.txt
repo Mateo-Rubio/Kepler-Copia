@@ -1,0 +1,2 @@
+We need a low priority importance task for tomorrow's evening to capture thermal mapping over Bugalagrande, Colombia. This will serve as an opportunistic filler task where we can drop or reschedule at our convenience. The goal is to obtain a heat signature and surface temperature profile of the area. With a strict delivery deadline set for tomorrow evening, please ensure that this data is ingested into our pipeline before then.
+```

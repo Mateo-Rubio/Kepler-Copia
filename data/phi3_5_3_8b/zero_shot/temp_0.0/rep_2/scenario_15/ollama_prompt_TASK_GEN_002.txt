@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis during the upcoming afternoon session in Norte, Italy. This is considered a low priority importance task with flexible scheduling; however, we aim to have this high-resolution optical snapshot ready by tomorrow's overnight block at the latest for our routine monitoring purposes. Please ensure that these data products are ingested into our baseline pipeline before then if possible.
+```
