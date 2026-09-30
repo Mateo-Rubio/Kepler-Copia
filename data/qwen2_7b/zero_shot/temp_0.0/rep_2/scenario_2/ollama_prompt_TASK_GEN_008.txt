@@ -1,0 +1,10 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture thermal mapping data for Correggioli, a charming town nestled in the beautiful region of Italia. The goal here is to assess heat signatures across the area, which will help us understand surface temperature profiles and detect any thermal anomalies.
+
+We're looking for this task to be executed as part of our background survey activities, with no strict deadlines attached. We aim to have the data products ingested into our pipeline before the day after tomorrow, in the evening. This timeframe allows us to capture the essence of Correggioli's thermal dynamics without disrupting our regular operational schedules.
+
+Thank you for your understanding and cooperation. We appreciate your flexibility on this task and look forward to receiving the data as soon as possible.
+
+Best regards,
+[Your Name]

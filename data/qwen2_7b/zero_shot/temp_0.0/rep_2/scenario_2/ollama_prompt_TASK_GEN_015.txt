@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a near-infrared reflection snapshot of Bangka Selatan, Indonesia, for a commercial tasking operation. Our objective is to assess soil moisture levels and delineate water body boundaries using this data. This request falls under the category of medium importance, meaning it's part of our baseline pipeline tracking with fixed parameters representing normal operational status.
+
+We aim to gather this information by capturing the near-infrared reflection in the morning light on the target day, which is three days from now. The deadline for delivering these data products is set for that day's morning block, ensuring they are ingested into our pipeline before the sun rises. This task is crucial for our ongoing monitoring efforts and will contribute to our standard workflow updates.
+
+Thank you for your attention to this matter. We appreciate your swift action in scheduling this satellite mission to meet our operational requirements.
