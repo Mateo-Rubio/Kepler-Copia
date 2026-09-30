@@ -1,0 +1,2 @@
+The following task is a non-essential background filler scheduled for tomorrow's midday, aiming to capture near-infrared reflections primarily for water body boundary mapping and soil moisture assessment. The data products are expected to be ingested into the pipeline before tomorrow afternoon at the latest. Please consider dropping or rescheduling this task if necessary due to its low priority importance.
+```
