@@ -1,0 +1,1 @@
+We have a standard operational tasking for today, focusing on Corte, France. This involves thermal mapping to capture a surface temperature profile using our thermal infrared sensor. It's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure the data is delivered by this afternoon.
