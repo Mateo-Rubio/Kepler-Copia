@@ -1,0 +1,7 @@
+In three days, around mid-day, we are tasked with capturing a high-resolution optical snapshot of Santa Ana del Táchira, Venezuela. This absolute institutional priority involves a critical payload capture using our VIS sensor for daylight photography and clear optical imagery. The deadline is strict, representing an urgent operational execution that cannot be preempted or altered in the schedule.
+
+The primary objective is to document the region with true-color visual documentation, providing detailed imagery that will serve as a baseline pipeline tracking asset for our commercial tasking. This mission is part of our standard workflow update and represents normal operational status, with fixed parameters set for this routine monitoring activity.
+
+Please ensure that the data products are delivered by the deadline specified, focusing on capturing the heat signature and surface temperature profile of the area, as well as assessing chlorophyll absorption levels through multispectral vegetation analysis. This task is a non-essential background filler, which can be dropped or rescheduled at convenience if necessary, but it's important to maintain our capability for opportunistic capture and background survey tasks.
+
+The deadline is not related to an orbital capture window but represents the strict operational requirement for delivering the data products by the specified time. Please adhere to this deadline without altering the target day or shifting the diurnal period.
