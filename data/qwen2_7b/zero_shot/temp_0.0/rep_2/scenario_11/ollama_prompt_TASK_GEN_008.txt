@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region around Rome, Italy, using our SAR sensor. This is a standard operational tasking that's part of our baseline pipeline tracking setup. The parameters are fixed and represent our normal operational status.
+
+We aim to gather this data by tomorrow evening, ensuring the products are ingested into our pipeline before then. This request falls under medium importance, so please treat it accordingly. We appreciate your attention to this matter and look forward to receiving the data as per the deadline set for tomorrow evening.
+
+Thank you for your cooperation.
