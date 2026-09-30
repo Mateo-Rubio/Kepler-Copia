@@ -1,0 +1,1 @@
+This is a low priority importance request for an opportunistic capture of Bossico, Italia using active radar scan. I need this data as a non-essential background filler task, and can drop or reschedule at convenience. Please ensure the products are ingested into the pipeline before the day after tomorrow in the morning at the latest.
