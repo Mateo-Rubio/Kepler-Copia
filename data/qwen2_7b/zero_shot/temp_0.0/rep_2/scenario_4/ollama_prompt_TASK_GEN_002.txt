@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at an urgent operational tasking for a low priority importance request, which involves capturing a multispectral vegetation analysis using VNIR sensors. The mission's objective is to assess the chlorophyll absorption level and calculate the NDVI index for a region in Norte, Brazil. This high-resolution optical snapshot aims to provide clear daylight photography and true-color visual documentation of the area.
+
+The operational context is straightforward: we need this data by the target day, which is three days from now, with a strict delivery deadline set for the morning hours. We're treating this as a non-essential background filler task that can be dropped or rescheduled at convenience if necessary. The data must ensure it's ingested into our pipeline before the target day's overnight block to meet our baseline pipeline tracking setup requirements.
+
+Thank you for your attention and swift action in fulfilling this request.

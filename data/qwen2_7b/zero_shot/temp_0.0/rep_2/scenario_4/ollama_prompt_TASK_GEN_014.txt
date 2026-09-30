@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm reaching out with an urgent request on behalf of our institution for a critical payload capture involving thermal mapping operations in the region of Italia Norte. Our priority is high, as this task is bound by a contractual requirement and involves capturing heat signatures and surface temperature profiles for a specific area.
+
+Our primary sensor requirement is TIR, which will enable us to conduct an active radar scan using microwave surface imaging technology. This will allow us to pierce through heavy weather conditions and capture ground geometry with precision. The goal is to obtain thermal mapping data that can help us detect thermal anomalies and map heat emissions accurately.
+
+We're looking for a high-resolution optical snapshot as well, which will serve as true-color visual documentation for our project. This will provide us with clear optical imagery and detailed surface reflectance information, essential for our analysis.
+
+The deadline for this task is set for three days from now, with the strict delivery deadline being overnight. We need to ensure that the products are ingested into our pipeline before the target day's overnight period begins. This is an absolute institutional priority, and we're treating it as a binding contract requirement involving a critical payload capture.
+
+Please note that this task carries a high level of importance and urgency. We appreciate your understanding and cooperation in meeting these requirements promptly. Thank you for your attention to this matter.
