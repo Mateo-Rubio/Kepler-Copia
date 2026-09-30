@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data on Norte, a location without specified country details but with the city of Norte. Our mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted.
+
+Our primary sensor for this task is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging to pierce through heavy weather conditions. This cloud-penetrating capture will provide invaluable ground geometry data essential for our mission's success.
+
+The delivery deadline for this task has been resolved by an upstream module, with the upper limit for data availability set as "tomorrow in the evening". This phrase must be included verbatim in our request, as it represents the final time frame for data availability.
+
+In summary, our request is to capture high-resolution SAR imagery of Norte, focusing on cloud-penetrating radar scans to gather essential ground geometry data. This task carries a 'High Importance' priority level and must be executed with urgency, adhering to the deadline set for tomorrow in the evening. Our mission aims to maximize operational efficiency while ensuring compliance with contractual obligations and institutional priorities.
