@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for a location in "Vigonza, Italia", which is part of the "Italia" country.
+
+The mission allocation priority is set at medium importance, indicating that this task is part of our standard operational pipeline tracking with fixed parameters representing normal operational status. We're focusing on a "routine monitoring" request involving a "standard operational tasking". The deadline for this task has been resolved by an upstream module, and it's set for "the day after tomorrow in the evening".
+
+The primary sensor to be utilized is "NIR", which will be used for near-infrared reflection to map water body boundaries or assess soil moisture. This sensor will provide critical data for our baseline pipeline tracking setup.
+
+In summary, our request involves capturing "the day after tomorrow in the evening" a "high-resolution optical snapshot" of "Vigonza, Italia" using our "NIR" sensor for near-infrared reflection. This task is part of our standard operational tasks and will contribute to our baseline pipeline tracking with fixed parameters representing normal operational status.
