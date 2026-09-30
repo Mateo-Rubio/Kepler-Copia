@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Peroj, Croatia, with a primary sensor of VNIR for daylight photography purposes. This task carries a low priority importance, indicating it's a flexible schedule "background survey" or "testbed tracking task". The deadline is set for tomorrow in the morning, serving as the upper limit for data availability without rephrasing or altering the time frame.
+
+The request should be framed with natural language that incorporates operational guidelines. We aim to avoid raw technical system tags, underscores, coordinate arrays, and focus on describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", we'll describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is interpreted as follows: Priority 1 (Low Importance) involves an explicit tone that this request is a "low priority importance" task with a "flexible schedule". The language must be casual, highly flexible, or opportunistic, treating it as a "background survey" or "testbed tracking task".
+
+In summary, our request to the satellite constellation planner should be:
+
+"Please observe Peroj, Croatia, using a VNIR sensor for daylight photography purposes. This task carries a low priority importance and is scheduled for tomorrow in the morning. It serves as a flexible background survey or testbed tracking task with no strict deadlines beyond the specified time frame."
+
+This request adheres to operational guidelines by avoiding raw technical system tags, underscores, coordinate arrays, and focusing on natural language that incorporates location details and mission allocation priorities."

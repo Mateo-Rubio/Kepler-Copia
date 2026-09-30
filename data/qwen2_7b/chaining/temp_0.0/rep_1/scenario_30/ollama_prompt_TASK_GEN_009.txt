@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing the Indonesian city of Gilirang, which is part of the broader region. The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted. This task is essential for baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The primary sensor to be utilized is an active radar scan using microwave surface imaging, which will provide cloud-penetrating capture capabilities, allowing us to pierce through heavy weather conditions or capture ground geometry with precision. The goal is to achieve this through a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation.
+
+The delivery deadline is set for 'in three days overnight', which means the data must be available by that time, as stipulated by an upstream module. This phrase should be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or alteration.
+
+In conclusion, this task is a standard operational tasking involving a routine monitoring process with normal operational status and workflow updates. It is part of our baseline pipeline tracking setup with fixed parameters that represent our standard 'in three days overnight' deadline for data delivery.
+
+Let's proceed with the execution of this mission, ensuring that we adhere to all guidelines for naturalness and validation accuracy in our request.
