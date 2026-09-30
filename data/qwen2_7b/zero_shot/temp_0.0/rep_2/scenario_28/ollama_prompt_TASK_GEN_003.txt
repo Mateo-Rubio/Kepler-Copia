@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of the region in Rokan Hilir, Indonesia, using our SAR sensor. This is a low priority importance task that requires us to gather data on the ground geometry and surface features, piercing through any heavy weather conditions. We aim for high-resolution imagery that will serve as a baseline pipeline tracking task with fixed parameters representing normal operational status.
+
+The deadline for this mission allocation is set for tomorrow's overnight block, ensuring that the products are ingested into our pipeline before the specified time. This request falls under our non-essential background filler tasks, where we can drop or reschedule at convenience if needed. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter.
