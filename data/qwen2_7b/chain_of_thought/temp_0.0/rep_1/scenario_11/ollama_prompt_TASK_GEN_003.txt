@@ -1,0 +1,9 @@
+In response to the high-priority directive received from our institutional stakeholders, we are tasked with capturing a comprehensive thermal mapping of the region in Indonesia, specifically focusing on the city of Murung Raya. This critical payload capture is essential for assessing soil moisture levels and water body boundaries, which will contribute significantly to our ongoing environmental monitoring efforts.
+
+The deadline for this mission is set for "in three days", with the operational requirement being an overnight satellite pass. This means that we are to conduct an active radar scan using microwave surface imaging capabilities, piercing through any cloud cover or adverse weather conditions to ensure a clear and detailed thermal map of the region.
+
+This tasking is considered an absolute institutional priority due to its direct impact on our ability to provide timely and accurate data for decision-making processes related to water management and agricultural planning. The urgency of this mission necessitates an un-preemptable mission lock, ensuring that all other operational tasks are dropped or rescheduled at convenience to accommodate this critical survey.
+
+The primary sensor involved will be the Near-Infrared (NIR) instrument, which will capture near-infrared reflection data for mapping water bodies and assessing soil moisture content. This data will serve as a valuable resource for discriminating gradients in soil moisture levels and delineating water body boundaries with high precision.
+
+In summary, our team is fully committed to meeting this deadline by conducting an overnight satellite pass over the city of Murung Raya in Indonesia using the Near-Infrared sensor to capture thermal maps that are essential for environmental monitoring and decision support systems. This tasking is a binding contract requirement that demands our utmost attention and operational efficiency.
