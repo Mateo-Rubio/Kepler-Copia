@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Indonesia's equatorial region, focusing on daylight photography for clear optical imagery and true-color visual documentation of the area.
+
+The mission allocation priority is medium importance, indicating that this task is part of our standard operational pipeline tracking with fixed parameters representing normal operational status. We're using a near-infrared sensor to capture water body boundaries and assess soil moisture, which is crucial for environmental monitoring and agricultural applications.
+
+The delivery deadline is set for the day after tomorrow during the afternoon, as stipulated by an upstream module. This upper limit for data availability must be adhered to without rephrasing or altering the time frame. Our request is structured to ensure that our satellite constellation captures the necessary data within these constraints, contributing to our baseline pipeline tracking and operational workflow updates.
+
+In summary, our task involves capturing high-resolution optical imagery of Indonesia's equatorial region using a near-infrared sensor during daylight hours on the day after tomorrow afternoon. This mission is part of our standard operational tasks with medium importance, adhering to the deadline set by an upstream module for data availability.
