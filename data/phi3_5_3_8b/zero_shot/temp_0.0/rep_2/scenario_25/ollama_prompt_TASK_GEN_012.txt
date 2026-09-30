@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis over Ecuatorial, Indonesia, with an emphasis on assessing chlorophyll absorption levels and calculating surface reflectance. This task is of low priority importance; therefore, it can be scheduled flexibly. The data products are needed by the day after tomorrow nighttime at the latest to ensure they're ingested into our monitoring pipeline in a timely manner. Feel free to drop or reschedule this background survey as per convenience.
+```
