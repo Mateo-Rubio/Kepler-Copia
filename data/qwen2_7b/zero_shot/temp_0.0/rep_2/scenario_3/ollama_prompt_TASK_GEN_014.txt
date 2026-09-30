@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving a high-resolution optical snapshot of the region around Borgo Valsugana, Italia. This task is of paramount importance and requires immediate attention due to its high priority level.
+
+Our primary sensor requirement is for VNIR imagery, which will be used to assess chlorophyll absorption levels and calculate the vegetation NDVI index for this area. The goal is to capture detailed information about the land cover and vegetation health, providing us with valuable insights into the local ecosystem dynamics.
+
+We're looking to acquire these images by the day after tomorrow, with a strict delivery deadline set for overnight. This means that the data must be ready for ingestion into our pipeline before the day after tomorrow's nighttime block. We understand the importance of adhering to this deadline and will ensure that our team is prepared to handle any necessary adjustments or follow-up actions promptly.
+
+Please prioritize this task as an absolute institutional priority, recognizing its binding contract requirement involving a critical payload capture. We appreciate your understanding and cooperation in ensuring that we meet this urgent operational execution.
+
+Thank you for your attention to this matter, and we look forward to your swift response.
+
+Best regards,
+[Your Name]
