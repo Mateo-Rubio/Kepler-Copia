@@ -1,0 +1,2 @@
+We're looking to capture near-infrared reflections around Bukit Mabong in Malaysia for water body boundary mapping and soil moisture assessment, ideally during the mid-day tomorrow. This is a low priority importance task with a flexible schedule; please drop or reschedule at your convenience as it serves as an opportunistic filler to our regular monitoring efforts. The data products are needed by tomorrow afternoon at the latest for integration into our baseline pipeline tracking setup.
+```

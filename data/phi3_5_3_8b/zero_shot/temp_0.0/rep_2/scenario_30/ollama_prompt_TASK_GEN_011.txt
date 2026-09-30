@@ -1,0 +1,1 @@
+Ensure a SAR active radar scan is scheduled for tomorrow in the morning to capture cloud-penetrating imagery of Chiusi, Italy. This tasking will contribute to our routine monitoring and baseline pipeline tracking with fixed parameters representing normal operational status. The data products must be ingested into the processing pipeline before tomorrow's overnight block begins.
