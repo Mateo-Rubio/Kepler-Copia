@@ -1,0 +1,2 @@
+We're looking to capture a multispectral vegetation analysis in Betulia, Colombia, with an emphasis on assessing chlorophyll absorption levels and calculating surface reflectance. This task is of low priority importance; therefore, it can be scheduled flexibly. The data products are needed by four days from now overnight at the latest to ensure they're ingested into our monitoring pipeline in time for analysis. Please adjust your plans accordingly or let us know if you need further rescheduling.
+```
