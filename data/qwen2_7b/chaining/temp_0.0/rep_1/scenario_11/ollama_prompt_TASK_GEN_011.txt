@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves capturing imagery of Tagliole, Italy, using the VNIR sensor for a routine monitoring task. This request falls under priority level 2, indicating it's part of our baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The mission allocation priority is set to ensure that this task receives attention without compromising other critical operations. The delivery deadline is "in three days overnight", which means the data must be available by the specified time frame without any rephrasing or adjustments.
+
+Our goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for the region, providing valuable insights into the health of the local ecosystem. This task is essential for our ongoing monitoring efforts, contributing to our understanding of environmental changes and supporting decision-making processes in agriculture and conservation.
+
+With this request, we aim to capture a snapshot of the area's vegetation status, ensuring that our satellite constellation delivers accurate and informative data as part of our standard operational tasks. We appreciate your attention to this matter and look forward to receiving the requested data by the deadline.
