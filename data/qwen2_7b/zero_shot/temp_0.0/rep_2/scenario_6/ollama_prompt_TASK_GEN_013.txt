@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request for a critical payload capture involving a high-resolution optical snapshot of Tocaima, Colombia. This task is of the highest importance and requires immediate attention due to its binding contract requirement.
+
+Our primary sensor of interest is the VNIR, which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. We're aiming to capture detailed information about the vegetation health and land use in this region.
+
+The deadline for delivering the data products is set for today, with a strict delivery deadline of tonight at the latest. This ensures that the products are ingested into our pipeline before tomorrow's overnight block, adhering to our operational guidelines.
+
+We appreciate your swift action and look forward to receiving the data as soon as possible. Thank you for your understanding and cooperation in this matter.
+
+Best regards,
+[Your Name]

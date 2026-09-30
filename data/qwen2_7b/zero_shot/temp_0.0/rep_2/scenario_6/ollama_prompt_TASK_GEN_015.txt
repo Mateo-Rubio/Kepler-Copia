@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-importance task for us. Our mission involves capturing critical data on water body boundaries and soil moisture assessment in the region of Indonesia, specifically focusing on the city of Malinau. This is a "binding contract requirement" involving a "critical payload capture" that needs to be executed with utmost priority.
+
+Our primary sensor for this mission is the Near-Infrared (NIR) sensor, which will provide us with essential information on water body boundaries and soil moisture levels. We're aiming for a "near-infrared reflection" to map these elements accurately.
+
+The deadline for delivering this data is set for the day after tomorrow, with a strict delivery deadline of "in the evening". This means that we need the data products ingested into our pipeline before the evening of the day after tomorrow at the latest. We're treating this as a "background survey" or "testbed tracking task", but it's crucial to us and must be handled with the same level of importance as any other critical payload capture.
+
+Thank you for your attention and swift action in fulfilling this request. We appreciate your cooperation in ensuring that our mission objectives are met on time.
+
+Best regards,
+[Your Name]
