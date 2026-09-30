@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet we'd like to ensure it's handled with flexibility and convenience. Our objective is to capture a near-infrared reflection for water body boundary mapping or soil moisture assessment in the region of interest, which happens to be the beautiful area of Italia, specifically Monte Romano.
+
+Given the nature of this request, we're looking at a "non-essential background filler task" that doesn't require an urgent operational execution. We understand that there might be other higher priority tasks on your plate, so please feel free to drop or reschedule this task as per your operational schedule.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline of overnight at the latest. This means we need the data ingested into the pipeline before the next day's overnight block, ensuring that our team can analyze and utilize it efficiently.
+
+Thank you for your understanding and cooperation in managing this task request. We appreciate your efforts in providing us with the necessary insights while respecting your operational priorities.
+
+Best regards,
+[Your Name]

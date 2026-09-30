@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in the region of Indonesia, specifically focusing on the city of Bata. This task aims to provide us with valuable insights into the environmental conditions and potential water resources in the area.
+
+Given the nature of this request, we're looking at a flexible schedule that allows for opportunistic capture without compromising the quality of data. We understand that there might be other tasks with higher priority levels that require immediate attention, so please consider this as a non-essential background filler task that can be dropped or rescheduled according to your operational needs.
+
+We're targeting delivery by the day after tomorrow during the afternoon, ensuring that the products are ingested into our pipeline before that time. This deadline is crucial for our internal processes and will help us maintain our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your understanding and cooperation in scheduling this task. We appreciate your flexibility and look forward to receiving the data as soon as possible.
+
+Best regards,
+[Your Name]
