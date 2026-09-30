@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a comprehensive view of Ghedi, Italy, using our VNIR sensor for a high-resolution optical snapshot. This daylight photography will serve as true-color visual documentation, providing us with clear optical imagery and detailed surface reflectance data. The goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index, which will be crucial for our ongoing environmental monitoring efforts.
+
+Given the importance of this task, we're treating it as an absolute institutional priority, a binding contract requirement involving a critical payload capture. We need this data by the target day, which is in three days, with a strict delivery deadline set for overnight. This means ensuring the products are ingested into our pipeline before the next day's sunrise.
+
+We understand the urgency and appreciate your team's commitment to meeting this deadline. Please note that this task carries high importance and should be given priority over other operational tasks. We're looking forward to receiving the data products as soon as possible, so we can integrate them into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention to this matter. We trust that your team will handle this request with the same level of professionalism and dedication that we've come to expect from our satellite constellation planners.
+
+Best regards,
+[Your Name]

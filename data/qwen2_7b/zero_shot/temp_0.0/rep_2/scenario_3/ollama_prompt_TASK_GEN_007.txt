@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled for our convenience. Our objective is to capture a high-resolution optical snapshot of the region in Colombia, specifically focusing on Istmina city. This daylight photography will serve as true-color visual documentation for our purposes.
+
+We're looking to conduct this routine monitoring task as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request falls under the category of a non-essential background filler task that we can drop or reschedule at our convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for delivering the data products is set for four days from now, with a strict delivery deadline being overnight. We aim to ensure that the products are ingested into our pipeline before this time frame ends.
+
+Thank you for your attention and cooperation in scheduling this task according to our flexible timeline.
+
+Best regards,
+[Your Name]
