@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing a high-resolution optical snapshot of the Kutai Barat region in Indonesia using our primary sensor. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the area, essential for detailed analysis and monitoring purposes.
+
+Given the priority level of 3 (High Importance), this task is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution and cannot be preempted. We are bound by contractual requirements and must ensure that this mandatory directive is met with the utmost attention to detail and efficiency.
+
+The delivery deadline for this task is "in three days overnight," which means we need to ensure that our satellite constellation is allocated accordingly, prioritizing this mission over others to meet the specified timeframe. This deadline is a hard limit for data availability, and no rephrasing or adjustments are necessary.
+
+In conclusion, our request involves capturing high-resolution optical imagery of Kutai Barat in Indonesia using our primary sensor, with a focus on daylight photography and clear visual documentation. This task carries a high level of importance, necessitating immediate attention and prioritization to meet the deadline set for "in three days overnight." We are committed to delivering accurate and detailed data that meets the operational guidelines and contractual obligations.

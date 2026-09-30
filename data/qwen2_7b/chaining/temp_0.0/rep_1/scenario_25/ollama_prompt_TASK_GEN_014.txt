@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data for a location in Claut, Italia. This area requires a detailed thermal mapping operation using the TIR sensor, aiming to capture a heat signature or surface temperature profile. The mission allocation priority is medium importance, indicating that this task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task is "the day after tomorrow in the morning", which serves as the upper limit for data availability without rephrasing or altering the time frame. This request is framed as a standard operational tasking, emphasizing that it's part of our routine monitoring activities.
+
+In conclusion, our mission is to gather thermal data for Claut, Italia, using the TIR sensor, with an emphasis on capturing heat signatures and surface temperature profiles. This task is scheduled for "the day after tomorrow in the morning", adhering to our medium priority level guidelines and operational procedures.

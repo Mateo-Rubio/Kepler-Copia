@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing the region of Colombia, specifically focusing on Chima, with the primary sensor being Thermal Infrared (TIR). This mission allocation has a priority level of 3, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock.
+
+The target day for this task is in four days, with the specific time frame being in the morning. This deadline has already been resolved by an upstream module, and it serves as the upper limit for data availability without rephrasing or altering the phrase.
+
+Our mission aims to capture a thermal mapping of the region, which will help us understand heat signatures, surface temperature profiles, and thermal anomalies. This process involves mapping heat emissions across the landscape, providing valuable insights into various environmental conditions.
+
+In conclusion, this task request is for a high-resolution optical snapshot using a Thermal Infrared sensor, focusing on Chima, Colombia. The priority level ensures that this mission receives immediate attention and execution, with the deadline set for four days in the morning. This task is part of our baseline pipeline tracking setup, representing normal operational status and contributing to our standard workflow updates.
+
+Let us proceed with the execution of this critical payload capture, ensuring that we adhere to the guidelines for naturalness and validation accuracy in our dataset.
