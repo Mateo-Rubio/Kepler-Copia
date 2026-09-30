@@ -1,0 +1,9 @@
+Good day, satellite constellation planner. I'm reaching out to request a high-resolution optical snapshot of the region in question, which is located in the beautiful country of Italia, specifically in the city of Norte. This task is classified as a low priority importance request, meaning it can be accommodated with a flexible schedule and treated as a non-essential background filler task.
+
+The primary sensor required for this mission is VIS, which will provide us with clear optical imagery suitable for daylight photography or true-color visual documentation. We aim to capture the essence of this region under natural light conditions, ensuring that our data reflects its beauty accurately.
+
+Given the operational guidelines, I understand that we have a strict deadline set for the delivery of these data products. Specifically, we need them by the day after tomorrow, in the evening at the latest. This deadline is crucial as it aligns with our operational requirements and ensures timely data availability for further processing and analysis.
+
+Please note that this request does not require any urgent operational execution or an un-preemptable mission lock. It's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We appreciate your understanding and cooperation in meeting this deadline without altering or extending it.
+
+Thank you for your attention to this matter, and I look forward to receiving confirmation on the successful execution of this task.

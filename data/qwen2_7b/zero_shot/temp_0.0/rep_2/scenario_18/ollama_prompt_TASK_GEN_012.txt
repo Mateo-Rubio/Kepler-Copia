@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an urgent operational mission involving Tanjung Jabung Timur, Indonesia. Our priority is high importance, as this involves capturing critical data that's essential for our baseline pipeline tracking setup.
+
+Our primary sensor requirement is an active radar scan using microwave surface imaging technology. This will allow us to pierce through heavy weather conditions and capture ground geometry with precision. The goal is to obtain a detailed snapshot of the area, which we'll use for cloud-penetrating capture and detailed analysis.
+
+We're looking to execute this mission tomorrow in the morning, ensuring that the products are ingested into our pipeline before the deadline set for that day. This task is considered a low priority importance request with a flexible schedule, allowing us to drop or reschedule at convenience if necessary. However, we do emphasize the importance of adhering to the strict delivery deadline set for tomorrow's morning period.
+
+Thank you for your attention and swift action in fulfilling this request. We appreciate your cooperation in ensuring that our operational needs are met efficiently.
