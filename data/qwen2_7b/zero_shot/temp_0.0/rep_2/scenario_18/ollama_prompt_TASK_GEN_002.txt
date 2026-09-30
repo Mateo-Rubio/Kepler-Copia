@@ -1,0 +1,10 @@
+Good day, automated satellite constellation planner. I'm reaching out to request a task for an Earth observation mission that involves capturing data using near-infrared (NIR) sensors. The geographical context is centered around the beautiful region of Italia, specifically focusing on the city of Calderara di Reno. This request carries a low priority importance and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary objective here is to gather data that will help us assess soil moisture levels and water body boundaries using near-infrared reflection. We aim to provide you with high-quality imagery that can assist in discriminating gradients within the area, ensuring we capture the essence of the region's environmental conditions.
+
+We're looking to execute this task by having the data products ready by the target day, which is three days from now, with a strict delivery deadline set for overnight. This means we need the data ingested into our pipeline before the end of tomorrow's night time block, adhering to our operational deadlines without any extensions.
+
+Thank you for your attention and cooperation in ensuring this task is completed according to our guidelines. We appreciate your flexibility and look forward to receiving the data products that will contribute to our ongoing monitoring efforts.
+
+Best regards,
+[Your Name]

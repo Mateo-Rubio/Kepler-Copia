@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution optical imagery of Singkep, Indonesia, using a VNIR sensor. This is a low priority importance request, so please treat it as a flexible schedule background survey or testbed tracking task.
+
+The goal here is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for the region. We're looking for detailed multispectral vegetation analysis that will help us understand the health of the local flora. The imagery should be clear and provide true-color visual documentation, which will be invaluable for our ongoing research.
+
+We need this data by the target day, which is four days from now, in the morning at the latest. This deadline is strict and represents the upper limit for data availability. We're not looking to extend this timeframe; we simply need to ensure that the products are ingested into our pipeline before the specified time.
+
+Thank you for your understanding and swift action on this matter. We appreciate your cooperation in meeting this request within the given constraints. Please let us know if you have any questions or require further clarification.
