@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data for Norte, Brazil, which is described as a critical payload capture with an absolute institutional priority. This mission allocation is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The deadline for this task is in three days in the morning, serving as the upper limit for data availability.
+
+The primary sensor to be used is VNIR, which will be employed for multispectral vegetation analysis. This involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index to understand surface reflectance. The request emphasizes the importance of this task as a low priority importance background filler task with a flexible schedule for opportunistic capture.
+
+In summary, our mission aims to gather detailed information on vegetation health and land use in Norte, Brazil, using VNIR technology. This data collection is part of our standard operational tasks, contributing to baseline pipeline tracking and normal workflow updates. The deadline for this task is set for three days in the morning, ensuring timely delivery without compromising quality or accuracy.
