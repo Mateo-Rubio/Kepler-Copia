@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a background survey aimed at capturing the chlorophyll absorption levels across the region in Italia, specifically focusing on Moncalieri. We're looking to gather data through a multispectral vegetation analysis using our VNIR sensor.
+
+The primary objective is to obtain high-quality images that will help us assess the health and productivity of the vegetation in the area. This task doesn't require any rush; we can drop or reschedule it at your convenience if there are more pressing matters. We're treating this as a testbed tracking task, which means it's not essential for immediate operational needs.
+
+The deadline for delivering these data products is set for four days from now, with the strict requirement that they must be ready by the morning of that day. This ensures they can be ingested into our pipeline before the deadline hits. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter. If you have any questions or need further clarification, please don't hesitate to reach out.
