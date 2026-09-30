@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Tame, Colombia, with a primary sensor of VNIR, indicating a need for multispectral vegetation analysis to assess chlorophyll absorption levels or calculate the NDVI index and surface reflectance.
+
+Given the operational guidelines, this task is classified as medium importance (priority level 2), which means it's part of our standard operational tasking or commercial tasking. We're tracking fixed parameters representing normal operational status or a routine monitoring setup with baseline pipeline tracking. The language must reflect an authoritative tone without implying urgency based on priority numbers.
+
+The delivery deadline is set for tomorrow in the evening, as determined by an upstream module. This phrase "tomorrow in the evening" must be inserted verbatim into our request, serving as the upper limit for data availability without rephrasing or altering it.
+
+In summary, our request to the satellite constellation planner is to capture high-resolution multispectral imagery of Tame, Colombia, focusing on vegetation health and environmental conditions. This task is part of our standard operational pipeline with a medium priority level, ensuring that the data collection aligns with our baseline tracking setup while respecting the deadline set for tomorrow in the evening.
