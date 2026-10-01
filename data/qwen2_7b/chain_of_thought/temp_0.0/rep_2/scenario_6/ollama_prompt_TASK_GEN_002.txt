@@ -1,0 +1,5 @@
+Given the operational guidelines and the provided JSON metadata, our task request for today involves capturing a low priority importance overnight snapshot using the VNIR sensor. The primary objective is to conduct a multispectral vegetation analysis over the region in Italia, specifically focusing on the city of Norte. This "non-essential background filler task" aims to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance without altering the deadline or shifting the timeframe.
+
+The request emphasizes that this is part of a flexible schedule for opportunistic capture, treating it as a "background survey" or "testbed tracking task". The imagery acquired overnight will serve as a valuable resource for monitoring vegetation health and land use dynamics in Norte, Italia, contributing to our baseline pipeline tracking without imposing any urgent operational execution requirements.
+
+Please proceed with the mission allocation respecting the outlined priority level and time constraints. The data products are expected by tomorrow morning, ensuring that the deadline is met without any adjustments to the target day or diurnal period.
