@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis around Banyuasin, Indonesia. We need a high-resolution VNIR snapshot for calculating vegetation indices and surface reflectance. Please schedule this capture in three days around mid-day.
