@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Indonesia's Ecuatorial region using an active radar scan for microwave surface imaging. This task has a medium importance priority level, indicating it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The primary sensor is SAR, which will be used to capture cloud-penetrating imagery during the specified target day, tomorrow, during the afternoon. The goal is to pierce heavy weather conditions and capture ground geometry for detailed mapping purposes. This request aligns with our baseline pipeline tracking setup, ensuring that the satellite assets are utilized efficiently.
+
+Given the nature of this task, it's important to note that it doesn't carry an urgent operational execution or an un-preemptable mission lock, as indicated by its medium priority level. However, it's crucial for maintaining our standard workflow updates and contributing to our overall monitoring capabilities.
+
+In summary, we're looking to acquire high-resolution optical snapshots of Indonesia's Ecuatorial region using SAR technology during the afternoon tomorrow. This task is part of our routine monitoring activities and will be executed according to our baseline pipeline tracking setup with fixed parameters. The deadline for this task has been resolved by an upstream module, specifying that the data should be available during the afternoon tomorrow.
+
+Please proceed with the satellite constellation planning accordingly.
