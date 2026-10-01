@@ -1,0 +1,10 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture a near-infrared reflection of a specific area in Colombia, specifically the city of San Pablo de Borbur. This task falls under our low priority importance category, which means it's a flexible schedule background survey or testbed tracking task.
+
+The primary sensor we're utilizing for this mission is the near-infrared (NIR) sensor, designed to map water body boundaries and assess soil moisture levels. Our goal is to gather detailed information that can help us discriminate gradients in the area efficiently.
+
+We're looking to capture this data by tomorrow's overnight block, ensuring the products are ingested into our pipeline before then. This deadline is crucial for our operational workflow update process. We understand that this request might not require an urgent operational execution or an un-preemptable mission lock, but we appreciate your prompt attention and cooperation in fulfilling this task.
+
+Thank you for your understanding and support in executing this low priority importance task. We're looking forward to receiving the data products as per our specified requirements. If there are any questions or adjustments needed, please feel free to reach out. 
+
+Best regards,
+[Your Name]
