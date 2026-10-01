@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically the city of Apartadó, using thermal mapping capabilities provided by the TIR sensor.
+
+Given the operational guidelines, I'll interpret the metadata organically without using raw technical system tags or coordinate arrays. The location is described as being in Colombia, with Apartadó as the city, and no landmark specified. Therefore, I'll combine these details naturally into a realistic description of the region.
+
+The mission allocation priority is set at Level 1, indicating low importance. This request will be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted that this operator has the discretion to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor is TIR, which will be used for thermal mapping. The goal is to capture a "heat signature" and map surface temperature profiles, aiming for "thermal anomaly detection" and mapping heat emissions. This process involves assessing the region's thermal characteristics without the need for daylight photography or other optical observations.
+
+The delivery deadline is set for "the day after tomorrow overnight". This phrase must be included verbatim in the request as the upper limit for data availability, without any rephrasing, shortening, or moving to a different part of the day. The deadline represents the final point at which the data must be available, ensuring that our satellite constellation planner understands the time constraints.
+
+In summary, this task request involves observing the region of Apartadó, Colombia, using thermal mapping capabilities provided by the TIR sensor. It's a low priority task with a flexible schedule and a deadline set for "the day after tomorrow overnight". The request is framed in a casual, highly flexible tone, treating it as a "background survey" or "testbed tracking task", emphasizing the operator's discretion to manage the mission according to their convenience.
