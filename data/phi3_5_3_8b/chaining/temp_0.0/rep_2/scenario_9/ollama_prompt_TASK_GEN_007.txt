@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We require a standard operational tasking involving multispectral vegetation analysis in San Gil, Colombia. This operation will assess chlorophyll absorption levels and calculate surface reflectance to determine the Normalized Difference Vegetation Index (NDVI). The target area is identified by its rich biodiversity within the Andean region, making it a prime candidate for this type of environmental monitoring.
+
+The tasking falls under Medium Importance category, indicating that while not urgent, it remains an essential part of our routine pipeline tracking setup with fixed parameters representing normal operational status. The satellite assets are to be allocated accordingly and the mission is expected to contribute significantly to our ongoing efforts in environmental stewardship and agricultural monitoring within this locale.
+
+The delivery deadline for obtaining these high-resolution optical snapshots has been resolved by an upstream module, with data availability set for "the day after tomorrow during the afternoon." This timeframe ensures that we can integrate the latest findings into our environmental models and reports promptly.
+
+Please proceed to schedule this standard operational tasking as outlined above, adhering strictly to the specified deadline without any deviation or delay. Your cooperation in maintaining our baseline pipeline tracking is greatly appreciated for its role in supporting sustainable practices within San Gil'dictory and beyond.
