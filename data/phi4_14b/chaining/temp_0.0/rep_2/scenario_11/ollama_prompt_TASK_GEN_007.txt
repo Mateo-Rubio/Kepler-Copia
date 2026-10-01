@@ -1,0 +1,1 @@
+We have a standard operational tasking for a high-resolution optical snapshot over Mapiripán, Colombia. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We require clear optical imagery to be captured as part of this routine monitoring effort. The data must be delivered by tomorrow in the morning.
