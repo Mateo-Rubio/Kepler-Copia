@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at an urgent operational tasking for a critical payload capture involving an active radar scan using microwave surface imaging technology. This is for cloud-penetrating capture of ground geometry, essential for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our target region is in the beautiful country of Italia, specifically in the city of Norte. We're aiming to gather this data by tomorrow morning, ensuring the products are ingested into the pipeline before that time frame. This request carries a high importance level, implying an absolute institutional priority or a binding contract requirement involving a critical payload capture.
+
+Please note that this task is an "urgent operational execution" and an "un-preemptable mission lock". We're looking for a highly realistic and conversational English request that maximizes the naturalness and validation accuracy of the dataset. The final output should not include raw technical system tags, underscores, or coordinate arrays.
+
+Thank you for your attention to this matter.

@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a multispectral vegetation analysis for Indonesia, specifically focusing on the equatorial region in Ecuatorial City. Our objective is to assess chlorophyll absorption levels and calculate the NDVI index for this area using VNIR sensors.
+
+We're treating this as a standard operational tasking with fixed parameters, part of our baseline pipeline tracking setup. The importance level is set at medium, implying normal operational status or a routine monitoring update. We aim to deliver these data products by tomorrow evening, ensuring they are ingested into the pipeline before that time frame. This request aligns with our standard workflow updates and contractual obligations.
+
+Thank you for your attention to this matter. We appreciate your team's expertise in delivering high-quality satellite imagery on time.

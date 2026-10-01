@@ -1,0 +1,14 @@
+Good day to our satellite constellation planners,
+
+We're looking to capture a thermal mapping of the Ketapang region in Indonesia, which is located in the country's westernmost province of West Kalimantan. Our primary sensor requirement is a Thermal Infrared (TIR) camera for this task.
+
+This request falls under medium importance as it involves monitoring environmental conditions and heat signatures across the area. We aim to gather data that will help us understand surface temperature profiles and detect any thermal anomalies, which could be crucial for local agricultural activities or natural resource management.
+
+The deadline for delivering these data products is set for three days from now, with a strict requirement that they must be ready by mid-day on that day. This ensures that our team can incorporate the information into their baseline pipeline tracking setup without any delays.
+
+We appreciate your attention to this task and look forward to receiving the data as per our requirements. If there are any issues or if you need further clarification, please feel free to reach out.
+
+Thank you for your cooperation in ensuring our operational priorities are met.
+
+Best regards,
+[Your Name]
