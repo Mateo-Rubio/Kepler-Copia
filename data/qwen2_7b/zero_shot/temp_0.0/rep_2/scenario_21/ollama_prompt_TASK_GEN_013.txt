@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a high-resolution optical snapshot of Carmen del Darién (Curbaradó), Colombia, during the afternoon on the day after tomorrow. This is a standard operational tasking for us, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We aim to achieve clear optical imagery and true-color visual documentation for this request.
+
+We're requesting this as a standard task, which involves capturing the essence of the region using daylight photography. Our priority here is to ensure that we have the data products ready by the specified day and time frame, adhering to our contractual obligations without any preemption or delay. We understand the deadline set for us and will ensure that the products are ingested into the pipeline before the target day's afternoon period.
+
+Thank you for your attention to this matter. We appreciate your cooperation in meeting our operational guidelines and ensuring the quality of our Earth observation data.

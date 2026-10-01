@@ -1,0 +1,18 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent request for a critical payload capture involving thermal mapping operations. Our focus is on the region of Colombia, specifically the city of Útica, where we aim to gather comprehensive thermal data to identify heat signatures and surface temperature profiles.
+
+This task is of absolute institutional priority, as it involves a binding contract requirement that necessitates the capture of thermal anomalies and heat emissions with utmost precision. We're looking for an active radar scan using microwave surface imaging capabilities to pierce through heavy weather conditions and provide us with detailed ground geometry data.
+
+The deadline for delivering these data products is set for three days from now, with a strict delivery deadline marked for overnight hours. This means that the data must be ready by tomorrow's nightfall at the latest, ensuring they are ingested into our pipeline before the deadline.
+
+We're expecting high-resolution optical snapshots as well to complement our thermal mapping efforts. These will serve as daylight photography, clear optical imagery, and true-color visual documentation to provide a comprehensive view of the area under observation.
+
+Please note that this request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. However, due to its high importance, we're treating it as an urgent operational execution that cannot be preempted or rescheduled.
+
+We appreciate your immediate attention and swift action in fulfilling this mission allocation priority. Your expertise and dedication are crucial in meeting our deadline and delivering the required data products.
+
+Thank you for your cooperation and understanding.
+
+Best regards,
+[Your Name]
