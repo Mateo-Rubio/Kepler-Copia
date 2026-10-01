@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing the region of Colombia, specifically focusing on the city of Otanche. This location will be captured through thermal mapping using our primary sensor, TIR, which aims to capture heat signatures and surface temperature profiles. The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request demands urgent operational execution and an un-preemptable mission lock.
+
+The delivery deadline for this task is "in three days in the evening", which serves as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day. The sensors and physical objectives are centered around TIR, which will be used for thermal mapping to detect heat emissions and assess surface temperature profiles.
+
+In summary, our request is to capture high-resolution thermal imagery of Otanche, Colombia, in the evening three days from now, utilizing our TIR sensor for thermal mapping purposes. This task is an "absolute institutional priority" requiring immediate attention and execution without any preemption or delay.
