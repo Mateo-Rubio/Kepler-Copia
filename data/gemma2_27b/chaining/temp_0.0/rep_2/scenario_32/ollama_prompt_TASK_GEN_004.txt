@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging over El Piñal, Colombia. The objective is cloud-penetrating capture to map the ground geometry in the area.  We need this data in three days in the evening.
