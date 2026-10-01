@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for tomorrow overnight. I need near-infrared reflection imagery over San Joaquín, Colombia. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
