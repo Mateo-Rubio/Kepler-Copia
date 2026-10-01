@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our target context involves observing the Ecuatorial region with a Near-Infrared (NIR) sensor on the day after tomorrow in the morning.
+
+The geographic context of this mission is centered around the Ecuatorial region, which lacks specific details about country, city, or landmarks. However, we'll describe it using the available information to provide a realistic location. The primary sensor designated for this task is the Near-Infrared (NIR), which will be used for near-infrared reflection observations to map water body boundaries and assess soil moisture.
+
+Given the priority level of 2, this request falls under medium importance. We'll frame it as a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must reflect an institutional approach without implying urgency or contractual binding.
+
+The delivery deadline is set for the day after tomorrow in the morning, which is the upper limit for data availability. This phrase will be inserted verbatim into our request, as it's the stated time frame for data collection.
+
+In summary, our task involves capturing near-infrared reflection observations of the Ecuatorial region on the day after tomorrow in the morning using a standard operational approach. The priority level indicates that this is part of our normal workflow update with fixed parameters and no indication of an urgent operational execution or contractual requirement.
