@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Norte. This requires a high-resolution optical snapshot in the morning, in three days.  The data products are needed by that deadline.
