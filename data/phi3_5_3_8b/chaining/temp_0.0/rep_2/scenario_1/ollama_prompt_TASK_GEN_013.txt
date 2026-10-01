@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We need to conduct an overnight NIR reflection assessment, specifically focusing on water body boundary mapping in Santa Rosa del Sur, Colombia. This task has been designated as low priority importance; hence, it can be scheduled flexibly and is not urgent for immediate execution. The goal here is to discriminate gradients effectively by analyzing near-infrared reflections, which will help us understand the water body boundaries with greater precision.
+
+Given that this task has been resolved in terms of delivery deadline as "the day after tomorrow overnight," we must ensure that our satellite assets are allocated accordingly to capture these NIR signatures during the nighttime hours when such observations can be most beneficial and less obstructed by atmospheric conditions.
+
+To summarize, this is a non-essential background filler task with an opportunity for valuable data collection on water boundaries using near-infrared reflection techniques. Operators are advised to drop or reschedule at their convenience due to the low priority of this mission but should aim to complete it within the specified overnight window starting "the day after tomorrow."
