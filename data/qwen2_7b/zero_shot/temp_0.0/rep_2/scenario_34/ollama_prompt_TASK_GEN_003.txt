@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking to capture a thermal mapping of the Ecuatorial region in Indonesia using our TIR sensor. This is a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The request involves assessing surface temperature profiles and detecting thermal anomalies for critical infrastructure monitoring.
+
+We aim to deliver this data by tomorrow evening at the latest, ensuring the products are ingested into the pipeline before then. This task is part of our routine monitoring efforts and will contribute to our ongoing analysis of environmental conditions and potential hazards in the region. We appreciate your attention to this request and look forward to receiving the data promptly.
+
+Thank you for your cooperation and understanding in meeting this deadline.

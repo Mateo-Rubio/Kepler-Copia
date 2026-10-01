@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at a task that's quite important for us, so I'll be sure to mention its priority level right away. This is a request for a standard operational tasking involving the use of our SAR sensor, which will help us capture detailed radar images of a specific area in France, specifically Norte city. The goal here is to perform an active radar scan using microwave surface imaging technology to get a clear picture through heavy weather conditions or to capture ground geometry.
+
+We're aiming for high-resolution data that can penetrate clouds and provide us with essential information about the terrain. This task falls under our baseline pipeline tracking setup, representing normal operational status with fixed parameters. It's part of our routine monitoring activities, but we understand it might be a bit lower on the priority scale compared to other tasks.
+
+The deadline for this request is quite strict; we need the data products by the target day, which is four days from now, in the morning. We're setting a strict delivery deadline for this date and time to ensure our pipeline ingests the data before that period ends. This task doesn't require any special urgency beyond what's already set by the deadline.
+
+Thank you for your attention to this matter. We appreciate your team's capability to handle such requests efficiently and look forward to receiving the data products as planned.
