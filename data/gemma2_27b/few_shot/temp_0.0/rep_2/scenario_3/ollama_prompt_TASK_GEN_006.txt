@@ -1,0 +1,1 @@
+This is a standard operational tasking for Tanjung Saleh in Indonesia. We need a high-resolution optical snapshot with clear optical imagery to document the coastal development project underway. This is routine monitoring as part of our baseline pipeline tracking with fixed parameters, and the products should be ingested into the pipeline tomorrow in the morning.
