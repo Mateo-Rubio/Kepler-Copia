@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The specified timeframe is "around mid-day" on "tomorrow," and this will be adhered to strictly without any alteration or reinterpretation.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task for you, with a flexible schedule allowing for opportunistic capture. This non-essential background filler task can be dropped or rescheduled at your convenience. We are looking to conduct an active radar scan using microwave surface imaging over Muara Asa in Indonesia. The goal is to achieve cloud-penetrating capture and gather ground geometry data. Please aim to complete this task around mid-day tomorrow, treating it as a background survey or testbed tracking task.
