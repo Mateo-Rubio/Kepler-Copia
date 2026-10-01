@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing Indonesia's Majangkan city, which is a strategic location for capturing detailed information about the region. The mission allocation priority is medium importance, indicating that this task is part of our standard operational pipeline tracking with fixed parameters representing normal operational status.
+
+Our primary sensor is an active radar scan using microwave surface imaging, designed to perform cloud-penetrating capture and ground geometry mapping. This is crucial for understanding the landscape under various weather conditions, ensuring comprehensive coverage even when clouds obscure traditional optical sensors.
+
+The delivery deadline is set for tomorrow around mid-day, which is the upper limit for data availability as determined by an upstream module. We must adhere to this time frame without rephrasing or altering it in any way.
+
+In summary, our request involves capturing detailed radar imagery of Majangkan city in Indonesia using an active radar scan with a focus on cloud-penetrating capture and ground geometry mapping. This task is part of our standard operational pipeline tracking setup, representing normal operational status with fixed parameters. The deadline for data availability is tomorrow around mid-day, emphasizing the importance of timely execution without compromising accuracy or detail.
+
+Let's proceed with the execution of this mission, ensuring that we meet all operational guidelines and deliver high-quality data as per our institutional standards.

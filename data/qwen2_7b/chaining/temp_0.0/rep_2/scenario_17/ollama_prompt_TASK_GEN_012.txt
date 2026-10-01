@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Indonesia's equatorial region, focusing on the city of Ecuatorial. The mission allocation priority is medium importance, indicating a standard operational tasking that aligns with our baseline pipeline tracking setup.
+
+The primary sensor to be utilized is an active radar scan using microwave surface imaging, designed to capture cloud-penetrating data for ground geometry. This will provide us with essential information on the region's topography and infrastructure integrity under various weather conditions.
+
+The delivery deadline is set for four days in the morning, which means we aim to have the data available by that specific time frame. This request does not involve any rush or urgency; instead, it represents a standard operational status where fixed parameters are in place, ensuring normal workflow updates.
+
+In conclusion, this task is part of our routine monitoring activities and will contribute to our ongoing efforts in commercial tasking and baseline pipeline tracking. The operator acknowledges the flexibility in scheduling, treating this as a background survey or testbed tracking task that can be dropped or rescheduled at convenience if necessary.

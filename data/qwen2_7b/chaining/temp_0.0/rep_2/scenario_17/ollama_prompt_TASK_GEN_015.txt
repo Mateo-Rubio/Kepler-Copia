@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Kepulauan Meranti region, combining country and city details naturally without using raw technical system tags or coordinate arrays. The mission allocation priority is medium importance, indicating standard operational tasking or commercial tracking with fixed parameters representing normal operational status.
+
+The primary sensor to be used is the Near-Infrared (NIR), which aims to capture near-infrared reflection for water body boundary mapping and soil moisture assessment, allowing for the discrimination of gradients in the area. The delivery deadline is set for four days in the morning, adhering to the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request involves capturing detailed imagery of Kepulauan Meranti using the Near-Infrared sensor for water body boundary mapping and soil moisture assessment, with a focus on operational efficiency and standard procedures. The task is part of a baseline pipeline tracking setup with normal operational status, ensuring that the data collection process adheres to established guidelines and priorities.
+
+Let's proceed with the execution of this task, ensuring that all operational guidelines are followed for a seamless and accurate data acquisition process.
