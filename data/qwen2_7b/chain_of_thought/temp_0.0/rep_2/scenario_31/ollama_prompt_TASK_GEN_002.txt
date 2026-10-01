@@ -1,0 +1,3 @@
+In response to your request for a satellite mission allocation with priority level 2, we are scheduled to capture high-resolution optical imagery of Norte, France, on the day after tomorrow. The specific task involves conducting an overnight active radar scan using microwave surface imaging technology to penetrate heavy weather conditions and capture ground geometry. This standard operational tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please note that this request carries a deadline for data product delivery, which is strictly tied to the target day and diurnal period specified in your JSON metadata. We will adhere to these parameters without altering or extending the deadline.
