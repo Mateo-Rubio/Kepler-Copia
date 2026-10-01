@@ -1,0 +1,7 @@
+Given the operational guidelines and the context provided by the JSON metadata, our Earth-observation mission operator is tasked with capturing high-resolution near-infrared (NIR) imagery of Zetaquira, Colombia. This request is categorized as a low priority importance task, which means it can be accommodated within a flexible schedule without compromising more critical missions.
+
+The deadline for this data collection is set for tomorrow morning, specifically in the early hours when the conditions are optimal for capturing detailed surface information. The imagery will focus on mapping water body boundaries and assessing soil moisture levels, essential tasks for environmental monitoring and agricultural management.
+
+As part of our baseline pipeline tracking setup with fixed parameters, this task represents a standard operational tasking that complements our ongoing efforts to provide comprehensive data coverage for various applications. We aim to deliver the thermal mapping results promptly, ensuring they contribute to informed decision-making processes without disrupting more urgent operational priorities.
+
+Please proceed with the mission allocation, keeping in mind the importance of adhering to the deadline set for tomorrow morning. This task is designated as a non-essential background filler task, which can be dropped or rescheduled at convenience if necessary, without affecting the overall workflow update.
