@@ -1,0 +1,5 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We need to conduct an overnight VNIR multispectral vegetation analysis in La Macarena, Colombia, with the aim of assessing chlorophyll absorption levels or calculating a NDVI index and surface reflectance. This task is currently assigned a low priority importance level; hence it can be scheduled flexibly without disrupting our primary mission objectives. The deadline for this data collection has been set as "the day after tomorrow overnight," ensuring that we have sufficient time to process the information before its due date.
+
+Please allocate satellite resources accordingly and confirm receipt of this non-essential background filler task, which can be dropped or rescheduled at your convenience if necessary. This routine monitoring will contribute valuable insights into our vegetation health studies but is not critical for immediate operational execution.
