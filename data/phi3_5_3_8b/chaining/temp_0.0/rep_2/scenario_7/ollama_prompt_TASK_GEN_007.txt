@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We need to schedule an active radar scan using microwave surface imaging over Valdivia, Colombia, with a focus on capturing ground geometry through cloud-penetrating capabilities. This task is of low importance but requires our attention as part of routine monitoring within our baseline pipeline tracking setup. The targeted area falls under the broad region known for its diverse topography and frequent weather patterns that challenge optical imaging methods.
+
+Given these operational guidelines, I am requesting a flexible schedule to carry out this non-essential background filler task. We aim to complete this opportunistic capture by the day after tomorrow around mid-day. The deadline has been resolved upstream and must be adhered to strictly for data availability purposes.
+
+Please note that while we are not prioritizing this mission above others, it is still crucial for maintaining our comprehensive observational coverage of various landscapes under different environmental conditions. Therefore, I kindly ask the planner to accommodate this request within their operational capacity and ensure its execution by the specified deadline without preemption from higher-priority tasks.
