@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in that string, which must appear literally in the final request, is "overnight."
+
+d) The deadline specified as "in four days" during the "overnight" period should not be shifted to any other part of the day. It is critical to adhere strictly to this timeframe for operational accuracy and compliance with the mission's requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task with a flexible schedule for opportunistic capture. This task involves thermal mapping over Santa Croce sull'Arno, Italy, aiming to capture a heat signature or surface temperature profile. The goal is to detect and map any thermal anomalies in the area. Please note that this is a non-essential background filler task, and it can be dropped or rescheduled at convenience. We are looking to have this data delivered in four days during the overnight period.
