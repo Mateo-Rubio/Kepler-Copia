@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request explicitly states that the task should be completed by tomorrow, which implies that the deadline is for the next day, not for the current day or any other specific time of day.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a standard operational tasking for overnight SAR imaging over Colombia, specifically targeting the city of Otanche. The mission allocation priority for this tasking is medium importance, and we need to capture high-resolution active radar scans using microwave surface imaging to pierce heavy weather and capture ground geometry. The deadline for delivering the data products is tomorrow, and we must adhere to this strict operational deadline.
