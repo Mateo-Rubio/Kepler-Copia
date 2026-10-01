@@ -1,0 +1,7 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that's of low priority importance. This is a non-essential background filler task that doesn't require immediate attention and can be scheduled at your convenience.
+
+The objective is to capture near-infrared reflection data for water body boundary mapping or soil moisture assessment in Puerto Lleras, Colombia. We're looking for a snapshot that will help us discriminate gradients in the area's soil moisture content. This request falls under our flexible schedule category, so please treat it as a background survey or testbed tracking task.
+
+We need this data by tomorrow morning at the latest. With a strict delivery deadline set for tomorrow morning, ensure the products are ingested into the pipeline before that time frame. This will allow us to assess soil moisture levels efficiently and make informed decisions based on the collected data.
+
+Thank you for your attention to this request. We appreciate your cooperation in managing our operational priorities effectively.

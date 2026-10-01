@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking at a standard operational tasking involving the capture of near-infrared (NIR) data from Indonesia, specifically from the city of Malinau. This mission is part of our baseline pipeline tracking setup and carries normal operational status.
+
+Our primary objective is to assess soil moisture levels through near-infrared reflection, which will help us map water body boundaries and evaluate soil conditions. We aim for a high-resolution optical snapshot as well, to ensure clear imagery that can provide detailed visual documentation of the area.
+
+The deadline for delivering this data product is set for the day after tomorrow, with a strict delivery deadline marked for the morning hours. This means we need the data ingested into our pipeline before the morning of the day after tomorrow at the latest. We're treating this as a non-essential background filler task, which can be dropped or rescheduled at convenience if necessary.
+
+Thank you for your attention to this request. We appreciate your cooperation in ensuring timely delivery of these critical data products.
