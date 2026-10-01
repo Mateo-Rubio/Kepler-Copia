@@ -1,0 +1,1 @@
+Schedule a low priority importance task for opportunistic capture of Norte using active radar scan for cloud-penetrating capture. This is a non-essential background filler task that can be dropped or rescheduled at convenience.  The goal is to obtain microwave surface imaging data, ideally tomorrow overnight.
