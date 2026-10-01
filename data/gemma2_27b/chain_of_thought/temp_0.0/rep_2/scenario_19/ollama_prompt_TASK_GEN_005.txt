@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for an active radar scan of Norte using microwave surface imaging. This will allow for cloud-penetrating capture and ground geometry mapping.  This is part of a routine monitoring workflow update with fixed parameters representing normal operational status. The data products are required the day after tomorrow in the evening.
