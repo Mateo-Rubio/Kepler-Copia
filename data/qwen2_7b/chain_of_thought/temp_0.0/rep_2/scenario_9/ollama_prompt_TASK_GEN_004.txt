@@ -1,0 +1,7 @@
+In response to the urgent operational execution outlined by the priority level, we are tasked with capturing a critical payload on the day after tomorrow during the afternoon. This mission involves the use of thermal mapping capabilities provided by our TIR sensor to capture a heat signature across the region in Colombia, specifically focusing on the city of San Martín. The deadline for delivering this data product is strictly adhered to as "the day after tomorrow" at "afternoon", reflecting the importance and contractual requirements involved in this task.
+
+This absolute institutional priority demands an un-preemptable mission lock, emphasizing the necessity for a high-resolution optical snapshot of the region using our TIR sensor. The goal is to provide detailed thermal mapping that will aid in identifying surface temperature profiles and potential thermal anomalies, which are essential for various applications such as environmental monitoring, urban planning, and disaster response.
+
+The operational context acknowledges the critical nature of this task, requiring immediate attention and execution without any delay or alteration to the deadline. This binding contract requirement involves a standard operational tasking that is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Please ensure that all necessary preparations are made for the capture of this data product on the specified day and time, adhering to the priority level and deadline outlined in the request.
