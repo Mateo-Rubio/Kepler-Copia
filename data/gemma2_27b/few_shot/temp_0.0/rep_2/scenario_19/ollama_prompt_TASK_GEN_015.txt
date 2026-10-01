@@ -1,0 +1,1 @@
+This is a standard operational tasking for Desa Muaro Sentajo in Indonesia as part of our baseline pipeline tracking with fixed parameters. We need thermal mapping of the area to pull a clean surface temperature profile and flag any thermal anomaly. The delivery deadline is set for tomorrow during the afternoon.
