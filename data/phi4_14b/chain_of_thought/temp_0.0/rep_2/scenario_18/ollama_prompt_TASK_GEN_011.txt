@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The specified diurnal period is "in the morning," and this will be adhered to as stated without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a task request for a low-priority importance mission with a flexible schedule, allowing for opportunistic capture. This non-essential background filler task can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. The objective is to obtain a high-resolution optical snapshot of the region around Norte, focusing on clear optical imagery and true-color visual documentation. Please ensure this task is completed in four days, specifically in the morning.
