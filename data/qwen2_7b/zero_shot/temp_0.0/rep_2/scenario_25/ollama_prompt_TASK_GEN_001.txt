@@ -1,0 +1,15 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission that involves capturing data using Near-Infrared (NIR) sensors. The geographical context is centered around Riofrío, Colombia, which is a location of significant interest for our ongoing research project.
+
+Our objective is to gather high-resolution optical imagery of the region, focusing on daylight photography and true-color visual documentation to provide comprehensive insights into the landscape and its features. This task is classified as a low priority importance request, allowing for a flexible schedule that can accommodate any necessary adjustments or rescheduling at your convenience.
+
+The operational deadline for delivering this data is set for three days from now, with a strict requirement that the products must be ingested into our pipeline by around mid-day on that day. This ensures timely availability of the data products to our team for further analysis and integration into our ongoing projects.
+
+Please note that this request is treated as a non-essential background filler task, which can be dropped or rescheduled according to your operational priorities without impacting the overall workflow significantly.
+
+Thank you for your attention to this matter. We appreciate your cooperation in ensuring that this task is executed efficiently and within the specified timeframe.
+
+Best regards,
+
+[Your Name]

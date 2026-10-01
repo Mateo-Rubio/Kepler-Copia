@@ -1,0 +1,12 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture thermal mapping data using our TIR sensor, focusing on the region known as Norte in our target area.
+
+Given the nature of this request, we classify it as having low priority importance. This task is part of a flexible schedule and can be considered a non-essential background filler task. We understand that there might be more pressing tasks ahead, so feel free to drop or reschedule this at your convenience.
+
+The primary goal here is to assess heat signatures and surface temperature profiles for Norte. We're looking for thermal anomalies and mapping heat emissions across the region. This data will help us in understanding various environmental conditions and potential issues that require attention.
+
+We need this data by the target day, which is three days from now, with a strict delivery deadline set for the evening of that day. This means we're aiming to have the products ingested into our pipeline before the overnight block starts. We appreciate your understanding and prompt action in ensuring this deadline is met.
+
+Thank you for your cooperation and support in fulfilling this task request. We look forward to receiving the data as per our requirements. If you need any further information or clarification, please don't hesitate to reach out. Have a great day!
+
+Best regards,
+[Your Name]
