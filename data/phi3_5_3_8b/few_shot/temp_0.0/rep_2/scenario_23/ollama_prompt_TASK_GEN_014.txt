@@ -1,0 +1,1 @@
+This is a standard operational tasking for today in Corte, France, as part of our baseline pipeline tracking with fixed parameters. We need an active radar scan using microwave surface imaging to capture the ground geometry regardless of weather conditions. This routine monitoring should be completed by this afternoon at the latest.
