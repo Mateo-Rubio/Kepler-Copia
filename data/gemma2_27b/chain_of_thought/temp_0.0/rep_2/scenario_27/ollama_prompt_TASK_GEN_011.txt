@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for thermal mapping during the afternoon in three days. We need to capture the heat signature of a location near Norte, France. This is part of a routine monitoring workflow update with fixed parameters representing normal operational status.
