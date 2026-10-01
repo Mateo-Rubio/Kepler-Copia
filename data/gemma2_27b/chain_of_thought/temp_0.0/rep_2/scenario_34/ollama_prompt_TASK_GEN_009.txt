@@ -1,0 +1,1 @@
+Schedule a low priority importance SAR scan of Ecuatorial, Malaysia for opportunistic capture in the morning in four days. This data is a non-essential background filler task and can be dropped or rescheduled at convenience.
