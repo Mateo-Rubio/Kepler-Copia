@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We need to conduct a thermal mapping of Puerto Wilches in Colombia, focusing on capturing heat signatures and creating surface temperature profiles as part of our environmental monitoring efforts. This task is not critical but serves as an opportunistic capture that can provide valuable insights into local thermal anomalies or changes over time. The primary sensor for this operation will be the Thermal Infrared (TIR) imaging system, which excels in detecting heat emissions from various surfaces and objects.
+
+Given the nature of TIR sensors to operate effectively under specific conditions, we aim to complete this task by tomorrow evening when daylight fades, allowing for clearer thermal contrasts against cooler nighttime backdrops. This timing will enhance our ability to discern subtle temperature variations and potential environmental concerns that may not be as apparent during the day.
+
+Please note that while this request is of low priority importance, it remains a part of our routine monitoring setup with fixed parameters representing normal operational status. The task can be dropped or rescheduled at your convenience; however, we encourage timely execution to maintain continuity in our background survey and testbed tracking tasks.
