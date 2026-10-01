@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region in question, specifically the picturesque town of Borgo Valsugana, nestled within the beautiful country of Italia. This location is of paramount importance due to its unique landscape and historical significance, which requires an absolute institutional priority.
+
+Our mission allocation priority is set at 'Priority 3', indicating a binding contract requirement involving a critical payload capture. This task demands an urgent operational execution and an un-preemptable mission lock, reflecting the high importance of this request.
+
+The primary sensor to be utilized for this mission is the VNIR (Visible Near-Infrared), which will provide us with invaluable data on vegetation health through multispectral analysis. We aim to assess chlorophyll absorption levels and calculate a vegetation NDVI index, offering insights into the ecological dynamics of the region.
+
+The delivery deadline for this task has been set as "the day after tomorrow overnight", serving as the upper limit for data availability. This phrase must be inserted verbatim into our request, ensuring that we adhere to the established timeline without rephrasing or altering it in any way.
+
+In conclusion, this low priority importance request is a flexible schedule task, designed as a non-essential background filler. We explicitly note that it can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. Our aim is to capture the essence of Borgo Valsugana's beauty and ecological health through our VNIR sensor, contributing to our ongoing efforts in Earth observation and environmental monitoring.
