@@ -1,0 +1,5 @@
+In response to the high-priority directive for the absolute institutional requirement, we are tasked with capturing a high-resolution optical snapshot of the region named Italia, specifically focusing on the city of Licciana Nardi. This critical payload capture is to be executed in the evening on the day after tomorrow, as per the binding contract requirement involving a mandatory directive. The operational execution must adhere strictly to this deadline without any alteration or extension.
+
+The primary sensor for this mission will be the VIS sensor, aiming to provide clear optical imagery for daylight photography and true-color visual documentation of the region. This task is an urgent operational execution that cannot be preempted or rescheduled; it represents a critical part of our baseline pipeline tracking with fixed parameters that define normal operational status.
+
+The deadline for delivering the data products is set for the evening on the day after tomorrow, which is a strict operational deadline and not an orbital capture window. We are to ensure that this task is completed within these parameters without any deviation from the specified time frame.
