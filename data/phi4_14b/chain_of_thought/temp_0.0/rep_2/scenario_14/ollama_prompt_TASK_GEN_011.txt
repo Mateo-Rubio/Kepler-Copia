@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string "overnight" that matches the options provided is "overnight."
+
+d) The deadline specified is for "tomorrow overnight," and there is no indication or instruction to shift this deadline to any other part of the day. Therefore, I will adhere strictly to this timeframe without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task with a flexible schedule for an opportunistic capture over Montaquila, Italy. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The mission involves a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. Please ensure this data is captured tomorrow overnight, treating it as a background survey or testbed tracking task.
