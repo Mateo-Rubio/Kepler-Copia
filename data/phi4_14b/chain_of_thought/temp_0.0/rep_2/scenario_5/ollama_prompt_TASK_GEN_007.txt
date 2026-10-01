@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task is specifically requested for "tomorrow" and "in the evening," which aligns with the provided temporal parameters without any alteration or reinterpretation.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule, allowing for opportunistic capture in Colombia. This non-essential background filler task can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. We are looking to obtain a high-resolution optical snapshot using daylight photography to achieve clear optical imagery and true-color visual documentation. The data collection is scheduled for tomorrow, specifically in the evening.
