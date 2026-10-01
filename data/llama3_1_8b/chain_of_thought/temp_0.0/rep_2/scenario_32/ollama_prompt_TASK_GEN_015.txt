@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request remains as is, with the target day being tomorrow and the target diurnal period being in the morning.
+
+STAGE 2 - FINAL REQUEST
+
+...This is a binding contract requirement for a critical payload capture involving thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. The location is Indonesia, specifically Tanjung Jabung Timur. This task is an absolute institutional priority, and the data products must be delivered by tomorrow in the morning.
