@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed request:
+
+We need to conduct thermal mapping of Kapuas Hulu, Indonesia, with an emphasis on capturing heat signatures and surface temperature profiles as part of our environmental monitoring efforts. This task is not critical but serves as a flexible schedule opportunity for opportunistic capture. The goal is to detect any potential thermal anomalies that may indicate unusual environmental activity or changes in the region's ecosystem.
+
+The targeted delivery date for this data collection is set for "the day after tomorrow during the afternoon." This deadline has been confirmed by our upstream module, and it represents the latest time we can expect to receive high-quality thermal imagery from the satellite pass over Kapuas Hulu. The tasking will not disrupt our primary mission objectives but rather complements them with additional environmental insights that could be valuable for long-term ecological studies or immediate response scenarios.
+
+Given this is a low priority importance request, it can be rescheduled at the operator's convenience if necessary. However, we aim to maintain regular monitoring and data acquisition as part of our routine surveillance activities. The satellite will perform an active radar scan using microwave surface imaging technology to ensure cloud-penetrating capture capabilities are utilized effectively during this pass.
+
+Please proceed with the task allocation according to these specifications, ensuring that we can integrate this additional data into our broader Earth observation framework without compromising other mission priorities.
