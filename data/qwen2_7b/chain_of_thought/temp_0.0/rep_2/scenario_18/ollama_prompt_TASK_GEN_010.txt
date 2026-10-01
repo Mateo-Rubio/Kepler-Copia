@@ -1,0 +1,7 @@
+Given the operational context, we are tasked with capturing a thermal mapping dataset for Colombia, specifically focusing on the city of Concepción. This request carries a low priority importance, indicating that it is a flexible schedule task, suitable for opportunistic capture as part of our background survey activities. The deadline for this data collection is set for tomorrow during the afternoon period.
+
+Our primary sensor will be deployed to perform thermal mapping, aiming to capture heat signatures and surface temperature profiles across the region. This mission involves assessing heat emissions from various sources, providing valuable insights into thermal anomalies that could be indicative of industrial activity, agricultural practices, or environmental changes.
+
+As we adhere to the strict deadline for data delivery, it is crucial to ensure that our satellite constellation is optimally positioned to capture this dataset during the specified afternoon period. This operational tasking will contribute to our baseline pipeline tracking efforts, offering a snapshot of thermal conditions in Colombia without compromising other critical missions that may have higher priority levels.
+
+Please proceed with scheduling the satellite assets accordingly, ensuring that the capture process aligns with the outlined parameters and deadlines. Any adjustments or rescheduling should be handled with flexibility, as this task is classified as a non-essential background filler, allowing for opportunistic scheduling based on operational convenience.
