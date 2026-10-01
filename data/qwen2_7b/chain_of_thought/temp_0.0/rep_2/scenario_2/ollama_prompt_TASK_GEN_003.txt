@@ -1,0 +1,5 @@
+Given the urgent operational context, we are tasked with capturing a high-resolution active radar scan using microwave surface imaging technology for cloud-penetrating capture and ground geometry assessment. This critical payload capture is required today, specifically in the evening, as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The deadline to deliver this data product is strict and cannot be altered or extended.
+
+The mission involves a standard operational tasking for Indonesia, focusing on the equatorial region, which will provide us with essential insights into the surface conditions under challenging weather conditions. This request is classified as a low priority importance task, allowing for flexible scheduling to accommodate opportunistic capture. However, it's imperative that this task be executed promptly and adhered to the deadline set for today's evening hours.
+
+Please ensure that all necessary preparations are made to meet this requirement without compromising the quality or integrity of the data collected.
