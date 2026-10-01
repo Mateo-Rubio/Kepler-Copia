@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our baseline pipeline tracking setup. Our priority level is set to medium importance, which means this request carries normal operational status and fixed parameters representing our standard workflow update.
+
+Our mission involves capturing thermal mapping data using the TIR sensor over a specific geographic location in Indonesia. The target area we're focusing on is Ketapang city, where we aim to gather detailed information about heat signatures and surface temperature profiles. This task is part of our routine monitoring efforts to ensure critical infrastructure and environmental conditions are being closely observed.
+
+The deadline for delivering this data product is set for the day after tomorrow during the afternoon period. We need these thermal maps ready by then at the latest, ensuring they're ingested into our pipeline before the specified time frame. This request is a standard operational task that doesn't require any special accommodations or extensions; it's part of our regular monitoring activities.
+
+Thank you for your attention to this matter. Please let me know if you need any additional information or clarification on this request.
