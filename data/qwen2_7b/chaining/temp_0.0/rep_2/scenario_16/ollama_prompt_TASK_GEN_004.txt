@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data from Colombia, specifically the city of Guamal. This location requires a detailed description that combines country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we will describe the region using the remaining valid fields or 'region_name', which is not provided here.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. This request must be framed as an "absolute institutional priority" or a "binding contract requirement". It involves a "critical payload capture" that necessitates "urgent operational execution" and an "un-preemptable mission lock", emphasizing the need for immediate attention.
+
+The primary sensor is 'NIR', which aims to map water body boundaries and assess soil moisture. This task requires capturing "near-infrared reflection" to discriminate gradients effectively, providing crucial information on water bodies and soil conditions.
+
+The delivery deadline is set for "tomorrow in the morning". This phrase must be included verbatim as the upper limit for data availability, without any rephrasing or adjustments.
+
+In conclusion, this request is a "standard operational tasking", part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status". It is a "critical payload capture" that must be executed promptly and prioritized accordingly. The operator notes the flexible schedule for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+Let's proceed with the execution of this mission, ensuring that all guidelines are followed to maximize naturalness and validation accuracy in our dataset.
