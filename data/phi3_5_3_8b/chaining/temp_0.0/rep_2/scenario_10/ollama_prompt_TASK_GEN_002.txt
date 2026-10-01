@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a specific operational directive to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's what we need:
+
+We require an absolute institutional priority mission that involves capturing high-resolution optical snapshots during daylight photography in Rassa, Italy—a task of critical payload capture with mandatory directive urgency. This is not just another routine monitoring; it’s a standard operational tasking within our baseline pipeline tracking setup, where the fixed parameters represent normal operational status or a workflow update that must be executed without delay.
+
+The primary sensor for this mission will focus on obtaining true-color visual documentation to ensure we have clear optical imagery of Rassa in Italy's picturesque landscape. Given its low priority importance, while it is not as urgent as other tasks, the deadline has been firmly set at "in three days in the morning," and this task must be completed by then without fail.
+
+Please note that although we have a casual approach to scheduling due to the nature of this request, flexibility does not extend beyond these parameters. The satellite constellation planner is expected to understand the necessity for an un-preemptable mission lock and execute accordingly within the specified timeframe. Your immediate attention and action on this matter are highly appreciated.
