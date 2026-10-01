@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a standard operational tasking for our commercial monitoring pipeline. Our focus is on the region of Colombia, specifically the city of San Carlos de Guaroa. We're looking to capture high-resolution optical imagery using VNIR sensors for a vegetation analysis project.
+
+Our objective is to assess chlorophyll absorption levels and calculate the NDVI index across various landscapes in this area. This task requires us to gather detailed multispectral data that will help us understand the health and productivity of the vegetation.
+
+We're setting a strict deadline for the delivery of these data products, which must be ingested into our pipeline by the latest overnight block on the day following our target date, which is three days from now. This task is part of our baseline workflow updates and represents normal operational status.
+
+Please ensure that this mission allocation is handled with the appropriate attention to detail and quality standards expected for our commercial clients. Thank you for your cooperation in meeting these requirements.

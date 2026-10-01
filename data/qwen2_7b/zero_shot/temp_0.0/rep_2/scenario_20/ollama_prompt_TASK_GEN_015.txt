@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at a task that involves capturing an active radar scan using microwave surface imaging technology for Malaysia, specifically in the city of Belaga. This is a standard operational tasking request with a focus on cloud-penetrating capture capabilities, essential for understanding ground geometry even under heavy weather conditions.
+
+Our priority level for this mission allocation is medium importance, which means it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're aiming to deliver the data products by the day after tomorrow, with a strict delivery deadline set for the overnight period. This ensures that the products are ingested into our pipeline before the deadline.
+
+We appreciate your attention to this request and look forward to receiving the highly detailed and accurate SAR imagery that will contribute to our ongoing monitoring efforts in Malaysia. Thank you for your cooperation and understanding in meeting these operational guidelines.
