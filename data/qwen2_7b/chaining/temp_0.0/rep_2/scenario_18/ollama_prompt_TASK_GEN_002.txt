@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing imagery of Calderara di Reno, located in the beautiful country of Italia. This location will be observed using a Near-Infrared (NIR) sensor for an overnight task scheduled three days from now. The primary mission allocation priority is set to Low Importance, indicating that this request is part of a flexible schedule for opportunistic capture.
+
+The goal is to assess soil moisture and water body boundaries through the near-infrared reflection capabilities of our satellite constellation. This task will contribute to our understanding of environmental conditions without imposing any strict deadlines or contractual obligations.
+
+In summary, our mission aims to provide a valuable background survey of Calderara di Reno using the NIR sensor for soil moisture assessment and water body boundary mapping. The task is scheduled for an overnight period three days from now, aligning with our operational guidelines for low priority importance tasks.
