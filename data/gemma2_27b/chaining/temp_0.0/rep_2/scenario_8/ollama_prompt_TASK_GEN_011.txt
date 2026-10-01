@@ -1,0 +1,1 @@
+This is a standard operational tasking for multispectral vegetation analysis over Arsiero, Italia. We require a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate the vegetation NDVI index in that region.  The data needs to be delivered in four days in the morning.
