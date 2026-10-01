@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for thermal mapping around mid-day the day after tomorrow. We need to capture the heat signature of a location in Ecuatorial, Indonesia. This is part of a routine monitoring workflow update with fixed parameters.
