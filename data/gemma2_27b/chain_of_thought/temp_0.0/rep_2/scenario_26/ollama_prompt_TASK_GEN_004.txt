@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for near-infrared reflection capture over Lebrija, Colombia. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We need a high-resolution snapshot for water body boundary mapping or soil moisture assessment to discriminate gradients tomorrow in the evening.
