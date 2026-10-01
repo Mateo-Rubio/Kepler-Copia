@@ -1,0 +1,1 @@
+Schedule a low priority importance task for thermal mapping in Norte. We need an evening snapshot in three days to capture a heat signature and surface temperature profile. This is a non-essential background filler task, so please drop or reschedule at convenience.
