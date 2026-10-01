@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, yet still requires our attention. Our focus is on a background survey in Colombia, specifically within the city of Betulia. The mission involves capturing data using a VNIR sensor for multispectral vegetation analysis, aiming to assess chlorophyll absorption levels and calculate the NDVI index.
+
+The goal is to obtain high-resolution optical snapshots as daylight photography or true-color visual documentation, providing clear optical imagery that will help us understand the local vegetation health and land use. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We're looking to capture this data by the target day, which is in four days, with a strict delivery deadline set for overnight at the latest. This ensures the products are ingested into our pipeline before the deadline, allowing us to process and analyze them efficiently without any extensions or alterations to the deadline.
+
+Thank you for your understanding and cooperation in fulfilling this task request. We appreciate your flexibility and look forward to receiving the data as per our guidelines.
+
+Best regards,
+[Your Name]

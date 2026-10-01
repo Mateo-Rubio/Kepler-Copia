@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a standard operational tasking for a thermal mapping mission, which is part of our baseline pipeline tracking setup. This request involves capturing the heat signature of an area in Colombia, specifically within the city of La Vega. The primary sensor we're utilizing for this task is the TIR (Thermal Infrared) sensor.
+
+Our priority level for this mission allocation is medium importance, indicating that it's a standard operational task with fixed parameters representing our normal operational status. We're looking to gather thermal mapping data that will help us detect thermal anomalies and map heat emissions in the region.
+
+The deadline for delivering these data products is set for the day after tomorrow, with a strict delivery deadline being in the evening. This means we need the data ready by then to ensure they are ingested into our pipeline before the specified time.
+
+Thank you for your attention to this request. We appreciate your swift action and look forward to receiving the data as per our guidelines.
+
+Best regards,
+[Your Name]
