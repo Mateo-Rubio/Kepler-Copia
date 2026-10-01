@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner, we're looking to capture a detailed radar scan of the region around Tesis, Italia. Our primary objective is to gather high-resolution microwave surface imagery that can penetrate heavy weather conditions and provide us with ground geometry details. This task falls under the category of a low priority importance request, meaning it's a flexible schedule background survey that we can drop or reschedule at our convenience.
+
+We're aiming for an operational deadline set for the day after tomorrow, around mid-day, ensuring that the products are ingested into our pipeline before then. This is not about altering the orbit but rather setting a strict upper limit for data availability to meet our baseline pipeline tracking requirements.
+
+Thank you for your attention and cooperation in fulfilling this task.

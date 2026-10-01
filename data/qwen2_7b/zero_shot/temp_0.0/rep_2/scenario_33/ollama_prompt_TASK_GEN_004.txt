@@ -1,0 +1,5 @@
+Good day, satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that needs to be executed with flexibility and convenience. Our objective is to capture near-infrared reflection data from a location in Colombia, specifically the city of Zetaquira. This task involves assessing soil moisture levels and water body boundaries using near-infrared technology.
+
+Given the importance level marked as 'low', we're treating this as a non-essential background filler task that can be scheduled at your convenience. The deadline for delivering the data products is set for tomorrow morning, ensuring they are ingested into our pipeline before that time. We understand that this might not be an urgent operational execution but rather part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Thank you for your attention to this request. We appreciate your cooperation in managing this task within the outlined guidelines and constraints. If you have any questions or need further clarification, please feel free to reach out.

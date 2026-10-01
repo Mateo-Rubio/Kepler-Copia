@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with a task request that's of low priority importance, but we'd like to ensure it's handled efficiently and scheduled at your earliest convenience. Our objective is to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in the region of Colombia, specifically focusing on the city of Aipe. This task aims to provide us with valuable insights into the environmental conditions and potential water resources in the area.
+
+Given the operational guidelines, we're requesting this data as part of a flexible schedule, treating it as a background survey or testbed tracking task. We understand that this might not be an urgent requirement, but we appreciate your prompt attention to this matter.
+
+We're looking for the data products to be ingested into our pipeline before the day after tomorrow, in the evening. This deadline is crucial for us to integrate the information effectively within our ongoing projects without causing any delays.
+
+Thank you for your understanding and cooperation. We're looking forward to receiving the results that will contribute to our comprehensive analysis of the region.
+
+Best regards,
+[Your Name]
