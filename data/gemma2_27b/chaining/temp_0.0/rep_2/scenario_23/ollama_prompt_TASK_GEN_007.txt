@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging over La Cumbre, Colombia. The objective is cloud-penetrating capture to assess ground geometry.  We require this data in four days around mid-day as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
