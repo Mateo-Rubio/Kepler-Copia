@@ -1,0 +1,1 @@
+This is a standard operational tasking for thermal mapping over Norte in France. We need to capture a surface temperature profile and flag any thermal anomalies in the area. This is routine monitoring as part of our baseline pipeline tracking with fixed parameters, and the delivery deadline is set for in three days during the afternoon.
