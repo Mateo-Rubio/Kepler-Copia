@@ -1,0 +1,5 @@
+Given the operational context provided, we are tasked with capturing high-resolution near-infrared (NIR) data for a low priority importance request. The target day specified is today, and the mission allocation priority is set at level 1, indicating this is a non-essential background filler task that can be accommodated with flexible scheduling.
+
+The geographical context involves Colombia, specifically focusing on the city of Carmen del Darién (Curbaradó). This request does not require any adjustments to the deadline, as it is strictly tied to capturing data in the evening hours. The imagery will serve as a near-infrared reflection assessment for water body boundaries and soil moisture evaluation, providing critical information for environmental monitoring without compromising the operational workflow.
+
+The mission's execution should be treated as a background survey or testbed tracking task, allowing for opportunistic capture at convenience without affecting the standard pipeline tracking setup or baseline operations. The deadline to deliver the data products is set for today, in the evening, adhering to the provided temporal parameters without altering them.
