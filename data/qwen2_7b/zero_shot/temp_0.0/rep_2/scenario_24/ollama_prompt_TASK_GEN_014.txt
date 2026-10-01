@@ -1,0 +1,7 @@
+Good day to our automated satellite constellation planner. We're looking to capture a detailed radar scan of Spoleto, Italy, using our SAR sensor. The city is nestled in the beautiful Umbrian hills, known for its rich history and stunning landscapes. Our mission aims to provide high-resolution microwave surface imaging that can penetrate through heavy weather conditions, ensuring we capture ground geometry and essential data for our users.
+
+This task falls under our standard operational pipeline tracking setup, with fixed parameters representing normal operational status. We're focusing on delivering this data as part of our baseline monitoring efforts, which are crucial for various applications including urban planning, environmental studies, and disaster response.
+
+We request that the data be ready by tomorrow during the afternoon at the latest. This deadline is set to ensure the products are ingested into our pipeline before the day ends, aligning with our operational guidelines. We appreciate your team's expertise in handling this task efficiently and meeting our requirements without compromising on quality or accuracy.
+
+Thank you for your attention to detail and commitment to delivering exceptional service. We look forward to receiving the data that will contribute to our ongoing efforts in Earth observation and scientific research.
