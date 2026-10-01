@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Puerto Rico, Colombia. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We need a high-resolution VNIR snapshot for chlorophyll absorption level assessment and NDVI index calculation. Please capture this in the morning in three days.
