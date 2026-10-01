@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves capturing imagery of a location in "Italia", specifically within the city of "Norte". The operational guidelines dictate that we interpret the 'region_name' and nested 'location_details' without using raw technical system tags, underscores, or coordinate arrays.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', which means this request should be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted that this operator has the discretion to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor designated for this mission is "NIR", which will be used for capturing "near-infrared reflection" to map water body boundaries and assess soil moisture. This sensor's goal is crucial for discriminating gradients in the landscape.
+
+The delivery deadline for this task has been resolved by an upstream module, with the upper limit for data availability being "in three days in the evening". We must insert this phrase verbatim into our request, as it represents the stated time frame for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our task request involves capturing "near-infrared reflection" imagery of a location in "Italia", specifically within the city of "Norte". This mission is of low priority importance with a flexible schedule and an operational deadline set for "in three days in the evening".

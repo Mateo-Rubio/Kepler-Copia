@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Norte, a city in an unspecified country, during the afternoon of tomorrow. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the area, essential for detailed analysis and monitoring purposes.
+
+Given the priority level of 3 (High Importance), this request is framed as an absolute institutional priority, involving a critical payload capture that requires urgent operational execution and cannot be preempted. The language heavily implies an un-preemptable mission lock, emphasizing the binding contract requirement and the importance of this task in our baseline pipeline tracking setup.
+
+The primary sensor to be utilized for this mission is VIS (visual imagery), which will provide us with active radar scan capabilities using microwave surface imaging. This technology allows for cloud-penetrating capture, enabling us to pierce through heavy weather conditions or capture ground geometry with precision.
+
+The deadline for this task has already been resolved by an upstream module, and it is set for tomorrow during the afternoon. We must adhere to this upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, this low priority importance request is treated as a flexible schedule opportunity for opportunistic capture, labeled as a non-essential background filler task. It serves as a background survey or testbed tracking task, with explicit notes to drop or reschedule at convenience if necessary.
+
+Let's proceed with the execution of this mission, ensuring that we capture the essence of Norte's landscape with the utmost care and attention to detail, adhering to our operational guidelines for naturalness and validation accuracy.
