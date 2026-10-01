@@ -1,0 +1,3 @@
+Log a commercial tasking for Suárez in Colombia as part of our coastal file workflow update. We aim to capture high-resolution optical snapshots with proper daylight photography, providing true-color visual documentation of the urban development projects underway. The products should be integrated into our pipeline within three days around mid-day.
+
+```prompt
