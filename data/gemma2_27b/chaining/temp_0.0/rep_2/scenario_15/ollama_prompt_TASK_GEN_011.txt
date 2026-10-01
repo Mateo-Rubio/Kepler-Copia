@@ -1,0 +1,1 @@
+This is a standard operational tasking for an active radar scan using microwave surface imaging over Corteno Golgi, Italia. The goal is cloud-penetrating capture to assess ground geometry.  We need this data tomorrow in the evening.
