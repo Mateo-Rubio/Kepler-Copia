@@ -1,0 +1,1 @@
+Schedule a standard operational tasking for multispectral vegetation analysis over Curití, Colombia. We need a high-resolution VNIR capture to assess chlorophyll absorption levels and calculate the NDVI index. This is part of a routine monitoring workflow update with fixed parameters. Please deliver the data products by the day after tomorrow in the evening.
