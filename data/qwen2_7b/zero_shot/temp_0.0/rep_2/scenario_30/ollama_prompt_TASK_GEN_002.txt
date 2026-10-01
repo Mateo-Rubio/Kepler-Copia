@@ -1,0 +1,7 @@
+Good day, automated satellite constellation planner. I'm reaching out with a task request for an Earth observation mission that requires your immediate attention. Our objective is to capture high-resolution optical imagery of Peroj, Croatia, using a VNIR sensor. This is a low priority importance request, so please treat it as a flexible schedule background survey or testbed tracking task.
+
+The primary goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for the region. We aim to gather this data to understand surface reflectance patterns and provide insights into local vegetation health. The imagery should be of high quality, ensuring clear optical documentation that can help us in our analysis.
+
+We're requesting this data by tomorrow morning at the latest, with a strict delivery deadline set for tomorrow's overnight block. This means we need the products ingested into the pipeline before the day ends to ensure timely processing and analysis. Please note that altering or extending this deadline is not possible, as it directly impacts our operational workflow.
+
+Thank you for your understanding and swift action in fulfilling this request. We appreciate your cooperation in meeting these requirements promptly.

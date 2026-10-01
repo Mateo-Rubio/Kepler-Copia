@@ -1,0 +1,12 @@
+Good day to our satellite constellation planners,
+
+We're reaching out with an urgent operational request, which is a high-importance task for us. Our absolute institutional priority involves capturing a critical payload using our thermal mapping capabilities, specifically focusing on the region of Italia, Argenta. The goal here is to gather detailed thermal data that will help us detect heat signatures and map surface temperatures accurately.
+
+We're looking to conduct this mission allocation with a strict deadline set for the day after tomorrow, with a focus on the overnight period. This means we need the data products ingested into our pipeline before the day after tomorrow's nightfall. We understand the importance of adhering to this deadline as it's crucial for our operational status.
+
+This task is part of a baseline pipeline tracking setup involving fixed parameters that represent our normal operational status. It's a mandatory directive that involves a critical payload capture, which must be executed with an un-preemptable mission lock due to its high importance.
+
+We appreciate your swift attention and cooperation in ensuring this task is completed as per the outlined guidelines. Thank you for your understanding and support in meeting this urgent requirement.
+
+Best regards,
+[Your Name]
