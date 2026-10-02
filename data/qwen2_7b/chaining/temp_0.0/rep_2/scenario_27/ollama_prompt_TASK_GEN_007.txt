@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing San Pablo de Borbur, Colombia, which is a small town nestled in the lush landscapes of this vibrant country. The mission allocation priority is set at Low Importance, indicating that this task is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+Our primary sensor is Near-Infrared (NIR), which will be used to map water body boundaries and assess soil moisture levels. This sensor allows us to discriminate gradients by capturing near-infrared reflection patterns, providing valuable insights into the environmental conditions of the area.
+
+The delivery deadline for this task has been resolved as "today overnight", meaning that the upper limit for data availability is set for tonight. We must adhere to this phrase verbatim in our request, without rephrasing or altering it in any way.
+
+In summary, our mission involves capturing near-infrared reflection patterns over San Pablo de Borbur, Colombia, during the overnight period of today. This task is part of a low priority importance request with a flexible schedule for opportunistic capture, contributing to background survey and testbed tracking tasks.
