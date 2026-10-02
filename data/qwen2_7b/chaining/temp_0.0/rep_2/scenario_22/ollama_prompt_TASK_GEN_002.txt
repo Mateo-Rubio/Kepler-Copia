@@ -1,0 +1,7 @@
+Good morning! I'm reaching out to request a high-resolution optical snapshot of Frabosa Sottana, located in beautiful Italia. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. As part of our baseline pipeline tracking setup, this request involves assessing the region's landscape through clear optical imagery and true-color visual documentation.
+
+The primary sensor to be utilized for this mission is the VIS sensor, which will provide us with detailed daylight photography and high-quality visual data. We aim to capture the essence of Frabosa Sottana during the morning hours, when natural lighting conditions are ideal for our purposes.
+
+Please note that the deadline for this task has already been set by an upstream module: "tomorrow in the morning". This means that we require the data to be available by that time, as per our operational guidelines. We appreciate your understanding and cooperation in meeting this deadline.
+
+Thank you for your attention to this matter. Should there be any questions or adjustments needed, please feel free to reach out. We look forward to receiving the requested data promptly and are grateful for your support in fulfilling this background survey task.
