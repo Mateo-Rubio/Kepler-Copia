@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data from Colombia, specifically the city of Aipe. This location will be described using realistic combinations of country, city, and landmark fields from 'location_details', ensuring smooth integration without raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be utilized is VNIR, which will be explained as part of our mission to assess chlorophyll absorption levels through multispectral vegetation analysis or calculate the vegetation NDVI index and surface reflectance. This request is framed as a standard operational tasking, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task has been resolved by an upstream module: "the day after tomorrow overnight". This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our request is to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation using VNIR technology. This task is part of our routine monitoring activities, essential for maintaining our baseline pipeline tracking setup with normal operational status. The deadline for data availability is set as "the day after tomorrow overnight", ensuring that our request aligns with the established timeline for data delivery.
