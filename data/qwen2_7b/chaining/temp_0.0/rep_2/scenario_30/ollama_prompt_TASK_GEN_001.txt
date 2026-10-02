@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Colombia, specifically the city of Sabana de Torres, which is a critical payload capture under high importance (Priority 3). This mission allocation is an absolute institutional priority, involving a binding contract requirement for a "critical payload capture" that must be executed with urgency and cannot be preempted. The operational status is normal, with fixed parameters representing baseline pipeline tracking.
+
+The primary sensor to be utilized is the VNIR (Visible Near-Infrared), which will provide a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. This task aims to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation of the region.
+
+The delivery deadline is set for four days in the morning, as per the upstream module's resolution. This upper limit for data availability must be adhered to without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, this low priority importance request (Priority 1) is treated as a flexible schedule task, a non-essential background filler, and an opportunistic capture that can be dropped or rescheduled at convenience. It serves as a background survey or testbed tracking task for our satellite constellation planner.
+
+Let's proceed with the execution of this mission, ensuring that all operational guidelines are followed to provide the most accurate and natural request possible.
