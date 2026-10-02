@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for Indonesia, specifically in Bangka Tengah city. The mission allocation priority is set at low importance, indicating a flexible schedule for opportunistic capture as part of a non-essential background filler task.
+
+The primary sensor to be utilized is the Near-Infrared (NIR), which will be employed for near-infrared reflection observations to map water body boundaries and assess soil moisture levels. This task aims to discriminate gradients in the landscape efficiently.
+
+The delivery deadline is today in the evening, serving as the upper limit for data availability. The request does not require rephrasing or shortening of this phrase; it should be inserted verbatim into the final request.
+
+In summary, our mission involves capturing near-infrared reflection data over Bangka Tengah city in Indonesia during the evening hours today. This task is part of a low priority importance request, with a flexible schedule for opportunistic capture as part of a background survey or testbed tracking task.
