@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for today's evening period. The objective is to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment over the region of Colombia, specifically focusing on the city of Pantanillo. This task is of high importance due to its critical payload capture nature, which involves an urgent operational execution and an un-preemptable mission lock. It represents a binding contract requirement with normal operational status and is part of our baseline pipeline tracking setup.
+
+The primary sensor utilized for this mission will be the near-infrared (NIR) sensor, designed to provide detailed information on water body boundaries and soil moisture levels. This sensor's capability to discriminate gradients will enable us to gather essential data for environmental monitoring and management purposes.
+
+Please ensure that the data is available by today in the evening as per our predefined deadline. This request is explicitly framed as a low priority importance task, with a flexible schedule allowing for opportunistic capture. It serves as a background survey or testbed tracking task, acknowledging that it can be dropped or rescheduled at convenience if necessary.
+
+Thank you for your attention to this matter and for ensuring the timely delivery of the requested data.

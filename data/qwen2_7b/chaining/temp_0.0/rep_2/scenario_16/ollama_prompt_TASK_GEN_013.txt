@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing thermal mapping data over the region of Colombia, specifically focusing on the city of Samacá. This mission allocation prioritizes high importance, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor to be utilized is TIR, aimed at capturing thermal mapping data for the purpose of thermal anomaly detection and mapping heat emissions. This task requires a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation, complementing the active radar scan using microwave surface imaging for cloud-penetrating capture.
+
+The delivery deadline is set for three days overnight, as stipulated by an upstream module. This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, this low priority importance request involves capturing thermal mapping data over Colombia's Samacá city using TIR sensors during daylight photography, clear optical imagery, or true-color visual documentation. The mission is to be executed with an urgent operational tone, emphasizing the critical nature of the payload capture and adhering to the deadline set for three days overnight.
