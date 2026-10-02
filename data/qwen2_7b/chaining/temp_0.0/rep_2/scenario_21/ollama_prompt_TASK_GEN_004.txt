@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing a location in Colombia, specifically the city of Útica. This area requires a detailed thermal mapping operation using the TIR sensor, aiming to capture heat signatures and surface temperature profiles for potential thermal anomalies or heat emission mapping.
+
+Given the priority level of 3 (High Importance), this task is an absolute institutional priority, involving a critical payload capture that must be executed with urgency and cannot be preempted. The language should heavily imply an urgent operational execution and an un-preemptable mission lock.
+
+The delivery deadline for this task is "in three days overnight", which means the data availability upper limit is set for the time period between midnight and early morning on the third day from now. This deadline must be inserted verbatim into the request, without any rephrasing or alteration.
+
+In summary, our request is to capture high-resolution thermal imagery of Útica, Colombia, using the TIR sensor, with a priority level indicating an urgent operational execution requirement. The data must be collected overnight on the third day from now, adhering to the specified deadline.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing a high-resolution optical snapshot of a location in Indonesia, specifically near the equator, using a visible light sensor. This imagery will serve as daylight photography, clear optical imagery, or true-color visual documentation for our baseline pipeline tracking setup.
+
+Given the priority level is 1 (low importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator can drop or reschedule the mission at convenience, treating it as a background survey or testbed tracking task.
+
+The delivery deadline is set for four days in the morning, which means we aim to have the data available by then. This upper limit for data availability is directly inserted into our request without rephrasing or altering the time frame.
+
+In summary, our mission allocation priority indicates that this task is part of a standard operational status or workflow update with fixed parameters representing normal operational status. The physical objectives involve capturing high-quality visual data from Indonesia's equatorial region using visible light sensors for routine monitoring purposes.
