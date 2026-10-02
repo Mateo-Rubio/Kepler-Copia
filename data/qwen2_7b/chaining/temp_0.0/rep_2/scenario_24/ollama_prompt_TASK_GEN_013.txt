@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the city of Melgar, located in the country of Colombia. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the urban landscape, essential for detailed analysis and planning purposes.
+
+Given the priority level of 3 (High Importance), this mission allocation is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution and cannot be preempted. The language reflects an authoritative tone, emphasizing the binding contract requirement and the importance of capturing this data promptly.
+
+The primary sensor to be utilized is VNIR (Visible Near-Infrared), which will enable us to conduct multispectral vegetation analysis. This task aims to assess the chlorophyll absorption level and calculate the NDVI index for Melgar's vegetation, providing valuable insights into the health and productivity of local ecosystems.
+
+The delivery deadline is set for "in three days in the morning", as per the resolution by an upstream module. This upper limit for data availability must be strictly adhered to, ensuring timely and accurate information for decision-making processes.
+
+In conclusion, this task request is a standard operational tasking that contributes to our baseline pipeline tracking setup with fixed parameters, representing normal operational status. It is part of our routine monitoring activities, essential for maintaining the health and productivity of ecosystems in Melgar, Colombia.
