@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing the region known as Norte, which lacks specific details about country, city, or landmarks. Instead, we'll describe it using the available information. Our mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture or mandatory directive. This request demands urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor to be utilized is 'TIR', which will be employed for thermal mapping purposes. The goal is to capture a heat signature, surface temperature profile, or perform thermal anomaly detection and map heat emissions. This task requires a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation.
+
+The delivery deadline is set for the day after tomorrow overnight. This phrase must be included verbatim in our request as the upper limit for data availability. We're not to output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task involves observing the region of Norte using thermal mapping capabilities from a 'TIR' sensor. The priority level is high, emphasizing an urgent operational execution and un-preemptable mission lock. The deadline is set for the day after tomorrow overnight, with no rephrasing, shortening, or moving of this phrase to a different part of the day.
+
+Let's proceed with crafting our request accordingly.
