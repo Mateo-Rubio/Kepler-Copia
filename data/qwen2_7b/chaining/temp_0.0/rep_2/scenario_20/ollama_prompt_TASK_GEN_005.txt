@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for a location in Italia, specifically Pavullo nel Frignano. This request carries a medium importance level, indicating it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be utilized is the Near-Infrared (NIR), which will be employed for near-infrared reflection observations to map water body boundaries and assess soil moisture. This data collection aims to provide critical insights into environmental conditions, enabling informed decision-making processes.
+
+The delivery deadline for this task has been set as "in three days around mid-day". This upper limit for data availability must be adhered to without any rephrasing or adjustment of the time frame.
+
+In summary, our request involves capturing high-resolution optical snapshots and near-infrared reflection data for Pavullo nel Frignano in Italia. The mission is part of a baseline pipeline tracking setup with standard operational parameters, emphasizing normal operational status. The deadline for this task is set for three days from now, around mid-day, ensuring timely delivery of the critical payload capture.

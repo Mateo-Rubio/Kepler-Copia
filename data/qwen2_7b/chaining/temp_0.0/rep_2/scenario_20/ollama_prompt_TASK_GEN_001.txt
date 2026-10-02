@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves observing San Carlos de Guaroa, Colombia, with a primary sensor of VNIR for a standard operational tasking.
+
+The mission allocation priority is medium importance, indicating that this request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must reflect an authoritative tone without implying urgency or contractual binding, as the deadline for data availability is "in three days overnight".
+
+Our physical objectives involve multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This task aims to capture surface reflectance patterns that will help us understand the health and distribution of vegetation in the region.
+
+In conclusion, this low priority importance request is treated as a non-essential background filler task with a flexible schedule for opportunistic capture. It's labeled as a background survey or testbed tracking task, allowing for potential rescheduling at convenience without compromising our operational workflow.
+
+Please ensure that the data is delivered by the specified deadline of "in three days overnight" to maintain our standard operational status and contribute to our ongoing monitoring efforts.
