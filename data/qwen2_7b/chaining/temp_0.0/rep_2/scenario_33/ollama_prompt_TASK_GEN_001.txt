@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves observing Colombia, specifically the city of Dolores. The mission allocation priority is set at low importance, indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+The primary sensor to be utilized is an active radar scan using microwave surface imaging, aimed at capturing cloud-penetrating data for the region. This will allow us to pierce through heavy weather conditions or capture ground geometry with precision. The operational goal is to assess the heat signature and surface temperature profile, focusing on thermal anomaly detection and mapping heat emissions.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available in three days during the morning hours. This upper limit for data availability must be strictly adhered to, as it represents the final window for data collection.
+
+In summary, our request involves observing Colombia's Dolores city using a SAR sensor for thermal mapping and cloud-penetrating capture, with a focus on heat signature analysis and surface temperature profiling. The task is scheduled for three days in the morning, emphasizing the importance of adhering to this deadline for optimal data collection.
