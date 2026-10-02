@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for the region of "Italia", specifically focusing on the city of "Grottaferrata". Given the operational guidelines, I'll interpret the metadata organically without using raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for an opportunistic capture. This task is framed as a low priority importance request with a "flexible schedule" for "opportunistic data collection". It's explicitly noted that this operator has the discretion to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will be used for an active radar scan employing microwave surface imaging. This technique is crucial for capturing data during heavy weather conditions, ensuring cloud-penetrating capture and the ability to map ground geometry accurately.
+
+The delivery deadline is set for "tomorrow during the afternoon", as determined by an upstream module. This phrase must be included verbatim in the request, serving as the upper limit for data availability without any rephrasing or shortening.
+
+In summary, our task request involves capturing data using SAR technology over the region of "Grottaferrata" in "Italia". The mission is of low priority importance with a flexible schedule and a deadline set for "tomorrow during the afternoon". This request aligns with our operational guidelines, ensuring naturalness and validation accuracy in the dataset.
