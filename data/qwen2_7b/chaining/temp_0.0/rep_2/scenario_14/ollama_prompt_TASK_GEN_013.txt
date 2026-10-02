@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing the city of Suratá in Colombia. The primary sensor specified is SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, ensuring ground geometry is captured even under heavy weather conditions.
+
+This task carries a low priority importance, as indicated by the 'priority_level' being set to 1. It's framed as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". The request is explicitly noted to be treated as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The delivery deadline for this task has already been resolved by an upstream module. It's set for "in three days around mid-day", which must be inserted verbatim into the request, serving as the stated upper limit for data availability without any rephrasing, shortening, or altering the time of day.
+
+In summary, our mission aims to capture high-resolution optical snapshots using a SAR sensor in Suratá, Colombia, focusing on a low-priority task with a flexible schedule and a deadline set for three days around mid-day. This request encapsulates the operational guidelines provided, ensuring natural language integration while adhering to the structured hierarchy of priority levels and emphasizing the specific operational objectives associated with each sensor type.
