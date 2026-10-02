@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data from Indonesia, specifically the city of Murung Raya. This location will be observed using a Near-Infrared (NIR) sensor, which aims to map water body boundaries and assess soil moisture levels, providing critical insights into environmental conditions.
+
+Given the priority level of 3, this task is an absolute institutional priority, involving a binding contract requirement for a mandatory directive. The language heavily implies urgent operational execution and an un-preemptable mission lock, reflecting the high importance of this request.
+
+The delivery deadline is set for "in three days overnight," which is the upper limit for data availability as determined by an upstream module. This phrase must be inserted verbatim into the request, without rephrasing or altering it in any way.
+
+In summary, our task request involves capturing detailed data from Indonesia's Murung Raya city using a Near-Infrared sensor to map water body boundaries and assess soil moisture levels. This is a high-priority mission with an urgent deadline for "in three days overnight," emphasizing the critical nature of this operational task.
