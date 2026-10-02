@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Indonesia's Malinau region overnight tomorrow using the Near-Infrared (NIR) sensor for a low-priority importance task.
+
+The geographic context is set in Indonesia, with the city of Malinau serving as our target location. We're focusing on capturing data during the overnight period to ensure optimal conditions for our observation. The priority level is set at 1, indicating this request falls under low importance, with a flexible schedule and a non-essential background filler task nature.
+
+The primary sensor, Near-Infrared (NIR), will be used to map water body boundaries and assess soil moisture levels, providing critical information for environmental monitoring and agricultural applications. The deadline for this task is tomorrow overnight, as stipulated by an upstream module, which serves as the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our request involves capturing detailed imagery of Indonesia's Malinau region overnight using the Near-Infrared sensor to map water bodies and assess soil moisture levels. This task is part of a low-priority importance background survey, with the deadline set for tomorrow overnight as per the upstream module's resolution.

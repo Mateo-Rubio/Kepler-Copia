@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Colombia, specifically focusing on Puerto Rico, which is a critical payload capture task with high importance due to its priority level of 3. This mission allocation is an absolute institutional priority or a binding contract requirement involving a mandatory directive for an urgent operational execution and an un-preemptable mission lock.
+
+Our primary sensor is set to the Near-Infrared (NIR) band, which aims to map water body boundaries and assess soil moisture levels for a detailed understanding of environmental conditions. This task requires capturing the heat signature or surface temperature profile through thermal mapping, essential for detecting thermal anomalies and mapping heat emissions.
+
+The delivery deadline is set for "the day after tomorrow in the morning," adhering strictly to this upper limit for data availability without any rephrasing, shortening, or altering the time of day. This request is a standard operational tasking that contributes to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+In conclusion, this low priority importance request is treated as a flexible schedule opportunity for opportunistic capture, labeled as a non-essential background filler task. The operator explicitly notes that this task can be dropped or rescheduled at convenience, considering it as a background survey or testbed tracking task.
+
+Let us proceed with the execution of this mission, ensuring that our automated satellite constellation planner understands the operational nuances and requirements encapsulated in this request.

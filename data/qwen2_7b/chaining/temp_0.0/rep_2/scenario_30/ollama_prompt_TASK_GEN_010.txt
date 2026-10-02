@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing the city of Tuluá in Colombia. The primary sensor specified is Thermal Infrared (TIR), which will be used for thermal mapping to capture heat signatures, surface temperature profiles, or detect thermal anomalies. This task is of low importance, as indicated by priority level 1, and carries a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, with an explicit note to drop or reschedule at convenience.
+
+The delivery deadline is set for "in three days overnight", which means the data must be available by the end of the third day following the submission of this request. This phrase should be inserted verbatim into the request, as it represents the upper limit for data availability.
+
+In summary, our task involves capturing thermal data of Tuluá, Colombia, using a TIR sensor. The deadline is set for three days overnight, and this request is considered a low priority background survey or testbed tracking task with flexible scheduling options.
