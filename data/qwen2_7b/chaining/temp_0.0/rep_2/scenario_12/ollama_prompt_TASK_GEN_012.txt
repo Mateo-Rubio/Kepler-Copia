@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia, specifically Muara Asa city, with the primary sensor being SAR (active radar scan) for microwave surface imaging. This task aims to capture cloud-penetrating imagery that pierces through heavy weather conditions or reveals ground geometry details. The mission allocation priority is set at low importance, indicating a flexible schedule for opportunistic capture as part of a non-essential background filler task.
+
+The delivery deadline is tomorrow around mid-day, with no rephrasing or alteration to this phrase. This upper limit for data availability signifies the urgency and operational status of the task.
+
+In summary, our request is to conduct an active radar scan over Muara Asa, Indonesia, focusing on capturing cloud-penetrating imagery that provides detailed ground geometry information. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. It serves as a testbed tracking task with a flexible schedule for opportunistic capture, emphasizing its low priority importance.

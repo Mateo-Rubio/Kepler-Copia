@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission allocation.
+
+The geographic context involves Malaysia, specifically Kapit city, which is the target location for our observation. We aim to capture a high-resolution optical snapshot of the region using near-infrared (NIR) sensors for daylight photography, clear optical imagery, and vegetation health assessment. The operational priority level is medium importance, indicating this request is part of our standard baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The delivery deadline is today in the evening, which is the upper limit for data availability as determined by an upstream module. This means we need to ensure that our satellite constellation captures the required imagery before the evening falls.
+
+In summary, our mission allocation request involves capturing detailed vegetation health and water body boundaries using near-infrared sensors over Malaysia's Kapit city, with a medium priority level and a strict deadline for today's evening. This task is part of our standard operational tasks and will contribute to our baseline pipeline tracking without compromising the quality or timeliness of our data collection.
