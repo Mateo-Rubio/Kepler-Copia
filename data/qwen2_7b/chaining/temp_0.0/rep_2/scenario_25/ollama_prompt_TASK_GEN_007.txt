@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically focusing on the city of Oiba. Our primary sensor for this mission will be the VNIR (Visible Near-Infrared) sensor, aiming to capture a multispectral vegetation analysis for assessing chlorophyll absorption levels and calculating the NDVI index.
+
+Given the operational guidelines, I'll interpret the metadata organically without using raw technical system tags or coordinate arrays. The request will emphasize the importance of this task as a low priority background filler, with a flexible schedule for opportunistic capture. It's framed as a "non-essential background survey" that can be dropped or rescheduled at convenience.
+
+The deadline for this task is today during the afternoon, which serves as the upper limit for data availability. The language used will not include raw UTC timestamps, digits, or countdown metrics, adhering to the guidelines provided.
+
+In summary, our mission involves capturing a multispectral vegetation analysis using the VNIR sensor in Colombia's Oiba city, with an emphasis on flexibility and opportunistic scheduling due to its low priority importance. The deadline is today during the afternoon, ensuring that we meet the operational requirements while maintaining the naturalness and validation accuracy of the dataset.
