@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing data for France, specifically in Norte, combining the country and city names naturally without using raw technical system tags or coordinate arrays. The mission allocation priority is medium importance, indicating a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor is an active radar scan utilizing microwave surface imaging for cloud-penetrating capture, essential for ground geometry observation under heavy weather conditions. The delivery deadline is set for the day after tomorrow overnight, as stipulated by an upstream module, without rephrasing or altering this phrase.
+
+In summary, our request involves capturing thermal mapping data to identify heat signatures and surface temperature profiles, alongside assessing vegetation health through multispectral analysis and near-infrared reflection for water body boundaries and soil moisture assessment. This task is part of our standard operational pipeline with a medium priority level, ensuring it's executed within the specified timeframe without compromising quality or accuracy.
