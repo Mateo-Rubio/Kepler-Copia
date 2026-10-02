@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context of our mission involves observing Indonesia's Malinau region, which is a critical payload capture under Priority 3 (High Importance). This task is an absolute institutional priority, involving a binding contract requirement for a mandatory directive. The urgency of the operational execution and the un-preemptable mission lock are paramount.
+
+Our primary sensor is set to the Near-Infrared (NIR) band, aiming for near-infrared reflection to map water body boundaries and assess soil moisture levels. This task requires capturing the heat signature and surface temperature profile for thermal anomaly detection and mapping heat emissions.
+
+The delivery deadline is "the day after tomorrow in the evening," which represents the upper limit for data availability without rephrasing or altering the time frame. The request must be treated as a low priority importance task with a flexible schedule, allowing for opportunistic capture as a non-essential background filler task.
+
+In summary, our mission involves capturing high-resolution optical snapshots for daylight photography and clear optical imagery, alongside active radar scans using microwave surface imaging to pierce heavy weather conditions or capture ground geometry. The multispectral vegetation analysis aims to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. The near-infrared reflection will map water body boundaries and provide insights into soil moisture assessment.
+
+This request encapsulates the operational guidelines, integrating the geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline in a conversational English format.

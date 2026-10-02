@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for France, specifically in the city of Petreto-Bicchisano. The mission allocation priority is set at low importance, indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This scan aims to pierce through heavy weather conditions or capture ground geometry with precision. The operational objective is to gather cloud-penetrating data that will provide invaluable insights into the terrain's structure and features.
+
+The delivery deadline for this task has been resolved by an upstream module, with the upper limit for data availability set as "tomorrow overnight". This phrase must be included verbatim in our request, serving as the stated upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our request involves capturing detailed SAR imagery of France's Petreto-Bicchisano region during the overnight period tomorrow. The mission is of low priority importance, allowing for a flexible schedule that can accommodate this task as an opportunistic capture within our background survey or testbed tracking tasks.
