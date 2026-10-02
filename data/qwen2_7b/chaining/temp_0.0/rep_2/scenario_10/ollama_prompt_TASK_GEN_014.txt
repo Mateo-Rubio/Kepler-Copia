@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing data for the region of Italia, specifically focusing on the city of Crespino. This location will provide us with valuable insights into thermal mapping, as our primary sensor is set to TIR (Thermal Infrared). The goal here is to capture a heat signature or surface temperature profile, which will be crucial for thermal anomaly detection and mapping heat emissions.
+
+Given the priority level of 3, this task is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution. It's a binding contract requirement with mandatory directives, emphasizing the importance of this mission lock in our baseline pipeline tracking setup.
+
+The sensors and physical objectives are clear: we aim to assess chlorophyll absorption levels through multispectral vegetation analysis using VNIR (Visible Near-Infrared) technology. This will help us calculate the NDVI index and surface reflectance, providing essential data for environmental monitoring and agricultural applications.
+
+The delivery deadline is set for tomorrow in the evening, as per our upstream module's resolution. We must adhere to this upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, this task request combines the operational guidelines with the provided JSON metadata to create a comprehensive and realistic English request that aligns with our mission objectives, ensuring efficient communication with our satellite constellation planner.
