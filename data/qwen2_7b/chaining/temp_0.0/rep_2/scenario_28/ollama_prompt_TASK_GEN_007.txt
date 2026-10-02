@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically focusing on the city of Cali, using thermal mapping capabilities provided by the TIR sensor.
+
+The mission allocation priority is set at medium importance, indicating that this task is part of our standard operational pipeline tracking with fixed parameters representing normal operational status. We aim to capture a heat signature and surface temperature profile for the region, which will be crucial for thermal anomaly detection and mapping heat emissions. This request is not time-sensitive as it's part of our baseline workflow update.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability upper limit set for tomorrow in the morning. We are not concerned with raw technical details or deadlines but rather focus on delivering accurate and meaningful data that can be used for decision-making processes.
+
+In summary, our request is to capture high-resolution thermal imagery of Cali, Colombia, using the TIR sensor, ensuring we adhere to our standard operational procedures while maintaining flexibility in scheduling. This task is part of our routine monitoring efforts and contributes to our baseline pipeline tracking setup.

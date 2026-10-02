@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing the region of Slovenia, specifically the city of Norte. This location will be captured using a VNIR sensor for multispectral vegetation analysis, aiming to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance.
+
+Given the priority level is 1 (low importance), this request is framed as a "flexible schedule" task, treating it as a "background survey" or "testbed tracking task". The deadline for this task is set for "the day after tomorrow in the morning", which means we're targeting an early morning capture to ensure optimal conditions for our analysis.
+
+In summary, our request is to capture high-resolution optical imagery of the city of Norte in Slovenia using a VNIR sensor. This will be done as part of a low-priority background survey task with a flexible schedule, aiming to assess vegetation health and surface reflectance. The data must be available by "the day after tomorrow in the morning" to meet our operational requirements.

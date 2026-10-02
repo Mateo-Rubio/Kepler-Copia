@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing a thermal mapping of the region named "Cerasuolo", located in the country of "Italia". This location will be observed using a TIR sensor, aiming for a "heat signature" or "surface temperature profile" to detect thermal anomalies and map heat emissions.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". The language used reflects a casual, highly flexible tone, treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline is set for "the day after tomorrow around mid-day", which is the upper limit for data availability. This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task involves capturing thermal data of Cerasuolo, Italia, using a TIR sensor, with a low priority level and a flexible schedule for data collection. The deadline is set for the day after tomorrow around mid-day, ensuring that we adhere to the specified upper limit for data availability.
