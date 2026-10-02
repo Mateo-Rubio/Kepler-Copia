@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing a thermal mapping of the region in Colombia, specifically focusing on the city of Aipe. This task requires an "absolute institutional priority" due to its low importance level, implying an "urgent operational execution" and an "un-preemptable mission lock". The request is framed as a "non-essential background filler task", with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be utilized is the Near-Infrared (NIR), aimed at capturing "near-infrared reflection" for "water body boundary mapping" and "soil moisture assessment". This process involves discriminating gradients through the observation of surface reflectance, providing valuable insights into environmental conditions.
+
+The delivery deadline for this task has been resolved by an upstream module: "the day after tomorrow in the evening". This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability. We do not rephrase, shorten, or move it to a different part of the day.
+
+In conclusion, our request is to capture thermal mapping data of the city of Aipe in Colombia using Near-Infrared sensors, with an urgent operational execution due to its low priority level and flexible schedule for "opportunistic capture". The deadline for this task is set as "the day after tomorrow in the evening", ensuring that we adhere to the established timeline without altering or rephrasing the specified time frame.
