@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically focusing on Paimadó city, using thermal mapping capabilities provided by the TIR sensor.
+
+Given the operational guidelines, I'll interpret the metadata organically without using raw technical system tags or coordinate arrays. The location is described as a part of Colombia, with a focus on Paimadó city, which adds to the realism of the request. The priority level is set at Low Importance, indicating that this task is a flexible schedule "background survey" or "testbed tracking task", with no strict deadlines or contractual requirements.
+
+The primary sensor, TIR, will be used for thermal mapping purposes. This involves capturing a heat signature or surface temperature profile to detect thermal anomalies and map heat emissions accurately. The goal is to provide valuable insights into the region's thermal dynamics without the need for urgent operational execution.
+
+The delivery deadline is set for tomorrow overnight, which means that the data availability upper limit is tomorrow overnight. This phrase must be included verbatim in the request, as it represents the stated time frame for data delivery.
+
+In summary, our task request involves observing Colombia's Paimadó city using thermal mapping capabilities provided by the TIR sensor. The priority level is Low Importance, with a flexible schedule and no strict deadlines. The deadline for data availability is tomorrow overnight, which must be included verbatim in the request.
