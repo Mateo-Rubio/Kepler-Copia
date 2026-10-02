@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data for Correggioli, a location in Italia. Although specific city details are mentioned, they are not relevant for this request, so we'll focus on the country name, Italia, to describe the region.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this task is part of a flexible schedule for opportunistic capture. It's labeled as a "non-essential background filler task" with a "flexible schedule" and treated as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is TIR, which will be employed for thermal mapping purposes. The goal is to capture a "heat signature", "surface temperature profile", or conduct "thermal anomaly detection" and map heat emissions.
+
+The delivery deadline is set for "the day after tomorrow in the evening". This phrase must be included verbatim as the upper limit for data availability, without any rephrasing, shortening, or altering the time of day.
+
+In summary, our request involves capturing thermal data for Correggioli, Italia, using a TIR sensor. The task is considered low priority with a flexible schedule and will be treated as a background survey or testbed tracking task. The deadline for this task is "the day after tomorrow in the evening", emphasizing the importance of adhering to this specific time frame.

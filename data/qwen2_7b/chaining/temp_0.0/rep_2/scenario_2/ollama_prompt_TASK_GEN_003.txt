@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Ecuatorial region, combining the country with a realistic description of the location using available fields from 'location_details'. Since 'city' and 'landmark' are "N/A", we'll describe the area based on the remaining valid fields or directly use 'region_name'.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. This request is framed as a low priority importance task with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar). The operational objective involves conducting an active radar scan using microwave surface imaging, aiming to capture cloud-penetrating data that pierces heavy weather or captures ground geometry.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is specified as "today in the evening", which must be inserted verbatim into our request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please observe Indonesia's Ecuatorial region using a SAR sensor for an active radar scan in the evening today. This task is of low priority importance, with a flexible schedule for opportunistic capture. It serves as a background survey or testbed tracking task, focusing on cloud-penetrating data collection to capture ground geometry. The deadline for this task is today in the evening."
+
+This request integrates the operational guidelines for naturalness and validation accuracy, ensuring that the dataset maximizes the naturalness and validation accuracy of the Earth-observation mission.
