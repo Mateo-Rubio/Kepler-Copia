@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing imagery of Norte, France, which is a region of significant interest for our baseline pipeline tracking setup. The mission allocation priority is set at low importance, indicating that this request is part of our standard operational tasks with fixed parameters representing normal operational status.
+
+Our primary sensor will be an active radar scan using microwave surface imaging, aimed at cloud-penetrating capture to ensure comprehensive data collection even under heavy weather conditions. This task requires a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation to assess the ground geometry accurately.
+
+The delivery deadline is set for four days in the morning, which means we need to ensure that our satellite constellation is ready to capture this data by then. The request is framed as a low priority importance task with a flexible schedule, allowing us to drop or reschedule at convenience if necessary. This is treated as a background survey or testbed tracking task, emphasizing its non-essential nature within our operational workflow.
+
+In summary, our request involves capturing high-resolution SAR imagery of Norte, France, focusing on ground geometry and comprehensive data collection under various weather conditions. The deadline for this task is four days in the morning, adhering to our baseline pipeline tracking setup with fixed parameters representing normal operational status.

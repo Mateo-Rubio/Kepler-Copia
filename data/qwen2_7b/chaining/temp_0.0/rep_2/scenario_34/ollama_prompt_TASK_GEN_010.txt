@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Santa Ana del Táchira, Venezuela, using a visible light sensor. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the region's landscape. The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request demands urgent operational execution and an un-preemptable mission lock, reflecting the high authority and contractual value associated with this task.
+
+The delivery deadline for this task has been resolved by an upstream module: "in three days around mid-day". This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability. We do not rephrase, shorten, or move it to a different part of the day.
+
+In conclusion, our request is to capture Santa Ana del Táchira, Venezuela, using a visible light sensor on the target day, 'in three days', around mid-day. This task is an absolute institutional priority requiring urgent operational execution and an un-preemptable mission lock, with the deadline set for 'in three days around mid-day'.
