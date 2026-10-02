@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data from Indonesia, specifically the city of Mak Teduh. This location will be described using realistic combinations of country, city, and landmark fields from 'location_details', ensuring smooth integration without raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be utilized is TIR, which will be explained as thermal mapping for capturing heat signatures, surface temperature profiles, or conducting thermal anomaly detection and mapping heat emissions. This objective is crucial for understanding heat emissions and temperature variations across the region.
+
+The delivery deadline is set for today during the afternoon, with this phrase inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics will be included.
+
+In summary, our task request involves capturing thermal mapping data from Indonesia's Mak Teduh city using a TIR sensor, emphasizing high-resolution optical snapshots for daylight photography and true-color visual documentation. This is an urgent operational execution under the priority guidelines, with the deadline set for today during the afternoon.
