@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Indonesian region with a focus on Ecuatorial city, utilizing a VNIR sensor for a daylight photography task. This mission allocation has been categorized as low importance, implying that it's a flexible schedule "opportunistic capture" request, treated as a background survey or testbed tracking task.
+
+The primary sensor, VNIR, aims to assess the chlorophyll absorption level and calculate the vegetation NDVI index for surface reflectance analysis. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language used reflects a casual, highly flexible tone, with an explicit note that this request can be dropped or rescheduled at convenience.
+
+The geographic context involves observing Indonesia's Ecuatorial city, which is a realistic combination of the country and city fields from 'location_details'. If any of these fields are "N/A", we would describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to low importance, indicating that this request does not require urgent operational execution. The language heavily implies that it's a non-essential background filler task with an un-preemptable mission lock.
+
+The delivery deadline for this task has already been resolved by an upstream module and is set for "tomorrow overnight". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability. The deadline does not require rephrasing, shortening, or moving to a different part of the day.
+
+In summary, our request involves observing Indonesia's Ecuatorial city using a VNIR sensor for daylight photography tasks with low priority importance and a flexible schedule. The deadline is set for "tomorrow overnight", ensuring that data availability meets the operational requirements without altering the specified time frame.

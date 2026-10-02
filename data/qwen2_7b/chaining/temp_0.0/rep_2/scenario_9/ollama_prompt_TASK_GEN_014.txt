@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Rocca d'Evandro, a charming town in Italia, using the primary VIS sensor. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the region's landscape and urban features. The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. We must emphasize that this request requires urgent operational execution and cannot be preempted, as it represents an un-preemptable mission lock.
+
+The delivery deadline for this task has been resolved by an upstream module: "in three days in the morning". This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability. We do not rephrase or shorten it and ensure it remains within the specified time frame.
+
+In conclusion, our request is to capture a high-resolution optical snapshot of Rocca d'Evandro using the VIS sensor on the designated day and time. This task is of 'High Importance', necessitating an authoritative and explicit tone that reflects its critical nature. The deadline for data availability is set as "in three days in the morning", emphasizing the urgency and importance of this mission.
+
+Let us proceed with the execution of this request, ensuring that our automated satellite constellation planner understands the operational context and requirements clearly.
