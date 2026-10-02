@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for tomorrow's overnight period. The objective is to capture a highly realistic and detailed dataset using the Near-Infrared (NIR) sensor over the region of Indonesia, specifically focusing on the city of Ecuatorial. This request carries a high level of importance due to its critical payload capture nature, which is an absolute institutional priority.
+
+The primary goal involves assessing soil moisture levels through near-infrared reflection, which will aid in mapping water body boundaries and evaluating soil conditions. This task is part of a baseline pipeline tracking setup with fixed parameters that represent normal operational status. It is essential for our ongoing monitoring efforts to ensure the integrity of agricultural practices and environmental health.
+
+Given its high priority level, this mission lock requires urgent operational execution without any preemption. We are treating this as a mandatory directive that involves capturing thermal anomalies and mapping heat emissions through thermal mapping techniques. This will provide invaluable insights into surface temperature profiles and help in identifying areas of interest for further investigation.
+
+Please note that the deadline for this task is tomorrow overnight, which serves as the upper limit for data availability. We understand the importance of adhering to this timeline without any rephrasing or alteration of the phrase "tomorrow overnight."
+
+This request is a low priority importance task with a flexible schedule for opportunistic capture. It can be considered a non-essential background filler task that can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. We appreciate your understanding and cooperation in ensuring this task is executed according to our guidelines and operational priorities.

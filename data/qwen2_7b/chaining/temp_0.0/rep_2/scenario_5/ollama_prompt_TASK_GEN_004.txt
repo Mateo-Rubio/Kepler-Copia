@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Colombia's Cumaral region using the VNIR sensor during the target day of tomorrow afternoon.
+
+The geographic context is set in Colombia, with the city of Cumaral as our focal point. This location is crucial for capturing detailed information about the area's vegetation health through multispectral analysis. The primary sensor, VNIR, will be used to assess chlorophyll absorption levels and calculate the NDVI index, providing insights into surface reflectance.
+
+Given the priority level of 1, this task is framed as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly noted that this operator has the discretion to drop or reschedule the task at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task has been resolved by an upstream module and is set for tomorrow afternoon. The request must be executed within this timeframe without any rephrasing or shortening of the phrase "during the afternoon" to ensure accurate data availability.
+
+In summary, our mission aims to capture essential information about Colombia's Cumaral region using VNIR technology during tomorrow's afternoon period, with a focus on vegetation health assessment and surface reflectance analysis. This task is considered a non-essential background filler task, allowing for flexible scheduling based on operational needs.
