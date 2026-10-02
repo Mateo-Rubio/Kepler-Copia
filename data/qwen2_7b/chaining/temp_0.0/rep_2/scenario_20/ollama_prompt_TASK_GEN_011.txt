@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for tomorrow's overnight period. The objective is to capture a highly realistic thermal mapping of the region named "Sabaudia", located in the beautiful country of Italia. This critical payload capture involves assessing heat signatures and surface temperature profiles across the area, which is essential for thermal anomaly detection and mapping heat emissions.
+
+Given the high importance of this mission allocation, it is framed as an absolute institutional priority, a binding contract requirement involving a mandatory directive. The language heavily implies an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be utilized for this task is the TIR (Thermal Infrared), which will enable us to perform detailed thermal mapping. This active radar scan employs microwave surface imaging capabilities, allowing for cloud-penetrating capture that pierces through heavy weather conditions or captures ground geometry with precision.
+
+This request is part of a standard operational tasking setup, representing normal operational status and a baseline pipeline tracking process. The parameters are fixed, indicating "normal operational status" or a standard "workflow update". However, it's explicitly noted as a low priority importance request, with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, where the operator can drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
+
+Please ensure that the data availability upper limit is tomorrow overnight, as per the deadline already resolved by an upstream module. Do not rephrase or shorten this phrase; instead, insert it verbatim into your request. There's no need to output raw UTC timestamps, digits, or countdown metrics.
+
+Thank you for your attention and cooperation in executing this mission with the utmost care and efficiency.
