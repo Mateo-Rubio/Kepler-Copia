@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves Malaysia, specifically the city of Pantu. We aim to capture a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation using our VNIR sensor. This task is of absolute institutional priority, representing a binding contract requirement involving a critical payload capture with an urgent operational execution and an un-preemptable mission lock.
+
+The delivery deadline is set for tomorrow in the evening, as stipulated by an upstream module. This request is part of a standard operational tasking or commercial tasking setup within our baseline pipeline tracking system, featuring fixed parameters that represent normal operational status or a workflow update.
+
+In conclusion, this low priority importance request is explicitly framed as a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task. The operator notes that this task can be dropped or rescheduled at convenience if necessary. Our mission is to ensure the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to these operational guidelines.
