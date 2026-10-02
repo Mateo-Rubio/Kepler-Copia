@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Atessa, a city in the beautiful country of Italia. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the region's landscape, essential for detailed analysis and monitoring purposes.
+
+Given the priority level of 3, this task is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution. It represents a binding contract requirement with fixed parameters, emphasizing normal operational status and workflow updates within our baseline pipeline tracking setup.
+
+The primary sensor to be utilized is VNIR (Visible Near-Infrared), which will enable us to conduct multispectral vegetation analysis. This process assesses chlorophyll absorption levels and calculates the NDVI index, providing insights into surface reflectance and vegetation health.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for tomorrow during the afternoon. This upper limit for data availability must be strictly adhered to, as it is a pre-determined time frame for data capture and analysis.
+
+In conclusion, our request is for a low priority importance task with a flexible schedule for opportunistic capture. It serves as a non-essential background filler task, treating it as a background survey or testbed tracking task that can be dropped or rescheduled at convenience.
+
+Let's proceed with the execution of this mission, ensuring that we meet all operational guidelines and deliver the requested data by tomorrow afternoon, as per our predefined deadline.

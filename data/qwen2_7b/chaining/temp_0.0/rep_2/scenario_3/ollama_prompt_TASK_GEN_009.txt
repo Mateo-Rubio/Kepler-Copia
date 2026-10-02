@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for an urgent operational execution. The priority level is set at 'High Importance', indicating an absolute institutional priority and a binding contract requirement involving a critical payload capture. This request is to be executed with an authoritative tone, emphasizing the necessity of an "urgent operational execution" and an "un-preemptable mission lock".
+
+The geographic context for this task involves Indonesia, specifically Kapuas Hulu, where our attention is directed towards conducting an active radar scan using microwave surface imaging technology. The goal is to capture cloud-penetrating imagery that will provide invaluable insights into ground geometry, essential for various applications such as urban planning and environmental monitoring.
+
+Given the nature of the task, we are targeting the day after tomorrow overnight period for data collection. This deadline is set as a clear upper limit for data availability, ensuring that our satellite constellation is allocated accordingly without any rephrasing or alteration to the phrase "the day after tomorrow overnight".
+
+The primary sensor involved in this mission is SAR (Synthetic Aperture Radar), which will enable us to perform an active radar scan capable of piercing heavy weather conditions. This technology is crucial for capturing detailed ground geometry, providing a comprehensive view of the landscape that is otherwise obscured by cloud cover or other atmospheric disturbances.
+
+In conclusion, this task request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It is a standard operational tasking that involves routine monitoring and is essential for maintaining our baseline capabilities in satellite data acquisition. The language used reflects a professional, direct, and standard operational tone, emphasizing the importance of this mission within our regular workflow updates.
+
+Please ensure that all necessary preparations are made to meet this deadline and execute the mission with the highest level of accuracy and efficiency. Thank you for your attention to this matter.
