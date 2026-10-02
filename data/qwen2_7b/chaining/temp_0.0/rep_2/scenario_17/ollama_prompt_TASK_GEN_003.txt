@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for tomorrow's overnight delivery deadline.
+
+The geographic context involves capturing data from Indonesia, specifically the city of Berau. We're focusing on the Indonesian archipelago with its diverse landscapes and ecosystems, aiming to gather detailed information about water bodies and soil moisture levels using our Near-Infrared (NIR) sensor. This task is classified as a low priority importance request, allowing for flexible scheduling and treating it as a background survey or testbed tracking task.
+
+The primary sensor, NIR, will be used for near-infrared reflection observations to map water body boundaries and assess soil moisture content. This data collection is part of our ongoing monitoring efforts to understand environmental changes and support agricultural practices in the region.
+
+Given the operational guidelines, we're interpreting the metadata organically without using raw technical system tags or coordinate arrays. We're combining the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 1, indicating a low importance request with a flexible schedule for opportunistic capture. This means that while it's not an absolute institutional priority or a binding contract requirement, it's still part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+In conclusion, our task request involves capturing data from Indonesia's Berau city using our Near-Infrared sensor for water body boundary mapping and soil moisture assessment. This is a low priority importance request with a flexible schedule for tomorrow's overnight delivery deadline, fitting into our standard workflow update as part of our ongoing environmental monitoring efforts.
