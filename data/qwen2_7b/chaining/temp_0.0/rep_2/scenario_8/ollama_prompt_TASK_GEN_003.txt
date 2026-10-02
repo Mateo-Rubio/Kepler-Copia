@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data on Malaysia, specifically in the city of Tatau. This location requires a detailed description that combines country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we will describe the region using the remaining valid fields or 'region_name', which is not provided here.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. This request must be framed as an "absolute institutional priority" or a "binding contract requirement". The language should heavily imply an "urgent operational execution" and an "un-preemptable mission lock", reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be used is "NIR", which aims to map water body boundaries and assess soil moisture. This goal will be explained as capturing "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". The language must emphasize the importance of this task, aligning with the high priority level.
+
+The delivery deadline is set for "tomorrow in the evening", which is the upper limit for data availability. This phrase must be inserted verbatim into the request, as it represents the resolved deadline and should not be rephrased or shortened.
+
+In conclusion, our request to the satellite constellation planner is to capture high-resolution optical snapshots of Malaysia's Tatau region using a "NIR" sensor in the evening of tomorrow. This task is of utmost importance, requiring an urgent operational execution and must be prioritized as an "absolute institutional priority". The data collection aims to map water body boundaries and assess soil moisture, contributing to critical environmental monitoring and management.
+
+Let us proceed with this request, ensuring that all guidelines are followed for naturalness and validation accuracy in the dataset.
